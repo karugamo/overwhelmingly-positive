@@ -6,9 +6,12 @@ import {shuffle} from 'lodash'
 export default function App() {
   return (
     <Main>
-      {shuffle(games).map((game) => (
-        <Game key={game.appId} {...game} />
-      ))}
+      <Headline>overwhelmingly positive on steam</Headline>
+      <Games>
+        {shuffle(games).map((game) => (
+          <Game key={game.appId} {...game} />
+        ))}
+      </Games>
     </Main>
   )
 }
@@ -30,16 +33,24 @@ function Game({appId}) {
 
 const Main = styled.div`
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-direction: column;
   align-items: center;
-  justify-content: center;
+`
 
-  background-color: #202124;
-  color: #242422;
+const Headline = styled.h1`
+  color: #dcdcdc;
   font-size: 30px;
+  font-weight: 600;
 `
 
 const GameLink = styled.a``
 
 const GameContainer = styled.div``
+
+const Games = styled.section`
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+`
