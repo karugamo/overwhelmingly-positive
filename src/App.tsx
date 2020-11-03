@@ -52,6 +52,7 @@ const Headline = styled.h1`
   color: #dcdcdc;
   font-size: 30px;
   font-weight: 600;
+  text-align: center;
 `
 
 const GameLink = styled.a``
