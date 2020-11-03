@@ -1,18 +1,19 @@
 import React from 'react'
 import styled from 'styled-components'
 import games from '../games.json'
+import {shuffle} from 'lodash'
 
 export default function App() {
   return (
     <Main>
-      {games.map((game) => (
+      {shuffle(games).map((game) => (
         <Game key={game.appId} {...game} />
       ))}
     </Main>
   )
 }
 
-function Game({appId, positive, negative, name}) {
+function Game({appId}) {
   return (
     <GameContainer>
       <GameLink
