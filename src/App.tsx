@@ -17,7 +17,7 @@ export default function App() {
   )
 }
 
-function Game({appId}) {
+function Game({appId, name}) {
   return (
     <GameContainer>
       <GameLink
@@ -25,6 +25,9 @@ function Game({appId}) {
         target="_blank"
       >
         <img
+          width="460"
+          height="215"
+          alt={name}
           src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${appId}/header.jpg`}
         />
       </GameLink>
