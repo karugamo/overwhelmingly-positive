@@ -19,7 +19,9 @@ function Game({appId, positive, negative, name}) {
         href={`https://store.steampowered.com/app/${appId}`}
         target="_blank"
       >
-        {name}
+        <img
+          src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${appId}/header.jpg`}
+        />
       </GameLink>
     </GameContainer>
   )
@@ -27,11 +29,12 @@ function Game({appId, positive, negative, name}) {
 
 const Main = styled.div`
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
 
-  background-color: #eeeee4;
+  background-color: #202124;
   color: #242422;
   font-size: 30px;
 `
