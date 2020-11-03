@@ -24,7 +24,7 @@ function Game({appId, name}) {
         href={`https://store.steampowered.com/app/${appId}`}
         target="_blank"
       >
-        <img
+        <Image
           width="460"
           height="215"
           alt={name}
@@ -38,6 +38,14 @@ function Game({appId, name}) {
 function About() {
   return <AboutLink href="http://karugamo.agency/">🦆</AboutLink>
 }
+
+const Image = styled.img`
+  @media (max-width: 460px) {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+`
 
 const AboutLink = styled.a`
   font-size: 50px;
