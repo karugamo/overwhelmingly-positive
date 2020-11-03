@@ -12,6 +12,7 @@ export default function App() {
           <Game key={game.appId} {...game} />
         ))}
       </Games>
+      <About />
     </Main>
   )
 }
@@ -30,6 +31,16 @@ function Game({appId}) {
     </GameContainer>
   )
 }
+
+function About() {
+  return <AboutLink href="http://karugamo.agency/">🦆</AboutLink>
+}
+
+const AboutLink = styled.a`
+  font-size: 50px;
+  text-decoration: none;
+  margin: 50px;
+`
 
 const Main = styled.div`
   display: flex;
