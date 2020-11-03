@@ -1,23 +1,23 @@
 {
-  "name": "react-template",
+  "name": "overwhelmingly-positive",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url '/react-template'"
+    "build": "parcel build index.html --public-url '/overwhelmingly-positive'"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexiproducts/react-template.git"
+    "url": "git+https://github.com/flexiproducts/overwhelmingly-positive.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/flexiproducts/react-template/issues"
+    "url": "https://github.com/flexiproducts/overwhelmingly-positive/issues"
   },
-  "homepage": "https://github.com/flexiproducts/react-template#readme",
+  "homepage": "https://github.com/flexiproducts/overwhelmingly-positive#readme",
   "dependencies": {
     "@types/react": "^16.9.55",
     "@types/react-dom": "^16.9.9",
