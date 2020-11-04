@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "gatsby develop",
+    "serve": "gatsby serve",
     "build": "gatsby build"
   },
   "repository": {
@@ -23,10 +24,12 @@
     "@types/react-dom": "^16.9.9",
     "@types/styled-components": "^5.1.4",
     "axios": "^0.21.0",
+    "babel-plugin-styled-components": "^1.11.1",
     "cheerio": "^1.0.0-rc.3",
     "gatsby": "^2.25.1",
     "gatsby-cli": "^2.12.115",
     "gatsby-plugin-react-helmet": "^3.3.14",
+    "gatsby-plugin-styled-components": "^3.3.14",
     "lodash": "^4.17.20",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
