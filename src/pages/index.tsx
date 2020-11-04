@@ -68,11 +68,16 @@ const Headline = styled.h1`
   font-size: 30px;
   font-weight: 600;
   text-align: center;
+  margin: 10px;
 `
 
 const GameLink = styled.a``
 
-const GameContainer = styled.div``
+const GameContainer = styled.div`
+  @media (min-width: 460px) {
+    height: 215px;
+  }
+`
 
 const Games = styled.section`
   display: flex;
