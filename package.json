@@ -24,9 +24,13 @@
     "@types/styled-components": "^5.1.4",
     "axios": "^0.21.0",
     "cheerio": "^1.0.0-rc.3",
+    "gatsby": "^2.25.1",
+    "gatsby-cli": "^2.12.115",
+    "gatsby-plugin-react-helmet": "^3.3.14",
     "lodash": "^4.17.20",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
