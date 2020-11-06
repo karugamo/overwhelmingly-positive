@@ -34,6 +34,13 @@ export default function GameThumbnail({game, onOpenGame}) {
           <Tag key={description}>{description}</Tag>
         ))}
       </Categories>
+      <Genres showTags={showTags}>
+        {(game.genres || []).map(({description}) => (
+          <Tag inverted key={description}>
+            {description}
+          </Tag>
+        ))}
+      </Genres>
     </GameContainer>
   )
 }
@@ -46,27 +53,39 @@ const Image = styled.img`
   }
 `
 
-type CategoriesProps = {
+type TagsProps = {
   showTags?: boolean
 }
 
-const Categories = styled.div<CategoriesProps>`
+const Tags = styled.div<TagsProps>`
   justify-content: center;
   align-items: center;
   position: absolute;
-  right: 8px;
-  bottom: 8px;
   display: ${({showTags}) => (showTags ? 'flex' : 'none')};
 `
 
-const Tag = styled.div`
+const Genres = styled(Tags)`
+  right: 8px;
+  bottom: 8px;
+`
+
+const Categories = styled(Tags)`
+  left: 8px;
+  top: 8px;
+`
+
+type TagProps = {
+  inverted?: boolean
+}
+
+const Tag = styled.div<TagProps>`
   border-radius: 25px;
   text-align: center;
   padding: 4px 10px;
   margin-left: 4px;
-  background: #444;
-  border: 2px solid #333;
-  color: #ddd;
+  background: ${({inverted}) => (inverted ? '#ddd' : '#444')};
+  border: 2px solid ${({inverted}) => (inverted ? '#ccc' : '#333')};
+  color: ${({inverted}) => (inverted ? '#333' : '#ddd')};
   font-weight: 500;
 `
 
