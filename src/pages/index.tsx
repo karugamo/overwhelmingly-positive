@@ -1,40 +1,40 @@
-import React from 'react'
+import React, {useState} from 'react'
 import styled from 'styled-components'
 import games from '../../games.json'
-import {shuffle} from 'lodash'
 import Head from '../components/Head'
+import GameModal from '../components/GameModal'
 
 import '../styles/main.css'
 
 export default function App() {
+  const [openGame, setOpenGame] = useState<string>()
+
   return (
     <Main>
       <Head />
       <Headline>overwhelmingly positive on steam</Headline>
       <Games>
-        {shuffle(games).map((game) => (
-          <Game key={game.appId} {...game} />
+        {games.map((game) => (
+          <Game key={game.appId} game={game} onOpenGame={setOpenGame} />
         ))}
       </Games>
+      {openGame && (
+        <GameModal game={openGame} onClose={() => setOpenGame(undefined)} />
+      )}
       <About />
     </Main>
   )
 }
 
-function Game({appId, name}) {
+function Game({game, onOpenGame}) {
   return (
-    <GameContainer>
-      <GameLink
-        href={`https://store.steampowered.com/app/${appId}`}
-        target="_blank"
-      >
-        <Image
-          width="460"
-          height="215"
-          alt={name}
-          src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${appId}/header.jpg`}
-        />
-      </GameLink>
+    <GameContainer onClick={() => onOpenGame(game)}>
+      <Image
+        width="460"
+        height="215"
+        alt={game.name}
+        src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${game.appId}/header.jpg`}
+      />
     </GameContainer>
   )
 }
@@ -71,9 +71,9 @@ const Headline = styled.h1`
   margin: 10px;
 `
 
-const GameLink = styled.a``
-
 const GameContainer = styled.div`
+  cursor: pointer;
+
   @media (min-width: 460px) {
     height: 215px;
   }
