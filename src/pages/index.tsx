@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import games from '../../games.json'
 import Head from '../components/Head'
 import GameModal from '../components/GameModal'
+import GameThumbnail from '../components/GameThumbnail'
 
 import '../styles/main.css'
 
@@ -15,7 +16,11 @@ export default function App() {
       <Headline>overwhelmingly positive on steam</Headline>
       <Games>
         {games.map((game) => (
-          <Game key={game.appId} game={game} onOpenGame={setOpenGame} />
+          <GameThumbnail
+            key={game.appId}
+            game={game}
+            onOpenGame={setOpenGame}
+          />
         ))}
       </Games>
       {openGame && (
@@ -26,30 +31,9 @@ export default function App() {
   )
 }
 
-function Game({game, onOpenGame}) {
-  return (
-    <GameContainer onClick={() => onOpenGame(game)}>
-      <Image
-        width="460"
-        height="215"
-        alt={game.name}
-        src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${game.appId}/header.jpg`}
-      />
-    </GameContainer>
-  )
-}
-
 function About() {
   return <AboutLink href="http://karugamo.agency/">🦆</AboutLink>
 }
-
-const Image = styled.img`
-  @media (max-width: 460px) {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-`
 
 const AboutLink = styled.a`
   font-size: 50px;
@@ -69,14 +53,6 @@ const Headline = styled.h1`
   font-weight: 600;
   text-align: center;
   margin: 10px;
-`
-
-const GameContainer = styled.div`
-  cursor: pointer;
-
-  @media (min-width: 460px) {
-    height: 215px;
-  }
 `
 
 const Games = styled.section`

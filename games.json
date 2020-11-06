@@ -27932,7 +27932,11 @@
   },
   "appId": "55230",
   "positive": 54867,
-  "negative": 2297
+  "negative": 2297,
+  "video": {
+   "id": "vX2Gn5d5kMc",
+   "lastUpdated": "2020-11-06T19:39:08.948Z"
+  }
  },
  {
   "type": "game",
