@@ -27,6 +27,7 @@
     "axios": "^0.21.0",
     "babel-plugin-styled-components": "^1.11.1",
     "cheerio": "^1.0.0-rc.3",
+    "dayjs": "^1.9.5",
     "delay": "^4.4.0",
     "envalid": "^6.0.2",
     "gatsby": "^2.25.1",

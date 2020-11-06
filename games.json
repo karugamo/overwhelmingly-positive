@@ -548,7 +548,11 @@
   },
   "appId": "620",
   "positive": 213699,
-  "negative": 2667
+  "negative": 2667,
+  "video": {
+   "id": "XeVmSEvhzQU",
+   "lastUpdated": "2020-11-06T17:54:32.123Z"
+  }
  },
  {
   "type": "game",
@@ -937,7 +941,11 @@
   },
   "appId": "427520",
   "positive": 92523,
-  "negative": 1116
+  "negative": 1116,
+  "video": {
+   "id": "bPRfTKiMbEI",
+   "lastUpdated": "2020-11-06T17:54:32.654Z"
+  }
  },
  {
   "type": "game",
@@ -1259,7 +1267,11 @@
   },
   "appId": "292030",
   "positive": 419910,
-  "negative": 8314
+  "negative": 8314,
+  "video": {
+   "id": "xx8kQ4s5hCY",
+   "lastUpdated": "2020-11-06T17:59:52.915Z"
+  }
  },
  {
   "type": "game",
@@ -1637,7 +1649,11 @@
   },
   "appId": "105600",
   "positive": 598466,
-  "negative": 13191
+  "negative": 13191,
+  "video": {
+   "id": "31v2DpFQdzU",
+   "lastUpdated": "2020-11-06T17:59:53.474Z"
+  }
  },
  {
   "type": "game",
@@ -1944,7 +1960,11 @@
   },
   "appId": "294100",
   "positive": 85469,
-  "negative": 1488
+  "negative": 1488,
+  "video": {
+   "id": "X0nPuCqZ2RM",
+   "lastUpdated": "2020-11-06T17:59:53.988Z"
+  }
  },
  {
   "type": "game",
@@ -2234,7 +2254,11 @@
   },
   "appId": "1145360",
   "positive": 51746,
-  "negative": 769
+  "negative": 769,
+  "video": {
+   "id": "NDMXQo_LalQ",
+   "lastUpdated": "2020-11-06T17:59:54.605Z"
+  }
  },
  {
   "type": "game",
@@ -2497,7 +2521,11 @@
   },
   "appId": "250900",
   "positive": 114087,
-  "negative": 2204
+  "negative": 2204,
+  "video": {
+   "id": "uV-w-Zf-mc8",
+   "lastUpdated": "2020-11-06T17:59:55.120Z"
+  }
  },
  {
   "type": "game",
@@ -2766,7 +2794,11 @@
   },
   "appId": "400",
   "positive": 76409,
-  "negative": 1356
+  "negative": 1356,
+  "video": {
+   "id": "wA82CD9YFG0",
+   "lastUpdated": "2020-11-06T17:59:55.704Z"
+  }
  },
  {
   "type": "game",
@@ -3064,7 +3096,11 @@
   },
   "appId": "413150",
   "positive": 270559,
-  "negative": 6449
+  "negative": 6449,
+  "video": {
+   "id": "KKGhsUJd1RE",
+   "lastUpdated": "2020-11-06T17:59:56.275Z"
+  }
  },
  {
   "type": "game",
@@ -3386,7 +3422,11 @@
   },
   "appId": "546560",
   "positive": 40499,
-  "negative": 589
+  "negative": 589,
+  "video": {
+   "id": "WnzjqoSA8dk",
+   "lastUpdated": "2020-11-06T17:59:56.739Z"
+  }
  },
  {
   "type": "game",
@@ -3973,7 +4013,11 @@
   },
   "appId": "227300",
   "positive": 344652,
-  "negative": 9096
+  "negative": 9096,
+  "video": {
+   "id": "82oVwecDqbE",
+   "lastUpdated": "2020-11-06T17:59:57.259Z"
+  }
  },
  {
   "type": "game",
@@ -4204,7 +4248,11 @@
   },
   "appId": "48700",
   "positive": 116363,
-  "negative": 2768
+  "negative": 2768,
+  "video": {
+   "id": "w1G8cxgUNS0",
+   "lastUpdated": "2020-11-06T17:59:57.763Z"
+  }
  },
  {
   "type": "game",
@@ -4448,7 +4496,11 @@
   },
   "appId": "646570",
   "positive": 78547,
-  "negative": 1731
+  "negative": 1731,
+  "video": {
+   "id": "BoBh0nsRRHA",
+   "lastUpdated": "2020-11-06T17:59:58.414Z"
+  }
  },
  {
   "type": "game",
@@ -4790,7 +4842,11 @@
   },
   "appId": "550",
   "positive": 407744,
-  "negative": 11986
+  "negative": 11986,
+  "video": {
+   "id": "-7pYKsf-V5A",
+   "lastUpdated": "2020-11-06T17:59:59.042Z"
+  }
  },
  {
   "type": "game",
@@ -4978,7 +5034,11 @@
   },
   "appId": "10",
   "positive": 163518,
-  "negative": 4266
+  "negative": 4266,
+  "video": {
+   "id": "bTDJQYV5Q58",
+   "lastUpdated": "2020-11-06T17:59:59.631Z"
+  }
  },
  {
   "type": "game",
@@ -5215,7 +5275,11 @@
   },
   "appId": "1089980",
   "positive": 12642,
-  "negative": 126
+  "negative": 126,
+  "video": {
+   "id": "1mJ0Gyr3aK4",
+   "lastUpdated": "2020-11-06T18:00:00.322Z"
+  }
  },
  {
   "type": "game",
@@ -5503,7 +5567,11 @@
   },
   "appId": "460950",
   "positive": 27804,
-  "negative": 468
+  "negative": 468,
+  "video": {
+   "id": "xg6BBwf-pJs",
+   "lastUpdated": "2020-11-06T18:00:00.947Z"
+  }
  },
  {
   "type": "game",
@@ -5670,7 +5738,11 @@
   },
   "appId": "1289310",
   "positive": 59135,
-  "negative": 1328
+  "negative": 1328,
+  "video": {
+   "id": "lMo8j_wFIu0",
+   "lastUpdated": "2020-11-06T18:00:01.443Z"
+  }
  },
  {
   "type": "game",
@@ -6043,7 +6115,11 @@
   },
   "appId": "253230",
   "positive": 32367,
-  "negative": 609
+  "negative": 609,
+  "video": {
+   "id": "4J2TMvNhmNk",
+   "lastUpdated": "2020-11-06T18:00:02.003Z"
+  }
  },
  {
   "type": "game",
@@ -6287,7 +6363,11 @@
   },
   "appId": "1118200",
   "positive": 15451,
-  "negative": 217
+  "negative": 217,
+  "video": {
+   "id": "e7YsyOw6Z58",
+   "lastUpdated": "2020-11-06T18:01:03.284Z"
+  }
  },
  {
   "type": "game",
@@ -6468,7 +6548,11 @@
   },
   "appId": "508440",
   "positive": 40852,
-  "negative": 943
+  "negative": 943,
+  "video": {
+   "id": "jP9vYpTUOq8",
+   "lastUpdated": "2020-11-06T18:01:03.944Z"
+  }
  },
  {
   "type": "game",
@@ -6757,7 +6841,11 @@
   },
   "appId": "220",
   "positive": 106691,
-  "negative": 3067
+  "negative": 3067,
+  "video": {
+   "id": "vlhL7bAv_UE",
+   "lastUpdated": "2020-11-06T18:01:04.423Z"
+  }
  },
  {
   "type": "game",
@@ -7031,7 +7119,11 @@
   },
   "appId": "883710",
   "positive": 75902,
-  "negative": 2126
+  "negative": 2126,
+  "video": {
+   "id": "mLDPx1_S5so",
+   "lastUpdated": "2020-11-06T18:01:05.072Z"
+  }
  },
  {
   "type": "game",
@@ -7304,7 +7396,11 @@
   },
   "appId": "644560",
   "positive": 54442,
-  "negative": 1454
+  "negative": 1454,
+  "video": {
+   "id": "RK01P2oh0Vg",
+   "lastUpdated": "2020-11-06T18:01:05.559Z"
+  }
  },
  {
   "type": "game",
@@ -7526,7 +7622,11 @@
   },
   "appId": "213670",
   "positive": 42629,
-  "negative": 1080
+  "negative": 1080,
+  "video": {
+   "id": "rCbF3PDXGEI",
+   "lastUpdated": "2020-11-06T18:01:06.191Z"
+  }
  },
  {
   "type": "game",
@@ -7829,7 +7929,11 @@
   },
   "appId": "4000",
   "positive": 598228,
-  "negative": 22069
+  "negative": 22069,
+  "video": {
+   "id": "N9N63OhRPjU",
+   "lastUpdated": "2020-11-06T18:01:06.895Z"
+  }
  },
  {
   "type": "game",
@@ -8056,7 +8160,11 @@
   },
   "appId": "219150",
   "positive": 56038,
-  "negative": 1525
+  "negative": 1525,
+  "video": {
+   "id": "2n_BinoS1Ug",
+   "lastUpdated": "2020-11-06T18:01:07.503Z"
+  }
  },
  {
   "type": "game",
@@ -8333,7 +8441,11 @@
   },
   "appId": "504230",
   "positive": 25312,
-  "negative": 567
+  "negative": 567,
+  "video": {
+   "id": "xAUun0qKlo4",
+   "lastUpdated": "2020-11-06T18:01:08.074Z"
+  }
  },
  {
   "type": "game",
@@ -8713,7 +8825,11 @@
   },
   "appId": "238460",
   "positive": 56200,
-  "negative": 1567
+  "negative": 1567,
+  "video": {
+   "id": "JlnDGrzG74Y",
+   "lastUpdated": "2020-11-06T18:01:08.618Z"
+  }
  },
  {
   "type": "game",
@@ -8838,7 +8954,11 @@
   },
   "appId": "698780",
   "positive": 138837,
-  "negative": 4529
+  "negative": 4529,
+  "video": {
+   "id": "msc1n57t-L8",
+   "lastUpdated": "2020-11-06T18:01:09.214Z"
+  }
  },
  {
   "type": "game",
@@ -9107,7 +9227,11 @@
   },
   "appId": "420530",
   "positive": 17348,
-  "negative": 343
+  "negative": 343,
+  "video": {
+   "id": "5d3FtraJULU",
+   "lastUpdated": "2020-11-06T18:01:09.800Z"
+  }
  },
  {
   "type": "game",
@@ -9388,7 +9512,11 @@
   },
   "appId": "264200",
   "positive": 15191,
-  "negative": 284
+  "negative": 284,
+  "video": {
+   "id": "UKp3eqBPXEo",
+   "lastUpdated": "2020-11-06T18:01:10.361Z"
+  }
  },
  {
   "type": "game",
@@ -9620,7 +9748,11 @@
   },
   "appId": "205100",
   "positive": 52768,
-  "negative": 1473
+  "negative": 1473,
+  "video": {
+   "id": "XnMcK-1dclE",
+   "lastUpdated": "2020-11-06T18:01:10.917Z"
+  }
  },
  {
   "type": "game",
@@ -10016,7 +10148,11 @@
   },
   "appId": "433340",
   "positive": 50056,
-  "negative": 1384
+  "negative": 1384,
+  "video": {
+   "id": "Vwb0r5qF728",
+   "lastUpdated": "2020-11-06T18:01:11.505Z"
+  }
  },
  {
   "type": "game",
@@ -10235,7 +10371,11 @@
   },
   "appId": "739630",
   "positive": 86651,
-  "negative": 2706
+  "negative": 2706,
+  "video": {
+   "id": "ZXQe5D1APQE",
+   "lastUpdated": "2020-11-06T18:01:11.973Z"
+  }
  },
  {
   "type": "game",
@@ -10430,7 +10570,11 @@
   },
   "appId": "424280",
   "positive": 15567,
-  "negative": 316
+  "negative": 316,
+  "video": {
+   "id": "yXfzPpuwQ4g",
+   "lastUpdated": "2020-11-06T18:01:12.480Z"
+  }
  },
  {
   "type": "game",
@@ -10679,7 +10823,11 @@
   },
   "appId": "447530",
   "positive": 21773,
-  "negative": 506
+  "negative": 506,
+  "video": {
+   "id": "6XTZ_UJ-dQ4",
+   "lastUpdated": "2020-11-06T18:01:13.114Z"
+  }
  },
  {
   "type": "game",
@@ -10888,7 +11036,11 @@
   },
   "appId": "1055540",
   "positive": 5066,
-  "negative": 44
+  "negative": 44,
+  "video": {
+   "id": "p6UDqtlmJpk",
+   "lastUpdated": "2020-11-06T18:01:13.659Z"
+  }
  },
  {
   "type": "game",
@@ -11244,7 +11396,11 @@
   },
   "appId": "250320",
   "positive": 23787,
-  "negative": 572
+  "negative": 572,
+  "video": {
+   "id": "RTRDbQjaiWA",
+   "lastUpdated": "2020-11-06T18:01:14.182Z"
+  }
  },
  {
   "type": "game",
@@ -11483,7 +11639,11 @@
   },
   "appId": "736260",
   "positive": 10635,
-  "negative": 185
+  "negative": 185,
+  "video": {
+   "id": "SshgrQdt9lY",
+   "lastUpdated": "2020-11-06T18:01:14.632Z"
+  }
  },
  {
   "type": "game",

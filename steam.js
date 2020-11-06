@@ -1,13 +1,7 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
 const fs = require('fs')
-const {YOUTUBE_KEY, UPDATE_YOUTUBE, UPDATE_DETAILS} = require('./env')
 const delay = require('delay')
-
-const shouldUpdate = {
-  youtube: UPDATE_YOUTUBE,
-  details: UPDATE_DETAILS
-}
 
 async function main() {
   let games = []
@@ -18,46 +12,31 @@ async function main() {
     console.log('Retrieval of top rated games from steamdb.info failed', e)
   }
 
-  if (shouldUpdate.youtube) {
-    try {
-      games = await Promise.all(
-        games.map(async ({name}) => ({
-          ...games,
-          videoId: await getYouTubeVideoId(`"${name} gameplay"`)
-        }))
-      )
-    } catch (e) {
-      console.log('YouTube video retrieval failed', e)
+  const gamesWithDetails = []
+
+  for (const game of games) {
+    await delay(300)
+    const {appId} = game
+    const result = await axios
+      .get(`http://store.steampowered.com/api/appdetails?appids=${appId}`)
+      .catch((e) => console.log('Steam app details retrieval failed', e))
+
+    const app = result?.data?.[`${appId}`]
+
+    const gameData = app?.data
+
+    if (app?.success) {
+      console.log('Fetched', appId, gameData.name)
+      gamesWithDetails.push({
+        ...gameData,
+        ...game
+      })
+    } else {
+      console.log('Failed', appId, game.name)
     }
   }
 
-  if (shouldUpdate.details) {
-    const gamesWithDetails = []
-
-    for (const game of games) {
-      await delay(300)
-      const {appId} = game
-      const result = await axios
-        .get(`http://store.steampowered.com/api/appdetails?appids=${appId}`)
-        .catch((e) => console.log('Steam app details retrieval failed', e))
-
-      const app = result?.data?.[`${appId}`]
-
-      const gameData = app?.data
-
-      if (app?.success) {
-        console.log('Fetched', appId, gameData.name)
-        gamesWithDetails.push({
-          ...gameData,
-          ...game
-        })
-      } else {
-        console.log('Failed', appId, game.name)
-      }
-    }
-
-    games = gamesWithDetails
-  }
+  games = gamesWithDetails
 
   const json = JSON.stringify(games, null, ' ')
   fs.writeFileSync('games.json', json)
@@ -108,14 +87,4 @@ async function getTopRatedGames() {
   })
 
   return games
-}
-
-async function getYouTubeVideoId(query) {
-  const encodedQuery = encodeURIComponent(query)
-
-  const result = await axios.get(
-    `https://www.googleapis.com/youtube/v3/search?maxResults=1&q=${encodedQuery}&type=video&key=${YOUTUBE_KEY}`
-  )
-
-  return result?.data?.items?.[0]?.id
 }
