@@ -19,7 +19,7 @@ export default function GameModal({game, onClose}: GameModalProps) {
 function YoutubeWidget({videoId}) {
   return (
     <StyledYoutubeWidget
-      src={`https://www.youtube.com/embed/${videoId}`}
+      src={`https://www.youtube.com/embed/${videoId}?start=120&autoplay=1&mute=1`}
       frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowFullScreen
