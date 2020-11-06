@@ -22,6 +22,10 @@ const SteamWidget = styled.iframe`
   width: 920px;
   height: 200px;
   border: 0;
+
+  @media (max-width: 920px) {
+    width: 100%;
+  }
 `
 
 function ReactModalWrapper({className, modalClassName, ...props}) {
@@ -46,7 +50,12 @@ const Modal = styled(ReactModalWrapper).attrs({
     outline: none;
     width: 920px;
     overflow-y: auto;
+
+    @media (max-width: 920px) {
+      width: 100%;
+    }
   }
+
   .Overlay {
     display: flex;
     align-items: center;
