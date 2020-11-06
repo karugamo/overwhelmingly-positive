@@ -1,9 +1,12 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
 const fs = require('fs')
-const {YOUTUBE_KEY} = require('./env')
+const {YOUTUBE_KEY, UPDATE_YOUTUBE, UPDATE_DETAILS} = require('./env')
 
-console.log(YOUTUBE_KEY)
+const shouldUpdate = {
+  youtube: UPDATE_YOUTUBE,
+  details: UPDATE_DETAILS
+}
 
 async function main() {
   let games = []
@@ -14,15 +17,44 @@ async function main() {
     console.log('Retrieval of top rated games from steamdb.info failed', e)
   }
 
-  try {
-    games = await Promise.all(
-      games.map(async ({name}) => ({
-        ...games,
-        videoId: await getYouTubeVideoId(`"${name} gameplay"`)
-      }))
-    )
-  } catch (e) {
-    console.log('YouTube video retrieval failed', e)
+  if (shouldUpdate.youtube) {
+    try {
+      games = await Promise.all(
+        games.map(async ({name}) => ({
+          ...games,
+          videoId: await getYouTubeVideoId(`"${name} gameplay"`)
+        }))
+      )
+    } catch (e) {
+      console.log('YouTube video retrieval failed', e)
+    }
+  }
+
+  if (shouldUpdate.details) {
+    games = games.map((game) => {
+      let result = game
+      try {
+        setTimeout(async () => {
+          const {appId} = game
+          const {data} = await axios.get(
+            `http://store.steampowered.com/api/appdetails?appids=${appId}`
+          )
+
+          console.log(appId, data?.[`${appId}`]?.data)
+
+          if (data?.[`${appId}`]?.success) {
+            result = {
+              ...data?.[`${appId}`]?.data,
+              ...game
+            }
+          }
+        }, 500)
+
+        return result
+      } catch (e) {
+        console.log('Steam app details retrieval failed', e)
+      }
+    })
   }
 
   const json = JSON.stringify(games, null, ' ')
