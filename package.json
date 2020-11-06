@@ -6,7 +6,8 @@
   "scripts": {
     "start": "gatsby develop",
     "serve": "gatsby serve",
-    "build": "gatsby build"
+    "build": "gatsby build",
+    "dev": "gatsby develop"
   },
   "repository": {
     "type": "git",
