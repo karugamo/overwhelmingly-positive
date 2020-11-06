@@ -10,21 +10,50 @@ type GameModalProps = {
 export default function GameModal({game, onClose}: GameModalProps) {
   return (
     <Modal onRequestClose={onClose}>
-      <SteamWidget
-        title="Steam store widget"
-        src={`https://store.steampowered.com/widget/${game.appId}/`}
-      ></SteamWidget>
+      {game.video && <YoutubeWidget videoId={game.video.id} />}
+      <SteamWidget appId={game.appId} />
     </Modal>
   )
 }
 
-const SteamWidget = styled.iframe`
+function YoutubeWidget({videoId}) {
+  return (
+    <StyledYoutubeWidget
+      src={`https://www.youtube.com/embed/${videoId}`}
+      frameBorder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowFullScreen
+    ></StyledYoutubeWidget>
+  )
+}
+
+function SteamWidget({appId}) {
+  return (
+    <StyledSteamWidget
+      title="Steam store widget"
+      src={`https://store.steampowered.com/widget/${appId}/`}
+    ></StyledSteamWidget>
+  )
+}
+
+const StyledSteamWidget = styled.iframe`
   width: 920px;
   height: 200px;
   border: 0;
 
   @media (max-width: 920px) {
     width: 100%;
+  }
+`
+
+const StyledYoutubeWidget = styled.iframe`
+  width: 920px;
+  height: 518px;
+  border: 0;
+
+  @media (max-width: 920px) {
+    width: 100%;
+    height: 56.25%;
   }
 `
 
