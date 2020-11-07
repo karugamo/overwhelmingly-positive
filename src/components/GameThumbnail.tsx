@@ -28,6 +28,7 @@ export default function GameThumbnail({game, onOpenGame}) {
       onMouseLeave={() => setHoveredOver(false)}
     >
       <Image
+        loading="lazy"
         width="460"
         height="215"
         alt={game.name}
