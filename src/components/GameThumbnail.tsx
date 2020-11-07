@@ -5,7 +5,11 @@ import styled from 'styled-components'
 const relevantCategories = [
   {id: 2, description: 'Single-player'},
   {id: 1, description: 'Multi-player'},
-  {id: 9, description: 'Co-op'}
+  {id: 9, description: 'Co-op'},
+  {
+    id: 31,
+    description: 'VR Support'
+  }
 ]
 
 export default function GameThumbnail({game, onOpenGame}) {
