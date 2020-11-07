@@ -1,28 +1,25 @@
-import React, {useState} from 'react'
-import {intersectionBy} from 'lodash'
-import styled from 'styled-components'
+import React, { useState } from "react";
+import { intersectionBy } from "lodash";
+import styled from "styled-components";
 
 const relevantCategories = [
-  {id: 2, description: 'Single-player'},
-  {id: 1, description: 'Multi-player'},
-  {id: 9, description: 'Co-op'},
+  { id: 2, description: "Single-player" },
+  { id: 1, description: "Multi-player" },
+  { id: 9, description: "Co-op" },
   {
     id: 31,
-    description: 'VR Support'
-  }
-]
+    description: "VR Support",
+  },
+];
 
-export default function GameThumbnail({game, onOpenGame}) {
-  const [hoveredOver, setHoveredOver] = useState(false)
-  const [loaded, setLoaded] = useState(false)
-
-  const showTags = loaded && hoveredOver
+export default function GameThumbnail({ game, onOpenGame }) {
+  const [hoveredOver, setHoveredOver] = useState(false);
 
   const categories = intersectionBy(
     relevantCategories,
     game.categories,
-    ({id}) => id
-  )
+    ({ id }) => id
+  );
 
   return (
     <GameContainer
@@ -35,22 +32,21 @@ export default function GameThumbnail({game, onOpenGame}) {
         height="215"
         alt={game.name}
         src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${game.appId}/header.jpg`}
-        onLoad={() => setLoaded(true)}
       />
-      <Categories showTags={showTags}>
-        {categories.map(({description}) => (
+      <Categories showTags={hoveredOver}>
+        {categories.map(({ description }) => (
           <Tag key={description}>{description}</Tag>
         ))}
       </Categories>
-      <Genres showTags={showTags}>
-        {(game.genres || []).map(({description}) => (
+      <Genres showTags={hoveredOver}>
+        {(game.genres || []).map(({ description }) => (
           <Tag inverted key={description}>
             {description}
           </Tag>
         ))}
       </Genres>
     </GameContainer>
-  )
+  );
 }
 
 const Image = styled.img`
@@ -59,43 +55,43 @@ const Image = styled.img`
     width: 100%;
     height: auto;
   }
-`
+`;
 
 type TagsProps = {
-  showTags?: boolean
-}
+  showTags?: boolean;
+};
 
 const Tags = styled.div<TagsProps>`
   justify-content: center;
   align-items: center;
   position: absolute;
-  display: ${({showTags}) => (showTags ? 'flex' : 'none')};
-`
+  display: ${({ showTags }) => (showTags ? "flex" : "none")};
+`;
 
 const Genres = styled(Tags)`
   right: 8px;
   bottom: 8px;
-`
+`;
 
 const Categories = styled(Tags)`
   left: 8px;
   top: 8px;
-`
+`;
 
 type TagProps = {
-  inverted?: boolean
-}
+  inverted?: boolean;
+};
 
 const Tag = styled.div<TagProps>`
   border-radius: 25px;
   text-align: center;
   padding: 4px 10px;
   margin-left: 4px;
-  background: ${({inverted}) => (inverted ? '#ddd' : '#444')};
-  border: 2px solid ${({inverted}) => (inverted ? '#ccc' : '#333')};
-  color: ${({inverted}) => (inverted ? '#333' : '#ddd')};
+  background: ${({ inverted }) => (inverted ? "#ddd" : "#444")};
+  border: 2px solid ${({ inverted }) => (inverted ? "#ccc" : "#333")};
+  color: ${({ inverted }) => (inverted ? "#333" : "#ddd")};
   font-weight: 500;
-`
+`;
 
 const GameContainer = styled.div`
   cursor: pointer;
@@ -111,4 +107,4 @@ const GameContainer = styled.div`
       z-index: 10;
     }
   }
-`
+`;
