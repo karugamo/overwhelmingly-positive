@@ -13,7 +13,10 @@ const relevantCategories = [
 ]
 
 export default function GameThumbnail({game, onOpenGame}) {
-  const [showTags, setShowTags] = useState(false)
+  const [hoveredOver, setHoveredOver] = useState(false)
+  const [loaded, setLoaded] = useState(false)
+
+  const showTags = loaded && hoveredOver
 
   const categories = intersectionBy(
     relevantCategories,
@@ -24,14 +27,15 @@ export default function GameThumbnail({game, onOpenGame}) {
   return (
     <GameContainer
       onClick={() => onOpenGame(game)}
-      onMouseEnter={() => setShowTags(true)}
-      onMouseLeave={() => setShowTags(false)}
+      onMouseEnter={() => setHoveredOver(true)}
+      onMouseLeave={() => setHoveredOver(false)}
     >
       <Image
         width="460"
         height="215"
         alt={game.name}
         src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${game.appId}/header.jpg`}
+        onLoad={() => setLoaded(true)}
       />
       <Categories showTags={showTags}>
         {categories.map(({description}) => (
