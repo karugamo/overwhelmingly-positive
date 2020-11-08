@@ -39,7 +39,7 @@ async function main() {
   games = gamesWithDetails
 
   const json = JSON.stringify(games, null, ' ')
-  fs.writeFileSync('games.json', json)
+  fs.writeFileSync('../data/raw-games.json', json)
 }
 
 main()

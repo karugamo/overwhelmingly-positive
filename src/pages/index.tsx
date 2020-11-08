@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import styled from 'styled-components'
-import games from '../../games.json'
+import games from '../../data/games.json'
 import Head from '../components/Head'
 import GameModal from '../components/GameModal'
 import GameThumbnail from '../components/GameThumbnail'

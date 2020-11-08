@@ -1,10 +1,10 @@
-const {YOUTUBE_KEY} = require('./env')
+const {YOUTUBE_KEY} = require('../env')
 const axios = require('axios')
 const delay = require('delay')
 const fs = require('fs')
 const dayjs = require('dayjs')
 
-const games = require('./games')
+const games = require('../raw-games.json')
 
 async function main() {
   const gamesNeedNewVideo = games.filter(
@@ -46,5 +46,5 @@ async function getYouTubeVideoId(query) {
 
 function save() {
   const json = JSON.stringify(games, null, ' ')
-  fs.writeFileSync('games.json', json)
+  fs.writeFileSync('../raw-games.json', json)
 }
