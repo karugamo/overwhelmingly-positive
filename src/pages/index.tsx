@@ -75,7 +75,7 @@ export default function App() {
   function getGameFromHash() {
     const name = window?.location?.hash?.split('#')?.[1]
     const game = allGames?.find(
-      (game) => decodeURIComponent(name) === game.name
+      (game) => decodeURIComponent(name).replace(/_/g, ' ') === game.name
     )
 
     if (game) setCurrentGame(game)
@@ -83,7 +83,7 @@ export default function App() {
 
   function handleThumbnailClick(game) {
     setCurrentGame(game)
-    window.location.hash = encodeURIComponent(game.name)
+    window.location.hash = encodeURIComponent(game.name.replace(/ /g, '_'))
   }
 
   function handleModalClose() {
