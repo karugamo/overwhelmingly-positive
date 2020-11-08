@@ -17,7 +17,5 @@ export const genres = {
   '28': 'Simulation',
   '29': 'Massively Multiplayer',
   '37': 'Free to Play',
-  '70': 'Early Access',
-  '71': 'Sexual Content',
-  '72': 'Nudity'
+  '70': 'Early Access'
 }
