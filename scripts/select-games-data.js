@@ -5,10 +5,13 @@ const _ = require('lodash')
 
 const relevantCategories = [2, 1, 9, 31]
 
+const selectedGames = rawGames.filter(({type}) => type === 'game')
+console.log('Removed', rawGames.length - selectedGames.length, 'non-games')
+
 console.log('categories map')
 const categories = _.mapValues(
   _.keyBy(
-    _.flatten(rawGames.map(({categories}) => categories)).filter(({id}) =>
+    _.flatten(selectedGames.map(({categories}) => categories)).filter(({id}) =>
       relevantCategories.includes(id)
     ),
     'id'
@@ -20,7 +23,7 @@ console.log(categories)
 console.log('genres map')
 const genres = _.mapValues(
   _.keyBy(
-    _.flatten(rawGames.map(({genres}) => genres)).filter((a) => a),
+    _.flatten(selectedGames.map(({genres}) => genres)).filter((a) => a),
     'id'
   ),
   'description'
@@ -28,7 +31,7 @@ const genres = _.mapValues(
 
 console.log(genres)
 
-const games = rawGames.map((rawGame) => ({
+const games = selectedGames.map((rawGame) => ({
   name: rawGame.name,
   appId: rawGame.appId,
   video: rawGame.video?.id,
