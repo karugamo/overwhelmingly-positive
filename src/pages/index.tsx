@@ -49,7 +49,7 @@ export default function App() {
       <Headline>overwhelmingly positive on steam</Headline>
       <Filter onToggle={onToggleFilter} activeGenreIds={filterGenres} />
       <Games>
-        {games.length === 0 && <Headline>No Games Match Your Filters</Headline>}
+        {games.length === 0 && <Headline>No games match your filters</Headline>}
         {games.map((game) => (
           <GameThumbnail
             key={game.appId}
@@ -67,6 +67,26 @@ export default function App() {
       <About />
     </Main>
   )
+
+  function useFilterGamesByGenres() {
+    useEffect(() => {
+      setGames(
+        allGames.filter(
+          (game) =>
+            intersection(game.genres, filterGenres).length ===
+            filterGenres.length
+        )
+      )
+    }, [filterGenres])
+  }
+
+  function onToggleFilter(genreId: number) {
+    setFilterGenres(
+      filterGenres.includes(genreId)
+        ? filterGenres.filter((id) => id !== genreId)
+        : [...filterGenres, genreId]
+    )
+  }
 }
 
 function About() {
