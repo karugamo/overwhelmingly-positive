@@ -4,7 +4,7 @@ import allGames from '../../data/games.json'
 import Head from '../components/Head'
 import GameModal from '../components/GameModal'
 import GameThumbnail from '../components/GameThumbnail'
-import {Game} from '../types'
+import {Game, Genre} from '../types'
 import Tag from '../components/Tag'
 import '../styles/main.css'
 import {genres} from '../const'
@@ -24,7 +24,7 @@ export default function App() {
   const [currentGame, setCurrentGame] = useState<Game>()
   const [games, setGames] = useState<Game[]>(allGames)
 
-  const [filterGenres, setFilterGenres] = useState<number[]>([])
+  const [filterGenres, setFilterGenres] = useState<Genre[]>([])
 
   useFilterGamesByGenres()
 
@@ -32,7 +32,7 @@ export default function App() {
     <Main>
       <Head />
       <Headline>overwhelmingly positive on steam</Headline>
-      <Filter onToggle={onToggleFilter} activeGenreIds={filterGenres} />
+      <Filter onToggle={onToggleFilter} activeGenres={filterGenres} />
       <Games>
         {games.length === 0 && <Headline>No games match your filters</Headline>}
         {games.map((game) => (
@@ -65,11 +65,11 @@ export default function App() {
     }, [filterGenres])
   }
 
-  function onToggleFilter(genreId: number) {
+  function onToggleFilter(genre: Genre) {
     setFilterGenres(
-      filterGenres.includes(genreId)
-        ? filterGenres.filter((id) => id !== genreId)
-        : [...filterGenres, genreId]
+      filterGenres.includes(genre)
+        ? filterGenres.filter((id) => id !== genre)
+        : [...filterGenres, genre]
     )
   }
 }
@@ -79,16 +79,16 @@ function About() {
 }
 
 type FilterProps = {
-  onToggle: (genreId: number) => void
-  activeGenreIds: number[]
+  onToggle: (genre: Genre) => void
+  activeGenres: Genre[]
 }
 
-function Filter({onToggle, activeGenreIds}: FilterProps) {
+function Filter({onToggle, activeGenres}: FilterProps) {
   return (
     <Tags>
       {Object.entries(genres).map(([id, name]) => (
         <Tag
-          inverted={activeGenreIds.includes(Number(id))}
+          inverted={activeGenres.includes(Number(id))}
           key={id}
           onClick={() => onToggle(Number(id))}
         >

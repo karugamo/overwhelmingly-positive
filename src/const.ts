@@ -1,11 +1,13 @@
-export const categories = {
+import {Category, Genre} from './types'
+
+export const categories: Record<Category, string> = {
   '1': 'Multi-player',
   '2': 'Single-player',
   '9': 'Co-op',
   '31': 'VR Support'
 }
 
-export const genres = {
+export const genres: Partial<Record<Genre, string>> = {
   '1': 'Action',
   '2': 'Strategy',
   '3': 'RPG',
