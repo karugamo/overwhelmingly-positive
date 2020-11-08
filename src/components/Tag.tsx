@@ -14,6 +14,7 @@ const Tag = styled.div<TagProps>`
   color: ${({inverted}) => (inverted ? '#333' : '#ddd')};
   font-weight: 500;
   cursor: pointer;
+  user-select: none;
 `
 
 export default Tag
