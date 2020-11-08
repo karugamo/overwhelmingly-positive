@@ -10,7 +10,7 @@ type GameModalProps = {
 export default function GameModal({game, onClose}: GameModalProps) {
   return (
     <Modal onRequestClose={onClose}>
-      {game.video && <YoutubeWidget videoId={game.video.id} />}
+      {game.video && <YoutubeWidget videoId={game.video} />}
       <SteamWidget appId={game.appId} />
     </Modal>
   )
