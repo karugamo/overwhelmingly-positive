@@ -1,25 +1,32 @@
 import React, {useState} from 'react'
-import {intersectionBy} from 'lodash'
 import styled from 'styled-components'
 
-const relevantCategories = [
-  {id: 2, description: 'Single-player'},
-  {id: 1, description: 'Multi-player'},
-  {id: 9, description: 'Co-op'},
-  {
-    id: 31,
-    description: 'VR Support'
-  }
-]
+const categories = {
+  '1': 'Multi-player',
+  '2': 'Single-player',
+  '9': 'Co-op',
+  '31': 'VR Support'
+}
+
+const genres = {
+  '1': 'Action',
+  '2': 'Strategy',
+  '3': 'RPG',
+  '4': 'Casual',
+  '9': 'Racing',
+  '18': 'Sports',
+  '23': 'Indie',
+  '25': 'Adventure',
+  '28': 'Simulation',
+  '29': 'Massively Multiplayer',
+  '37': 'Free to Play',
+  '70': 'Early Access',
+  '71': 'Sexual Content',
+  '72': 'Nudity'
+}
 
 export default function GameThumbnail({game, onOpenGame}) {
   const [hoveredOver, setHoveredOver] = useState(false)
-
-  const categories = intersectionBy(
-    relevantCategories,
-    game.categories,
-    ({id}) => id
-  )
 
   return (
     <GameContainer
@@ -35,14 +42,14 @@ export default function GameThumbnail({game, onOpenGame}) {
         src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${game.appId}/header.jpg`}
       />
       <Categories showTags={hoveredOver}>
-        {categories.map(({description}) => (
-          <Tag key={description}>{description}</Tag>
+        {game.categories.map((id) => (
+          <Tag key={id}>{categories[id]}</Tag>
         ))}
       </Categories>
       <Genres showTags={hoveredOver}>
-        {(game.genres || []).map(({description}) => (
-          <Tag inverted key={description}>
-            {description}
+        {(game.genres || []).map((id) => (
+          <Tag inverted key={id}>
+            {genres[id]}
           </Tag>
         ))}
       </Genres>
