@@ -99,3 +99,11 @@ const Modal = styled(ReactModalWrapper).attrs({
     z-index: 1001;
   }
 `
+
+function removeHash() {
+  history.pushState(
+    '',
+    document.title,
+    window.location.pathname + window.location.search
+  )
+}

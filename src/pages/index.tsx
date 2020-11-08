@@ -27,6 +27,7 @@ export default function App() {
   const [filterGenres, setFilterGenres] = useState<Genre[]>([])
 
   useFilterGamesByGenres()
+  useGetGameFromUrl()
 
   return (
     <Main>
@@ -39,15 +40,12 @@ export default function App() {
           <GameThumbnail
             key={game.appId}
             game={game}
-            onOpenGame={setCurrentGame}
+            onOpenGame={handleThumbnailClick}
           />
         ))}
       </Games>
       {currentGame && (
-        <GameModal
-          game={currentGame}
-          onClose={() => setCurrentGame(undefined)}
-        />
+        <GameModal game={currentGame} onClose={handleModalClose} />
       )}
       <About />
     </Main>
@@ -63,6 +61,35 @@ export default function App() {
         )
       )
     }, [filterGenres])
+  }
+
+  function useGetGameFromUrl() {
+    useEffect(() => {
+      const name = window?.location?.hash?.split('#')?.[1]
+      const game = allGames?.find(
+        (game) => decodeURIComponent(name) === game.name
+      )
+
+      if (game) setCurrentGame(game)
+    }, [])
+  }
+
+  function handleThumbnailClick(game) {
+    setCurrentGame(game)
+    window.location.hash = encodeURIComponent(game.name)
+  }
+
+  function handleModalClose() {
+    setCurrentGame(undefined)
+    removeHash()
+
+    function removeHash() {
+      history.pushState(
+        '',
+        document.title,
+        window.location.pathname + window.location.search
+      )
+    }
   }
 
   function onToggleFilter(genre: Genre) {
