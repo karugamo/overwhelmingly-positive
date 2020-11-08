@@ -4,10 +4,10 @@ import allGames from '../../data/games.json'
 import Head from '../components/Head'
 import GameModal from '../components/GameModal'
 import GameThumbnail from '../components/GameThumbnail'
-import {Game, Genre} from '../types'
+import {Category, Game, Genre} from '../types'
 import Tag from '../components/Tag'
 import '../styles/main.css'
-import {genreNames} from '../const'
+import {categories, genreNames} from '../const'
 
 export default function App() {
   const [currentGame, setCurrentGame] = useState<Game>()
@@ -113,7 +113,7 @@ function FilterTags({onToggle, activeFilters}: FilterTagsProps) {
   }
 
   return (
-    <StyledFilter>
+    <FilterTagsContainer>
       {Object.keys(genreNames).map((genre) => (
         <FilterTag
           key={genre}
@@ -121,14 +121,41 @@ function FilterTags({onToggle, activeFilters}: FilterTagsProps) {
           filter={createGenreFilter(Number(genre))}
         />
       ))}
-    </StyledFilter>
+      {Object.keys(categories).map((category) => (
+        <FilterTag
+          key={category}
+          {...filterTagProps}
+          filter={createCategoryFilter(Number(category))}
+        />
+      ))}
+    </FilterTagsContainer>
   )
 }
+
+const FilterTagsContainer = styled.section`
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1100px;
+
+  @media (max-width: 1200px) {
+    display: none;
+  }
+`
 
 function createGenreFilter(genre: Genre) {
   return {
     name: genreNames[genre],
     function: (game: Game) => game?.genres?.includes(genre)
+  }
+}
+
+function createCategoryFilter(category: Category) {
+  return {
+    name: categories[category],
+    function: (game: Game) => game?.categories?.includes(category)
   }
 }
 
@@ -144,20 +171,14 @@ function FilterTag({filter, activeFilters, onToggle}: FilterTagProps) {
     .includes(filter.name)
 
   return (
-    <Tag inverted={isActive} onClick={() => onToggle(filter)}>
+    <StyledTag inverted={isActive} onClick={() => onToggle(filter)}>
       {filter.name}
-    </Tag>
+    </StyledTag>
   )
 }
 
-const StyledFilter = styled.section`
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 15px;
-
-  @media (max-width: 1450px) {
-    display: none;
-  }
+const StyledTag = styled(Tag)`
+  margin-bottom: 7px;
 `
 
 const AboutLink = styled.a`
