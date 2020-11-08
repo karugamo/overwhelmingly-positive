@@ -1,5 +1,8 @@
 {
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint"],
-  "extends": ["@flexi", "prettier/@typescript-eslint"]
+  "extends": ["@flexi", "prettier/@typescript-eslint"],
+  "rules": {
+    "no-unused-vars": "off"
+  }
 }

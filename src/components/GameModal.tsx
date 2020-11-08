@@ -1,9 +1,10 @@
 import React from 'react'
 import ReactModal from 'react-modal'
 import styled from 'styled-components'
+import {Game} from '../types'
 
 type GameModalProps = {
-  game: any
+  game: Game
   onClose: () => void
 }
 

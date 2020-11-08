@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 import styled from 'styled-components'
+import {Game} from '../types'
 
 const categories = {
   '1': 'Multi-player',
@@ -25,7 +26,12 @@ const genres = {
   '72': 'Nudity'
 }
 
-export default function GameThumbnail({game, onOpenGame}) {
+type GameThumbnailProps = {
+  game: Game
+  onOpenGame: (game: Game) => void
+}
+
+export default function GameThumbnail({game, onOpenGame}: GameThumbnailProps) {
   const [hoveredOver, setHoveredOver] = useState(false)
 
   return (

@@ -4,11 +4,12 @@ import games from '../../data/games.json'
 import Head from '../components/Head'
 import GameModal from '../components/GameModal'
 import GameThumbnail from '../components/GameThumbnail'
+import {Game} from '../types'
 
 import '../styles/main.css'
 
 export default function App() {
-  const [openGame, setOpenGame] = useState<string>()
+  const [currentGame, setCurrentGame] = useState<Game>()
 
   return (
     <Main>
@@ -19,12 +20,15 @@ export default function App() {
           <GameThumbnail
             key={game.appId}
             game={game}
-            onOpenGame={setOpenGame}
+            onOpenGame={setCurrentGame}
           />
         ))}
       </Games>
-      {openGame && (
-        <GameModal game={openGame} onClose={() => setOpenGame(undefined)} />
+      {currentGame && (
+        <GameModal
+          game={currentGame}
+          onClose={() => setCurrentGame(undefined)}
+        />
       )}
       <About />
     </Main>

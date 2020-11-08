@@ -30,10 +30,11 @@ const games = rawGames.map((rawGame) => ({
   name: rawGame.name,
   appId: rawGame.appId,
   video: rawGame.video?.id,
-  categories: rawGame.categories
-    ?.filter(({id}) => relevantCategories.includes(id))
-    .map(({id}) => id),
-  genres: rawGame.genres?.map(({id}) => Number(id))
+  categories:
+    rawGame.categories
+      .filter(({id}) => relevantCategories.includes(id))
+      .map(({id}) => id) ?? [],
+  genres: rawGame.genres?.map(({id}) => Number(id)) ?? []
 }))
 
 const json = JSON.stringify(games)
