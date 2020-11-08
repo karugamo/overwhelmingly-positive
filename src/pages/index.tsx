@@ -7,8 +7,8 @@ import GameThumbnail from '../components/GameThumbnail'
 import {Game} from '../types'
 import Tag from '../components/Tag'
 import '../styles/main.css'
-import {categories, genres} from '../const'
-import {filter, intersection} from 'lodash'
+import {genres} from '../const'
+import {intersection} from 'lodash'
 
 const Tags = styled.section`
   display: flex;
@@ -26,22 +26,7 @@ export default function App() {
 
   const [filterGenres, setFilterGenres] = useState<number[]>([])
 
-  useEffect(() => {
-    setGames(
-      allGames.filter(
-        (game) =>
-          intersection(game.genres, filterGenres).length === filterGenres.length
-      )
-    )
-  }, [filterGenres])
-
-  function onToggleFilter(genreId: number) {
-    setFilterGenres(
-      filterGenres.includes(genreId)
-        ? filterGenres.filter((id) => id !== genreId)
-        : [...filterGenres, genreId]
-    )
-  }
+  useFilterGamesByGenres()
 
   return (
     <Main>
