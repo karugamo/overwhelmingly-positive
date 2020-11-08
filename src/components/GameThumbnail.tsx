@@ -32,9 +32,7 @@ export default function GameThumbnail({game, onOpenGame}: GameThumbnailProps) {
       </Categories>
       <Genres showTags={hoveredOver}>
         {(game.genres || []).map((id) => (
-          <Tag inverted key={id}>
-            {genres[id]}
-          </Tag>
+          <Tag key={id}>{genres[id]}</Tag>
         ))}
       </Genres>
     </GameContainer>
