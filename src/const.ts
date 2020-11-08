@@ -7,7 +7,7 @@ export const categories: Record<Category, string> = {
   '31': 'VR Support'
 }
 
-export const genres: Partial<Record<Genre, string>> = {
+export const genreNames: Partial<Record<Genre, string>> = {
   '1': 'Action',
   '2': 'Strategy',
   '3': 'RPG',

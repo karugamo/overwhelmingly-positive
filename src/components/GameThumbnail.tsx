@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import styled from 'styled-components'
-import {categories, genres} from '../const'
+import {categories, genreNames} from '../const'
 import {Game} from '../types'
 import Tag from './Tag'
 
@@ -32,7 +32,7 @@ export default function GameThumbnail({game, onOpenGame}: GameThumbnailProps) {
       </Categories>
       <Genres showTags={hoveredOver}>
         {(game.genres || []).map((id) => (
-          <Tag key={id}>{genres[id]}</Tag>
+          <Tag key={id}>{genreNames[id]}</Tag>
         ))}
       </Genres>
     </GameContainer>

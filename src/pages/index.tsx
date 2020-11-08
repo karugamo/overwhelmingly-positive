@@ -7,33 +7,21 @@ import GameThumbnail from '../components/GameThumbnail'
 import {Game, Genre} from '../types'
 import Tag from '../components/Tag'
 import '../styles/main.css'
-import {genres} from '../const'
-import {intersection} from 'lodash'
-
-const Tags = styled.section`
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 10px;
-
-  @media (max-width: 1450px) {
-    display: none;
-  }
-`
+import {genreNames} from '../const'
 
 export default function App() {
   const [currentGame, setCurrentGame] = useState<Game>()
   const [games, setGames] = useState<Game[]>(allGames)
+  const [activeFilters, setActiveFilters] = useState<Filter[]>([])
 
-  const [filterGenres, setFilterGenres] = useState<Genre[]>([])
-
-  useFilterGamesByGenres()
+  useFilterGames()
   useGetGameFromUrl()
 
   return (
     <Main>
       <Head />
       <Headline>overwhelmingly positive on steam</Headline>
-      <Filter onToggle={onToggleFilter} activeGenres={filterGenres} />
+      <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
       <Games>
         {games.length === 0 && <Headline>No games match your filters</Headline>}
         {games.map((game) => (
@@ -51,16 +39,15 @@ export default function App() {
     </Main>
   )
 
-  function useFilterGamesByGenres() {
+  function useFilterGames() {
     useEffect(() => {
-      setGames(
-        allGames.filter(
-          (game) =>
-            intersection(game.genres, filterGenres).length ===
-            filterGenres.length
-        )
+      const filteredGames = activeFilters.reduce(
+        (acc, filter) => acc.filter(filter.function),
+        allGames
       )
-    }, [filterGenres])
+
+      setGames(filteredGames)
+    }, [activeFilters])
   }
 
   function useGetGameFromUrl() {
@@ -99,11 +86,13 @@ export default function App() {
     }
   }
 
-  function onToggleFilter(genre: Genre) {
-    setFilterGenres(
-      filterGenres.includes(genre)
-        ? filterGenres.filter((id) => id !== genre)
-        : [...filterGenres, genre]
+  function onToggleFilter(filter: Filter) {
+    const isActive = activeFilters.map(({name}) => name).includes(filter.name)
+
+    setActiveFilters(
+      isActive
+        ? activeFilters.filter(({name}) => name !== filter.name)
+        : [...activeFilters, filter]
     )
   }
 }
@@ -112,26 +101,64 @@ function About() {
   return <AboutLink href="http://karugamo.agency/">🦆</AboutLink>
 }
 
-type FilterProps = {
-  onToggle: (genre: Genre) => void
-  activeGenres: Genre[]
+type FilterTagsProps = {
+  onToggle: (filter: Filter) => void
+  activeFilters: Filter[]
 }
 
-function Filter({onToggle, activeGenres}: FilterProps) {
+function FilterTags({onToggle, activeFilters}: FilterTagsProps) {
+  const filterTagProps = {
+    onToggle,
+    activeFilters
+  }
+
   return (
-    <Tags>
-      {Object.entries(genres).map(([id, name]) => (
-        <Tag
-          inverted={activeGenres.includes(Number(id))}
-          key={id}
-          onClick={() => onToggle(Number(id))}
-        >
-          {name}
-        </Tag>
+    <StyledFilter>
+      {Object.keys(genreNames).map((genre) => (
+        <FilterTag
+          key={genre}
+          {...filterTagProps}
+          filter={createGenreFilter(Number(genre))}
+        />
       ))}
-    </Tags>
+    </StyledFilter>
   )
 }
+
+function createGenreFilter(genre: Genre) {
+  return {
+    name: genreNames[genre],
+    function: (game: Game) => game?.genres?.includes(genre)
+  }
+}
+
+type FilterTagProps = {
+  filter: Filter
+  onToggle: (filter: Filter) => void
+  activeFilters: Filter[]
+}
+
+function FilterTag({filter, activeFilters, onToggle}: FilterTagProps) {
+  const isActive = activeFilters
+    .map((filter) => filter.name)
+    .includes(filter.name)
+
+  return (
+    <Tag inverted={isActive} onClick={() => onToggle(filter)}>
+      {filter.name}
+    </Tag>
+  )
+}
+
+const StyledFilter = styled.section`
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+
+  @media (max-width: 1450px) {
+    display: none;
+  }
+`
 
 const AboutLink = styled.a`
   font-size: 50px;
@@ -160,3 +187,8 @@ const Games = styled.section`
   align-items: center;
   justify-content: center;
 `
+
+type Filter = {
+  name: string
+  function: (game: Game) => boolean
+}
