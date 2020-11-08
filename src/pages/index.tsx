@@ -65,13 +65,20 @@ export default function App() {
 
   function useGetGameFromUrl() {
     useEffect(() => {
-      const name = window?.location?.hash?.split('#')?.[1]
-      const game = allGames?.find(
-        (game) => decodeURIComponent(name) === game.name
-      )
+      getGameFromHash()
+      window.addEventListener('hashchange', getGameFromHash)
 
-      if (game) setCurrentGame(game)
+      return () => window.removeEventListener('hashchange', getGameFromHash)
     }, [])
+  }
+
+  function getGameFromHash() {
+    const name = window?.location?.hash?.split('#')?.[1]
+    const game = allGames?.find(
+      (game) => decodeURIComponent(name) === game.name
+    )
+
+    if (game) setCurrentGame(game)
   }
 
   function handleThumbnailClick(game) {
