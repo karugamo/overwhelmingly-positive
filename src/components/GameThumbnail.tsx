@@ -1,30 +1,8 @@
 import React, {useState} from 'react'
 import styled from 'styled-components'
+import {categories, genres} from '../const'
 import {Game} from '../types'
-
-const categories = {
-  '1': 'Multi-player',
-  '2': 'Single-player',
-  '9': 'Co-op',
-  '31': 'VR Support'
-}
-
-const genres = {
-  '1': 'Action',
-  '2': 'Strategy',
-  '3': 'RPG',
-  '4': 'Casual',
-  '9': 'Racing',
-  '18': 'Sports',
-  '23': 'Indie',
-  '25': 'Adventure',
-  '28': 'Simulation',
-  '29': 'Massively Multiplayer',
-  '37': 'Free to Play',
-  '70': 'Early Access',
-  '71': 'Sexual Content',
-  '72': 'Nudity'
-}
+import Tag from './Tag'
 
 type GameThumbnailProps = {
   game: Game
@@ -90,21 +68,6 @@ const Genres = styled(Tags)`
 const Categories = styled(Tags)`
   left: 8px;
   top: 8px;
-`
-
-type TagProps = {
-  inverted?: boolean
-}
-
-const Tag = styled.div<TagProps>`
-  border-radius: 25px;
-  text-align: center;
-  padding: 4px 10px;
-  margin-left: 4px;
-  background: ${({inverted}) => (inverted ? '#ddd' : '#444')};
-  border: 2px solid ${({inverted}) => (inverted ? '#ccc' : '#333')};
-  color: ${({inverted}) => (inverted ? '#333' : '#ddd')};
-  font-weight: 500;
 `
 
 const GameContainer = styled.div`
