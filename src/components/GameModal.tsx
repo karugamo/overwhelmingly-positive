@@ -12,6 +12,7 @@ export default function GameModal({game, onClose}: GameModalProps) {
   return (
     <Modal onRequestClose={onClose}>
       {game.video && <YoutubeWidget videoId={game.video} />}
+      <G2AWidget name={game.name} />
       <SteamWidget appId={game.appId} />
     </Modal>
   )
@@ -36,6 +37,43 @@ function SteamWidget({appId}) {
     ></StyledSteamWidget>
   )
 }
+
+function G2AWidget({name}) {
+  return (
+    <G2AWidgetContainer>
+      <G2ALink
+        href="https://www.g2a.com/?gtag=a46977ce5c"
+        target="_blank"
+      >{`Buy ${name} on G2A`}</G2ALink>
+    </G2AWidgetContainer>
+  )
+}
+
+const G2ALink = styled.a`
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 5px;
+  margin-right: 8px;
+  color: white;
+  font-family: Roboto;
+  background: #0084c1;
+  text-decoration: none;
+`
+
+const G2AWidgetContainer = styled.div`
+  width: 920px;
+  height: 50px;
+  background: #fafafa;
+  margin-bottom: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-radius: 2px;
+
+  @media (max-width: 920px) {
+    width: 100%;
+  }
+`
 
 const StyledSteamWidget = styled.iframe`
   width: 920px;
