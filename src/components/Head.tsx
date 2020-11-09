@@ -25,6 +25,7 @@ export default function Head() {
        gtag('js', new Date());
   
        gtag('config', 'G-1R0QR3M2YR');
+       gtag('config', 'UA-136930923-2');
   `}
       </script>
       <link
