@@ -9,7 +9,6 @@ export default function Head() {
         name="description"
         content="See overwhelmingly positive rated games on steam in a list"
       />
-
       <meta
         name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1"
@@ -28,6 +27,16 @@ export default function Head() {
        gtag('config', 'UA-136930923-2');
   `}
       </script>
+      <script type="text/javascript">
+        {`var sc_project=12425663; var sc_invisible=1; var sc_security="4cf878ee";
+        var sc_https=1; var sc_remove_link=1;`}
+      </script>
+      <script
+        type="text/javascript"
+        src="https://www.statcounter.com/counter/counter.js"
+        async
+        defer
+      ></script>
       <link
         rel="apple-touch-icon"
         sizes="180x180"
