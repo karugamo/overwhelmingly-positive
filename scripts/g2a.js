@@ -4,24 +4,41 @@ const fetch = require('node-fetch')
 const {saveToJson} = require('./lib')
 const delay = require('delay')
 const games = require('../data/raw-games.json')
+const g2a = require('../data/g2a.json')
+
+/*
+    Mirror: no attributes
+    Counter Strike: no match?
+
+*/
 
 async function main() {
   await findG2aOffers(games[0])[0]
-  const g2a = {}
 
   for (const game of games) {
     process.stdout.write(`${game.name}: `)
-    const {slug, offers} = await findG2aOffers(game)[0]
-    console.log(slug)
-    g2a[game.appId] = {slug, offers}
-  }
 
-  saveToJson('g2a')
+    if (g2a[game.appId]) {
+      console.log('skip')
+      continue
+    }
+
+    const result = await findG2aOffers(game)
+    if (result) {
+      console.log(result.slug)
+      g2a[game.appId] = result
+      saveToJson('g2a', g2a)
+    } else {
+      console.log('no match')
+    }
+  }
 }
 
 async function findG2aOffers(game) {
   const {products} = await get(
-    `v3/products/filter/?query=${game.name}&sort=preorder&wholesale=false`
+    `v3/products/filter/?query=${encodeURIComponent(
+      game.name
+    )}&sort=preorder&wholesale=false`
   )
 
   for (const {slug, attributes} of products) {
@@ -36,20 +53,23 @@ async function findG2aOffers(game) {
       `v1/products/${slug}?currency=EUR&store=portuguese&wholesale=false`
     )
 
-    const appId = product.info.attributes.SteamAppID
-    if (appId.toString() === game.appId) {
+    const appId = product?.info?.attributes?.SteamAppID
+
+    if (appId + '' === game.appId) {
       return {
         slug,
         offers: product.offers.items
       }
     }
   }
+
+  return
 }
 
 main()
 
 async function get(endpoint) {
-  await delay(200)
+  await delay(100)
 
   const headers = {
     authority: 'www.g2a.com',
