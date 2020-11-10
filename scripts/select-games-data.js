@@ -1,6 +1,7 @@
 /*global require */
 const fs = require('fs')
 const rawGames = require('../data/raw-games.json')
+const g2a = require('../data/g2a.json')
 const _ = require('lodash')
 
 const relevantCategories = [2, 1, 9, 31]
@@ -39,7 +40,8 @@ const games = selectedGames.map((rawGame) => ({
     rawGame.categories
       .filter(({id}) => relevantCategories.includes(id))
       .map(({id}) => id) ?? [],
-  genres: rawGame.genres?.map(({id}) => Number(id)) ?? []
+  genres: rawGame.genres?.map(({id}) => Number(id)) ?? [],
+  g2a: getG2a(rawGame.appId)
 }))
 
 console.log(createEnum(genres, 'Genre'))
@@ -60,4 +62,27 @@ ${Object.entries(camelCased)
   .join('\n')} 
   }
   `
+}
+
+function getG2a(appId) {
+  const listing = g2a[appId]
+  if (!listing) return false
+
+  if (!listing.offers) {
+    console.error(listing.slug)
+    window.process.exit()
+  }
+
+  const offer = listing.offers.find(({selectedOffer}) => selectedOffer)
+
+  if (!offer) return false
+
+  return {
+    slug: listing.slug,
+    price: offer?.price?.value,
+    currency: offer?.price?.currency,
+    sellerName: offer?.customer?.name,
+    sellerVotes: _.sum(Object.values(offer?.customer?.votes)),
+    sellerRating: offer?.customer?.rating
+  }
 }
