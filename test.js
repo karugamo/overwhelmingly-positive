@@ -26,7 +26,7 @@ afterEach(async () => {
   await page.close()
 })
 
-it('open Portal Steam Modal and go to Steam', async () => {
+it('opens the Portal modal and clicks on the Steam button', async () => {
   await page.waitForSelector(portalImage)
   await page.click(portalImage)
 
