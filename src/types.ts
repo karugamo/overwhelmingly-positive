@@ -4,6 +4,16 @@ export type Game = {
   video: string
   categories: Category[]
   genres: Genre[]
+  g2a: G2A
+}
+
+export type G2A = {
+  slug: string
+  price: number
+  currency: string
+  sellerName: string
+  sellerVotes: number
+  sellerRating: number
 }
 
 export enum Genre {
