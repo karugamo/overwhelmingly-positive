@@ -5,10 +5,11 @@ const {saveToJson} = require('./lib')
 const delay = require('delay')
 const games = require('../data/raw-games.json')
 const g2a = require('../data/g2a.json')
+const steamToG2a = require('../data/steam-to-g2a-manual.json')
 
 /*
-    Mirror: no attributes
     Counter Strike: no match?
+    Mirror: no attributes
 
 */
 
@@ -16,11 +17,10 @@ async function main() {
   await findG2aOffers(games[0])[0]
 
   for (const game of games) {
-    process.stdout.write(`${game.name}: `)
-
-    if (g2a[game.appId]) {
-      console.log('skip')
+    if (game.is_free || g2a[game.appId]) {
       continue
+    } else {
+      process.stdout.write(`${game.name}: `)
     }
 
     const result = await findG2aOffers(game)
@@ -29,16 +29,36 @@ async function main() {
       g2a[game.appId] = result
       saveToJson('g2a', g2a)
     } else {
-      console.log('no match')
+      console.log('no match', game.appId)
     }
   }
 }
 
+async function getG2aOffers(slug) {
+  const product = await get(
+    `v1/products/${slug}?currency=EUR&store=portuguese&wholesale=false`
+  )
+
+  if (!product?.offers?.items) {
+    console.error('No offers for ', slug)
+  }
+
+  return {
+    appId: product?.info?.attributes?.SteamAppID + '',
+    slug,
+    offers: product.offers.items
+  }
+}
+
 async function findG2aOffers(game) {
+  if (steamToG2a[game.appId]) {
+    return await getG2aOffers(steamToG2a[game.appId])
+  }
+
   const {products} = await get(
     `v3/products/filter/?query=${encodeURIComponent(
-      game.name
-    )}&sort=preorder&wholesale=false`
+      stripSpecialCharacters(game.name)
+    )}+steam+global&sort=preorder&wholesale=false`
   )
 
   for (const {slug, attributes} of products) {
@@ -49,21 +69,20 @@ async function findG2aOffers(game) {
       continue
     }
 
-    const product = await get(
-      `v1/products/${slug}?currency=EUR&store=portuguese&wholesale=false`
-    )
+    const product = await getG2aOffers(slug)
 
-    const appId = product?.info?.attributes?.SteamAppID
-
-    if (appId + '' === game.appId) {
-      return {
-        slug,
-        offers: product.offers.items
-      }
+    if (product.appId === game.appId) {
+      return product
     }
   }
 
-  return
+  if (products?.[0]?.slug) {
+    return await getG2aOffers(products[0].slug)
+  }
+}
+
+function stripSpecialCharacters(string) {
+  return string.replace(/[^\w\s]/gi, '')
 }
 
 main()
