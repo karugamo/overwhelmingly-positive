@@ -13,6 +13,10 @@ export default function Head() {
         name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1"
       />
+      <meta
+        name="keywords"
+        content="steam video games filter overwhelmingly positive best find browse multiplayer multi-player coop co-op action indie rpg racing cheap cheapest"
+      />
       <script
         async
         src="https://www.googletagmanager.com/gtag/js?id=G-1R0QR3M2YR"
