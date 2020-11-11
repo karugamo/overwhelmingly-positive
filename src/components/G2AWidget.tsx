@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import {ConversionType, trackClick} from '../lib/tracking'
 import {Game} from '../types'
 
 export default function G2AWidget({game}: {game: Game}) {
@@ -23,8 +24,12 @@ export default function G2AWidget({game}: {game: Game}) {
           <CurrencySign>€</CurrencySign>
         </G2APrice>
         <G2ALink
-          href={`https://www.g2a.com/${game.g2a.slug}?gtag=a46977ce5c`}
-          target="_blank"
+          onClick={() =>
+            trackClick(
+              `https://www.g2a.com/${game.g2a.slug}?gtag=a46977ce5c`,
+              ConversionType.G2AClick
+            )
+          }
         >
           Buy
         </G2ALink>
@@ -90,7 +95,8 @@ const G2ASellerContainer = styled.div`
   }
 `
 
-const G2ALink = styled.a`
+const G2ALink = styled.span`
+  cursor: pointer;
   padding: 10px 20px;
   text-align: center;
   border-radius: 5px;

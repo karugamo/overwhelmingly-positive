@@ -26,6 +26,10 @@ export default function Head() {
        gtag('config', 'G-1R0QR3M2YR');
        gtag('config', 'UA-136930923-2');
        gtag('config', 'AW-480060544');
+
+       gtag('event', 'conversion', {
+        send_to: 'AW-480060544/XsOyCMjf3egBEIDJ9OQB'
+      })
   `}
       </script>
       <script type="text/javascript">
