@@ -1,6 +1,7 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import ReactModal from 'react-modal'
 import styled from 'styled-components'
+import {useLogConversion} from '../lib/tracking'
 import {Game} from '../types'
 import G2AWidget from './G2AWidget'
 
@@ -10,6 +11,8 @@ type GameModalProps = {
 }
 
 export default function GameModal({game, onClose}: GameModalProps) {
+  useLogConversion()
+
   return (
     <Modal onRequestClose={onClose}>
       {game.video && <YoutubeWidget videoId={game.video} />}
