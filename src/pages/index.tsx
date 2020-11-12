@@ -9,17 +9,20 @@ import Tag from '../components/Tag'
 import '../styles/main.css'
 import {categories, genreNames} from '../const'
 
-export default function App() {
-  const [currentGame, setCurrentGame] = useState<Game>()
+type AppProps = {
+  pageContext: {
+    game?: Game
+  }
+}
+
+export default function App({pageContext: {game}}: AppProps) {
+  const [currentGame, setCurrentGame] = useState<Game>(game)
   const [games, setGames] = useState<Game[]>(allGames)
   const [activeFilters, setActiveFilters] = useState<Filter[]>([])
 
-  useFilterGames()
-  useGetGameFromUrl()
-
   return (
     <Main>
-      <Head />
+      <Head title={getTitle(currentGame)} />
       <Headline>overwhelmingly positive on steam</Headline>
       <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
       <Games>
@@ -50,40 +53,15 @@ export default function App() {
     }, [activeFilters])
   }
 
-  function useGetGameFromUrl() {
-    useEffect(() => {
-      getGameFromHash()
-      window.addEventListener('hashchange', getGameFromHash)
-
-      return () => window.removeEventListener('hashchange', getGameFromHash)
-    }, [])
-  }
-
-  function getGameFromHash() {
-    const name = window?.location?.hash?.split('#')?.[1]
-    const game = allGames?.find(
-      (game) => decodeURIComponent(name).replace(/_/g, ' ') === game.name
-    )
-
-    if (game) setCurrentGame(game)
-  }
-
   function handleThumbnailClick(game) {
     setCurrentGame(game)
-    window.location.hash = encodeURIComponent(game.name.replace(/ /g, '_'))
+    const encodedName = encodeGame(game)
+    window.history.pushState({}, getTitle(game), `/game/${encodedName}`)
   }
 
   function handleModalClose() {
     setCurrentGame(undefined)
-    removeHash()
-
-    function removeHash() {
-      history.pushState(
-        '',
-        document.title,
-        window.location.pathname + window.location.search
-      )
-    }
+    window.history.pushState({}, getTitle(), '/')
   }
 
   function onToggleFilter(filter: Filter) {
@@ -212,4 +190,19 @@ const Games = styled.section`
 type Filter = {
   name: string
   function: (game: Game) => boolean
+}
+
+function getTitle(game?: Game) {
+  const mainTitle = 'Overwhelmingly Positive Rated Games on Steam'
+
+  if (!game) return mainTitle
+
+  return `${game.name} | ${mainTitle}`
+}
+
+function encodeGame(game) {
+  return game.name
+    .replace(/[^\w\s]/gi, '')
+    .trim()
+    .replace(/ /g, '_')
 }

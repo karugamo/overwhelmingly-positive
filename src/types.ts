@@ -4,7 +4,7 @@ export type Game = {
   video: string
   categories: Category[]
   genres: Genre[]
-  g2a: G2A
+  g2a: G2A | boolean
 }
 
 export type G2A = {

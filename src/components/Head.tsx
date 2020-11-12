@@ -1,10 +1,14 @@
 import React from 'react'
 import {Helmet} from 'react-helmet'
 
-export default function Head() {
+type HeadProps = {
+  title: string
+}
+
+export default function Head({title}: HeadProps) {
   return (
     <Helmet>
-      <title>Overwhelmingly Positive Rated Games on Steam</title>
+      <title>{title}</title>
       <meta
         name="description"
         content="See overwhelmingly positive rated games on steam in a list"
