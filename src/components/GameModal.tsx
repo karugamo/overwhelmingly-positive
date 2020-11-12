@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react'
+import React from 'react'
 import ReactModal from 'react-modal'
 import styled from 'styled-components'
 import {useLogConversion, ConversionType} from '../lib/tracking'
@@ -104,11 +104,3 @@ const Modal = styled(ReactModalWrapper).attrs({
     z-index: 1001;
   }
 `
-
-function removeHash() {
-  history.pushState(
-    '',
-    document.title,
-    window.location.pathname + window.location.search
-  )
-}
