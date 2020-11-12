@@ -20,6 +20,8 @@ export default function App({pageContext: {game}}: AppProps) {
   const [games, setGames] = useState<Game[]>(allGames)
   const [activeFilters, setActiveFilters] = useState<Filter[]>([])
 
+  useFilterGames()
+
   return (
     <Main>
       <Head title={getTitle(currentGame)} />
