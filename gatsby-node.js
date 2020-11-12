@@ -12,6 +12,7 @@ exports.createPages = async ({actions: {createPage}}) => {
   })
 }
 
+// this is duplicated in the typescript code
 function encodeGame(game) {
   return game.name
     .replace(/[^\w\s]/gi, '')

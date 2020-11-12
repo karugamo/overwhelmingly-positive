@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import styled from 'styled-components'
 import {categories, genreNames} from '../const'
+import {encodeGame} from '../lib/encode'
 import {Game} from '../types'
 import Tag from './Tag'
 
@@ -14,7 +15,12 @@ export default function GameThumbnail({game, onOpenGame}: GameThumbnailProps) {
 
   return (
     <GameContainer
-      onClick={() => onOpenGame(game)}
+      href={`/game/${encodeGame(game)}`}
+      onClick={(e) => {
+        e.preventDefault()
+        onOpenGame(game)
+        return false
+      }}
       onMouseEnter={() => setHoveredOver(true)}
       onMouseLeave={() => setHoveredOver(false)}
     >
@@ -68,7 +74,7 @@ const Categories = styled(Tags)`
   top: 8px;
 `
 
-const GameContainer = styled.div`
+const GameContainer = styled.a`
   cursor: pointer;
   position: relative;
 

@@ -8,6 +8,7 @@ import {Category, Game, Genre} from '../types'
 import Tag from '../components/Tag'
 import '../styles/main.css'
 import {categories, genreNames} from '../const'
+import {encodeGame} from '../lib/encode'
 
 type AppProps = {
   pageContext: {
@@ -200,11 +201,4 @@ function getTitle(game?: Game) {
   if (!game) return mainTitle
 
   return `${game.name} | ${mainTitle}`
-}
-
-function encodeGame(game) {
-  return game.name
-    .replace(/[^\w\s]/gi, '')
-    .trim()
-    .replace(/ /g, '_')
 }
