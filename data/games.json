@@ -1701,7 +1701,7 @@
    "price": 6.04,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16660,
+   "sellerVotes": 16663,
    "sellerRating": 93
   }
  },
@@ -4399,7 +4399,7 @@
    "price": 3.29,
    "currency": "EUR",
    "sellerName": "Outlawgames",
-   "sellerVotes": 24336,
+   "sellerVotes": 24346,
    "sellerRating": 99
   }
  },
@@ -4552,6 +4552,7 @@
  {
   "name": "Hexcells",
   "appId": "265890",
+  "video": "JUDFBlbXhQc",
   "categories": [
    2
   ],

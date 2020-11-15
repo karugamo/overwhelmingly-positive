@@ -9,21 +9,17 @@ const {load} = require('./lib')
 
 const games = load('top-games-steamdb')
 const steamGames = load('steam-games')
+const manualG2a = load('steam-to-g2a-manual')
 
 async function main() {
   for (const game of games) {
-    if (steamToG2a[game.appId] === false) {
-      process.stdout.write(`${game.name}: `)
+    if (manualG2a[game.appId] === false) {
       g2a[game.appId] = undefined
       saveToJson('g2a', g2a)
-      console.log('skipped', game.appId)
       continue
     }
 
-    if (
-      (steamGames[game.appId]?.is_free || g2a[game.appId]) &&
-      !steamToG2a[game.appId]
-    ) {
+    if (steamGames[game.appId]?.is_free || g2a[game.appId]) {
       continue
     } else {
       process.stdout.write(`${game.name}: `)

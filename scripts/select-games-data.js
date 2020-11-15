@@ -52,6 +52,7 @@ function main() {
   // console.log(createEnum(genres, 'Genre'))
   // console.log(createEnum(categories, 'Category'))
 
+  console.log('Website has', games.length, 'Games')
   saveToJson('games', games)
 }
 
