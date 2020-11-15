@@ -8,10 +8,16 @@ const g2a = require('../data/g2a.json')
 const steamToG2a = require('../data/steam-to-g2a-manual.json')
 
 async function main() {
-  await findG2aOffers(games[0])[0]
-
   for (const game of games) {
-    if (game.is_free || g2a[game.appId]) {
+    if (steamToG2a[game.appId] === false) {
+      process.stdout.write(`${game.name}: `)
+      g2a[game.appId] = undefined
+      saveToJson('g2a', g2a)
+      console.log('skipped', game.appId)
+      continue
+    }
+
+    if ((game.is_free || g2a[game.appId]) && !steamToG2a[game.appId]) {
       continue
     } else {
       process.stdout.write(`${game.name}: `)

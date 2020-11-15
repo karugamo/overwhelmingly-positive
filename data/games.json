@@ -328,10 +328,10 @@
   ],
   "g2a": {
    "slug": "the-henry-stickmin-collection-pc-steam-gift-global-i10000207092002",
-   "price": 12.57,
+   "price": 13.48,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16312,
+   "sellerVotes": 16640,
    "sellerRating": 93
   }
  },
@@ -477,14 +477,7 @@
    23,
    3
   ],
-  "g2a": {
-   "slug": "black-mirror-i-steam-key-global-i10000045909002",
-   "price": 1.54,
-   "currency": "EUR",
-   "sellerName": "Allgameworld",
-   "sellerVotes": 3007,
-   "sellerRating": 99
-  }
+  "g2a": false
  },
  {
   "name": "South Park™: The Stick of Truth™",
@@ -1705,10 +1698,10 @@
   ],
   "g2a": {
    "slug": "plants-vs-zombies-goty-edition-steam-gift-global-i10000068133001",
-   "price": 6.03,
+   "price": 6.04,
    "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 34019,
+   "sellerName": "Wild_games",
+   "sellerVotes": 16640,
    "sellerRating": 93
   }
  },
@@ -1823,14 +1816,7 @@
    3,
    28
   ],
-  "g2a": {
-   "slug": "unheard-screams-king-leopold-iis-rule-over-the-congo-steam-key-global-i10000000830004",
-   "price": 1.36,
-   "currency": "EUR",
-   "sellerName": "Mejami",
-   "sellerVotes": 0,
-   "sellerRating": 0
-  }
+  "g2a": false
  },
  {
   "name": "Mark of the Ninja",
@@ -2235,7 +2221,7 @@
    "price": 2.24,
    "currency": "EUR",
    "sellerName": "_eplay",
-   "sellerVotes": 2274,
+   "sellerVotes": 2246,
    "sellerRating": 100
   }
  },
@@ -2271,14 +2257,7 @@
   "genres": [
    2
   ],
-  "g2a": {
-   "slug": "rise-of-industry-steam-key-global-i10000143807001",
-   "price": 2.6,
-   "currency": "EUR",
-   "sellerName": "Golden_games",
-   "sellerVotes": 3902,
-   "sellerRating": 100
-  }
+  "g2a": false
  },
  {
   "name": "Backbone: Prologue",
@@ -2366,7 +2345,7 @@
    "price": 20.79,
    "currency": "EUR",
    "sellerName": "United_kingdom",
-   "sellerVotes": 41,
+   "sellerVotes": 42,
    "sellerRating": 100
   }
  },
@@ -3479,14 +3458,7 @@
    4,
    23
   ],
-  "g2a": {
-   "slug": "fall-guys-ultimate-knockout-pc-steam-gift-global-i10000206388001",
-   "price": 17.18,
-   "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 34017,
-   "sellerRating": 93
-  }
+  "g2a": false
  },
  {
   "name": "DEEP SPACE WAIFU",
@@ -4057,7 +4029,7 @@
    "price": 30.15,
    "currency": "EUR",
    "sellerName": "Kortulsgameroom",
-   "sellerVotes": 151,
+   "sellerVotes": 148,
    "sellerRating": 97
   }
  },
@@ -4409,11 +4381,11 @@
    23
   ],
   "g2a": {
-   "slug": "spec-ops-the-line-steam-key-global-i10000003372008",
-   "price": 1.42,
+   "slug": "lyne-steam-key-global-i10000044249004",
+   "price": 3.29,
    "currency": "EUR",
-   "sellerName": "Bestseller2018",
-   "sellerVotes": 3003,
+   "sellerName": "Outlawgames",
+   "sellerVotes": 24332,
    "sellerRating": 99
   }
  },
@@ -4542,14 +4514,7 @@
    4,
    23
   ],
-  "g2a": {
-   "slug": "robo-encryption-zup-steam-key-global-i10000148816001",
-   "price": 2.83,
-   "currency": "EUR",
-   "sellerName": "Filippo2018pl",
-   "sellerVotes": 0,
-   "sellerRating": 0
-  }
+  "g2a": false
  },
  {
   "name": "Audiosurf",
