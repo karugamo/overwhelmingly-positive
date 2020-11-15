@@ -1,20 +1,27 @@
-/* globals require exports */
+/* globals require exports __dirname */
 const fs = require('fs')
 const got = require('got')
 const axios = require('axios')
 const cheerio = require('cheerio')
+const {resolve} = require('path')
 
 exports.saveToJson = function saveToJson(name, data) {
   const json = JSON.stringify(data, null, ' ')
-  fs.writeFileSync(`./data/${name}.json`, json)
+  fs.writeFileSync(resolve(__dirname, `../data/${name}.json`), json)
+}
+
+exports.load = function load(name) {
+  return require(`../data/${name}.json`)
 }
 
 exports.steam = got.extend({
   prefixUrl: 'https://store.steampowered.com/api/',
-  retry: 5,
-  calculateDelay: ({attemptCount}) => {
-    const oneMinute = 1000 * 60
-    return oneMinute * attemptCount + Math.random() * 100
+  retry: {
+    limit: 5,
+    calculateDelay: ({attemptCount}) => {
+      const oneMinute = 1000 * 60
+      return oneMinute * attemptCount + Math.random() * 100
+    }
   },
   hooks: {
     beforeRetry: [

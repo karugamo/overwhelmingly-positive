@@ -4050,12 +4050,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 34304,
+     "transactions": 34322,
      "rating": 92,
      "votes": {
-      "positive": 28766,
-      "negative": 2402,
-      "neutral": 3136
+      "positive": 28781,
+      "negative": 2404,
+      "neutral": 3137
      },
      "invoice": false,
      "policy": null,
@@ -4096,12 +4096,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 34304,
+     "transactions": 34322,
      "rating": 92,
      "votes": {
-      "positive": 28766,
-      "negative": 2402,
-      "neutral": 3136
+      "positive": 28781,
+      "negative": 2404,
+      "neutral": 3137
      },
      "invoice": false,
      "policy": null,
@@ -4142,11 +4142,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16640,
+     "transactions": 16658,
      "rating": 93,
      "votes": {
-      "positive": 14625,
-      "negative": 1062,
+      "positive": 14644,
+      "negative": 1061,
       "neutral": 953
      },
      "invoice": false,
@@ -12169,10 +12169,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16629,
+     "transactions": 16642,
      "rating": 97,
      "votes": {
-      "positive": 15717,
+      "positive": 15730,
       "negative": 537,
       "neutral": 375
      },
@@ -12220,10 +12220,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 3487,
+     "transactions": 3490,
      "rating": 96,
      "votes": {
-      "positive": 3346,
+      "positive": 3349,
       "negative": 123,
       "neutral": 18
      },
@@ -12373,10 +12373,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 3004,
+     "transactions": 3006,
      "rating": 99,
      "votes": {
-      "positive": 2805,
+      "positive": 2807,
       "negative": 39,
       "neutral": 160
      },
@@ -12526,11 +12526,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 5851,
-     "rating": 94,
+     "transactions": 5866,
+     "rating": 93,
      "votes": {
-      "positive": 4715,
-      "negative": 323,
+      "positive": 4722,
+      "negative": 331,
       "neutral": 813
      },
      "invoice": false,
@@ -12628,10 +12628,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 397,
-     "rating": 95,
+     "transactions": 399,
+     "rating": 96,
      "votes": {
-      "positive": 317,
+      "positive": 319,
       "negative": 15,
       "neutral": 65
      },
@@ -12679,11 +12679,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 24332,
+     "transactions": 24334,
      "rating": 99,
      "votes": {
-      "positive": 20921,
-      "negative": 157,
+      "positive": 20922,
+      "negative": 158,
       "neutral": 3254
      },
      "invoice": false,
@@ -12781,10 +12781,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 2738,
+     "transactions": 2741,
      "rating": 99,
      "votes": {
-      "positive": 2164,
+      "positive": 2167,
       "negative": 30,
       "neutral": 544
      },
@@ -12856,20 +12856,20 @@
     "type": "game",
     "special": false,
     "discount": {
-     "price": 3.5343,
+     "price": 3.6531,
      "suggestedPrice": 19.99,
-     "discountAmount": 16.4557,
-     "discountPercent": "82"
+     "discountAmount": 16.3369,
+     "discountPercent": "81"
     },
     "plusDiscount": {
-     "price": 3.1809,
+     "price": 3.2878,
      "suggestedPrice": 19.99,
-     "discountAmount": 16.8091,
-     "discountPercent": "84"
+     "discountAmount": 16.7022,
+     "discountPercent": "83"
     },
     "price": {
-     "base": 2.68,
-     "value": 3.53,
+     "base": 2.77,
+     "value": 3.65,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -13203,57 +13203,6 @@
     }
    },
    {
-    "id": "11678952",
-    "isG2APlusOffer": false,
-    "clearId": "11678952",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "game",
-    "special": false,
-    "discount": {
-     "price": 6.5502,
-     "suggestedPrice": 19.99,
-     "discountAmount": 13.4398,
-     "discountPercent": "67"
-    },
-    "plusDiscount": {
-     "price": 5.8952,
-     "suggestedPrice": 19.99,
-     "discountAmount": 14.0948,
-     "discountPercent": "70"
-    },
-    "price": {
-     "base": 4.96,
-     "value": 6.55,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 15893064,
-     "encodedId": "fbbca6e9f73a37a143d58bd8beece587",
-     "encodedUid": "2f6105bd26672dfaa0e1693c648c996be8fe0a82d824b56ef1873a5037f4782c66658ac9c75847bd41394222b57721ae",
-     "name": "Treasurebox",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": false,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 10,
-     "rating": 90,
-     "votes": {
-      "positive": 9,
-      "negative": 1,
-      "neutral": 0
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
     "id": "11775982",
     "isG2APlusOffer": false,
     "clearId": "11775982",
@@ -13297,6 +13246,57 @@
       "positive": 83,
       "negative": 34,
       "neutral": 17
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "11678952",
+    "isG2APlusOffer": false,
+    "clearId": "11678952",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "game",
+    "special": false,
+    "discount": {
+     "price": 6.7191,
+     "suggestedPrice": 19.99,
+     "discountAmount": 13.2709,
+     "discountPercent": "66"
+    },
+    "plusDiscount": {
+     "price": 6.0472,
+     "suggestedPrice": 19.99,
+     "discountAmount": 13.9428,
+     "discountPercent": "69"
+    },
+    "price": {
+     "base": 5.13,
+     "value": 6.72,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 15893064,
+     "encodedId": "fbbca6e9f73a37a143d58bd8beece587",
+     "encodedUid": "2f6105bd26672dfaa0e1693c648c996be8fe0a82d824b56ef1873a5037f4782c66658ac9c75847bd41394222b57721ae",
+     "name": "Treasurebox",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 10,
+     "rating": 90,
+     "votes": {
+      "positive": 9,
+      "negative": 1,
+      "neutral": 0
      },
      "invoice": false,
      "policy": null,
@@ -34116,11 +34116,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 41,
+     "transactions": 42,
      "rating": 100,
      "votes": {
-      "positive": 40,
-      "negative": 1,
+      "positive": 41,
+      "negative": 0,
       "neutral": 1
      },
      "invoice": false,
@@ -34162,11 +34162,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 41,
+     "transactions": 42,
      "rating": 100,
      "votes": {
-      "positive": 40,
-      "negative": 1,
+      "positive": 41,
+      "negative": 0,
       "neutral": 1
      },
      "invoice": false,
@@ -50896,11 +50896,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 5851,
-     "rating": 94,
+     "transactions": 5866,
+     "rating": 93,
      "votes": {
-      "positive": 4715,
-      "negative": 323,
+      "positive": 4722,
+      "negative": 331,
       "neutral": 813
      },
      "invoice": false,
@@ -50942,11 +50942,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 24332,
+     "transactions": 24334,
      "rating": 99,
      "votes": {
-      "positive": 20921,
-      "negative": 157,
+      "positive": 20922,
+      "negative": 158,
       "neutral": 3254
      },
      "invoice": false,
@@ -50988,10 +50988,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 2738,
+     "transactions": 2741,
      "rating": 99,
      "votes": {
-      "positive": 2164,
+      "positive": 2167,
       "negative": 30,
       "neutral": 544
      },
@@ -103514,11 +103514,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16640,
+     "transactions": 16658,
      "rating": 93,
      "votes": {
-      "positive": 14625,
-      "negative": 1062,
+      "positive": 14644,
+      "negative": 1061,
       "neutral": 953
      },
      "invoice": false,
@@ -103560,11 +103560,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16640,
+     "transactions": 16658,
      "rating": 93,
      "votes": {
-      "positive": 14625,
-      "negative": 1062,
+      "positive": 14644,
+      "negative": 1061,
       "neutral": 953
      },
      "invoice": false,
