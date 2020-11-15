@@ -1,4 +1,4 @@
-/*global require */
+/*global require module */
 const fs = require('fs')
 const rawGames = require('../data/raw-games.json')
 const g2a = require('../data/g2a.json')
@@ -6,24 +6,32 @@ const _ = require('lodash')
 
 const relevantCategories = [2, 1, 9, 31]
 
-const selectedGames = rawGames.filter(({type}) => type === 'game')
-console.log('Removed', rawGames.length - selectedGames.length, 'non-games')
+function main() {
+  const selectedGames = rawGames.filter(({type}) => type === 'game')
+  console.log('Removed', rawGames.length - selectedGames.length, 'non-games')
 
-console.log('getCategoryIdMap')
-const categories = getCategoryIdMap(selectedGames)
-console.log(categories)
+  console.log('getCategoryIdMap')
+  const categories = getCategoryIdMap(selectedGames)
+  console.log(categories)
 
-console.log('getGenreIdMap')
-const genres = getGenreIdMap(selectedGames)
-console.log(genres)
+  console.log('getGenreIdMap')
+  const genres = getGenreIdMap(selectedGames)
+  console.log(genres)
 
-const games = selectedGames.map(rawGameToGame)
+  const games = selectedGames.map(rawGameToGame)
 
-console.log(createEnum(genres, 'Genre'))
-console.log(createEnum(categories, 'Category'))
+  console.log(createEnum(genres, 'Genre'))
+  console.log(createEnum(categories, 'Category'))
 
-const json = JSON.stringify(games, null, ' ')
-fs.writeFileSync('./data/games.json', json)
+  const json = JSON.stringify(games, null, ' ')
+  fs.writeFileSync('./data/games.json', json)
+}
+
+module.exports = main
+
+if (require.main === module) {
+  main()
+}
 
 function rawGameToGame(rawGame) {
   return {
@@ -142,7 +150,7 @@ function getCategoryIdMap(games) {
 function getGenreIdMap(games) {
   return _.mapValues(
     _.keyBy(
-      _.flatten(selectedGames.map(({genres}) => genres)).filter((a) => a),
+      _.flatten(games.map(({genres}) => genres)).filter((a) => a),
       'id'
     ),
     'description'

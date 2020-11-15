@@ -1,4 +1,4 @@
-/* globals require process */
+/* globals require process module */
 
 const fetch = require('node-fetch')
 const {saveToJson} = require('./lib')
@@ -85,8 +85,6 @@ function stripSpecialCharacters(string) {
   return string.replace(/[^\w\s]/gi, '')
 }
 
-main()
-
 async function get(endpoint) {
   await delay(100)
 
@@ -116,4 +114,10 @@ async function get(endpoint) {
     mode: 'cors'
   })
   return await res.json()
+}
+
+module.exports = main
+
+if (require.main === module) {
+  main()
 }

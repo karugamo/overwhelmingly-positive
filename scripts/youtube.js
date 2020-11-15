@@ -1,11 +1,12 @@
-/* global require */
+/* global require module __dirname */
 const {YOUTUBE_KEY} = require('../env')
 const axios = require('axios')
 const delay = require('delay')
 const fs = require('fs')
 const dayjs = require('dayjs')
 
-const games = require('../raw-games.json')
+const games = require('../data/raw-games.json')
+const {resolve} = require('path')
 
 async function main() {
   const gamesNeedNewVideo = games.filter(
@@ -31,8 +32,6 @@ async function main() {
   }
 }
 
-main()
-
 async function getYouTubeVideoId(query) {
   const encodedQuery = encodeURIComponent(query)
 
@@ -47,5 +46,11 @@ async function getYouTubeVideoId(query) {
 
 function save() {
   const json = JSON.stringify(games, null, ' ')
-  fs.writeFileSync('../raw-games.json', json)
+  fs.writeFileSync(resolve(__dirname, '../data/raw-games.json'), json)
+}
+
+module.exports = main
+
+if (require.main === module) {
+  main()
 }

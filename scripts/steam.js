@@ -1,4 +1,4 @@
-/* global require __dirname */
+/* global require __dirname module */
 const fs = require('fs')
 const delay = require('delay')
 const {resolve} = require('path')
@@ -53,4 +53,8 @@ async function main() {
   fs.writeFileSync(resolve(__dirname, '../data/raw-games.json'), json)
 }
 
-main()
+module.exports = main
+
+if (require.main === module) {
+  main()
+}
