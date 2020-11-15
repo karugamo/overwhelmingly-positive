@@ -3,12 +3,12 @@
 const fetch = require('node-fetch')
 const {saveToJson} = require('./lib')
 const delay = require('delay')
-const g2a = require('../data/g2a.json')
 const {load} = require('./lib')
 
 const games = load('top-games-steamdb')
 const steamGames = load('steam-games')
 const manualG2a = load('steam-to-g2a-manual')
+const g2a = load('g2a')
 
 const onlyFetchNew = false
 
@@ -21,6 +21,7 @@ async function main() {
     }
 
     if (steamGames[game.appId]?.is_free || (onlyFetchNew && g2a[game.appId])) {
+      console.log('skip', game.appId)
       continue
     } else {
       process.stdout.write(`${game.name}: `)
@@ -44,6 +45,9 @@ async function getG2aOffers(slug) {
 
   if (!product?.offers?.items) {
     console.error('No offers for ', slug)
+    console.error(product)
+    console.log('appId', product?.info?.attributes?.SteamAppID + '')
+    return {appid: product?.info?.attributes?.SteamAppID}
   }
 
   return {
@@ -89,7 +93,7 @@ function stripSpecialCharacters(string) {
 }
 
 async function get(endpoint) {
-  await delay(100)
+  await delay(500 + Math.random() * 100)
 
   const headers = {
     authority: 'www.g2a.com',
