@@ -1,3 +1,4 @@
+/* global require */
 const {YOUTUBE_KEY} = require('../env')
 const axios = require('axios')
 const delay = require('delay')
