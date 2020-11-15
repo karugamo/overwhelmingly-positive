@@ -9,6 +9,7 @@ import Tag from '../components/Tag'
 import '../styles/main.css'
 import {categories, genreNames} from '../const'
 import {encodeGame} from '../lib/encode'
+import CookieBanner from 'react-cookie-banner'
 
 type AppProps = {
   pageContext: {
@@ -25,6 +26,7 @@ export default function App({pageContext: {game}}: AppProps) {
 
   return (
     <Main>
+      <CookieBanner message="We use cookies too analyse the traffic of our website. By continuing to browse the site you're agreeing to our use of cookies." />
       <Head title={getTitle(currentGame)} />
       <Headline>overwhelmingly positive on steam</Headline>
       <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
