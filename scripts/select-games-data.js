@@ -1,50 +1,64 @@
 /*global require module */
-const fs = require('fs')
-const rawGames = require('../data/raw-games.json')
-const g2a = require('../data/g2a.json')
 const _ = require('lodash')
+const fs = require('fs')
+const {load, saveToJson} = require('./lib')
+
+const appIdToSteam = load('steam-games')
+const appIdToVideo = load('appid-to-video')
+const appIdToG2a = load('g2a')
 
 const relevantCategories = [2, 1, 9, 31]
 
+function selectGameData({name, appId}) {
+  const steamGame = appIdToSteam[appId]
+
+  return {
+    name,
+    appId,
+    video: appIdToVideo[appId]?.id,
+    categories:
+      steamGame?.categories
+        .filter(({id}) => relevantCategories.includes(id))
+        .map(({id}) => id) ?? [],
+    genres: steamGame?.genres?.map(({id}) => Number(id)) ?? [],
+    g2a: getG2a(appId)
+  }
+}
+
+function isGame({appId}) {
+  return appIdToSteam[appId]?.type === 'game'
+}
+
 function main() {
-  const selectedGames = rawGames.filter(({type}) => type === 'game')
-  console.log('Removed', rawGames.length - selectedGames.length, 'non-games')
+  const rawGames = load('top-games-steamdb')
+  const selectedGames = rawGames.filter(isGame)
+  const removedGames = rawGames.filter((game) => !isGame(game))
 
-  console.log('getCategoryIdMap')
-  const categories = getCategoryIdMap(selectedGames)
-  console.log(categories)
+  console.log(
+    'Removed',
+    removedGames.map(({appId, name}) => `${name} (${appId})`)
+  )
 
-  console.log('getGenreIdMap')
-  const genres = getGenreIdMap(selectedGames)
-  console.log(genres)
+  // console.log('getCategoryIdMap')
+  // const categories = getCategoryIdMap(selectedGames)
+  // console.log(categories)
 
-  const games = selectedGames.map(rawGameToGame)
+  // console.log('getGenreIdMap')
+  // const genres = getGenreIdMap(selectedGames)
+  // console.log(genres)
 
-  console.log(createEnum(genres, 'Genre'))
-  console.log(createEnum(categories, 'Category'))
+  const games = selectedGames.map(selectGameData)
 
-  const json = JSON.stringify(games, null, ' ')
-  fs.writeFileSync('./data/games.json', json)
+  // console.log(createEnum(genres, 'Genre'))
+  // console.log(createEnum(categories, 'Category'))
+
+  saveToJson('games', games)
 }
 
 module.exports = main
 
 if (require.main === module) {
   main()
-}
-
-function rawGameToGame(rawGame) {
-  return {
-    name: rawGame.name,
-    appId: rawGame.appId,
-    video: rawGame.video?.id,
-    categories:
-      rawGame.categories
-        .filter(({id}) => relevantCategories.includes(id))
-        .map(({id}) => id) ?? [],
-    genres: rawGame.genres?.map(({id}) => Number(id)) ?? [],
-    g2a: getG2a(rawGame.appId)
-  }
 }
 
 function createEnum(nameById, enumName) {
@@ -62,7 +76,7 @@ ${Object.entries(camelCased)
 }
 
 function getG2a(appId) {
-  const listing = g2a[appId]
+  const listing = appIdToG2a[appId]
   if (!listing) return false
 
   const offers = listing.offers
