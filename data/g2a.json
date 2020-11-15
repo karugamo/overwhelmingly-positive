@@ -4050,12 +4050,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 34322,
+     "transactions": 34329,
      "rating": 92,
      "votes": {
-      "positive": 28781,
+      "positive": 28789,
       "negative": 2404,
-      "neutral": 3137
+      "neutral": 3136
      },
      "invoice": false,
      "policy": null,
@@ -4096,12 +4096,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 34322,
+     "transactions": 34329,
      "rating": 92,
      "votes": {
-      "positive": 28781,
+      "positive": 28789,
       "negative": 2404,
-      "neutral": 3137
+      "neutral": 3136
      },
      "invoice": false,
      "policy": null,
@@ -4142,10 +4142,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16658,
+     "transactions": 16660,
      "rating": 93,
      "votes": {
-      "positive": 14644,
+      "positive": 14646,
       "negative": 1061,
       "neutral": 953
      },
@@ -12271,10 +12271,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 2246,
+     "transactions": 2247,
      "rating": 100,
      "votes": {
-      "positive": 2149,
+      "positive": 2150,
       "negative": 4,
       "neutral": 93
      },
@@ -12526,11 +12526,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 5866,
+     "transactions": 5867,
      "rating": 93,
      "votes": {
       "positive": 4722,
-      "negative": 331,
+      "negative": 332,
       "neutral": 813
      },
      "invoice": false,
@@ -12679,10 +12679,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 24334,
+     "transactions": 24336,
      "rating": 99,
      "votes": {
-      "positive": 20922,
+      "positive": 20924,
       "negative": 158,
       "neutral": 3254
      },
@@ -50757,6 +50757,104 @@
    }
   ]
  },
+ "265890": {
+  "appId": "265890",
+  "slug": "hexcells-steam-gift-global-i10000003212001",
+  "offers": [
+   {
+    "id": "12200827",
+    "isG2APlusOffer": false,
+    "clearId": "12200827",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": null,
+    "plusDiscount": {
+     "price": 10.3589,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
+    },
+    "price": {
+     "base": 9.84,
+     "value": 11.51,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 13421708,
+     "encodedId": "b9022f8c7812ed8052fa344af5fb6fe2",
+     "encodedUid": "cd9e55f0e0e8ede7d9fecdd2df485ea99ba7796408c352fcb6e983347cfbcb5fabdc30c547168ed8d8e8783191c6e914",
+     "name": "Mtc_game",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 4847,
+     "rating": 85,
+     "votes": {
+      "positive": 3592,
+      "negative": 641,
+      "neutral": 614
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12200827!",
+    "isG2APlusOffer": false,
+    "clearId": "12200827",
+    "selectedOffer": true,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": null,
+    "plusDiscount": {
+     "price": 10.3589,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
+    },
+    "price": {
+     "base": 9.84,
+     "value": 11.51,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 13421708,
+     "encodedId": "b9022f8c7812ed8052fa344af5fb6fe2",
+     "encodedUid": "cd9e55f0e0e8ede7d9fecdd2df485ea99ba7796408c352fcb6e983347cfbcb5fabdc30c547168ed8d8e8783191c6e914",
+     "name": "Mtc_game",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 4847,
+     "rating": 85,
+     "votes": {
+      "positive": 3592,
+      "negative": 641,
+      "neutral": 614
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   }
+  ]
+ },
  "266010": {
   "appId": "266010",
   "slug": "lyne-steam-key-global-i10000044249004",
@@ -50896,11 +50994,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 5866,
+     "transactions": 5867,
      "rating": 93,
      "votes": {
       "positive": 4722,
-      "negative": 331,
+      "negative": 332,
       "neutral": 813
      },
      "invoice": false,
@@ -50942,10 +51040,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 24334,
+     "transactions": 24336,
      "rating": 99,
      "votes": {
-      "positive": 20922,
+      "positive": 20924,
       "negative": 158,
       "neutral": 3254
      },
@@ -103514,10 +103612,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16658,
+     "transactions": 16663,
      "rating": 93,
      "votes": {
-      "positive": 14644,
+      "positive": 14649,
       "negative": 1061,
       "neutral": 953
      },
@@ -103560,10 +103658,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16658,
+     "transactions": 16663,
      "rating": 93,
      "votes": {
-      "positive": 14644,
+      "positive": 14649,
       "negative": 1061,
       "neutral": 953
      },

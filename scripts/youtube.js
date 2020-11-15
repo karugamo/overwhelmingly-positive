@@ -5,15 +5,16 @@ const delay = require('delay')
 const fs = require('fs')
 const dayjs = require('dayjs')
 
-const games = require('../data/raw-games.json')
+const {load} = require('./lib')
+
+const games = load('top-games-steamdb')
+const appIdToVideo = load('appid-to-video')
+
 const {resolve} = require('path')
 
 async function main() {
-  const gamesNeedNewVideo = games.filter(
-    (game) =>
-      !game.video ||
-      dayjs(game.video.lastUpdated).isBefore(dayjs().subtract(2, 'month'))
-  )
+  const gamesNeedNewVideo = games.filter(needsVideo)
+
   for (const game of gamesNeedNewVideo) {
     delay(300)
 
@@ -21,7 +22,8 @@ async function main() {
 
     if (videoId) {
       console.log(game.name, `https://www.youtube.com/watch?v=${videoId}`)
-      game.video = {
+
+      appIdToVideo[game.appId] = {
         id: videoId,
         lastUpdated: new Date()
       }
@@ -53,4 +55,18 @@ module.exports = main
 
 if (require.main === module) {
   main()
+}
+
+function needsVideo(game) {
+  const {appId} = game
+
+  const video = appIdToVideo[appId]
+
+  if (!video) return true
+
+  const isOlderThanTwoMonth = dayjs(video.lastUpdated).isBefore(
+    dayjs().subtract(2, 'month')
+  )
+
+  return isOlderThanTwoMonth
 }
