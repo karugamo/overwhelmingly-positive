@@ -988,12 +988,13 @@
   ]
  },
  "400": {
-  "slug": "portal-steam-key-global-i10000004699008",
+  "appId": "400",
+  "slug": "portal-steam-gift-global-i10000004699002",
   "offers": [
    {
-    "id": "12048138",
+    "id": "12616664",
     "isG2APlusOffer": false,
-    "clearId": "12048138",
+    "clearId": "12616664",
     "selectedOffer": false,
     "isBestPrice": false,
     "isTrust": true,
@@ -1002,33 +1003,33 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 8.3082,
-     "suggestedPrice": null,
-     "discountAmount": null,
-     "discountPercent": null
+     "price": 8.1154,
+     "suggestedPrice": 8.19,
+     "discountAmount": 0.0746,
+     "discountPercent": "0"
     },
     "price": {
-     "base": 7.89,
-     "value": 9.23,
+     "base": 6.99,
+     "value": 9.02,
      "noPennies": false,
      "currency": "EUR"
     },
     "customer": {
-     "id": 2002942,
-     "encodedId": "43ba65fa7af1cdd792c8f7e15cd4165b",
-     "encodedUid": "76eaf74d0f83304a07b33177635bd6b2cd9e41d89f93e4d682e35914bf9f1b1afd28177906a97c1e2f58b13bfcb42fac",
-     "name": "Kindstore",
+     "id": 2942338,
+     "encodedId": "2b4614fc5aa6e3d0b147b4c0bc4685de",
+     "encodedUid": "71bff7369bcab432b0916ff91df58e20b725808d3b35e1aeb7682a861074e21c5bb2ce0e5cd04dde2393c19924bfac48",
+     "name": "Flatmood",
      "type": null,
      "isDeveloper": false,
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 369,
-     "rating": 85,
+     "transactions": 3,
+     "rating": 100,
      "votes": {
-      "positive": 295,
-      "negative": 53,
-      "neutral": 21
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
      },
      "invoice": false,
      "policy": null,
@@ -1037,9 +1038,147 @@
     }
    },
    {
-    "id": "12048138!",
+    "id": "12100620",
     "isG2APlusOffer": false,
-    "clearId": "12048138",
+    "clearId": "12100620",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": null,
+    "plusDiscount": {
+     "price": 8.127,
+     "suggestedPrice": 8.19,
+     "discountAmount": 0.063,
+     "discountPercent": "0"
+    },
+    "price": {
+     "base": 7,
+     "value": 9.03,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 13228564,
+     "encodedId": "31851d43fb72ced2dc88198fa9dd81b6",
+     "encodedUid": "152625148e61cced6ca9be3be15e40d3b3d7083cf46784c5131ece223afe7bcb3da178ebae8aa52c49cf9bb89131dc3f",
+     "name": "Andreas89",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 68,
+     "rating": 84,
+     "votes": {
+      "positive": 56,
+      "negative": 11,
+      "neutral": 1
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12305073",
+    "isG2APlusOffer": false,
+    "clearId": "12305073",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": null,
+    "plusDiscount": {
+     "price": 8.4173,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
+    },
+    "price": {
+     "base": 7.25,
+     "value": 9.35,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 441666,
+     "encodedId": "2c36dbb9503fd85f0d3d2ae7025f1952",
+     "encodedUid": "3508362d474199fd52e62abd086a41ce698693df1b7666cbabc7210e8502c6b925280444a094080d945eb4460cf74d5a",
+     "name": "Kortulsgameroom",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 148,
+     "rating": 97,
+     "votes": {
+      "positive": 126,
+      "negative": 4,
+      "neutral": 18
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12127397",
+    "isG2APlusOffer": false,
+    "clearId": "12127397",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": null,
+    "plusDiscount": {
+     "price": 9.1927,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
+    },
+    "price": {
+     "base": 8.73,
+     "value": 10.21,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 593888,
+     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
+     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
+     "name": "Wild_games",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 16666,
+     "rating": 93,
+     "votes": {
+      "positive": 14652,
+      "negative": 1061,
+      "neutral": 953
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12127397!",
+    "isG2APlusOffer": false,
+    "clearId": "12127397",
     "selectedOffer": true,
     "isBestPrice": false,
     "isTrust": true,
@@ -1048,33 +1187,33 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 8.3082,
+     "price": 9.1927,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 7.89,
-     "value": 9.23,
+     "base": 8.73,
+     "value": 10.21,
      "noPennies": false,
      "currency": "EUR"
     },
     "customer": {
-     "id": 2002942,
-     "encodedId": "43ba65fa7af1cdd792c8f7e15cd4165b",
-     "encodedUid": "76eaf74d0f83304a07b33177635bd6b2cd9e41d89f93e4d682e35914bf9f1b1afd28177906a97c1e2f58b13bfcb42fac",
-     "name": "Kindstore",
+     "id": 593888,
+     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
+     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
+     "name": "Wild_games",
      "type": null,
      "isDeveloper": false,
-     "isTrusted": false,
+     "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 369,
-     "rating": 85,
+     "transactions": 16666,
+     "rating": 93,
      "votes": {
-      "positive": 295,
-      "negative": 53,
-      "neutral": 21
+      "positive": 14652,
+      "negative": 1061,
+      "neutral": 953
      },
      "invoice": false,
      "policy": null,
@@ -1083,9 +1222,9 @@
     }
    },
    {
-    "id": "12274135",
+    "id": "12384552",
     "isG2APlusOffer": false,
-    "clearId": "12274135",
+    "clearId": "12384552",
     "selectedOffer": false,
     "isBestPrice": false,
     "isTrust": true,
@@ -1094,33 +1233,33 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 8.4029,
+     "price": 14.1967,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 7.98,
-     "value": 9.34,
+     "base": 13.54,
+     "value": 15.77,
      "noPennies": false,
      "currency": "EUR"
     },
     "customer": {
-     "id": 6162713,
-     "encodedId": "4e615a8afbfe484606371e20a2484901",
-     "encodedUid": "4944f8a0e10882084c10b8ba59b2fc2a77746f2f27ec1a573a53319771b05a15de88f39260201717af482e3dd7aae899",
-     "name": "Thebap",
+     "id": 3563716,
+     "encodedId": "d1e2501db965bb2026b81e35ab26bf15",
+     "encodedUid": "ee2e6b853c1c55a1b6447180876d71266a613b5ece1f81fd4d63f9f36245404c39e24fde2930bae3b372fd147e152fe7",
+     "name": "Bestbuy86",
      "type": null,
      "isDeveloper": false,
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 316,
-     "rating": 89,
+     "transactions": 696,
+     "rating": 94,
      "votes": {
-      "positive": 266,
-      "negative": 32,
-      "neutral": 18
+      "positive": 628,
+      "negative": 42,
+      "neutral": 26
      },
      "invoice": false,
      "policy": null,
@@ -1616,6 +1755,7 @@
   ]
  },
  "550": {
+  "appId": "550",
   "slug": "left-4-dead-2-steam-gift-global-i10000002208003",
   "offers": [
    {
@@ -1628,21 +1768,16 @@
     "delayed": false,
     "type": "steam",
     "special": false,
-    "discount": {
-     "price": 7.1337,
-     "suggestedPrice": 8.19,
-     "discountAmount": 1.0563,
-     "discountPercent": "12"
-    },
+    "discount": null,
     "plusDiscount": {
-     "price": 6.4203,
-     "suggestedPrice": 8.19,
-     "discountAmount": 1.7697,
-     "discountPercent": "21"
+     "price": 8.93,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
     },
     "price": {
-     "base": 5.53,
-     "value": 7.13,
+     "base": 8.93,
+     "value": 8.93,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -1656,12 +1791,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16299,
+     "transactions": 16666,
      "rating": 93,
      "votes": {
-      "positive": 14297,
-      "negative": 1056,
-      "neutral": 946
+      "positive": 14652,
+      "negative": 1061,
+      "neutral": 953
      },
      "invoice": false,
      "policy": null,
@@ -1679,21 +1814,16 @@
     "delayed": false,
     "type": "steam",
     "special": false,
-    "discount": {
-     "price": 7.1337,
-     "suggestedPrice": 8.19,
-     "discountAmount": 1.0563,
-     "discountPercent": "12"
-    },
+    "discount": null,
     "plusDiscount": {
-     "price": 6.4203,
-     "suggestedPrice": 8.19,
-     "discountAmount": 1.7697,
-     "discountPercent": "21"
+     "price": 8.93,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
     },
     "price": {
-     "base": 5.53,
-     "value": 7.13,
+     "base": 8.93,
+     "value": 8.93,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -1707,12 +1837,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16299,
+     "transactions": 16666,
      "rating": 93,
      "votes": {
-      "positive": 14297,
-      "negative": 1056,
-      "neutral": 946
+      "positive": 14652,
+      "negative": 1061,
+      "neutral": 953
      },
      "invoice": false,
      "policy": null,
@@ -1732,14 +1862,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 8.94,
+     "price": 9.95,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 8.94,
-     "value": 8.94,
+     "base": 9.95,
+     "value": 9.95,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -1753,58 +1883,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 33993,
-     "rating": 93,
+     "transactions": 34335,
+     "rating": 92,
      "votes": {
-      "positive": 28524,
-      "negative": 2296,
-      "neutral": 3173
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12360384",
-    "isG2APlusOffer": false,
-    "clearId": "12360384",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "steam",
-    "special": false,
-    "discount": null,
-    "plusDiscount": {
-     "price": 9.23,
-     "suggestedPrice": null,
-     "discountAmount": null,
-     "discountPercent": null
-    },
-    "price": {
-     "base": 9.23,
-     "value": 9.23,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 441666,
-     "encodedId": "2c36dbb9503fd85f0d3d2ae7025f1952",
-     "encodedUid": "3508362d474199fd52e62abd086a41ce698693df1b7666cbabc7210e8502c6b925280444a094080d945eb4460cf74d5a",
-     "name": "Kortulsgameroom",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": false,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 151,
-     "rating": 97,
-     "votes": {
-      "positive": 128,
-      "negative": 4,
-      "neutral": 19
+      "positive": 28795,
+      "negative": 2404,
+      "neutral": 3136
      },
      "invoice": false,
      "policy": null,
@@ -1845,12 +1929,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 4866,
+     "transactions": 4847,
      "rating": 85,
      "votes": {
-      "positive": 3596,
-      "negative": 640,
-      "neutral": 630
+      "positive": 3592,
+      "negative": 641,
+      "neutral": 614
      },
      "invoice": false,
      "policy": null,
@@ -1861,100 +1945,9 @@
   ]
  },
  "620": {
+  "appId": "620",
   "slug": "portal-2-steam-gift-global-i10000001119002",
   "offers": [
-   {
-    "id": "12283115",
-    "isG2APlusOffer": false,
-    "clearId": "12283115",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "steam",
-    "special": false,
-    "discount": null,
-    "plusDiscount": {
-     "price": 8.79,
-     "suggestedPrice": null,
-     "discountAmount": null,
-     "discountPercent": null
-    },
-    "price": {
-     "base": 8.79,
-     "value": 8.79,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 1065801,
-     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
-     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
-     "name": "World_of_games",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 33993,
-     "rating": 93,
-     "votes": {
-      "positive": 28524,
-      "negative": 2296,
-      "neutral": 3173
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12283115!",
-    "isG2APlusOffer": false,
-    "clearId": "12283115",
-    "selectedOffer": true,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "steam",
-    "special": false,
-    "discount": null,
-    "plusDiscount": {
-     "price": 8.79,
-     "suggestedPrice": null,
-     "discountAmount": null,
-     "discountPercent": null
-    },
-    "price": {
-     "base": 8.79,
-     "value": 8.79,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 1065801,
-     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
-     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
-     "name": "World_of_games",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 33993,
-     "rating": 93,
-     "votes": {
-      "positive": 28524,
-      "negative": 2296,
-      "neutral": 3173
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
    {
     "id": "12075926",
     "isG2APlusOffer": false,
@@ -1967,14 +1960,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 8.8,
+     "price": 8.77,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 8.8,
-     "value": 8.8,
+     "base": 8.77,
+     "value": 8.77,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -1988,12 +1981,104 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16300,
+     "transactions": 16664,
      "rating": 93,
      "votes": {
-      "positive": 14298,
-      "negative": 1056,
-      "neutral": 946
+      "positive": 14650,
+      "negative": 1061,
+      "neutral": 953
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12075926!",
+    "isG2APlusOffer": false,
+    "clearId": "12075926",
+    "selectedOffer": true,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": null,
+    "plusDiscount": {
+     "price": 8.77,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
+    },
+    "price": {
+     "base": 8.77,
+     "value": 8.77,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 593888,
+     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
+     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
+     "name": "Wild_games",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 16664,
+     "rating": 93,
+     "votes": {
+      "positive": 14650,
+      "negative": 1061,
+      "neutral": 953
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12283115",
+    "isG2APlusOffer": false,
+    "clearId": "12283115",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": null,
+    "plusDiscount": {
+     "price": 8.78,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
+    },
+    "price": {
+     "base": 8.78,
+     "value": 8.78,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 1065801,
+     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
+     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
+     "name": "World_of_games",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 34332,
+     "rating": 92,
+     "votes": {
+      "positive": 28792,
+      "negative": 2404,
+      "neutral": 3136
      },
      "invoice": false,
      "policy": null,
@@ -2034,10 +2119,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1,
-     "rating": 100,
+     "transactions": 0,
+     "rating": 0,
      "votes": {
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
       "neutral": 0
      },
@@ -2080,12 +2165,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 151,
+     "transactions": 148,
      "rating": 97,
      "votes": {
-      "positive": 128,
+      "positive": 126,
       "negative": 4,
-      "neutral": 19
+      "neutral": 18
      },
      "invoice": false,
      "policy": null,
@@ -2126,11 +2211,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 677,
+     "transactions": 696,
      "rating": 94,
      "votes": {
-      "positive": 611,
-      "negative": 40,
+      "positive": 628,
+      "negative": 42,
       "neutral": 26
      },
      "invoice": false,
@@ -2172,12 +2257,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 4866,
+     "transactions": 4847,
      "rating": 85,
      "votes": {
-      "positive": 3596,
-      "negative": 640,
-      "neutral": 630
+      "positive": 3592,
+      "negative": 641,
+      "neutral": 614
      },
      "invoice": false,
      "policy": null,
@@ -16331,263 +16416,9 @@
   ]
  },
  "48700": {
+  "appId": "48700",
   "slug": "mount-blade-warband-steam-key-global-i10000006352007",
   "offers": [
-   {
-    "id": "12615338",
-    "isG2APlusOffer": false,
-    "clearId": "12615338",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": {
-     "price": 3.6432,
-     "suggestedPrice": 19.99,
-     "discountAmount": 16.3468,
-     "discountPercent": "81"
-    },
-    "plusDiscount": {
-     "price": 3.2789,
-     "suggestedPrice": 19.99,
-     "discountAmount": 16.7111,
-     "discountPercent": "83"
-    },
-    "price": {
-     "base": 2.76,
-     "value": 3.64,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 15170541,
-     "encodedId": "89408e175e53a4001f65c2011dc5869d",
-     "encodedUid": "8ec76d1cbfb62dbaf6b5172807cab7d7310619bc4183263f76b8733ba0291b2329abb4e5f83136db35a8863dcbe3b894",
-     "name": "Blastgames",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": false,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 109,
-     "rating": 96,
-     "votes": {
-      "positive": 90,
-      "negative": 15,
-      "neutral": 15
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12615338!",
-    "isG2APlusOffer": false,
-    "clearId": "12615338",
-    "selectedOffer": true,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": {
-     "price": 3.6432,
-     "suggestedPrice": 19.99,
-     "discountAmount": 16.3468,
-     "discountPercent": "81"
-    },
-    "plusDiscount": {
-     "price": 3.2789,
-     "suggestedPrice": 19.99,
-     "discountAmount": 16.7111,
-     "discountPercent": "83"
-    },
-    "price": {
-     "base": 2.76,
-     "value": 3.64,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 15170541,
-     "encodedId": "89408e175e53a4001f65c2011dc5869d",
-     "encodedUid": "8ec76d1cbfb62dbaf6b5172807cab7d7310619bc4183263f76b8733ba0291b2329abb4e5f83136db35a8863dcbe3b894",
-     "name": "Blastgames",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": false,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 109,
-     "rating": 96,
-     "votes": {
-      "positive": 90,
-      "negative": 15,
-      "neutral": 15
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "1291391",
-    "isG2APlusOffer": false,
-    "clearId": "1291391",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "game",
-    "special": false,
-    "discount": {
-     "price": 4.356,
-     "suggestedPrice": 19.99,
-     "discountAmount": 15.634,
-     "discountPercent": "78"
-    },
-    "plusDiscount": {
-     "price": 3.9204,
-     "suggestedPrice": 19.99,
-     "discountAmount": 16.0696,
-     "discountPercent": "80"
-    },
-    "price": {
-     "base": 3.3,
-     "value": 4.36,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 775124,
-     "encodedId": "b030049940ff4d47d6f956a3d26a5fc3",
-     "encodedUid": "771e55c9c4c46d5a7639f4af35881a074d0afffc78997b77a837495004a76ffd87c8f0f4c2cc608d7f09c37b802d4234",
-     "name": "Buy_and_play",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 1113,
-     "rating": 95,
-     "votes": {
-      "positive": 1016,
-      "negative": 52,
-      "neutral": 45
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12444775",
-    "isG2APlusOffer": false,
-    "clearId": "12444775",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": {
-     "price": 4.3692,
-     "suggestedPrice": 19.99,
-     "discountAmount": 15.6208,
-     "discountPercent": "78"
-    },
-    "plusDiscount": {
-     "price": 3.9323,
-     "suggestedPrice": 19.99,
-     "discountAmount": 16.0577,
-     "discountPercent": "80"
-    },
-    "price": {
-     "base": 3.31,
-     "value": 4.37,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 28533055,
-     "encodedId": "7fa8d887ee313f772097a6e7501e5590",
-     "encodedUid": "fdc8a2c09f5ea4203f43fce3b0122935d0d7821f0812b8028c6fa978e66cf2e9be03f5f477cd9b0694ccbbc378667f58",
-     "name": "Claincir",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 5476,
-     "rating": 94,
-     "votes": {
-      "positive": 4399,
-      "negative": 288,
-      "neutral": 789
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12332777",
-    "isG2APlusOffer": false,
-    "clearId": "12332777",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": {
-     "price": 4.488,
-     "suggestedPrice": 19.99,
-     "discountAmount": 15.502,
-     "discountPercent": "77"
-    },
-    "plusDiscount": {
-     "price": 4.0392,
-     "suggestedPrice": 19.99,
-     "discountAmount": 15.9508,
-     "discountPercent": "79"
-    },
-    "price": {
-     "base": 3.4,
-     "value": 4.49,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 2865211,
-     "encodedId": "8501acaa9514409d4469d921f11d29bc",
-     "encodedUid": "5e7257f230925a4a28c05421c15245cd9ffe3e89d252d6424b23d0bb2b8e631a8a1c8f99ba1df55bdf6fd4ec3a9e8c73",
-     "name": "Gmcomparecom",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 3124,
-     "rating": 100,
-     "votes": {
-      "positive": 3025,
-      "negative": 10,
-      "neutral": 89
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
    {
     "id": "12041820",
     "isG2APlusOffer": false,
@@ -16626,12 +16457,165 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 872,
+     "transactions": 883,
      "rating": 100,
      "votes": {
-      "positive": 837,
+      "positive": 847,
       "negative": 3,
-      "neutral": 32
+      "neutral": 33
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12041820!",
+    "isG2APlusOffer": false,
+    "clearId": "12041820",
+    "selectedOffer": true,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "game",
+    "special": false,
+    "discount": {
+     "price": 4.95,
+     "suggestedPrice": 19.99,
+     "discountAmount": 15.04,
+     "discountPercent": "75"
+    },
+    "plusDiscount": {
+     "price": 4.455,
+     "suggestedPrice": 19.99,
+     "discountAmount": 15.535,
+     "discountPercent": "77"
+    },
+    "price": {
+     "base": 3.75,
+     "value": 4.95,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 14914043,
+     "encodedId": "f3ed4b8b49d09ab3b9eebe298378c7f4",
+     "encodedUid": "67e4b3d4309b6f35cc68e3216fbf8ebfc8e833b3498e33013d81013acd8252cd8909269b96c06d3e03d568d15819999b",
+     "name": "Games_hub",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 883,
+     "rating": 100,
+     "votes": {
+      "positive": 847,
+      "negative": 3,
+      "neutral": 33
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12444775",
+    "isG2APlusOffer": false,
+    "clearId": "12444775",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "dropshipping",
+    "special": false,
+    "discount": {
+     "price": 4.9764,
+     "suggestedPrice": 19.99,
+     "discountAmount": 15.0136,
+     "discountPercent": "75"
+    },
+    "plusDiscount": {
+     "price": 4.4788,
+     "suggestedPrice": 19.99,
+     "discountAmount": 15.5112,
+     "discountPercent": "77"
+    },
+    "price": {
+     "base": 3.77,
+     "value": 4.98,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 28533055,
+     "encodedId": "7fa8d887ee313f772097a6e7501e5590",
+     "encodedUid": "fdc8a2c09f5ea4203f43fce3b0122935d0d7821f0812b8028c6fa978e66cf2e9be03f5f477cd9b0694ccbbc378667f58",
+     "name": "Claincir",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 5874,
+     "rating": 93,
+     "votes": {
+      "positive": 4724,
+      "negative": 337,
+      "neutral": 813
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12615338",
+    "isG2APlusOffer": false,
+    "clearId": "12615338",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "dropshipping",
+    "special": false,
+    "discount": {
+     "price": 4.9764,
+     "suggestedPrice": 19.99,
+     "discountAmount": 15.0136,
+     "discountPercent": "75"
+    },
+    "plusDiscount": {
+     "price": 4.4788,
+     "suggestedPrice": 19.99,
+     "discountAmount": 15.5112,
+     "discountPercent": "77"
+    },
+    "price": {
+     "base": 3.77,
+     "value": 4.98,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 15170541,
+     "encodedId": "89408e175e53a4001f65c2011dc5869d",
+     "encodedUid": "8ec76d1cbfb62dbaf6b5172807cab7d7310619bc4183263f76b8733ba0291b2329abb4e5f83136db35a8863dcbe3b894",
+     "name": "Blastgames",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 128,
+     "rating": 91,
+     "votes": {
+      "positive": 106,
+      "negative": 10,
+      "neutral": 12
      },
      "invoice": false,
      "policy": null,
@@ -16650,20 +16634,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 5.1084,
+     "price": 5.148,
      "suggestedPrice": 19.99,
-     "discountAmount": 14.8816,
+     "discountAmount": 14.842,
      "discountPercent": "74"
     },
     "plusDiscount": {
-     "price": 4.5976,
+     "price": 4.6332,
      "suggestedPrice": 19.99,
-     "discountAmount": 15.3924,
-     "discountPercent": "77"
+     "discountAmount": 15.3568,
+     "discountPercent": "76"
     },
     "price": {
-     "base": 3.87,
-     "value": 5.11,
+     "base": 3.9,
+     "value": 5.15,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -16677,12 +16661,63 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 369,
+     "transactions": 399,
+     "rating": 96,
+     "votes": {
+      "positive": 319,
+      "negative": 15,
+      "neutral": 65
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "11695731",
+    "isG2APlusOffer": false,
+    "clearId": "11695731",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "dropshipping",
+    "special": false,
+    "discount": {
+     "price": 5.2404,
+     "suggestedPrice": 19.99,
+     "discountAmount": 14.7496,
+     "discountPercent": "73"
+    },
+    "plusDiscount": {
+     "price": 4.7164,
+     "suggestedPrice": 19.99,
+     "discountAmount": 15.2736,
+     "discountPercent": "76"
+    },
+    "price": {
+     "base": 3.97,
+     "value": 5.24,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 22379105,
+     "encodedId": "ee66dff2b8c288fb50d17167eb1312e9",
+     "encodedUid": "1b3578cb974c4d328ddb056d55d50eafb2470ecb2f8c7dff9dd57fadafa995e20035df16b65fc25e9bc128f546b63f90",
+     "name": "Outlawgames",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 24348,
      "rating": 99,
      "votes": {
-      "positive": 300,
-      "negative": 4,
-      "neutral": 65
+      "positive": 20936,
+      "negative": 158,
+      "neutral": 3254
      },
      "invoice": false,
      "policy": null,
@@ -16728,63 +16763,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 317,
-     "rating": 93,
+     "transactions": 325,
+     "rating": 92,
      "votes": {
-      "positive": 267,
-      "negative": 21,
+      "positive": 273,
+      "negative": 23,
       "neutral": 29
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "11695731",
-    "isG2APlusOffer": false,
-    "clearId": "11695731",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": {
-     "price": 5.2932,
-     "suggestedPrice": 19.99,
-     "discountAmount": 14.6968,
-     "discountPercent": "73"
-    },
-    "plusDiscount": {
-     "price": 4.7639,
-     "suggestedPrice": 19.99,
-     "discountAmount": 15.2261,
-     "discountPercent": "76"
-    },
-    "price": {
-     "base": 4.01,
-     "value": 5.29,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 22379105,
-     "encodedId": "ee66dff2b8c288fb50d17167eb1312e9",
-     "encodedUid": "1b3578cb974c4d328ddb056d55d50eafb2470ecb2f8c7dff9dd57fadafa995e20035df16b65fc25e9bc128f546b63f90",
-     "name": "Outlawgames",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 24352,
-     "rating": 99,
-     "votes": {
-      "positive": 20929,
-      "negative": 171,
-      "neutral": 3252
      },
      "invoice": false,
      "policy": null,
@@ -16803,20 +16787,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 5.4912,
+     "price": 5.346,
      "suggestedPrice": 19.99,
-     "discountAmount": 14.4988,
-     "discountPercent": "72"
+     "discountAmount": 14.644,
+     "discountPercent": "73"
     },
     "plusDiscount": {
-     "price": 4.9421,
+     "price": 4.8114,
      "suggestedPrice": 19.99,
-     "discountAmount": 15.0479,
+     "discountAmount": 15.1786,
      "discountPercent": "75"
     },
     "price": {
-     "base": 4.16,
-     "value": 5.49,
+     "base": 4.05,
+     "value": 5.35,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -16830,12 +16814,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 2736,
+     "transactions": 2743,
      "rating": 99,
      "votes": {
-      "positive": 2164,
-      "negative": 27,
-      "neutral": 545
+      "positive": 2169,
+      "negative": 30,
+      "neutral": 544
      },
      "invoice": false,
      "policy": null,
@@ -16881,11 +16865,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 447,
+     "transactions": 435,
      "rating": 99,
      "votes": {
-      "positive": 417,
-      "negative": 3,
+      "positive": 404,
+      "negative": 4,
       "neutral": 27
      },
      "invoice": false,
@@ -16932,11 +16916,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 121,
-     "rating": 89,
+     "transactions": 113,
+     "rating": 87,
      "votes": {
-      "positive": 102,
-      "negative": 13,
+      "positive": 93,
+      "negative": 14,
       "neutral": 6
      },
      "invoice": false,
@@ -17034,12 +17018,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 849,
+     "transactions": 808,
      "rating": 95,
      "votes": {
-      "positive": 771,
-      "negative": 37,
-      "neutral": 41
+      "positive": 732,
+      "negative": 36,
+      "neutral": 40
      },
      "invoice": false,
      "policy": null,
@@ -17085,12 +17069,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 557,
+     "transactions": 562,
      "rating": 100,
      "votes": {
-      "positive": 550,
+      "positive": 556,
       "negative": 0,
-      "neutral": 7
+      "neutral": 6
      },
      "invoice": false,
      "policy": null,
@@ -17136,12 +17120,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 3526,
-     "rating": 99,
+     "transactions": 3595,
+     "rating": 98,
      "votes": {
-      "positive": 2815,
-      "negative": 32,
-      "neutral": 679
+      "positive": 2860,
+      "negative": 59,
+      "neutral": 676
      },
      "invoice": false,
      "policy": null,
@@ -17187,12 +17171,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 113,
-     "rating": 94,
+     "transactions": 115,
+     "rating": 93,
      "votes": {
-      "positive": 93,
-      "negative": 6,
-      "neutral": 14
+      "positive": 95,
+      "negative": 7,
+      "neutral": 13
      },
      "invoice": false,
      "policy": null,
@@ -17238,10 +17222,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 233,
+     "transactions": 237,
      "rating": 100,
      "votes": {
-      "positive": 229,
+      "positive": 233,
       "negative": 0,
       "neutral": 4
      },
@@ -17340,11 +17324,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 973,
+     "transactions": 965,
      "rating": 100,
      "votes": {
-      "positive": 904,
-      "negative": 2,
+      "positive": 895,
+      "negative": 3,
       "neutral": 67
      },
      "invoice": false,
@@ -22797,6 +22781,7 @@
   ]
  },
  "105600": {
+  "appId": "105600",
   "slug": "terraria-steam-gift-global-i10000000238003",
   "offers": [
    {
@@ -22810,20 +22795,20 @@
     "type": "steam",
     "special": false,
     "discount": {
-     "price": 5.057,
+     "price": 5.187,
      "suggestedPrice": 9.99,
-     "discountAmount": 4.933,
-     "discountPercent": "49"
+     "discountAmount": 4.803,
+     "discountPercent": "48"
     },
     "plusDiscount": {
-     "price": 4.5513,
+     "price": 4.6683,
      "suggestedPrice": 9.99,
-     "discountAmount": 5.4387,
-     "discountPercent": "54"
+     "discountAmount": 5.3217,
+     "discountPercent": "53"
     },
     "price": {
-     "base": 3.89,
-     "value": 5.06,
+     "base": 3.99,
+     "value": 5.19,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -22837,12 +22822,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1038,
+     "transactions": 1051,
      "rating": 98,
      "votes": {
-      "positive": 965,
+      "positive": 974,
       "negative": 19,
-      "neutral": 54
+      "neutral": 58
      },
      "invoice": false,
      "policy": null,
@@ -22861,20 +22846,20 @@
     "type": "steam",
     "special": false,
     "discount": {
-     "price": 5.057,
+     "price": 5.187,
      "suggestedPrice": 9.99,
-     "discountAmount": 4.933,
-     "discountPercent": "49"
+     "discountAmount": 4.803,
+     "discountPercent": "48"
     },
     "plusDiscount": {
-     "price": 4.5513,
+     "price": 4.6683,
      "suggestedPrice": 9.99,
-     "discountAmount": 5.4387,
-     "discountPercent": "54"
+     "discountAmount": 5.3217,
+     "discountPercent": "53"
     },
     "price": {
-     "base": 3.89,
-     "value": 5.06,
+     "base": 3.99,
+     "value": 5.19,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -22888,12 +22873,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 381,
+     "transactions": 391,
      "rating": 89,
      "votes": {
-      "positive": 326,
-      "negative": 41,
-      "neutral": 14
+      "positive": 336,
+      "negative": 40,
+      "neutral": 15
      },
      "invoice": false,
      "policy": null,
@@ -22939,11 +22924,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1311,
+     "transactions": 1312,
      "rating": 87,
      "votes": {
-      "positive": 1125,
-      "negative": 174,
+      "positive": 1127,
+      "negative": 173,
       "neutral": 12
      },
      "invoice": false,
@@ -22990,12 +22975,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 33993,
-     "rating": 93,
+     "transactions": 34332,
+     "rating": 92,
      "votes": {
-      "positive": 28524,
-      "negative": 2296,
-      "neutral": 3173
+      "positive": 28792,
+      "negative": 2404,
+      "neutral": 3136
      },
      "invoice": false,
      "policy": null,
@@ -23041,12 +23026,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 316,
+     "transactions": 320,
      "rating": 89,
      "votes": {
-      "positive": 266,
+      "positive": 269,
       "negative": 32,
-      "neutral": 18
+      "neutral": 19
      },
      "invoice": false,
      "policy": null,
@@ -23065,20 +23050,20 @@
     "type": "steam",
     "special": false,
     "discount": {
-     "price": 6.0762,
+     "price": 6.1562,
      "suggestedPrice": 9.99,
-     "discountAmount": 3.9138,
-     "discountPercent": "39"
+     "discountAmount": 3.8338,
+     "discountPercent": "38"
     },
     "plusDiscount": {
-     "price": 5.4686,
+     "price": 5.5405,
      "suggestedPrice": 9.99,
-     "discountAmount": 4.5214,
-     "discountPercent": "45"
+     "discountAmount": 4.4495,
+     "discountPercent": "44"
     },
     "price": {
-     "base": 4.67,
-     "value": 6.08,
+     "base": 4.74,
+     "value": 6.16,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -23092,11 +23077,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 115,
-     "rating": 96,
+     "transactions": 122,
+     "rating": 95,
      "votes": {
-      "positive": 108,
-      "negative": 5,
+      "positive": 114,
+      "negative": 6,
       "neutral": 2
      },
      "invoice": false,
@@ -23143,11 +23128,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 569,
+     "transactions": 570,
      "rating": 97,
      "votes": {
-      "positive": 541,
-      "negative": 19,
+      "positive": 543,
+      "negative": 18,
       "neutral": 9
      },
      "invoice": false,
@@ -23173,13 +23158,13 @@
      "discountPercent": "15"
     },
     "plusDiscount": {
-     "price": 8.109,
+     "price": 8.1885,
      "suggestedPrice": 9.99,
-     "discountAmount": 1.881,
+     "discountAmount": 1.8015,
      "discountPercent": "18"
     },
     "price": {
-     "base": 8.11,
+     "base": 8.19,
      "value": 8.49,
      "noPennies": false,
      "currency": "EUR"
@@ -23194,11 +23179,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1360,
+     "transactions": 1421,
      "rating": 98,
      "votes": {
-      "positive": 1053,
-      "negative": 19,
+      "positive": 1106,
+      "negative": 27,
       "neutral": 288
      },
      "invoice": false,
@@ -23224,13 +23209,13 @@
      "discountPercent": "15"
     },
     "plusDiscount": {
-     "price": 8.109,
+     "price": 8.1885,
      "suggestedPrice": 9.99,
-     "discountAmount": 1.881,
+     "discountAmount": 1.8015,
      "discountPercent": "18"
     },
     "price": {
-     "base": 8.11,
+     "base": 8.19,
      "value": 8.49,
      "noPennies": false,
      "currency": "EUR"
@@ -23245,11 +23230,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1360,
+     "transactions": 1421,
      "rating": 98,
      "votes": {
-      "positive": 1053,
-      "negative": 19,
+      "positive": 1106,
+      "negative": 27,
       "neutral": 288
      },
      "invoice": false,
@@ -23296,12 +23281,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 151,
+     "transactions": 148,
      "rating": 97,
      "votes": {
-      "positive": 128,
+      "positive": 126,
       "negative": 4,
-      "neutral": 19
+      "neutral": 18
      },
      "invoice": false,
      "policy": null,
@@ -23347,10 +23332,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 126,
-     "rating": 89,
+     "transactions": 125,
+     "rating": 88,
      "votes": {
-      "positive": 108,
+      "positive": 107,
       "negative": 14,
       "neutral": 4
      },
@@ -23398,10 +23383,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1054,
+     "transactions": 1057,
      "rating": 86,
      "votes": {
-      "positive": 897,
+      "positive": 900,
       "negative": 147,
       "neutral": 10
      },
@@ -23444,12 +23429,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 24352,
+     "transactions": 24347,
      "rating": 99,
      "votes": {
-      "positive": 20929,
-      "negative": 171,
-      "neutral": 3252
+      "positive": 20935,
+      "negative": 158,
+      "neutral": 3254
      },
      "invoice": false,
      "policy": null,
@@ -23490,12 +23475,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 2736,
+     "transactions": 2743,
      "rating": 99,
      "votes": {
-      "positive": 2164,
-      "negative": 27,
-      "neutral": 545
+      "positive": 2169,
+      "negative": 30,
+      "neutral": 544
      },
      "invoice": false,
      "policy": null,
@@ -35596,59 +35581,9 @@
   ]
  },
  "227300": {
+  "appId": "227300",
   "slug": "euro-truck-simulator-2-steam-key-global-i10000006437010",
   "offers": [
-   {
-    "id": "11982174",
-    "isG2APlusOffer": false,
-    "clearId": "11982174",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "game",
-    "special": false,
-    "discount": {
-     "price": 7.467,
-     "suggestedPrice": 19.99,
-     "discountAmount": 12.523,
-     "discountPercent": "62"
-    },
-    "plusDiscount": {
-     "price": 6.7203,
-     "suggestedPrice": 19.99,
-     "discountAmount": 13.2697,
-     "discountPercent": "66"
-    },
-    "price": {
-     "base": 5.7,
-     "value": 7.47,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 21501083,
-     "encodedId": "691b369a0bf7ac816076a481471a1877",
-     "encodedUid": "70618d513cbd22198b1af09f3e750346fb12904bfa014ecbf4db5973623bb5fb5d39e053340cf444b5d66bca0091e5ba",
-     "name": "Gamingimperium",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 29785,
-     "rating": 100,
-     "votes": {
-      "positive": 27178,
-      "negative": 114,
-      "neutral": 2493
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
    {
     "id": "12612216",
     "isG2APlusOffer": false,
@@ -35687,63 +35622,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 7314,
+     "transactions": 7365,
      "rating": 97,
      "votes": {
-      "positive": 6538,
-      "negative": 214,
-      "neutral": 562
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12444821",
-    "isG2APlusOffer": false,
-    "clearId": "12444821",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": {
-     "price": 7.467,
-     "suggestedPrice": 19.99,
-     "discountAmount": 12.523,
-     "discountPercent": "62"
-    },
-    "plusDiscount": {
-     "price": 6.7203,
-     "suggestedPrice": 19.99,
-     "discountAmount": 13.2697,
-     "discountPercent": "66"
-    },
-    "price": {
-     "base": 5.7,
-     "value": 7.47,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 28533055,
-     "encodedId": "7fa8d887ee313f772097a6e7501e5590",
-     "encodedUid": "fdc8a2c09f5ea4203f43fce3b0122935d0d7821f0812b8028c6fa978e66cf2e9be03f5f477cd9b0694ccbbc378667f58",
-     "name": "Claincir",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 5476,
-     "rating": 94,
-     "votes": {
-      "positive": 4399,
-      "negative": 288,
-      "neutral": 789
+      "positive": 6595,
+      "negative": 213,
+      "neutral": 557
      },
      "invoice": false,
      "policy": null,
@@ -35789,12 +35673,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 3492,
+     "transactions": 3442,
      "rating": 100,
      "votes": {
-      "positive": 3313,
-      "negative": 13,
-      "neutral": 166
+      "positive": 3268,
+      "negative": 16,
+      "neutral": 158
      },
      "invoice": false,
      "policy": null,
@@ -35803,9 +35687,9 @@
     }
    },
    {
-    "id": "12557927",
+    "id": "11709618",
     "isG2APlusOffer": false,
-    "clearId": "12557927",
+    "clearId": "11709618",
     "selectedOffer": false,
     "isBestPrice": false,
     "isTrust": true,
@@ -35813,39 +35697,39 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 7.8338,
+     "price": 7.7945,
      "suggestedPrice": 19.99,
-     "discountAmount": 12.1562,
-     "discountPercent": "60"
+     "discountAmount": 12.1955,
+     "discountPercent": "61"
     },
     "plusDiscount": {
-     "price": 7.0504,
+     "price": 7.0151,
      "suggestedPrice": 19.99,
-     "discountAmount": 12.9396,
+     "discountAmount": 12.9749,
      "discountPercent": "64"
     },
     "price": {
-     "base": 5.98,
-     "value": 7.83,
+     "base": 5.95,
+     "value": 7.79,
      "noPennies": false,
      "currency": "EUR"
     },
     "customer": {
-     "id": 30743957,
-     "encodedId": "935fcff6286c2694e738d394e8401814",
-     "encodedUid": "f72a1518f78a03376dcbc7422086c02471c139117f75c9a786506df74fd7e5abc13be4ff6ede2a336f62a23769e61075",
-     "name": "Lancce",
+     "id": 22379105,
+     "encodedId": "ee66dff2b8c288fb50d17167eb1312e9",
+     "encodedUid": "1b3578cb974c4d328ddb056d55d50eafb2470ecb2f8c7dff9dd57fadafa995e20035df16b65fc25e9bc128f546b63f90",
+     "name": "Outlawgames",
      "type": null,
      "isDeveloper": false,
-     "isTrusted": false,
+     "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 369,
+     "transactions": 24348,
      "rating": 99,
      "votes": {
-      "positive": 300,
-      "negative": 4,
-      "neutral": 65
+      "positive": 20936,
+      "negative": 158,
+      "neutral": 3254
      },
      "invoice": false,
      "policy": null,
@@ -35891,63 +35775,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 195,
+     "transactions": 198,
      "rating": 100,
      "votes": {
-      "positive": 186,
+      "positive": 189,
       "negative": 0,
       "neutral": 9
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "11709618",
-    "isG2APlusOffer": false,
-    "clearId": "11709618",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": {
-     "price": 8.1351,
-     "suggestedPrice": 19.99,
-     "discountAmount": 11.8549,
-     "discountPercent": "59"
-    },
-    "plusDiscount": {
-     "price": 7.3216,
-     "suggestedPrice": 19.99,
-     "discountAmount": 12.6684,
-     "discountPercent": "63"
-    },
-    "price": {
-     "base": 6.21,
-     "value": 8.14,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 22379105,
-     "encodedId": "ee66dff2b8c288fb50d17167eb1312e9",
-     "encodedUid": "1b3578cb974c4d328ddb056d55d50eafb2470ecb2f8c7dff9dd57fadafa995e20035df16b65fc25e9bc128f546b63f90",
-     "name": "Outlawgames",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 24352,
-     "rating": 99,
-     "votes": {
-      "positive": 20929,
-      "negative": 3252,
-      "neutral": 3252
      },
      "invoice": false,
      "policy": null,
@@ -35966,20 +35799,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 8.4233,
+     "price": 7.9386,
      "suggestedPrice": 19.99,
-     "discountAmount": 11.5667,
-     "discountPercent": "57"
+     "discountAmount": 12.0514,
+     "discountPercent": "60"
     },
     "plusDiscount": {
-     "price": 7.581,
+     "price": 7.1447,
      "suggestedPrice": 19.99,
-     "discountAmount": 12.409,
-     "discountPercent": "62"
+     "discountAmount": 12.8453,
+     "discountPercent": "64"
     },
     "price": {
-     "base": 6.43,
-     "value": 8.42,
+     "base": 6.06,
+     "value": 7.94,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -35993,12 +35826,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 2736,
+     "transactions": 2743,
      "rating": 99,
      "votes": {
-      "positive": 2164,
-      "negative": 545,
-      "neutral": 545
+      "positive": 2169,
+      "negative": 30,
+      "neutral": 544
      },
      "invoice": false,
      "policy": null,
@@ -36058,6 +35891,108 @@
     }
    },
    {
+    "id": "12591211",
+    "isG2APlusOffer": false,
+    "clearId": "12591211",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "game",
+    "special": false,
+    "discount": {
+     "price": 9.1361,
+     "suggestedPrice": 19.99,
+     "discountAmount": 10.8539,
+     "discountPercent": "54"
+    },
+    "plusDiscount": {
+     "price": 8.2225,
+     "suggestedPrice": 19.99,
+     "discountAmount": 11.7675,
+     "discountPercent": "58"
+    },
+    "price": {
+     "base": 6.97,
+     "value": 9.14,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 1072379,
+     "encodedId": "7037db82c3a88aad7c58ac008f62c6bd",
+     "encodedUid": "75d4cf12bbfea38b22aed5077da4931a0705233fa769eab0f367f5fe10f9b1dbe3fe984f3e8c2124d1aab6f09fa55cea",
+     "name": "Manipurasoftware",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 262,
+     "rating": 100,
+     "votes": {
+      "positive": 237,
+      "negative": 0,
+      "neutral": 25
+     },
+     "invoice": true,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "912712",
+    "isG2APlusOffer": false,
+    "clearId": "912712",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "game",
+    "special": false,
+    "discount": {
+     "price": 9.1683,
+     "suggestedPrice": 19.99,
+     "discountAmount": 10.8217,
+     "discountPercent": "54"
+    },
+    "plusDiscount": {
+     "price": 8.2515,
+     "suggestedPrice": 19.99,
+     "discountAmount": 11.7385,
+     "discountPercent": "58"
+    },
+    "price": {
+     "base": 7,
+     "value": 9.17,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 7779469,
+     "encodedId": "89beef0e900c23cf7c4c67c10c5637a8",
+     "encodedUid": "8931b66b512082f1a75394406a54e114c9b8467a9266cace94aca6f974e26b7f371a90114fe76e9f13e7475dbd3705ce",
+     "name": "R3dfox1_games",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 771,
+     "rating": 85,
+     "votes": {
+      "positive": 583,
+      "negative": 99,
+      "neutral": 89
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
     "id": "12224266",
     "isG2APlusOffer": false,
     "clearId": "12224266",
@@ -36095,12 +36030,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1299,
+     "transactions": 1324,
      "rating": 99,
      "votes": {
-      "positive": 1077,
-      "negative": 14,
-      "neutral": 208
+      "positive": 1101,
+      "negative": 12,
+      "neutral": 211
      },
      "invoice": false,
      "policy": null,
@@ -36146,11 +36081,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 327,
-     "rating": 95,
+     "transactions": 332,
+     "rating": 94,
      "votes": {
-      "positive": 275,
-      "negative": 16,
+      "positive": 278,
+      "negative": 18,
       "neutral": 36
      },
      "invoice": false,
@@ -36197,12 +36132,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 4080,
+     "transactions": 4078,
      "rating": 99,
      "votes": {
-      "positive": 3629,
-      "negative": 31,
-      "neutral": 420
+      "positive": 3628,
+      "negative": 32,
+      "neutral": 418
      },
      "invoice": false,
      "policy": null,
@@ -36221,20 +36156,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 10.3009,
+     "price": 10.2531,
      "suggestedPrice": 19.99,
-     "discountAmount": 9.6891,
+     "discountAmount": 9.7369,
      "discountPercent": "48"
     },
     "plusDiscount": {
-     "price": 9.2708,
+     "price": 9.2278,
      "suggestedPrice": 19.99,
-     "discountAmount": 10.7192,
+     "discountAmount": 10.7622,
      "discountPercent": "53"
     },
     "price": {
-     "base": 8.62,
-     "value": 10.3,
+     "base": 8.58,
+     "value": 10.25,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -36248,12 +36183,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 109,
-     "rating": 96,
+     "transactions": 128,
+     "rating": 91,
      "votes": {
-      "positive": 90,
-      "negative": 15,
-      "neutral": 15
+      "positive": 106,
+      "negative": 10,
+      "neutral": 12
      },
      "invoice": false,
      "policy": null,
@@ -36272,20 +36207,20 @@
     "type": "game",
     "special": false,
     "discount": {
-     "price": 10.9579,
+     "price": 11.0653,
      "suggestedPrice": 19.99,
-     "discountAmount": 9.0321,
-     "discountPercent": "45"
+     "discountAmount": 8.9247,
+     "discountPercent": "44"
     },
     "plusDiscount": {
-     "price": 9.8621,
+     "price": 9.9588,
      "suggestedPrice": 19.99,
-     "discountAmount": 10.1279,
+     "discountAmount": 10.0312,
      "discountPercent": "50"
     },
     "price": {
-     "base": 9.17,
-     "value": 10.96,
+     "base": 9.26,
+     "value": 11.07,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -36299,12 +36234,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 4044,
+     "transactions": 4091,
      "rating": 99,
      "votes": {
-      "positive": 3360,
-      "negative": 37,
-      "neutral": 647
+      "positive": 3400,
+      "negative": 49,
+      "neutral": 642
      },
      "invoice": false,
      "policy": null,
@@ -36323,20 +36258,20 @@
     "type": "game",
     "special": false,
     "discount": {
-     "price": 10.9579,
+     "price": 11.0653,
      "suggestedPrice": 19.99,
-     "discountAmount": 9.0321,
-     "discountPercent": "45"
+     "discountAmount": 8.9247,
+     "discountPercent": "44"
     },
     "plusDiscount": {
-     "price": 9.8621,
+     "price": 9.9588,
      "suggestedPrice": 19.99,
-     "discountAmount": 10.1279,
+     "discountAmount": 10.0312,
      "discountPercent": "50"
     },
     "price": {
-     "base": 9.17,
-     "value": 10.96,
+     "base": 9.26,
+     "value": 11.07,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -36350,12 +36285,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 4044,
+     "transactions": 4091,
      "rating": 99,
      "votes": {
-      "positive": 3360,
-      "negative": 37,
-      "neutral": 647
+      "positive": 3400,
+      "negative": 49,
+      "neutral": 642
      },
      "invoice": false,
      "policy": null,
@@ -36452,10 +36387,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 137,
-     "rating": 72,
+     "transactions": 134,
+     "rating": 71,
      "votes": {
-      "positive": 86,
+      "positive": 83,
       "negative": 34,
       "neutral": 17
      },
@@ -36656,12 +36591,63 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 61,
-     "rating": 91,
+     "transactions": 59,
+     "rating": 93,
      "votes": {
-      "positive": 43,
-      "negative": 4,
-      "neutral": 14
+      "positive": 41,
+      "negative": 3,
+      "neutral": 15
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12620506",
+    "isG2APlusOffer": false,
+    "clearId": "12620506",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "game",
+    "special": false,
+    "discount": {
+     "price": 13.8501,
+     "suggestedPrice": 19.99,
+     "discountAmount": 6.1399,
+     "discountPercent": "30"
+    },
+    "plusDiscount": {
+     "price": 12.465,
+     "suggestedPrice": 19.99,
+     "discountAmount": 7.525,
+     "discountPercent": "37"
+    },
+    "price": {
+     "base": 11.59,
+     "value": 13.85,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 32741633,
+     "encodedId": "f449bb1cec434f3c9cdc410aa53b3b98",
+     "encodedUid": "6effb2426b764c20cafef399b75c83ea07a3790c55b21f5d40ed2cd3e6e80508a51ea89e1d038d8939e6f7bc28085500",
+     "name": "Maplelog",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 0,
+     "rating": 0,
+     "votes": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 0
      },
      "invoice": false,
      "policy": null,
@@ -44457,110 +44443,9 @@
   ]
  },
  "250900": {
+  "appId": "250900",
   "slug": "the-binding-of-isaac-rebirth-steam-gift-global-i10000007814002",
   "offers": [
-   {
-    "id": "12075975",
-    "isG2APlusOffer": false,
-    "clearId": "12075975",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "steam",
-    "special": false,
-    "discount": {
-     "price": 13.16,
-     "suggestedPrice": 14.99,
-     "discountAmount": 1.83,
-     "discountPercent": "12"
-    },
-    "plusDiscount": {
-     "price": 13.16,
-     "suggestedPrice": 14.99,
-     "discountAmount": 1.83,
-     "discountPercent": "12"
-    },
-    "price": {
-     "base": 13.16,
-     "value": 13.16,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 593888,
-     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
-     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
-     "name": "Wild_games",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 16300,
-     "rating": 93,
-     "votes": {
-      "positive": 14298,
-      "negative": 1056,
-      "neutral": 946
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12075975!",
-    "isG2APlusOffer": false,
-    "clearId": "12075975",
-    "selectedOffer": true,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "steam",
-    "special": false,
-    "discount": {
-     "price": 13.16,
-     "suggestedPrice": 14.99,
-     "discountAmount": 1.83,
-     "discountPercent": "12"
-    },
-    "plusDiscount": {
-     "price": 13.16,
-     "suggestedPrice": 14.99,
-     "discountAmount": 1.83,
-     "discountPercent": "12"
-    },
-    "price": {
-     "base": 13.16,
-     "value": 13.16,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 593888,
-     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
-     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
-     "name": "Wild_games",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 16300,
-     "rating": 93,
-     "votes": {
-      "positive": 14298,
-      "negative": 1056,
-      "neutral": 946
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
    {
     "id": "12301839",
     "isG2APlusOffer": false,
@@ -44572,20 +44457,20 @@
     "type": "steam",
     "special": false,
     "discount": {
-     "price": 14.05,
+     "price": 13.71,
      "suggestedPrice": 14.99,
-     "discountAmount": 0.94,
-     "discountPercent": "6"
+     "discountAmount": 1.28,
+     "discountPercent": "8"
     },
     "plusDiscount": {
-     "price": 14.05,
+     "price": 13.71,
      "suggestedPrice": 14.99,
-     "discountAmount": 0.94,
-     "discountPercent": "6"
+     "discountAmount": 1.28,
+     "discountPercent": "8"
     },
     "price": {
-     "base": 14.05,
-     "value": 14.05,
+     "base": 13.71,
+     "value": 13.71,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -44599,12 +44484,114 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 33993,
+     "transactions": 34335,
+     "rating": 92,
+     "votes": {
+      "positive": 28795,
+      "negative": 2404,
+      "neutral": 3136
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12301839!",
+    "isG2APlusOffer": false,
+    "clearId": "12301839",
+    "selectedOffer": true,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": {
+     "price": 13.71,
+     "suggestedPrice": 14.99,
+     "discountAmount": 1.28,
+     "discountPercent": "8"
+    },
+    "plusDiscount": {
+     "price": 13.71,
+     "suggestedPrice": 14.99,
+     "discountAmount": 1.28,
+     "discountPercent": "8"
+    },
+    "price": {
+     "base": 13.71,
+     "value": 13.71,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 1065801,
+     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
+     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
+     "name": "World_of_games",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 34335,
+     "rating": 92,
+     "votes": {
+      "positive": 28795,
+      "negative": 2404,
+      "neutral": 3136
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12075975",
+    "isG2APlusOffer": false,
+    "clearId": "12075975",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": {
+     "price": 13.72,
+     "suggestedPrice": 14.99,
+     "discountAmount": 1.27,
+     "discountPercent": "8"
+    },
+    "plusDiscount": {
+     "price": 13.72,
+     "suggestedPrice": 14.99,
+     "discountAmount": 1.27,
+     "discountPercent": "8"
+    },
+    "price": {
+     "base": 13.72,
+     "value": 13.72,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 593888,
+     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
+     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
+     "name": "Wild_games",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 16666,
      "rating": 93,
      "votes": {
-      "positive": 28524,
-      "negative": 2296,
-      "neutral": 3173
+      "positive": 14652,
+      "negative": 1061,
+      "neutral": 953
      },
      "invoice": false,
      "policy": null,
@@ -44650,12 +44637,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 3908,
-     "rating": 93,
+     "transactions": 3981,
+     "rating": 92,
      "votes": {
-      "positive": 3314,
-      "negative": 265,
-      "neutral": 329
+      "positive": 3377,
+      "negative": 274,
+      "neutral": 330
      },
      "invoice": false,
      "policy": null,
@@ -44696,12 +44683,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 4866,
+     "transactions": 4847,
      "rating": 85,
      "votes": {
-      "positive": 3596,
-      "negative": 640,
-      "neutral": 630
+      "positive": 3592,
+      "negative": 641,
+      "neutral": 614
      },
      "invoice": false,
      "policy": null,
@@ -44905,9 +44892,9 @@
   "slug": "a-hat-in-time-steam-pc-key-global-i10000083037001",
   "offers": [
    {
-    "id": "12617105",
+    "id": "12153538",
     "isG2APlusOffer": false,
-    "clearId": "12617105",
+    "clearId": "12153538",
     "selectedOffer": false,
     "isBestPrice": false,
     "isTrust": true,
@@ -44915,39 +44902,39 @@
     "type": "game",
     "special": false,
     "discount": {
-     "price": 20.2125,
+     "price": 20.8478,
      "suggestedPrice": 27.99,
-     "discountAmount": 7.7775,
-     "discountPercent": "27"
+     "discountAmount": 7.1422,
+     "discountPercent": "25"
     },
     "plusDiscount": {
-     "price": 18.1913,
+     "price": 18.763,
      "suggestedPrice": 27.99,
-     "discountAmount": 9.7987,
-     "discountPercent": "35"
+     "discountAmount": 9.227,
+     "discountPercent": "32"
     },
     "price": {
-     "base": 17.5,
-     "value": 20.21,
+     "base": 18.05,
+     "value": 20.85,
      "noPennies": false,
      "currency": "EUR"
     },
     "customer": {
-     "id": 13120507,
-     "encodedId": "98f2969b0a687b595c4cb41a007aa434",
-     "encodedUid": "e2c1e904c40a380bf20a6a9f309960276494cb7335a157f70bb39ed99a27caa78aa8006beea513e5ff2223b86e1103d2",
-     "name": "Kyben90",
+     "id": 1339400,
+     "encodedId": "99b9d9b8a38f459ecfb78a3ad0c6806b",
+     "encodedUid": "5e74c737c316bc688424c10a620b557c22dc0cd0c31246daebc2aaeafd5e58552c5c403f96fa51ac169fa825cc0ee502",
+     "name": "Positivegames",
      "type": null,
      "isDeveloper": false,
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 0,
-     "rating": 0,
+     "transactions": 368,
+     "rating": 84,
      "votes": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 0
+      "positive": 283,
+      "negative": 52,
+      "neutral": 33
      },
      "invoice": false,
      "policy": null,
@@ -44956,9 +44943,9 @@
     }
    },
    {
-    "id": "12600761",
+    "id": "10837576",
     "isG2APlusOffer": false,
-    "clearId": "12600761",
+    "clearId": "10837576",
     "selectedOffer": false,
     "isBestPrice": false,
     "isTrust": true,
@@ -44966,39 +44953,39 @@
     "type": "game",
     "special": false,
     "discount": {
-     "price": 20.8709,
+     "price": 20.8593,
      "suggestedPrice": 27.99,
-     "discountAmount": 7.1191,
+     "discountAmount": 7.1307,
      "discountPercent": "25"
     },
     "plusDiscount": {
-     "price": 18.7838,
+     "price": 18.7734,
      "suggestedPrice": 27.99,
-     "discountAmount": 9.2062,
+     "discountAmount": 9.2166,
      "discountPercent": "32"
     },
     "price": {
-     "base": 18.07,
-     "value": 20.87,
+     "base": 18.06,
+     "value": 20.86,
      "noPennies": false,
      "currency": "EUR"
     },
     "customer": {
-     "id": 28076058,
-     "encodedId": "37a188ad1fed35794b3ebe2806f09194",
-     "encodedUid": "50cfb947f9ec7edad2311ed4cd8725e9ee77677269898f14177055d5f79adbe9a3be5bcedcaa1587cc1b74e755731212",
-     "name": "Nodaysoff",
+     "id": 2378823,
+     "encodedId": "cdd15772cc21e7d16828996acf8cfa19",
+     "encodedUid": "bac35949788b93c6fcc9ce78333805a5833e9b79587c06a1136c742584e22d3e77c799f45f21ffb329f80217646ca4f5",
+     "name": "Retaildepot",
      "type": null,
      "isDeveloper": false,
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 0,
-     "rating": 0,
+     "transactions": 833,
+     "rating": 96,
      "votes": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 0
+      "positive": 767,
+      "negative": 33,
+      "neutral": 33
      },
      "invoice": false,
      "policy": null,
@@ -45050,57 +45037,6 @@
       "positive": 0,
       "negative": 0,
       "neutral": 0
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "11913946",
-    "isG2APlusOffer": false,
-    "clearId": "11913946",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "game",
-    "special": false,
-    "discount": {
-     "price": 20.9055,
-     "suggestedPrice": 27.99,
-     "discountAmount": 7.0845,
-     "discountPercent": "25"
-    },
-    "plusDiscount": {
-     "price": 18.815,
-     "suggestedPrice": 27.99,
-     "discountAmount": 9.175,
-     "discountPercent": "32"
-    },
-    "price": {
-     "base": 18.1,
-     "value": 20.91,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 2439982,
-     "encodedId": "bea0c188b61c708424f40cba280c8e35",
-     "encodedUid": "6d7c55d336a3de20ac01632646f234a790dfe0b38dbc41d2d47be6e7fbb88e5b3828fa0b32e0de2006c2301ef750956b",
-     "name": "Gks_store",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": false,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 490,
-     "rating": 100,
-     "votes": {
-      "positive": 479,
-      "negative": 0,
-      "neutral": 11
      },
      "invoice": false,
      "policy": null,
@@ -45197,11 +45133,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 3902,
+     "transactions": 3968,
      "rating": 100,
      "votes": {
-      "positive": 3823,
-      "negative": 0,
+      "positive": 3886,
+      "negative": 3,
       "neutral": 79
      },
      "invoice": false,
@@ -45272,20 +45208,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 24.6593,
+     "price": 25.052,
      "suggestedPrice": 27.99,
-     "discountAmount": 3.3307,
-     "discountPercent": "11"
+     "discountAmount": 2.938,
+     "discountPercent": "10"
     },
     "plusDiscount": {
-     "price": 22.1933,
+     "price": 22.5468,
      "suggestedPrice": 27.99,
-     "discountAmount": 5.7967,
-     "discountPercent": "20"
+     "discountAmount": 5.4432,
+     "discountPercent": "19"
     },
     "price": {
-     "base": 21.35,
-     "value": 24.66,
+     "base": 21.69,
+     "value": 25.05,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -45299,12 +45235,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 5499,
-     "rating": 94,
+     "transactions": 5874,
+     "rating": 93,
      "votes": {
-      "positive": 4420,
-      "negative": 278,
-      "neutral": 801
+      "positive": 4724,
+      "negative": 337,
+      "neutral": 813
      },
      "invoice": false,
      "policy": null,
@@ -45364,6 +45300,108 @@
     }
    },
    {
+    "id": "11707453",
+    "isG2APlusOffer": false,
+    "clearId": "11707453",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "dropshipping",
+    "special": false,
+    "discount": {
+     "price": 26.1146,
+     "suggestedPrice": 27.99,
+     "discountAmount": 1.8754,
+     "discountPercent": "6"
+    },
+    "plusDiscount": {
+     "price": 23.5031,
+     "suggestedPrice": 27.99,
+     "discountAmount": 4.4869,
+     "discountPercent": "16"
+    },
+    "price": {
+     "base": 22.61,
+     "value": 26.11,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 22379105,
+     "encodedId": "ee66dff2b8c288fb50d17167eb1312e9",
+     "encodedUid": "1b3578cb974c4d328ddb056d55d50eafb2470ecb2f8c7dff9dd57fadafa995e20035df16b65fc25e9bc128f546b63f90",
+     "name": "Outlawgames",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 24348,
+     "rating": 99,
+     "votes": {
+      "positive": 20936,
+      "negative": 158,
+      "neutral": 3254
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "11707453!",
+    "isG2APlusOffer": false,
+    "clearId": "11707453",
+    "selectedOffer": true,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "dropshipping",
+    "special": false,
+    "discount": {
+     "price": 26.1146,
+     "suggestedPrice": 27.99,
+     "discountAmount": 1.8754,
+     "discountPercent": "6"
+    },
+    "plusDiscount": {
+     "price": 23.5031,
+     "suggestedPrice": 27.99,
+     "discountAmount": 4.4869,
+     "discountPercent": "16"
+    },
+    "price": {
+     "base": 22.61,
+     "value": 26.11,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 22379105,
+     "encodedId": "ee66dff2b8c288fb50d17167eb1312e9",
+     "encodedUid": "1b3578cb974c4d328ddb056d55d50eafb2470ecb2f8c7dff9dd57fadafa995e20035df16b65fc25e9bc128f546b63f90",
+     "name": "Outlawgames",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 24348,
+     "rating": 99,
+     "votes": {
+      "positive": 20936,
+      "negative": 158,
+      "neutral": 3254
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
     "id": "11678493",
     "isG2APlusOffer": false,
     "clearId": "11678493",
@@ -45415,52 +45453,6 @@
     }
    },
    {
-    "id": "11707453",
-    "isG2APlusOffer": false,
-    "clearId": "11707453",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": null,
-    "plusDiscount": {
-     "price": 24.0332,
-     "suggestedPrice": 27.99,
-     "discountAmount": 3.9568,
-     "discountPercent": "14"
-    },
-    "price": {
-     "base": 23.12,
-     "value": 26.7,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 22379105,
-     "encodedId": "ee66dff2b8c288fb50d17167eb1312e9",
-     "encodedUid": "1b3578cb974c4d328ddb056d55d50eafb2470ecb2f8c7dff9dd57fadafa995e20035df16b65fc25e9bc128f546b63f90",
-     "name": "Outlawgames",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 24363,
-     "rating": 99,
-     "votes": {
-      "positive": 20940,
-      "negative": 152,
-      "neutral": 3271
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
     "id": "12251574",
     "isG2APlusOffer": false,
     "clearId": "12251574",
@@ -45472,14 +45464,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 24.9168,
+     "price": 23.9501,
      "suggestedPrice": 27.99,
-     "discountAmount": 3.0732,
-     "discountPercent": "10"
+     "discountAmount": 4.0399,
+     "discountPercent": "14"
     },
     "price": {
-     "base": 23.97,
-     "value": 27.69,
+     "base": 23.04,
+     "value": 26.61,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -45493,58 +45485,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 2736,
+     "transactions": 2743,
      "rating": 99,
      "votes": {
-      "positive": 2164,
-      "negative": 27,
-      "neutral": 545
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12251574!",
-    "isG2APlusOffer": false,
-    "clearId": "12251574",
-    "selectedOffer": true,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": null,
-    "plusDiscount": {
-     "price": 24.9168,
-     "suggestedPrice": 27.99,
-     "discountAmount": 3.0732,
-     "discountPercent": "10"
-    },
-    "price": {
-     "base": 23.97,
-     "value": 27.69,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 1072530,
-     "encodedId": "95cb31554a2edf621d3074244c2dbc17",
-     "encodedUid": "dcc3021ea9a8f984d7f128b5990f9ef2363731ec04ea02b8b59f9b098ad0e85e7c49de691bd053d36098227d03f749ec",
-     "name": "Gktrade",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 2736,
-     "rating": 99,
-     "votes": {
-      "positive": 2164,
-      "negative": 27,
-      "neutral": 545
+      "positive": 2169,
+      "negative": 30,
+      "neutral": 544
      },
      "invoice": false,
      "policy": null,
@@ -58519,6 +58465,7 @@
   ]
  },
  "292030": {
+  "appId": "292030",
   "slug": "the-witcher-3-wild-hunt-goty-edition-steam-gift-global-i10000026141004",
   "offers": [
    {
@@ -58531,21 +58478,16 @@
     "delayed": false,
     "type": "steam",
     "special": false,
-    "discount": {
-     "price": 27.29,
-     "suggestedPrice": 29.99,
-     "discountAmount": 2.7,
-     "discountPercent": "9"
-    },
+    "discount": null,
     "plusDiscount": {
-     "price": 27.29,
-     "suggestedPrice": 29.99,
-     "discountAmount": 2.7,
-     "discountPercent": "9"
+     "price": 43.14,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
     },
     "price": {
-     "base": 27.29,
-     "value": 27.29,
+     "base": 43.14,
+     "value": 43.14,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -58559,12 +58501,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16300,
+     "transactions": 16664,
      "rating": 93,
      "votes": {
-      "positive": 14298,
-      "negative": 1056,
-      "neutral": 946
+      "positive": 14650,
+      "negative": 1061,
+      "neutral": 953
      },
      "invoice": false,
      "policy": null,
@@ -58582,21 +58524,16 @@
     "delayed": false,
     "type": "steam",
     "special": false,
-    "discount": {
-     "price": 27.29,
-     "suggestedPrice": 29.99,
-     "discountAmount": 2.7,
-     "discountPercent": "9"
-    },
+    "discount": null,
     "plusDiscount": {
-     "price": 27.29,
-     "suggestedPrice": 29.99,
-     "discountAmount": 2.7,
-     "discountPercent": "9"
+     "price": 43.14,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
     },
     "price": {
-     "base": 27.29,
-     "value": 27.29,
+     "base": 43.14,
+     "value": 43.14,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -58610,12 +58547,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16300,
+     "transactions": 16664,
      "rating": 93,
      "votes": {
-      "positive": 14298,
-      "negative": 1056,
-      "neutral": 946
+      "positive": 14650,
+      "negative": 1061,
+      "neutral": 953
      },
      "invoice": false,
      "policy": null,
@@ -58635,14 +58572,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 46.75,
+     "price": 48.97,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 46.75,
-     "value": 46.75,
+     "base": 48.97,
+     "value": 48.97,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -58656,12 +58593,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 33993,
-     "rating": 93,
+     "transactions": 34332,
+     "rating": 92,
      "votes": {
-      "positive": 28524,
-      "negative": 2296,
-      "neutral": 3173
+      "positive": 28792,
+      "negative": 2404,
+      "neutral": 3136
      },
      "invoice": false,
      "policy": null,
@@ -58672,6 +58609,7 @@
   ]
  },
  "294100": {
+  "appId": "294100",
   "slug": "rimworld-steam-key-global-i10000019749006",
   "offers": [
    {
@@ -58753,12 +58691,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 33993,
-     "rating": 93,
+     "transactions": 34332,
+     "rating": 92,
      "votes": {
-      "positive": 28524,
-      "negative": 2296,
-      "neutral": 3173
+      "positive": 28792,
+      "negative": 2404,
+      "neutral": 3136
      },
      "invoice": false,
      "policy": null,
@@ -58799,12 +58737,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 33993,
-     "rating": 93,
+     "transactions": 34332,
+     "rating": 92,
      "votes": {
-      "positive": 28524,
-      "negative": 2296,
-      "neutral": 3173
+      "positive": 28792,
+      "negative": 2404,
+      "neutral": 3136
      },
      "invoice": false,
      "policy": null,
@@ -73810,12 +73748,13 @@
   ]
  },
  "413150": {
+  "appId": "413150",
   "slug": "stardew-valley-steam-key-global-i10000011727009",
   "offers": [
    {
-    "id": "12606373",
+    "id": "12617222",
     "isG2APlusOffer": false,
-    "clearId": "12606373",
+    "clearId": "12617222",
     "selectedOffer": false,
     "isBestPrice": false,
     "isTrust": true,
@@ -73824,33 +73763,33 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 15.7346,
+     "price": 15.5948,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 14.63,
-     "value": 17.48,
+     "base": 14.5,
+     "value": 17.33,
      "noPennies": false,
      "currency": "EUR"
     },
     "customer": {
-     "id": 21501083,
-     "encodedId": "691b369a0bf7ac816076a481471a1877",
-     "encodedUid": "70618d513cbd22198b1af09f3e750346fb12904bfa014ecbf4db5973623bb5fb5d39e053340cf444b5d66bca0091e5ba",
-     "name": "Gamingimperium",
+     "id": 14490898,
+     "encodedId": "83d569de19d094df19cb0e8528006a58",
+     "encodedUid": "093a0bff7c07855879aa7a01a863c90867f1752d519c2d404c49e19b07afd6eea6fd1c1a76749fc1134720d69f86da85",
+     "name": "Therealbean",
      "type": null,
      "isDeveloper": false,
-     "isTrusted": true,
+     "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 29785,
-     "rating": 100,
+     "transactions": 0,
+     "rating": 0,
      "votes": {
-      "positive": 27178,
-      "negative": 114,
-      "neutral": 2493
+      "positive": 0,
+      "negative": 0,
+      "neutral": 0
      },
      "invoice": false,
      "policy": null,
@@ -73951,52 +73890,6 @@
     }
    },
    {
-    "id": "12169223",
-    "isG2APlusOffer": false,
-    "clearId": "12169223",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "game",
-    "special": false,
-    "discount": null,
-    "plusDiscount": {
-     "price": 18.7057,
-     "suggestedPrice": null,
-     "discountAmount": null,
-     "discountPercent": null
-    },
-    "price": {
-     "base": 17.99,
-     "value": 20.78,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 15211646,
-     "encodedId": "db37d5ad6e0fba4945b368c804f057e9",
-     "encodedUid": "3a037823437eafd756dd751a5198c994fe6df309c8046b448191bdcdf6fead96f12d542b0bad570cafb596d5ffbe1da0",
-     "name": "Gamesquare",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": false,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 7,
-     "rating": 100,
-     "votes": {
-      "positive": 7,
-      "negative": 0,
-      "neutral": 0
-     },
-     "invoice": true,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
     "id": "12502101",
     "isG2APlusOffer": false,
     "clearId": "12502101",
@@ -74008,14 +73901,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 20.1559,
+     "price": 20.6757,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 19.39,
-     "value": 22.4,
+     "base": 19.89,
+     "value": 22.97,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -74029,12 +73922,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 5476,
-     "rating": 94,
+     "transactions": 5874,
+     "rating": 93,
      "votes": {
-      "positive": 4399,
-      "negative": 288,
-      "neutral": 789
+      "positive": 4724,
+      "negative": 337,
+      "neutral": 813
      },
      "invoice": false,
      "policy": null,
@@ -74054,14 +73947,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 20.1559,
+     "price": 20.6757,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 19.39,
-     "value": 22.4,
+     "base": 19.89,
+     "value": 22.97,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -74075,12 +73968,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 5476,
-     "rating": 94,
+     "transactions": 5874,
+     "rating": 93,
      "votes": {
-      "positive": 4399,
-      "negative": 288,
-      "neutral": 789
+      "positive": 4724,
+      "negative": 337,
+      "neutral": 813
      },
      "invoice": false,
      "policy": null,
@@ -74100,14 +73993,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 21.0187,
+     "price": 21.5592,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 20.22,
-     "value": 23.35,
+     "base": 20.74,
+     "value": 23.95,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -74121,11 +74014,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 369,
-     "rating": 99,
+     "transactions": 399,
+     "rating": 96,
      "votes": {
-      "positive": 300,
-      "negative": 4,
+      "positive": 319,
+      "negative": 15,
       "neutral": 65
      },
      "invoice": false,
@@ -74146,14 +74039,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 21.8191,
+     "price": 22.3804,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 20.99,
-     "value": 24.24,
+     "base": 21.53,
+     "value": 24.87,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -74167,12 +74060,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 24352,
+     "transactions": 24348,
      "rating": 99,
      "votes": {
-      "positive": 20929,
-      "negative": 171,
-      "neutral": 3252
+      "positive": 20936,
+      "negative": 158,
+      "neutral": 3254
      },
      "invoice": false,
      "policy": null,
@@ -74192,14 +74085,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 22.6299,
+     "price": 23.212,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 21.77,
-     "value": 25.14,
+     "base": 22.33,
+     "value": 25.79,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -74213,12 +74106,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 2736,
+     "transactions": 2743,
      "rating": 99,
      "votes": {
-      "positive": 2164,
-      "negative": 27,
-      "neutral": 545
+      "positive": 2169,
+      "negative": 30,
+      "neutral": 544
      },
      "invoice": false,
      "policy": null,
@@ -77034,47 +76927,48 @@
   ]
  },
  "427520": {
-  "slug": "factorio-steam-gift-global-i10000011359003",
+  "appId": "427520",
+  "slug": "factorio-steam-key-global-i10000011359006",
   "offers": [
    {
-    "id": "12084231",
+    "id": "12229599",
     "isG2APlusOffer": false,
-    "clearId": "12084231",
+    "clearId": "12229599",
     "selectedOffer": false,
     "isBestPrice": false,
     "isTrust": true,
     "delayed": false,
-    "type": "steam",
+    "type": "game",
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 27.2102,
+     "price": 24.896,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 26.29,
-     "value": 30.23,
+     "base": 23.95,
+     "value": 27.66,
      "noPennies": false,
      "currency": "EUR"
     },
     "customer": {
-     "id": 593888,
-     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
-     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
-     "name": "Wild_games",
+     "id": 6668566,
+     "encodedId": "bd5630e7aba472b7d35064710eab0852",
+     "encodedUid": "1cb58c2089527f1481f96f6ae323a5a66a983dd89ce2398d668de381f15453b411786d7e52b7e0cf15844c81e5b7ac52",
+     "name": "United_kingdom",
      "type": null,
      "isDeveloper": false,
-     "isTrusted": true,
+     "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16300,
-     "rating": 93,
+     "transactions": 42,
+     "rating": 100,
      "votes": {
-      "positive": 14298,
-      "negative": 1056,
-      "neutral": 946
+      "positive": 41,
+      "negative": 0,
+      "neutral": 1
      },
      "invoice": false,
      "policy": null,
@@ -77083,90 +76977,44 @@
     }
    },
    {
-    "id": "12084231!",
+    "id": "12229599!",
     "isG2APlusOffer": false,
-    "clearId": "12084231",
+    "clearId": "12229599",
     "selectedOffer": true,
     "isBestPrice": false,
     "isTrust": true,
     "delayed": false,
-    "type": "steam",
+    "type": "game",
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 27.2102,
+     "price": 24.896,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 26.29,
-     "value": 30.23,
+     "base": 23.95,
+     "value": 27.66,
      "noPennies": false,
      "currency": "EUR"
     },
     "customer": {
-     "id": 593888,
-     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
-     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
-     "name": "Wild_games",
+     "id": 6668566,
+     "encodedId": "bd5630e7aba472b7d35064710eab0852",
+     "encodedUid": "1cb58c2089527f1481f96f6ae323a5a66a983dd89ce2398d668de381f15453b411786d7e52b7e0cf15844c81e5b7ac52",
+     "name": "United_kingdom",
      "type": null,
      "isDeveloper": false,
-     "isTrusted": true,
+     "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16300,
-     "rating": 93,
+     "transactions": 42,
+     "rating": 100,
      "votes": {
-      "positive": 14298,
-      "negative": 1056,
-      "neutral": 946
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12283144",
-    "isG2APlusOffer": false,
-    "clearId": "12283144",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "steam",
-    "special": false,
-    "discount": null,
-    "plusDiscount": {
-     "price": 27.2205,
-     "suggestedPrice": null,
-     "discountAmount": null,
-     "discountPercent": null
-    },
-    "price": {
-     "base": 26.3,
-     "value": 30.25,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 1065801,
-     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
-     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
-     "name": "World_of_games",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 33993,
-     "rating": 93,
-     "votes": {
-      "positive": 28524,
-      "negative": 2296,
-      "neutral": 3173
+      "positive": 41,
+      "negative": 0,
+      "neutral": 1
      },
      "invoice": false,
      "policy": null,
@@ -81019,6 +80867,7 @@
   ]
  },
  "460950": {
+  "appId": "460950",
   "slug": "katana-zero-steam-key-global-i10000187319001",
   "offers": [
    {
@@ -81032,20 +80881,20 @@
     "type": "game",
     "special": false,
     "discount": {
-     "price": 9.5959,
+     "price": 9.5242,
      "suggestedPrice": 12.49,
-     "discountAmount": 2.8941,
+     "discountAmount": 2.9658,
      "discountPercent": "23"
     },
     "plusDiscount": {
-     "price": 8.6363,
+     "price": 8.5717,
      "suggestedPrice": 12.49,
-     "discountAmount": 3.8537,
-     "discountPercent": "30"
+     "discountAmount": 3.9183,
+     "discountPercent": "31"
     },
     "price": {
-     "base": 8.03,
-     "value": 9.6,
+     "base": 7.97,
+     "value": 9.52,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -81059,12 +80908,63 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 317,
-     "rating": 93,
+     "transactions": 325,
+     "rating": 92,
      "votes": {
-      "positive": 267,
-      "negative": 21,
+      "positive": 273,
+      "negative": 23,
       "neutral": 29
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12594926",
+    "isG2APlusOffer": false,
+    "clearId": "12594926",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "game",
+    "special": false,
+    "discount": {
+     "price": 9.5361,
+     "suggestedPrice": 12.49,
+     "discountAmount": 2.9539,
+     "discountPercent": "23"
+    },
+    "plusDiscount": {
+     "price": 8.5825,
+     "suggestedPrice": 12.49,
+     "discountAmount": 3.9075,
+     "discountPercent": "31"
+    },
+    "price": {
+     "base": 7.98,
+     "value": 9.54,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 12488501,
+     "encodedId": "beb837d5d80cb90b7fb1b2dfe20103f1",
+     "encodedUid": "d67ea3795e62bc2ed7f647f336a78f596a0f661cfe0f3dd7e2346e92629bc50cab051f0ce0b04165b9f94cd6212bdc16",
+     "name": "Gamesm",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 102,
+     "rating": 100,
+     "votes": {
+      "positive": 101,
+      "negative": 0,
+      "neutral": 1
      },
      "invoice": false,
      "policy": null,
@@ -81110,12 +81010,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 33,
-     "rating": 88,
+     "transactions": 34,
+     "rating": 92,
      "votes": {
-      "positive": 22,
-      "negative": 3,
-      "neutral": 8
+      "positive": 23,
+      "negative": 2,
+      "neutral": 9
      },
      "invoice": false,
      "policy": null,
@@ -81134,20 +81034,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 10.038,
+     "price": 10.3248,
      "suggestedPrice": 12.49,
-     "discountAmount": 2.452,
-     "discountPercent": "19"
+     "discountAmount": 2.1652,
+     "discountPercent": "17"
     },
     "plusDiscount": {
-     "price": 9.0342,
+     "price": 9.2923,
      "suggestedPrice": 12.49,
-     "discountAmount": 3.4558,
-     "discountPercent": "27"
+     "discountAmount": 3.1977,
+     "discountPercent": "25"
     },
     "price": {
-     "base": 8.4,
-     "value": 10.04,
+     "base": 8.64,
+     "value": 10.32,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -81161,12 +81061,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 5477,
-     "rating": 94,
+     "transactions": 5874,
+     "rating": 93,
      "votes": {
-      "positive": 4400,
-      "negative": 288,
-      "neutral": 789
+      "positive": 4724,
+      "negative": 337,
+      "neutral": 813
      },
      "invoice": false,
      "policy": null,
@@ -81185,20 +81085,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 10.038,
+     "price": 10.3248,
      "suggestedPrice": 12.49,
-     "discountAmount": 2.452,
-     "discountPercent": "19"
+     "discountAmount": 2.1652,
+     "discountPercent": "17"
     },
     "plusDiscount": {
-     "price": 9.0342,
+     "price": 9.2923,
      "suggestedPrice": 12.49,
-     "discountAmount": 3.4558,
-     "discountPercent": "27"
+     "discountAmount": 3.1977,
+     "discountPercent": "25"
     },
     "price": {
-     "base": 8.4,
-     "value": 10.04,
+     "base": 8.64,
+     "value": 10.32,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -81212,12 +81112,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 5477,
-     "rating": 94,
+     "transactions": 5874,
+     "rating": 93,
      "votes": {
-      "positive": 4400,
-      "negative": 288,
-      "neutral": 789
+      "positive": 4724,
+      "negative": 337,
+      "neutral": 813
      },
      "invoice": false,
      "policy": null,
@@ -81236,20 +81136,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 10.5041,
+     "price": 10.5877,
      "suggestedPrice": 12.49,
-     "discountAmount": 1.9859,
+     "discountAmount": 1.9023,
      "discountPercent": "15"
     },
     "plusDiscount": {
-     "price": 9.4536,
+     "price": 9.5289,
      "suggestedPrice": 12.49,
-     "discountAmount": 3.0364,
-     "discountPercent": "24"
+     "discountAmount": 2.9611,
+     "discountPercent": "23"
     },
     "price": {
-     "base": 8.79,
-     "value": 10.5,
+     "base": 8.86,
+     "value": 10.59,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -81263,11 +81163,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 369,
-     "rating": 99,
+     "transactions": 399,
+     "rating": 96,
      "votes": {
-      "positive": 300,
-      "negative": 4,
+      "positive": 319,
+      "negative": 15,
       "neutral": 65
      },
      "invoice": false,
@@ -81287,20 +81187,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 10.8984,
+     "price": 10.8028,
      "suggestedPrice": 12.49,
-     "discountAmount": 1.5916,
-     "discountPercent": "12"
+     "discountAmount": 1.6872,
+     "discountPercent": "13"
     },
     "plusDiscount": {
-     "price": 9.8086,
+     "price": 9.7225,
      "suggestedPrice": 12.49,
-     "discountAmount": 2.6814,
-     "discountPercent": "21"
+     "discountAmount": 2.7675,
+     "discountPercent": "22"
     },
     "price": {
-     "base": 9.12,
-     "value": 10.9,
+     "base": 9.04,
+     "value": 10.8,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -81314,12 +81214,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 24352,
+     "transactions": 24348,
      "rating": 99,
      "votes": {
-      "positive": 20929,
-      "negative": 171,
-      "neutral": 3252
+      "positive": 20936,
+      "negative": 158,
+      "neutral": 3254
      },
      "invoice": false,
      "policy": null,
@@ -81338,20 +81238,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 11.3047,
+     "price": 11.006,
      "suggestedPrice": 12.49,
-     "discountAmount": 1.1853,
-     "discountPercent": "9"
+     "discountAmount": 1.484,
+     "discountPercent": "11"
     },
     "plusDiscount": {
-     "price": 10.1742,
+     "price": 9.9054,
      "suggestedPrice": 12.49,
-     "discountAmount": 2.3158,
-     "discountPercent": "18"
+     "discountAmount": 2.5846,
+     "discountPercent": "20"
     },
     "price": {
-     "base": 9.46,
-     "value": 11.3,
+     "base": 9.21,
+     "value": 11.01,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -81365,12 +81265,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 2736,
+     "transactions": 2743,
      "rating": 99,
      "votes": {
-      "positive": 2164,
-      "negative": 27,
-      "neutral": 545
+      "positive": 2169,
+      "negative": 30,
+      "neutral": 544
      },
      "invoice": false,
      "policy": null,
@@ -81411,11 +81311,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 414,
-     "rating": 86,
+     "transactions": 420,
+     "rating": 84,
      "votes": {
-      "positive": 243,
-      "negative": 40,
+      "positive": 244,
+      "negative": 45,
       "neutral": 131
      },
      "invoice": true,
@@ -92772,6 +92672,7 @@
   ]
  },
  "646570": {
+  "appId": "646570",
   "slug": "slay-the-spire-steam-key-global-i10000083851001",
   "offers": [
    {
@@ -92812,11 +92713,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1241,
+     "transactions": 1286,
      "rating": 95,
      "votes": {
-      "positive": 1114,
-      "negative": 64,
+      "positive": 1158,
+      "negative": 65,
       "neutral": 63
      },
      "invoice": false,
@@ -92863,63 +92764,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1241,
+     "transactions": 1286,
      "rating": 95,
      "votes": {
-      "positive": 1114,
-      "negative": 64,
+      "positive": 1158,
+      "negative": 65,
       "neutral": 63
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12617033",
-    "isG2APlusOffer": false,
-    "clearId": "12617033",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "game",
-    "special": false,
-    "discount": {
-     "price": 11.2808,
-     "suggestedPrice": 20.99,
-     "discountAmount": 9.7092,
-     "discountPercent": "46"
-    },
-    "plusDiscount": {
-     "price": 10.1527,
-     "suggestedPrice": 20.99,
-     "discountAmount": 10.8373,
-     "discountPercent": "51"
-    },
-    "price": {
-     "base": 9.44,
-     "value": 11.28,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 13120507,
-     "encodedId": "98f2969b0a687b595c4cb41a007aa434",
-     "encodedUid": "e2c1e904c40a380bf20a6a9f309960276494cb7335a157f70bb39ed99a27caa78aa8006beea513e5ff2223b86e1103d2",
-     "name": "Kyben90",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": false,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 0,
-     "rating": 0,
-     "votes": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 0
      },
      "invoice": false,
      "policy": null,
@@ -92965,12 +92815,114 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 0,
-     "rating": 0,
+     "transactions": 1,
+     "rating": 100,
      "votes": {
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
       "neutral": 0
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12464831",
+    "isG2APlusOffer": false,
+    "clearId": "12464831",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "game",
+    "special": false,
+    "discount": {
+     "price": 13.3243,
+     "suggestedPrice": 20.99,
+     "discountAmount": 7.6657,
+     "discountPercent": "36"
+    },
+    "plusDiscount": {
+     "price": 11.9918,
+     "suggestedPrice": 20.99,
+     "discountAmount": 8.9982,
+     "discountPercent": "42"
+    },
+    "price": {
+     "base": 11.15,
+     "value": 13.32,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 522928,
+     "encodedId": "b8acb480faa694bbfc362d18969bd14a",
+     "encodedUid": "1a8efd092e6378e8ff5ed408e26b9c4bd90885f249feb2be5834a8dc2de74824d685eb71a3568e73cff8c8a901a406d0",
+     "name": "Neverm1nd",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": false,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 203,
+     "rating": 99,
+     "votes": {
+      "positive": 194,
+      "negative": 2,
+      "neutral": 7
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12506313",
+    "isG2APlusOffer": false,
+    "clearId": "12506313",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "dropshipping",
+    "special": false,
+    "discount": {
+     "price": 13.5752,
+     "suggestedPrice": 20.99,
+     "discountAmount": 7.4148,
+     "discountPercent": "35"
+    },
+    "plusDiscount": {
+     "price": 12.2177,
+     "suggestedPrice": 20.99,
+     "discountAmount": 8.7723,
+     "discountPercent": "41"
+    },
+    "price": {
+     "base": 11.36,
+     "value": 13.58,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 28533055,
+     "encodedId": "7fa8d887ee313f772097a6e7501e5590",
+     "encodedUid": "fdc8a2c09f5ea4203f43fce3b0122935d0d7821f0812b8028c6fa978e66cf2e9be03f5f477cd9b0694ccbbc378667f58",
+     "name": "Claincir",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 5874,
+     "rating": 93,
+     "votes": {
+      "positive": 4724,
+      "negative": 337,
+      "neutral": 813
      },
      "invoice": false,
      "policy": null,
@@ -93016,63 +92968,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 94,
-     "rating": 99,
+     "transactions": 93,
+     "rating": 100,
      "votes": {
-      "positive": 92,
-      "negative": 1,
-      "neutral": 1
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12506313",
-    "isG2APlusOffer": false,
-    "clearId": "12506313",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": {
-     "price": 13.7067,
-     "suggestedPrice": 20.99,
-     "discountAmount": 7.2833,
-     "discountPercent": "34"
-    },
-    "plusDiscount": {
-     "price": 12.336,
-     "suggestedPrice": 20.99,
-     "discountAmount": 8.654,
-     "discountPercent": "41"
-    },
-    "price": {
-     "base": 11.47,
-     "value": 13.71,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 28533055,
-     "encodedId": "7fa8d887ee313f772097a6e7501e5590",
-     "encodedUid": "fdc8a2c09f5ea4203f43fce3b0122935d0d7821f0812b8028c6fa978e66cf2e9be03f5f477cd9b0694ccbbc378667f58",
-     "name": "Claincir",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 5476,
-     "rating": 94,
-     "votes": {
-      "positive": 4399,
-      "negative": 288,
-      "neutral": 789
+      "positive": 91,
+      "negative": 0,
+      "neutral": 2
      },
      "invoice": false,
      "policy": null,
@@ -93091,20 +92992,20 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 14.3147,
+     "price": 13.9098,
      "suggestedPrice": 20.99,
-     "discountAmount": 6.6753,
-     "discountPercent": "31"
+     "discountAmount": 7.0802,
+     "discountPercent": "33"
     },
     "plusDiscount": {
-     "price": 12.8832,
+     "price": 12.5188,
      "suggestedPrice": 20.99,
-     "discountAmount": 8.1068,
-     "discountPercent": "38"
+     "discountAmount": 8.4712,
+     "discountPercent": "40"
     },
     "price": {
-     "base": 11.98,
-     "value": 14.31,
+     "base": 11.64,
+     "value": 13.91,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -93118,12 +93019,63 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 369,
+     "transactions": 399,
+     "rating": 96,
+     "votes": {
+      "positive": 319,
+      "negative": 15,
+      "neutral": 65
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "11938184",
+    "isG2APlusOffer": false,
+    "clearId": "11938184",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "dropshipping",
+    "special": false,
+    "discount": {
+     "price": 14.1727,
+     "suggestedPrice": 20.99,
+     "discountAmount": 6.8173,
+     "discountPercent": "32"
+    },
+    "plusDiscount": {
+     "price": 12.7554,
+     "suggestedPrice": 20.99,
+     "discountAmount": 8.2346,
+     "discountPercent": "39"
+    },
+    "price": {
+     "base": 11.86,
+     "value": 14.17,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 22379105,
+     "encodedId": "ee66dff2b8c288fb50d17167eb1312e9",
+     "encodedUid": "1b3578cb974c4d328ddb056d55d50eafb2470ecb2f8c7dff9dd57fadafa995e20035df16b65fc25e9bc128f546b63f90",
+     "name": "Outlawgames",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 24348,
      "rating": 99,
      "votes": {
-      "positive": 300,
-      "negative": 4,
-      "neutral": 65
+      "positive": 20936,
+      "negative": 158,
+      "neutral": 3254
      },
      "invoice": false,
      "policy": null,
@@ -93169,10 +93121,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 490,
+     "transactions": 494,
      "rating": 100,
      "votes": {
-      "positive": 479,
+      "positive": 483,
       "negative": 0,
       "neutral": 11
      },
@@ -93183,9 +93135,9 @@
     }
    },
    {
-    "id": "11938184",
+    "id": "12251729",
     "isG2APlusOffer": false,
-    "clearId": "11938184",
+    "clearId": "12251729",
     "selectedOffer": false,
     "isBestPrice": false,
     "isTrust": true,
@@ -93193,39 +93145,39 @@
     "type": "dropshipping",
     "special": false,
     "discount": {
-     "price": 14.8629,
+     "price": 14.4476,
      "suggestedPrice": 20.99,
-     "discountAmount": 6.1271,
-     "discountPercent": "29"
+     "discountAmount": 6.5424,
+     "discountPercent": "31"
     },
     "plusDiscount": {
-     "price": 13.3766,
+     "price": 13.0028,
      "suggestedPrice": 20.99,
-     "discountAmount": 7.6134,
-     "discountPercent": "36"
+     "discountAmount": 7.9872,
+     "discountPercent": "38"
     },
     "price": {
-     "base": 12.44,
-     "value": 14.86,
+     "base": 12.09,
+     "value": 14.45,
      "noPennies": false,
      "currency": "EUR"
     },
     "customer": {
-     "id": 22379105,
-     "encodedId": "ee66dff2b8c288fb50d17167eb1312e9",
-     "encodedUid": "1b3578cb974c4d328ddb056d55d50eafb2470ecb2f8c7dff9dd57fadafa995e20035df16b65fc25e9bc128f546b63f90",
-     "name": "Outlawgames",
+     "id": 1072530,
+     "encodedId": "95cb31554a2edf621d3074244c2dbc17",
+     "encodedUid": "dcc3021ea9a8f984d7f128b5990f9ef2363731ec04ea02b8b59f9b098ad0e85e7c49de691bd053d36098227d03f749ec",
+     "name": "Gktrade",
      "type": null,
      "isDeveloper": false,
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 24352,
+     "transactions": 2743,
      "rating": 99,
      "votes": {
-      "positive": 20929,
-      "negative": 171,
-      "neutral": 3252
+      "positive": 2169,
+      "negative": 30,
+      "neutral": 544
      },
      "invoice": false,
      "policy": null,
@@ -93271,63 +93223,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 346,
+     "transactions": 341,
      "rating": 51,
      "votes": {
-      "positive": 178,
-      "negative": 168,
+      "positive": 175,
+      "negative": 166,
       "neutral": 0
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12251729",
-    "isG2APlusOffer": false,
-    "clearId": "12251729",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "dropshipping",
-    "special": false,
-    "discount": {
-     "price": 15.4112,
-     "suggestedPrice": 20.99,
-     "discountAmount": 5.5788,
-     "discountPercent": "26"
-    },
-    "plusDiscount": {
-     "price": 13.8701,
-     "suggestedPrice": 20.99,
-     "discountAmount": 7.1199,
-     "discountPercent": "33"
-    },
-    "price": {
-     "base": 12.9,
-     "value": 15.41,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 1072530,
-     "encodedId": "95cb31554a2edf621d3074244c2dbc17",
-     "encodedUid": "dcc3021ea9a8f984d7f128b5990f9ef2363731ec04ea02b8b59f9b098ad0e85e7c49de691bd053d36098227d03f749ec",
-     "name": "Gktrade",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 2736,
-     "rating": 99,
-     "votes": {
-      "positive": 2164,
-      "negative": 27,
-      "neutral": 545
      },
      "invoice": false,
      "policy": null,
@@ -93373,10 +93274,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 529,
+     "transactions": 518,
      "rating": 99,
      "votes": {
-      "positive": 514,
+      "positive": 503,
       "negative": 5,
       "neutral": 10
      },
@@ -93424,12 +93325,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 502,
-     "rating": 99,
+     "transactions": 535,
+     "rating": 98,
      "votes": {
-      "positive": 491,
-      "negative": 7,
-      "neutral": 4
+      "positive": 522,
+      "negative": 8,
+      "neutral": 5
      },
      "invoice": false,
      "policy": null,
@@ -93577,12 +93478,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 350,
+     "transactions": 362,
      "rating": 100,
      "votes": {
-      "positive": 344,
-      "negative": 1,
-      "neutral": 5
+      "positive": 356,
+      "negative": 0,
+      "neutral": 6
      },
      "invoice": false,
      "policy": null,
@@ -93725,10 +93626,10 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1067,
+     "transactions": 1073,
      "rating": 100,
      "votes": {
-      "positive": 1047,
+      "positive": 1053,
       "negative": 2,
       "neutral": 18
      },
@@ -104509,100 +104410,9 @@
   ]
  },
  "1145360": {
+  "appId": "1145360",
   "slug": "hades-steam-gift-global-i10000192688002",
   "offers": [
-   {
-    "id": "12283195",
-    "isG2APlusOffer": false,
-    "clearId": "12283195",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "steam",
-    "special": false,
-    "discount": null,
-    "plusDiscount": {
-     "price": 22.23,
-     "suggestedPrice": null,
-     "discountAmount": null,
-     "discountPercent": null
-    },
-    "price": {
-     "base": 22.23,
-     "value": 22.23,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 593888,
-     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
-     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
-     "name": "Wild_games",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 16300,
-     "rating": 93,
-     "votes": {
-      "positive": 14298,
-      "negative": 1056,
-      "neutral": 946
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12283195!",
-    "isG2APlusOffer": false,
-    "clearId": "12283195",
-    "selectedOffer": true,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "steam",
-    "special": false,
-    "discount": null,
-    "plusDiscount": {
-     "price": 22.23,
-     "suggestedPrice": null,
-     "discountAmount": null,
-     "discountPercent": null
-    },
-    "price": {
-     "base": 22.23,
-     "value": 22.23,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 593888,
-     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
-     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
-     "name": "Wild_games",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 16300,
-     "rating": 93,
-     "votes": {
-      "positive": 14298,
-      "negative": 1056,
-      "neutral": 946
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
    {
     "id": "12275574",
     "isG2APlusOffer": false,
@@ -104615,14 +104425,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 22.98,
+     "price": 22.19,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 22.98,
-     "value": 22.98,
+     "base": 22.19,
+     "value": 22.19,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -104636,12 +104446,104 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 33993,
+     "transactions": 34332,
+     "rating": 92,
+     "votes": {
+      "positive": 28792,
+      "negative": 2404,
+      "neutral": 3136
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12275574!",
+    "isG2APlusOffer": false,
+    "clearId": "12275574",
+    "selectedOffer": true,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": null,
+    "plusDiscount": {
+     "price": 22.19,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
+    },
+    "price": {
+     "base": 22.19,
+     "value": 22.19,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 1065801,
+     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
+     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
+     "name": "World_of_games",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 34332,
+     "rating": 92,
+     "votes": {
+      "positive": 28792,
+      "negative": 2404,
+      "neutral": 3136
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12283195",
+    "isG2APlusOffer": false,
+    "clearId": "12283195",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": null,
+    "plusDiscount": {
+     "price": 22.2,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
+    },
+    "price": {
+     "base": 22.2,
+     "value": 22.2,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 593888,
+     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
+     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
+     "name": "Wild_games",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 16664,
      "rating": 93,
      "votes": {
-      "positive": 28524,
-      "negative": 2296,
-      "neutral": 3173
+      "positive": 14650,
+      "negative": 1061,
+      "neutral": 953
      },
      "invoice": false,
      "policy": null,

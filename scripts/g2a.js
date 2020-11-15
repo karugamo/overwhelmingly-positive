@@ -4,12 +4,13 @@ const fetch = require('node-fetch')
 const {saveToJson} = require('./lib')
 const delay = require('delay')
 const g2a = require('../data/g2a.json')
-const steamToG2a = require('../data/steam-to-g2a-manual.json')
 const {load} = require('./lib')
 
 const games = load('top-games-steamdb')
 const steamGames = load('steam-games')
 const manualG2a = load('steam-to-g2a-manual')
+
+const onlyFetchNew = false
 
 async function main() {
   for (const game of games) {
@@ -19,7 +20,7 @@ async function main() {
       continue
     }
 
-    if (steamGames[game.appId]?.is_free || g2a[game.appId]) {
+    if (steamGames[game.appId]?.is_free || (onlyFetchNew && g2a[game.appId])) {
       continue
     } else {
       process.stdout.write(`${game.name}: `)
@@ -53,8 +54,8 @@ async function getG2aOffers(slug) {
 }
 
 async function findG2aOffers(game) {
-  if (steamToG2a[game.appId]) {
-    return await getG2aOffers(steamToG2a[game.appId])
+  if (manualG2a[game.appId]) {
+    return await getG2aOffers(manualG2a[game.appId])
   }
 
   const {products} = await get(
