@@ -7,12 +7,6 @@ const games = require('../data/raw-games.json')
 const g2a = require('../data/g2a.json')
 const steamToG2a = require('../data/steam-to-g2a-manual.json')
 
-/*
-    Counter Strike: no match?
-    Mirror: no attributes
-
-*/
-
 async function main() {
   await findG2aOffers(games[0])[0]
 
