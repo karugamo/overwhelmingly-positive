@@ -2,15 +2,14 @@
 const delay = require('delay')
 const {steam, load, saveToJson} = require('./lib')
 
-const steamGames = load('steam-games')
-
 async function main() {
-  const games = load('top-games-steamdb')
+  const appIdToSteamDetails = load('steam-games')
+  const topGames = load('top-games-steamdb')
 
-  for (const [index, game] of games.entries()) {
+  for (const [index, game] of topGames.entries()) {
     const {appId} = game
 
-    if (steamGames[appId]) continue
+    if (appIdToSteamDetails[appId]) continue
 
     let response
     try {
@@ -27,10 +26,12 @@ async function main() {
 
     if (app?.success) {
       console.log(
-        `${index + 1}/${games.length} from steam: ${gameData.name} (${appId})`
+        `${index + 1}/${topGames.length} from steam: ${
+          gameData.name
+        } (${appId})`
       )
-      steamGames[appId] = gameData
-      saveToJson('steam-games', steamGames)
+      appIdToSteamDetails[appId] = gameData
+      saveToJson('steam-games', appIdToSteamDetails)
     } else {
       console.log('Failed', appId, game.name)
     }
