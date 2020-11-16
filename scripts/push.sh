@@ -4,6 +4,9 @@ set -e
 
 cat ~/.ssh/id_rsa
 
+git config --global user.email "heroku@karugamo.agency"
+git config --global user.name "Heroku Butler"
+
 git clone git@github.com:flexiproducts/overwhelmingly-positive.git git-repo
 
 cp data/* git-repo/data
