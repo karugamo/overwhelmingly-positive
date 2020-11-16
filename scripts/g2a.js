@@ -5,36 +5,41 @@ const {saveToJson} = require('./lib')
 const delay = require('delay')
 const {load} = require('./lib')
 
-const games = load('top-games-steamdb')
-const steamGames = load('steam-games')
+const topGamesSteamDb = load('top-games-steamdb')
+const appIdToSteam = load('steam-games')
 const manualG2a = load('steam-to-g2a-manual')
 const g2a = load('g2a')
 
 const onlyFetchNew = false
 
 async function main() {
-  for (const game of games) {
+  for (const game of topGamesSteamDb) {
     if (manualG2a[game.appId] === false) {
       g2a[game.appId] = undefined
       saveToJson('g2a', g2a)
       continue
     }
 
-    if (steamGames[game.appId]?.is_free || (onlyFetchNew && g2a[game.appId])) {
+    process.stdout.write(`${game.name}: `)
+
+    if (
+      appIdToSteam[game.appId]?.is_free ||
+      (onlyFetchNew && g2a[game.appId])
+    ) {
       console.log('skip', game.appId)
       continue
-    } else {
-      process.stdout.write(`${game.name}: `)
     }
 
     const result = await findG2aOffers(game)
-    if (result) {
-      console.log(result.slug)
-      g2a[game.appId] = result
-      saveToJson('g2a', g2a)
-    } else {
+
+    if (!result) {
       console.log('no match', game.appId)
+      return
     }
+
+    console.log(result.slug)
+    g2a[game.appId] = result
+    saveToJson('g2a', g2a)
   }
 }
 

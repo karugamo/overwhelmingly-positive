@@ -1905,14 +1905,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 8.77,
+     "price": 8.85,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 8.77,
-     "value": 8.77,
+     "base": 8.85,
+     "value": 8.85,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -1951,14 +1951,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 8.77,
+     "price": 8.85,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 8.77,
-     "value": 8.77,
+     "base": 8.85,
+     "value": 8.85,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -1978,52 +1978,6 @@
       "positive": 14663,
       "negative": 1064,
       "neutral": 953
-     },
-     "invoice": false,
-     "policy": null,
-     "shippingTemplateId": null,
-     "tax": null
-    }
-   },
-   {
-    "id": "12283115",
-    "isG2APlusOffer": false,
-    "clearId": "12283115",
-    "selectedOffer": false,
-    "isBestPrice": false,
-    "isTrust": true,
-    "delayed": false,
-    "type": "steam",
-    "special": false,
-    "discount": null,
-    "plusDiscount": {
-     "price": 8.78,
-     "suggestedPrice": null,
-     "discountAmount": null,
-     "discountPercent": null
-    },
-    "price": {
-     "base": 8.78,
-     "value": 8.78,
-     "noPennies": false,
-     "currency": "EUR"
-    },
-    "customer": {
-     "id": 1065801,
-     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
-     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
-     "name": "World_of_games",
-     "type": null,
-     "isDeveloper": false,
-     "isTrusted": true,
-     "isRecognized": false,
-     "avatar": null,
-     "transactions": 34346,
-     "rating": 92,
-     "votes": {
-      "positive": 28805,
-      "negative": 2405,
-      "neutral": 3136
      },
      "invoice": false,
      "policy": null,
@@ -2110,12 +2064,58 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 148,
+     "transactions": 147,
      "rating": 97,
      "votes": {
-      "positive": 126,
+      "positive": 125,
       "negative": 4,
       "neutral": 18
+     },
+     "invoice": false,
+     "policy": null,
+     "shippingTemplateId": null,
+     "tax": null
+    }
+   },
+   {
+    "id": "12283115",
+    "isG2APlusOffer": false,
+    "clearId": "12283115",
+    "selectedOffer": false,
+    "isBestPrice": false,
+    "isTrust": true,
+    "delayed": false,
+    "type": "steam",
+    "special": false,
+    "discount": null,
+    "plusDiscount": {
+     "price": 9.95,
+     "suggestedPrice": null,
+     "discountAmount": null,
+     "discountPercent": null
+    },
+    "price": {
+     "base": 9.95,
+     "value": 9.95,
+     "noPennies": false,
+     "currency": "EUR"
+    },
+    "customer": {
+     "id": 1065801,
+     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
+     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
+     "name": "World_of_games",
+     "type": null,
+     "isDeveloper": false,
+     "isTrusted": true,
+     "isRecognized": false,
+     "avatar": null,
+     "transactions": 34313,
+     "rating": 92,
+     "votes": {
+      "positive": 28769,
+      "negative": 2414,
+      "neutral": 3130
      },
      "invoice": false,
      "policy": null,
@@ -2202,12 +2202,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 4848,
+     "transactions": 4837,
      "rating": 85,
      "votes": {
-      "positive": 3592,
-      "negative": 642,
-      "neutral": 614
+      "positive": 3582,
+      "negative": 643,
+      "neutral": 612
      },
      "invoice": false,
      "policy": null,
@@ -21764,10 +21764,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1051,
+     "transactions": 1049,
      "rating": 98,
      "votes": {
-      "positive": 974,
+      "positive": 972,
       "negative": 19,
       "neutral": 58
      },
@@ -21866,10 +21866,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1312,
+     "transactions": 1313,
      "rating": 87,
      "votes": {
-      "positive": 1127,
+      "positive": 1128,
       "negative": 173,
       "neutral": 12
      },
@@ -21917,12 +21917,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 34346,
+     "transactions": 34312,
      "rating": 92,
      "votes": {
-      "positive": 28805,
-      "negative": 2405,
-      "neutral": 3136
+      "positive": 28768,
+      "negative": 2414,
+      "neutral": 3130
      },
      "invoice": false,
      "policy": null,
@@ -21968,12 +21968,12 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 321,
-     "rating": 89,
+     "transactions": 320,
+     "rating": 91,
      "votes": {
-      "positive": 270,
-      "negative": 32,
-      "neutral": 19
+      "positive": 269,
+      "negative": 28,
+      "neutral": 23
      },
      "invoice": false,
      "policy": null,
@@ -22019,10 +22019,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 122,
+     "transactions": 123,
      "rating": 95,
      "votes": {
-      "positive": 114,
+      "positive": 115,
       "negative": 6,
       "neutral": 2
      },
@@ -22070,10 +22070,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 570,
+     "transactions": 571,
      "rating": 97,
      "votes": {
-      "positive": 543,
+      "positive": 544,
       "negative": 18,
       "neutral": 9
      },
@@ -22121,11 +22121,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1422,
+     "transactions": 1427,
      "rating": 98,
      "votes": {
-      "positive": 1107,
-      "negative": 27,
+      "positive": 1111,
+      "negative": 28,
       "neutral": 288
      },
      "invoice": false,
@@ -22172,11 +22172,11 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1422,
+     "transactions": 1427,
      "rating": 98,
      "votes": {
-      "positive": 1107,
-      "negative": 27,
+      "positive": 1111,
+      "negative": 28,
       "neutral": 288
      },
      "invoice": false,
@@ -22223,10 +22223,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 148,
+     "transactions": 147,
      "rating": 97,
      "votes": {
-      "positive": 126,
+      "positive": 125,
       "negative": 4,
       "neutral": 18
      },
@@ -22274,11 +22274,11 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 125,
+     "transactions": 126,
      "rating": 88,
      "votes": {
       "positive": 107,
-      "negative": 14,
+      "negative": 15,
       "neutral": 4
      },
      "invoice": false,
@@ -22325,10 +22325,10 @@
      "isTrusted": false,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 1057,
+     "transactions": 1058,
      "rating": 86,
      "votes": {
-      "positive": 900,
+      "positive": 901,
       "negative": 147,
       "neutral": 10
      },
@@ -22371,12 +22371,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 24350,
-     "rating": 99,
+     "transactions": 24317,
+     "rating": 100,
      "votes": {
-      "positive": 20936,
-      "negative": 160,
-      "neutral": 3254
+      "positive": 20908,
+      "negative": 92,
+      "neutral": 3317
      },
      "invoice": false,
      "policy": null,
@@ -22417,12 +22417,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 2743,
+     "transactions": 2744,
      "rating": 99,
      "votes": {
-      "positive": 2169,
-      "negative": 30,
-      "neutral": 544
+      "positive": 2170,
+      "negative": 12,
+      "neutral": 562
      },
      "invoice": false,
      "policy": null,
@@ -54076,9 +54076,9 @@
   "slug": "the-witcher-3-wild-hunt-goty-edition-steam-gift-global-i10000026141004",
   "offers": [
    {
-    "id": "12298305",
+    "id": "12096087",
     "isG2APlusOffer": false,
-    "clearId": "12298305",
+    "clearId": "12096087",
     "selectedOffer": false,
     "isBestPrice": false,
     "isTrust": true,
@@ -54099,21 +54099,21 @@
      "currency": "EUR"
     },
     "customer": {
-     "id": 1065801,
-     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
-     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
-     "name": "World_of_games",
+     "id": 593888,
+     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
+     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
+     "name": "Wild_games",
      "type": null,
      "isDeveloper": false,
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 34346,
-     "rating": 92,
+     "transactions": 16680,
+     "rating": 93,
      "votes": {
-      "positive": 28805,
-      "negative": 2405,
-      "neutral": 3136
+      "positive": 14663,
+      "negative": 1064,
+      "neutral": 953
      },
      "invoice": false,
      "policy": null,
@@ -54122,9 +54122,9 @@
     }
    },
    {
-    "id": "12298305!",
+    "id": "12096087!",
     "isG2APlusOffer": false,
-    "clearId": "12298305",
+    "clearId": "12096087",
     "selectedOffer": true,
     "isBestPrice": false,
     "isTrust": true,
@@ -54145,21 +54145,21 @@
      "currency": "EUR"
     },
     "customer": {
-     "id": 1065801,
-     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
-     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
-     "name": "World_of_games",
+     "id": 593888,
+     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
+     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
+     "name": "Wild_games",
      "type": null,
      "isDeveloper": false,
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 34346,
-     "rating": 92,
+     "transactions": 16680,
+     "rating": 93,
      "votes": {
-      "positive": 28805,
-      "negative": 2405,
-      "neutral": 3136
+      "positive": 14663,
+      "negative": 1064,
+      "neutral": 953
      },
      "invoice": false,
      "policy": null,
@@ -54168,9 +54168,9 @@
     }
    },
    {
-    "id": "12096087",
+    "id": "12298305",
     "isG2APlusOffer": false,
-    "clearId": "12096087",
+    "clearId": "12298305",
     "selectedOffer": false,
     "isBestPrice": false,
     "isTrust": true,
@@ -54191,21 +54191,21 @@
      "currency": "EUR"
     },
     "customer": {
-     "id": 593888,
-     "encodedId": "d3f8e14d1665f009f2bb91a55ccd5d11",
-     "encodedUid": "7f9761ddd4fb8c412d70338c39dff2024cfeb31e15db417b2607354f1a0b77e4539e0a56647101adc48e03e5d8517574",
-     "name": "Wild_games",
+     "id": 1065801,
+     "encodedId": "d01a7cacb0e424123985bfe2e53a0523",
+     "encodedUid": "8fa7e33de9f550c36f8142efd6d97b02c5682d18141212f258867be3ebe04d63f76112a83e36154199c8fc6add50548f",
+     "name": "World_of_games",
      "type": null,
      "isDeveloper": false,
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 16680,
-     "rating": 93,
+     "transactions": 34313,
+     "rating": 92,
      "votes": {
-      "positive": 14663,
-      "negative": 1064,
-      "neutral": 953
+      "positive": 28769,
+      "negative": 2414,
+      "neutral": 3130
      },
      "invoice": false,
      "policy": null,
@@ -54298,12 +54298,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 34346,
+     "transactions": 34312,
      "rating": 92,
      "votes": {
-      "positive": 28805,
-      "negative": 2405,
-      "neutral": 3136
+      "positive": 28768,
+      "negative": 2414,
+      "neutral": 3130
      },
      "invoice": false,
      "policy": null,
@@ -54344,12 +54344,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 34346,
+     "transactions": 34312,
      "rating": 92,
      "votes": {
-      "positive": 28805,
-      "negative": 2405,
-      "neutral": 3136
+      "positive": 28768,
+      "negative": 2414,
+      "neutral": 3130
      },
      "invoice": false,
      "policy": null,
@@ -98930,14 +98930,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 22.14,
+     "price": 22.15,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 22.14,
-     "value": 22.14,
+     "base": 22.15,
+     "value": 22.15,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -98976,14 +98976,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 22.14,
+     "price": 22.15,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 22.14,
-     "value": 22.14,
+     "base": 22.15,
+     "value": 22.15,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -99022,14 +99022,14 @@
     "special": false,
     "discount": null,
     "plusDiscount": {
-     "price": 22.15,
+     "price": 22.16,
      "suggestedPrice": null,
      "discountAmount": null,
      "discountPercent": null
     },
     "price": {
-     "base": 22.15,
-     "value": 22.15,
+     "base": 22.16,
+     "value": 22.16,
      "noPennies": false,
      "currency": "EUR"
     },
@@ -99043,12 +99043,12 @@
      "isTrusted": true,
      "isRecognized": false,
      "avatar": null,
-     "transactions": 34346,
+     "transactions": 34312,
      "rating": 92,
      "votes": {
-      "positive": 28805,
-      "negative": 2405,
-      "neutral": 3136
+      "positive": 28768,
+      "negative": 2414,
+      "neutral": 3130
      },
      "invoice": false,
      "policy": null,
