@@ -1,16 +1,13 @@
-/* global require module __dirname */
+/* global require module */
 const {YOUTUBE_KEY} = require('../env')
 const axios = require('axios')
 const delay = require('delay')
-const fs = require('fs')
 const dayjs = require('dayjs')
 
-const {load} = require('./lib')
+const {load, saveToJson} = require('./lib')
 
 const games = load('top-games-steamdb')
 const appIdToVideo = load('appid-to-video')
-
-const {resolve} = require('path')
 
 async function main() {
   const gamesNeedNewVideo = games.filter(needsVideo)
@@ -27,7 +24,7 @@ async function main() {
         id: videoId,
         lastUpdated: new Date()
       }
-      save()
+      saveToJson('appid-to-video', appIdToVideo)
     } else {
       console.log(`Failed to fetch for ${game.name} (${game.appId})`)
     }
@@ -44,11 +41,6 @@ async function getYouTubeVideoId(query) {
     .catch(console.log)
 
   return result?.data?.items?.[0]?.id?.videoId
-}
-
-function save() {
-  const json = JSON.stringify(games, null, ' ')
-  fs.writeFileSync(resolve(__dirname, '../data/raw-games.json'), json)
 }
 
 module.exports = main
