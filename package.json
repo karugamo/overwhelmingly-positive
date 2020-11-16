@@ -78,5 +78,8 @@
   "staticFiles": {
     "staticPath": "static",
     "watcherGlob": "**"
+  },
+  "engines": {
+    "node": "15.x"
   }
 }
