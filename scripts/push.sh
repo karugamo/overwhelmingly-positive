@@ -2,6 +2,8 @@
 
 set -e
 
+cat ~/.ssh/id_rsa
+
 git clone git@github.com:flexiproducts/overwhelmingly-positive.git git-repo
 
 cp data/* git-repo/data
