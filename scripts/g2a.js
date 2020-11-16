@@ -34,7 +34,7 @@ async function main() {
 
     if (!result) {
       console.log('no match', game.appId)
-      return
+      continue
     }
 
     console.log(result.slug)
