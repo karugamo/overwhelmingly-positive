@@ -14,10 +14,10 @@
   ],
   "g2a": {
    "slug": "portal-2-steam-gift-global-i10000001119002",
-   "price": 8.79,
+   "price": 8.85,
    "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 33993,
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -37,12 +37,12 @@
    2
   ],
   "g2a": {
-   "slug": "factorio-steam-gift-global-i10000011359003",
-   "price": 30.23,
+   "slug": "factorio-steam-key-global-i10000011359006",
+   "price": 27.66,
    "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
+   "sellerName": "United_kingdom",
+   "sellerVotes": 42,
+   "sellerRating": 100
   }
  },
  {
@@ -57,10 +57,10 @@
   ],
   "g2a": {
    "slug": "the-witcher-3-wild-hunt-goty-edition-steam-gift-global-i10000026141004",
-   "price": 27.29,
+   "price": 43.13,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -81,11 +81,32 @@
   ],
   "g2a": {
    "slug": "terraria-steam-gift-global-i10000000238003",
-   "price": 5.06,
+   "price": 5.19,
    "currency": "EUR",
    "sellerName": "Smart_games",
-   "sellerVotes": 1038,
+   "sellerVotes": 1049,
    "sellerRating": 98
+  }
+ },
+ {
+  "name": "Hades",
+  "appId": "1145360",
+  "video": "NDMXQo_LalQ",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   23,
+   3
+  ],
+  "g2a": {
+   "slug": "hades-steam-gift-global-i10000192688002",
+   "price": 22.15,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
   }
  },
  {
@@ -105,29 +126,8 @@
    "price": 33.11,
    "currency": "EUR",
    "sellerName": "World_of_games",
-   "sellerVotes": 33993,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "Hades",
-  "appId": "1145360",
-  "video": "NDMXQo_LalQ",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   23,
-   3
-  ],
-  "g2a": {
-   "slug": "hades-steam-gift-global-i10000192688002",
-   "price": 22.23,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
+   "sellerVotes": 34312,
+   "sellerRating": 92
   }
  },
  {
@@ -143,10 +143,10 @@
   ],
   "g2a": {
    "slug": "the-binding-of-isaac-rebirth-steam-gift-global-i10000007814002",
-   "price": 13.16,
+   "price": 13.72,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -161,35 +161,12 @@
    1
   ],
   "g2a": {
-   "slug": "portal-steam-key-global-i10000004699008",
-   "price": 9.34,
+   "slug": "portal-steam-gift-global-i10000004699002",
+   "price": 9.35,
    "currency": "EUR",
-   "sellerName": "Thebap",
-   "sellerVotes": 316,
-   "sellerRating": 89
-  }
- },
- {
-  "name": "Stardew Valley",
-  "appId": "413150",
-  "video": "KKGhsUJd1RE",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   23,
-   3,
-   28
-  ],
-  "g2a": {
-   "slug": "stardew-valley-steam-key-global-i10000011727009",
-   "price": 17.48,
-   "currency": "EUR",
-   "sellerName": "Gamingimperium",
-   "sellerVotes": 29785,
-   "sellerRating": 100
+   "sellerName": "Kortulsgameroom",
+   "sellerVotes": 148,
+   "sellerRating": 97
   }
  },
  {
@@ -214,6 +191,29 @@
   }
  },
  {
+  "name": "Stardew Valley",
+  "appId": "413150",
+  "video": "KKGhsUJd1RE",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   23,
+   3,
+   28
+  ],
+  "g2a": {
+   "slug": "stardew-valley-steam-key-global-i10000011727009",
+   "price": 22.97,
+   "currency": "EUR",
+   "sellerName": "Claincir",
+   "sellerVotes": 5884,
+   "sellerRating": 93
+  }
+ },
+ {
   "name": "Euro Truck Simulator 2",
   "appId": "227300",
   "video": "82oVwecDqbE",
@@ -226,10 +226,10 @@
   ],
   "g2a": {
    "slug": "euro-truck-simulator-2-steam-key-global-i10000006437010",
-   "price": 7.47,
+   "price": 7.73,
    "currency": "EUR",
-   "sellerName": "Gamingimperium",
-   "sellerVotes": 29785,
+   "sellerName": "Gr8keys",
+   "sellerVotes": 3442,
    "sellerRating": 100
   }
  },
@@ -247,11 +247,11 @@
   ],
   "g2a": {
    "slug": "mount-blade-warband-steam-key-global-i10000006352007",
-   "price": 4.49,
+   "price": 4.77,
    "currency": "EUR",
-   "sellerName": "Gmcomparecom",
-   "sellerVotes": 3124,
-   "sellerRating": 100
+   "sellerName": "Outlawgames",
+   "sellerVotes": 24350,
+   "sellerRating": 99
   }
  },
  {
@@ -270,29 +270,8 @@
    "price": 11.27,
    "currency": "EUR",
    "sellerName": "Shine_bright",
-   "sellerVotes": 1241,
+   "sellerVotes": 1287,
    "sellerRating": 95
-  }
- },
- {
-  "name": "Left 4 Dead 2",
-  "appId": "550",
-  "video": "-7pYKsf-V5A",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   1
-  ],
-  "g2a": {
-   "slug": "left-4-dead-2-steam-gift-global-i10000002208003",
-   "price": 7.13,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16299,
-   "sellerRating": 93
   }
  },
  {
@@ -315,6 +294,27 @@
   }
  },
  {
+  "name": "Left 4 Dead 2",
+  "appId": "550",
+  "video": "-7pYKsf-V5A",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   1
+  ],
+  "g2a": {
+   "slug": "left-4-dead-2-steam-gift-global-i10000002208003",
+   "price": 9.03,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
   "name": "The Henry Stickmin Collection",
   "appId": "1089980",
   "video": "1mJ0Gyr3aK4",
@@ -331,7 +331,7 @@
    "price": 13.48,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16640,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -348,11 +348,11 @@
   ],
   "g2a": {
    "slug": "katana-zero-steam-key-global-i10000187319001",
-   "price": 10.9,
+   "price": 9.51,
    "currency": "EUR",
-   "sellerName": "Outlawgames",
-   "sellerVotes": 24352,
-   "sellerRating": 99
+   "sellerName": "Gamesm",
+   "sellerVotes": 102,
+   "sellerRating": 100
   }
  },
  {
@@ -384,11 +384,11 @@
   ],
   "g2a": {
    "slug": "a-hat-in-time-steam-pc-key-global-i10000083037001",
-   "price": 20.91,
+   "price": 20.86,
    "currency": "EUR",
-   "sellerName": "Gks_store",
-   "sellerVotes": 490,
-   "sellerRating": 100
+   "sellerName": "Retaildepot",
+   "sellerVotes": 833,
+   "sellerRating": 96
   }
  },
  {
@@ -420,11 +420,11 @@
   ],
   "g2a": {
    "slug": "totally-accurate-battle-simulator-steam-key-global-i10000186957001",
-   "price": 10.72,
+   "price": 11.94,
    "currency": "EUR",
-   "sellerName": "G_rush",
-   "sellerVotes": 1600,
-   "sellerRating": 100
+   "sellerName": "We_the_north",
+   "sellerVotes": 1412,
+   "sellerRating": 99
   }
  },
  {
@@ -458,26 +458,12 @@
   ],
   "g2a": {
    "slug": "resident-evil-2-biohazard-re2-steam-key-global-i10000171870007",
-   "price": 18.59,
+   "price": 18.19,
    "currency": "EUR",
    "sellerName": "Specialized",
    "sellerVotes": 4080,
    "sellerRating": 99
   }
- },
- {
-  "name": "Mirror",
-  "appId": "644560",
-  "video": "UBu_NGdUHus",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   23,
-   3
-  ],
-  "g2a": false
  },
  {
   "name": "South Park™: The Stick of Truth™",
@@ -496,9 +482,23 @@
    "price": 9.35,
    "currency": "EUR",
    "sellerName": "Gamingimperium",
-   "sellerVotes": 29817,
+   "sellerVotes": 29949,
    "sellerRating": 100
   }
+ },
+ {
+  "name": "Mirror",
+  "appId": "644560",
+  "video": "UBu_NGdUHus",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   23,
+   3
+  ],
+  "g2a": false
  },
  {
   "name": "Garry's Mod",
@@ -515,10 +515,10 @@
   ],
   "g2a": {
    "slug": "garrys-mod-steam-gift-global-i10000004391004",
-   "price": 8.73,
+   "price": 8.69,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -535,31 +535,33 @@
   ],
   "g2a": {
    "slug": "hotline-miami-steam-key-global-i10000000119006",
-   "price": 2.73,
+   "price": 3.37,
    "currency": "EUR",
-   "sellerName": "Instant_gaming_now",
-   "sellerVotes": 2047,
+   "sellerName": "We_the_north",
+   "sellerVotes": 1412,
    "sellerRating": 99
   }
  },
  {
-  "name": "Celeste",
-  "appId": "504230",
-  "video": "xAUun0qKlo4",
+  "name": "Phasmophobia",
+  "appId": "739630",
+  "video": "ZXQe5D1APQE",
   "categories": [
-   2
+   2,
+   1,
+   9
   ],
   "genres": [
    1,
-   25,
-   23
+   23,
+   70
   ],
   "g2a": {
-   "slug": "celeste-steam-gift-global-i10000135047002",
-   "price": 21.9,
+   "slug": "phasmophobia-pc-steam-gift-global-i10000218773004",
+   "price": 12.86,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -580,10 +582,10 @@
   ],
   "g2a": {
    "slug": "battleblock-theater-steam-gift-global-i10000005627003",
-   "price": 5.33,
+   "price": 5.39,
    "currency": "EUR",
    "sellerName": "Smart_games",
-   "sellerVotes": 1038,
+   "sellerVotes": 1051,
    "sellerRating": 98
   }
  },
@@ -615,10 +617,53 @@
   ],
   "g2a": {
    "slug": "oneshot-steam-gift-global-i10000031617001",
-   "price": 8.91,
+   "price": 8.9,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "Slime Rancher",
+  "appId": "433340",
+  "video": "Vwb0r5qF728",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25,
+   23,
+   28
+  ],
+  "g2a": {
+   "slug": "slime-rancher-steam-key-global-i10000008990006",
+   "price": 10.27,
+   "currency": "EUR",
+   "sellerName": "Star_game",
+   "sellerVotes": 1290,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "Celeste",
+  "appId": "504230",
+  "video": "xAUun0qKlo4",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25,
+   23
+  ],
+  "g2a": {
+   "slug": "celeste-steam-gift-global-i10000135047002",
+   "price": 21.83,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -639,7 +684,7 @@
    "price": 1.95,
    "currency": "EUR",
    "sellerName": "Gametraveler",
-   "sellerVotes": 681,
+   "sellerVotes": 680,
    "sellerRating": 100
   }
  },
@@ -656,71 +701,12 @@
   ],
   "g2a": {
    "slug": "dishonored-definitive-edition-steam-key-global-i10000007659010",
-   "price": 4.29,
+   "price": 3.99,
    "currency": "EUR",
    "sellerName": "Globalgamekey",
-   "sellerVotes": 1967,
+   "sellerVotes": 1954,
    "sellerRating": 98
   }
- },
- {
-  "name": "Slime Rancher",
-  "appId": "433340",
-  "video": "Vwb0r5qF728",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   25,
-   23,
-   28
-  ],
-  "g2a": {
-   "slug": "slime-rancher-steam-key-global-i10000008990006",
-   "price": 10.37,
-   "currency": "EUR",
-   "sellerName": "Digitalsales",
-   "sellerVotes": 165,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "Phasmophobia",
-  "appId": "739630",
-  "video": "ZXQe5D1APQE",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   1,
-   23,
-   70
-  ],
-  "g2a": {
-   "slug": "phasmophobia-pc-steam-gift-global-i10000218773004",
-   "price": 12.85,
-   "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 34017,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "Iron Snout",
-  "appId": "424280",
-  "video": "yXfzPpuwQ4g",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   37,
-   23
-  ],
-  "g2a": false
  },
  {
   "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
@@ -736,31 +722,11 @@
   ],
   "g2a": {
    "slug": "va-11-hall-a-cyberpunk-bartender-action-steam-gift-global-i10000018970001",
-   "price": 17.66,
+   "price": 17.65,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
-  }
- },
- {
-  "name": "A Short Hike",
-  "appId": "1055540",
-  "video": "p6UDqtlmJpk",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   23
-  ],
-  "g2a": {
-   "slug": "a-short-hike-steam-key-global-i10000189801004",
-   "price": 4.63,
-   "currency": "EUR",
-   "sellerName": "G_rush",
-   "sellerVotes": 1600,
-   "sellerRating": 100
   }
  },
  {
@@ -780,9 +746,43 @@
    "price": 5.94,
    "currency": "EUR",
    "sellerName": "Gametraveler",
-   "sellerVotes": 681,
+   "sellerVotes": 680,
    "sellerRating": 100
   }
+ },
+ {
+  "name": "A Short Hike",
+  "appId": "1055540",
+  "video": "p6UDqtlmJpk",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   23
+  ],
+  "g2a": {
+   "slug": "a-short-hike-steam-key-global-i10000189801004",
+   "price": 4.63,
+   "currency": "EUR",
+   "sellerName": "G_rush",
+   "sellerVotes": 1614,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "Iron Snout",
+  "appId": "424280",
+  "video": "yXfzPpuwQ4g",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   37,
+   23
+  ],
+  "g2a": false
  },
  {
   "name": "Baba Is You",
@@ -798,8 +798,8 @@
    "slug": "baba-is-you-steam-key-global-i10000185894002",
    "price": 3.07,
    "currency": "EUR",
-   "sellerName": "Golden_games",
-   "sellerVotes": 3899,
+   "sellerName": "Just_for_u",
+   "sellerVotes": 1830,
    "sellerRating": 100
   }
  },
@@ -837,11 +837,32 @@
   ],
   "g2a": {
    "slug": "hollow-knight-steam-key-global-i10000034437006",
-   "price": 13.38,
+   "price": 13.86,
    "currency": "EUR",
-   "sellerName": "Iamevilman",
-   "sellerVotes": 94,
-   "sellerRating": 99
+   "sellerName": "G_rush",
+   "sellerVotes": 1614,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "Don't Starve",
+  "appId": "219740",
+  "video": "m9-Wjz_Gn-8",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   23,
+   28
+  ],
+  "g2a": {
+   "slug": "dont-starve-steam-gift-global-i10000003621004",
+   "price": 10.42,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
   }
  },
  {
@@ -860,29 +881,8 @@
    "price": 13.47,
    "currency": "EUR",
    "sellerName": "Outlawgames",
-   "sellerVotes": 24352,
+   "sellerVotes": 24350,
    "sellerRating": 99
-  }
- },
- {
-  "name": "Don't Starve",
-  "appId": "219740",
-  "video": "m9-Wjz_Gn-8",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   23,
-   28
-  ],
-  "g2a": {
-   "slug": "dont-starve-bundle-steam-key-global-i10000015149007",
-   "price": 16.3,
-   "currency": "EUR",
-   "sellerName": "Kindstore",
-   "sellerVotes": 369,
-   "sellerRating": 85
   }
  },
  {
@@ -899,10 +899,10 @@
   ],
   "g2a": {
    "slug": "dusk-steam-key-pc-global-i10000084521001",
-   "price": 9.03,
+   "price": 8.97,
    "currency": "EUR",
    "sellerName": "Naruto0",
-   "sellerVotes": 490,
+   "sellerVotes": 520,
    "sellerRating": 100
   }
  },
@@ -920,34 +920,11 @@
   ],
   "g2a": {
    "slug": "ultrakill-pc-steam-gift-global-i10000218330006",
-   "price": 18.3,
+   "price": 18.2,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16312,
+   "sellerVotes": 16680,
    "sellerRating": 93
-  }
- },
- {
-  "name": "Don't Starve Together",
-  "appId": "322330",
-  "video": "vKRJxCYD5so",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   25,
-   23,
-   28
-  ],
-  "g2a": {
-   "slug": "dont-starve-together-steam-gift-global-i10000001104001",
-   "price": 6.1,
-   "currency": "EUR",
-   "sellerName": "Smart_games",
-   "sellerVotes": 1038,
-   "sellerRating": 98
   }
  },
  {
@@ -966,33 +943,35 @@
    23
   ],
   "g2a": {
-   "slug": "broforce-steam-gift-global-i10000015259001",
-   "price": 5.19,
+   "slug": "broforce-steam-key-global-i10000015259005",
+   "price": 4.86,
    "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 33993,
-   "sellerRating": 93
+   "sellerName": "G_rush",
+   "sellerVotes": 1614,
+   "sellerRating": 100
   }
  },
  {
-  "name": "Tomb Raider",
-  "appId": "203160",
-  "video": "8gHea-oMh6k",
+  "name": "Don't Starve Together",
+  "appId": "322330",
+  "video": "vKRJxCYD5so",
   "categories": [
    2,
-   1
+   1,
+   9
   ],
   "genres": [
-   1,
-   25
+   25,
+   23,
+   28
   ],
   "g2a": {
-   "slug": "tomb-raider-steam-key-global-i10000000008012",
-   "price": 4.84,
+   "slug": "dont-starve-together-steam-gift-global-i10000001104001",
+   "price": 6.49,
    "currency": "EUR",
-   "sellerName": "Gamingimperium",
-   "sellerVotes": 29785,
-   "sellerRating": 100
+   "sellerName": "Smart_games",
+   "sellerVotes": 1051,
+   "sellerRating": 98
   }
  },
  {
@@ -1010,8 +989,29 @@
    "price": 2.94,
    "currency": "EUR",
    "sellerName": "Good_trader",
-   "sellerVotes": 2376,
+   "sellerVotes": 2364,
    "sellerRating": 99
+  }
+ },
+ {
+  "name": "Tomb Raider",
+  "appId": "203160",
+  "video": "8gHea-oMh6k",
+  "categories": [
+   2,
+   1
+  ],
+  "genres": [
+   1,
+   25
+  ],
+  "g2a": {
+   "slug": "tomb-raider-steam-key-global-i10000000008012",
+   "price": 5.11,
+   "currency": "EUR",
+   "sellerName": "Gamingimperium",
+   "sellerVotes": 29949,
+   "sellerRating": 100
   }
  },
  {
@@ -1028,6 +1028,26 @@
   "g2a": false
  },
  {
+  "name": "The Room",
+  "appId": "288160",
+  "video": "dRwzDphvhV4",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   23
+  ],
+  "g2a": {
+   "slug": "the-room-steam-gift-global-i10000050618001",
+   "price": 1.99,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
   "name": "Undertale",
   "appId": "391540",
   "video": "lf8Aldrs77A",
@@ -1040,11 +1060,11 @@
   ],
   "g2a": {
    "slug": "undertale-steam-key-global-i10000005286007",
-   "price": 7.47,
+   "price": 7.45,
    "currency": "EUR",
-   "sellerName": "We_the_north",
-   "sellerVotes": 1414,
-   "sellerRating": 99
+   "sellerName": "G_rush",
+   "sellerVotes": 1614,
+   "sellerRating": 100
   }
  },
  {
@@ -1064,8 +1084,8 @@
    "price": 12.11,
    "currency": "EUR",
    "sellerName": "World_of_games",
-   "sellerVotes": 34017,
-   "sellerRating": 93
+   "sellerVotes": 34346,
+   "sellerRating": 92
   }
  },
  {
@@ -1084,28 +1104,29 @@
    "price": 14.91,
    "currency": "EUR",
    "sellerName": "Instant_gaming_now",
-   "sellerVotes": 2047,
+   "sellerVotes": 2052,
    "sellerRating": 99
   }
  },
  {
-  "name": "The Room",
-  "appId": "288160",
-  "video": "dRwzDphvhV4",
+  "name": "Keep Talking and Nobody Explodes",
+  "appId": "341800",
+  "video": "__cK-amlKPo",
   "categories": [
-   2
+   1,
+   9,
+   31
   ],
   "genres": [
-   25,
    23
   ],
   "g2a": {
-   "slug": "the-room-steam-gift-global-i10000050618001",
-   "price": 6.08,
+   "slug": "keep-talking-and-nobody-explodes-steam-key-global-i10000006269004",
+   "price": 14.22,
    "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16312,
-   "sellerRating": 93
+   "sellerName": "Gamingempire",
+   "sellerVotes": 112,
+   "sellerRating": 99
   }
  },
  {
@@ -1124,71 +1145,8 @@
    "price": 8.99,
    "currency": "EUR",
    "sellerName": "Bellakey",
-   "sellerVotes": 13049,
+   "sellerVotes": 12961,
    "sellerRating": 100
-  }
- },
- {
-  "name": "Keep Talking and Nobody Explodes",
-  "appId": "341800",
-  "video": "__cK-amlKPo",
-  "categories": [
-   1,
-   9,
-   31
-  ],
-  "genres": [
-   23
-  ],
-  "g2a": {
-   "slug": "keep-talking-and-nobody-explodes-steam-key-global-i10000006269004",
-   "price": 12.31,
-   "currency": "EUR",
-   "sellerName": "Sg_store",
-   "sellerVotes": 529,
-   "sellerRating": 99
-  }
- },
- {
-  "name": "The Room Two",
-  "appId": "425580",
-  "video": "F7XGzm_KZpE",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   23
-  ],
-  "g2a": {
-   "slug": "the-room-two-steam-gift-global-i10000019204001",
-   "price": 6.08,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "Just Shapes & Beats",
-  "appId": "531510",
-  "video": "wt96W5njiV8",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   1,
-   23
-  ],
-  "g2a": {
-   "slug": "just-shapes-beats-steam-gift-global-i10000156316002",
-   "price": 18.84,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
   }
  },
  {
@@ -1205,6 +1163,26 @@
    3
   ],
   "g2a": false
+ },
+ {
+  "name": "The Room Two",
+  "appId": "425580",
+  "video": "F7XGzm_KZpE",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   23
+  ],
+  "g2a": {
+   "slug": "the-room-two-steam-gift-global-i10000019204001",
+   "price": 1.99,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
  },
  {
   "name": "Finding Paradise",
@@ -1228,6 +1206,48 @@
   }
  },
  {
+  "name": "Just Shapes & Beats",
+  "appId": "531510",
+  "video": "wt96W5njiV8",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   1,
+   23
+  ],
+  "g2a": {
+   "slug": "just-shapes-beats-steam-gift-global-i10000156316002",
+   "price": 20.93,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "Fallout: New Vegas",
+  "appId": "22380",
+  "video": "YhEUZSKszuc",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   3
+  ],
+  "g2a": {
+   "slug": "fallout-new-vegas-ultimate-edition-steam-key-global-i10000002212009",
+   "price": 5,
+   "currency": "EUR",
+   "sellerName": "Teimubig",
+   "sellerVotes": 2270,
+   "sellerRating": 99
+  }
+ },
+ {
   "name": "Townscaper",
   "appId": "1291340",
   "video": "PjThL8zvJPk",
@@ -1242,10 +1262,10 @@
   ],
   "g2a": {
    "slug": "townscaper-pc-steam-gift-global-i10000196280001",
-   "price": 7.66,
+   "price": 7.61,
    "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 34017,
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -1263,26 +1283,6 @@
   "g2a": false
  },
  {
-  "name": "Fallout: New Vegas",
-  "appId": "22380",
-  "video": "YhEUZSKszuc",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   3
-  ],
-  "g2a": {
-   "slug": "fallout-new-vegas-ultimate-edition-steam-key-global-i10000002212009",
-   "price": 5.04,
-   "currency": "EUR",
-   "sellerName": "Gamingimperium",
-   "sellerVotes": 29817,
-   "sellerRating": 100
-  }
- },
- {
   "name": "Among Us",
   "appId": "945360",
   "video": "3GKgGX0TQKY",
@@ -1295,10 +1295,29 @@
   ],
   "g2a": {
    "slug": "among-us-pc-steam-gift-global-i10000206485001",
-   "price": 4.52,
+   "price": 4.86,
    "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 34017,
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "Persona 4 Golden",
+  "appId": "1113000",
+  "video": "GQFK4OPjLPI",
+  "categories": [
+   2
+  ],
+  "genres": [
+   3
+  ],
+  "g2a": {
+   "slug": "persona-4-golden-pc-steam-key-global-i10000196094009",
+   "price": 18.89,
+   "currency": "EUR",
+   "sellerName": "Gamersurus",
+   "sellerVotes": 1930,
    "sellerRating": 93
   }
  },
@@ -1316,51 +1335,33 @@
   ],
   "g2a": {
    "slug": "to-the-moon-steam-key-global-i10000004823004",
-   "price": 5.49,
+   "price": 10.92,
    "currency": "EUR",
-   "sellerName": "Vg_lab",
-   "sellerVotes": 237,
+   "sellerName": "Gmcomparecom",
+   "sellerVotes": 3206,
    "sellerRating": 100
   }
  },
  {
-  "name": "Persona 4 Golden",
-  "appId": "1113000",
-  "video": "GQFK4OPjLPI",
+  "name": "Kind Words",
+  "appId": "1070710",
+  "video": "S6_3A1X5vi4",
   "categories": [
-   2
-  ],
-  "genres": [
-   3
-  ],
-  "g2a": {
-   "slug": "persona-4-golden-pc-steam-gift-global-i10000196094001",
-   "price": 17.99,
-   "currency": "EUR",
-   "sellerName": "Premiumseller",
-   "sellerVotes": 3913,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "Touhou Luna Nights",
-  "appId": "851100",
-  "video": "bwf9yXxf73c",
-  "categories": [
-   2
-  ],
-  "genres": [
+   2,
    1,
-   25,
+   9
+  ],
+  "genres": [
+   4,
    23
   ],
   "g2a": {
-   "slug": "touhou-luna-nights-steam-gift-global-i10000183034002",
-   "price": 15.33,
+   "slug": "kind-words-lo-fi-chill-beats-to-write-to-steam-key-global-i10000190611001",
+   "price": 2.11,
    "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
+   "sellerName": "G_rush",
+   "sellerVotes": 1614,
+   "sellerRating": 100
   }
  },
  {
@@ -1378,6 +1379,27 @@
    23
   ],
   "g2a": false
+ },
+ {
+  "name": "Touhou Luna Nights",
+  "appId": "851100",
+  "video": "bwf9yXxf73c",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25,
+   23
+  ],
+  "g2a": {
+   "slug": "touhou-luna-nights-steam-gift-global-i10000183034002",
+   "price": 15.74,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
  },
  {
   "name": "Counter-Strike: Source",
@@ -1413,11 +1435,34 @@
   ],
   "g2a": {
    "slug": "cuphead-steam-pc-key-global-i10000081315001",
-   "price": 10.52,
+   "price": 10.76,
    "currency": "EUR",
    "sellerName": "Best_price_00",
-   "sellerVotes": 345,
+   "sellerVotes": 350,
    "sellerRating": 100
+  }
+ },
+ {
+  "name": "Divinity: Original Sin 2",
+  "appId": "435150",
+  "video": "Xd1zlRF4mDk",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   25,
+   3,
+   2
+  ],
+  "g2a": {
+   "slug": "divinity-original-sin-2-pc-steam-gift-global-i10000027719003",
+   "price": 38.85,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
   }
  },
  {
@@ -1438,51 +1483,6 @@
    "sellerName": "Kortulsgameroom",
    "sellerVotes": 151,
    "sellerRating": 97
-  }
- },
- {
-  "name": "Kind Words",
-  "appId": "1070710",
-  "video": "S6_3A1X5vi4",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   4,
-   23
-  ],
-  "g2a": {
-   "slug": "kind-words-lo-fi-chill-beats-to-write-to-steam-key-global-i10000190611001",
-   "price": 2.11,
-   "currency": "EUR",
-   "sellerName": "G_rush",
-   "sellerVotes": 1600,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "Divinity: Original Sin 2",
-  "appId": "435150",
-  "video": "Xd1zlRF4mDk",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   25,
-   3,
-   2
-  ],
-  "g2a": {
-   "slug": "divinity-original-sin-2-pc-steam-gift-global-i10000027719003",
-   "price": 38.86,
-   "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 33993,
-   "sellerRating": 93
   }
  },
  {
@@ -1517,10 +1517,10 @@
   ],
   "g2a": {
    "slug": "papers-please-steam-key-global-i10000000400006",
-   "price": 10.54,
+   "price": 10.37,
    "currency": "EUR",
    "sellerName": "Premiumgamestore",
-   "sellerVotes": 6245,
+   "sellerVotes": 6329,
    "sellerRating": 91
   }
  },
@@ -1540,7 +1540,7 @@
    "price": 0.67,
    "currency": "EUR",
    "sellerName": "Azurestore",
-   "sellerVotes": 1934,
+   "sellerVotes": 1976,
    "sellerRating": 99
   }
  },
@@ -1560,7 +1560,7 @@
    "price": 4.4,
    "currency": "EUR",
    "sellerName": "Final_best_game",
-   "sellerVotes": 1067,
+   "sellerVotes": 1073,
    "sellerRating": 100
   }
  },
@@ -1576,10 +1576,10 @@
   ],
   "g2a": {
    "slug": "phoenix-wright-ace-attorney-trilogy-3-steam-gift-global-i10000005031002",
-   "price": 34.66,
+   "price": 34.65,
    "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 33993,
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -1596,10 +1596,10 @@
   ],
   "g2a": {
    "slug": "oxygen-not-included-steam-gift-global-i10000041187001",
-   "price": 27.36,
+   "price": 27.35,
    "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 33993,
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -1618,11 +1618,51 @@
   ],
   "g2a": {
    "slug": "risk-of-rain-2-steam-key-global-i10000186331001",
-   "price": 11.99,
+   "price": 11.95,
    "currency": "EUR",
-   "sellerName": "Bellakey",
-   "sellerVotes": 13049,
+   "sellerName": "Gamewarfare",
+   "sellerVotes": 655,
    "sellerRating": 100
+  }
+ },
+ {
+  "name": "CLANNAD",
+  "appId": "324160",
+  "video": "i9j3GDaB4Vg",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   4
+  ],
+  "g2a": {
+   "slug": "clannad-steam-gift-global-i10000007822003",
+   "price": 45.78,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "ATRI -My Dear Moments-",
+  "appId": "1230140",
+  "video": "RYbjY6e9-d8",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   4
+  ],
+  "g2a": {
+   "slug": "atri-my-dear-moments-pc-steam-gift-global-i10000196177003",
+   "price": 21.98,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
   }
  },
  {
@@ -1639,51 +1679,11 @@
   ],
   "g2a": {
    "slug": "gunpoint-steam-key-global-i10000044675002",
-   "price": 5.23,
+   "price": 5.15,
    "currency": "EUR",
-   "sellerName": "True_keys",
-   "sellerVotes": 255,
+   "sellerName": "Good_store",
+   "sellerVotes": 252,
    "sellerRating": 99
-  }
- },
- {
-  "name": "CLANNAD",
-  "appId": "324160",
-  "video": "i9j3GDaB4Vg",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   4
-  ],
-  "g2a": {
-   "slug": "clannad-steam-key-global-i10000007822006",
-   "price": 46.02,
-   "currency": "EUR",
-   "sellerName": "Claincir",
-   "sellerVotes": 5478,
-   "sellerRating": 94
-  }
- },
- {
-  "name": "ATRI -My Dear Moments-",
-  "appId": "1230140",
-  "video": "RYbjY6e9-d8",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   4
-  ],
-  "g2a": {
-   "slug": "atri-my-dear-moments-pc-steam-gift-global-i10000196177003",
-   "price": 21.34,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16312,
-   "sellerRating": 93
   }
  },
  {
@@ -1701,7 +1701,7 @@
    "price": 6.04,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16640,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -1718,10 +1718,10 @@
   ],
   "g2a": {
    "slug": "star-wars-empire-at-war-gold-pack-steam-key-global-i10000009392003",
-   "price": 4.24,
+   "price": 3.96,
    "currency": "EUR",
    "sellerName": "Outlawgames",
-   "sellerVotes": 24363,
+   "sellerVotes": 24349,
    "sellerRating": 99
   }
  },
@@ -1739,10 +1739,10 @@
   ],
   "g2a": {
    "slug": "epic-battle-fantasy-5-steam-gift-global-i10000176263002",
-   "price": 18.84,
+   "price": 20.95,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -1761,10 +1761,10 @@
   ],
   "g2a": {
    "slug": "deep-rock-galactic-steam-gift-global-i10000081171002",
-   "price": 27.9,
+   "price": 27.88,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -1784,27 +1784,6 @@
   "g2a": false
  },
  {
-  "name": "FTL: Faster Than Light",
-  "appId": "212680",
-  "video": "NebYyP9qJ9g",
-  "categories": [
-   2
-  ],
-  "genres": [
-   23,
-   28,
-   2
-  ],
-  "g2a": {
-   "slug": "ftl-faster-than-light-steam-key-global-i10000012903005",
-   "price": 2.8,
-   "currency": "EUR",
-   "sellerName": "Fun_keys",
-   "sellerVotes": 1254,
-   "sellerRating": 100
-  }
- },
- {
   "name": "Unheard",
   "appId": "942970",
   "video": "QzA3apRSHww",
@@ -1817,27 +1796,6 @@
    28
   ],
   "g2a": false
- },
- {
-  "name": "Mark of the Ninja",
-  "appId": "214560",
-  "video": "kdjsG3hR4R4",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   25,
-   23
-  ],
-  "g2a": {
-   "slug": "mark-of-the-ninja-steam-key-global-i10000030348004",
-   "price": 16.24,
-   "currency": "EUR",
-   "sellerName": "Retaildepot",
-   "sellerVotes": 838,
-   "sellerRating": 95
-  }
  },
  {
   "name": "NEKOPARA Vol. 2",
@@ -1857,8 +1815,50 @@
    "price": 7.77,
    "currency": "EUR",
    "sellerName": "Neverm1nd",
-   "sellerVotes": 200,
+   "sellerVotes": 203,
    "sellerRating": 99
+  }
+ },
+ {
+  "name": "FTL: Faster Than Light",
+  "appId": "212680",
+  "video": "NebYyP9qJ9g",
+  "categories": [
+   2
+  ],
+  "genres": [
+   23,
+   28,
+   2
+  ],
+  "g2a": {
+   "slug": "ftl-faster-than-light-steam-key-global-i10000012903005",
+   "price": 2.8,
+   "currency": "EUR",
+   "sellerName": "Fun_keys",
+   "sellerVotes": 1291,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "Mark of the Ninja",
+  "appId": "214560",
+  "video": "kdjsG3hR4R4",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25,
+   23
+  ],
+  "g2a": {
+   "slug": "mark-of-the-ninja-steam-key-global-i10000030348004",
+   "price": 16.24,
+   "currency": "EUR",
+   "sellerName": "Retaildepot",
+   "sellerVotes": 833,
+   "sellerRating": 96
   }
  },
  {
@@ -1882,29 +1882,8 @@
    "price": 3.87,
    "currency": "EUR",
    "sellerName": "Smart_games",
-   "sellerVotes": 1038,
+   "sellerVotes": 1051,
    "sellerRating": 98
-  }
- },
- {
-  "name": "Outlast",
-  "appId": "238320",
-  "video": "8YHi4-Nh6VY",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   25,
-   23
-  ],
-  "g2a": {
-   "slug": "outlast-steam-key-global-i10000000380010",
-   "price": 3.41,
-   "currency": "EUR",
-   "sellerName": "Global_safe_key",
-   "sellerVotes": 3939,
-   "sellerRating": 100
   }
  },
  {
@@ -1921,11 +1900,32 @@
   ],
   "g2a": {
    "slug": "subnautica-steam-gift-global-i10000015252002",
-   "price": 25.48,
+   "price": 25.51,
    "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 33993,
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
+  }
+ },
+ {
+  "name": "Outlast",
+  "appId": "238320",
+  "video": "8YHi4-Nh6VY",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25,
+   23
+  ],
+  "g2a": {
+   "slug": "outlast-steam-key-global-i10000000380010",
+   "price": 3.23,
+   "currency": "EUR",
+   "sellerName": "Golden_games",
+   "sellerVotes": 3970,
+   "sellerRating": 100
   }
  },
  {
@@ -1946,7 +1946,7 @@
    "price": 6.81,
    "currency": "EUR",
    "sellerName": "Instant_gaming_now",
-   "sellerVotes": 2047,
+   "sellerVotes": 2052,
    "sellerRating": 99
   }
  },
@@ -1965,10 +1965,10 @@
   ],
   "g2a": {
    "slug": "nekopara-vol-3-steam-gift-global-i10000148422002",
-   "price": 7.61,
+   "price": 8.9,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -1986,10 +1986,10 @@
   ],
   "g2a": {
    "slug": "saints-row-the-third-full-package-steam-key-global-i10000000628006",
-   "price": 5.58,
+   "price": 6.28,
    "currency": "EUR",
-   "sellerName": "Games_hub",
-   "sellerVotes": 873,
+   "sellerName": "Gr8keys",
+   "sellerVotes": 3442,
    "sellerRating": 100
   }
  },
@@ -2005,10 +2005,56 @@
   ],
   "g2a": {
    "slug": "danganronpa-trigger-happy-havoc-steam-gift-global-i10000011492002",
-   "price": 8.8,
+   "price": 9,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "Satisfactory",
+  "appId": "526870",
+  "video": "9IB4NBkxgP4",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   25,
+   23,
+   28,
+   2,
+   70
+  ],
+  "g2a": {
+   "slug": "satisfactory-pc-steam-key-global-i10000186204002",
+   "price": 71.94,
+   "currency": "EUR",
+   "sellerName": "Gmcomparecom",
+   "sellerVotes": 3206,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "Ravenfield",
+  "appId": "636480",
+  "video": "bGNmnrcr69Q",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   23,
+   70
+  ],
+  "g2a": {
+   "slug": "ravenfield-steam-gift-global-i10000135103001",
+   "price": 13.96,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -2035,52 +2081,6 @@
   }
  },
  {
-  "name": "Ravenfield",
-  "appId": "636480",
-  "video": "bGNmnrcr69Q",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   23,
-   70
-  ],
-  "g2a": {
-   "slug": "ravenfield-steam-gift-global-i10000135103001",
-   "price": 13.72,
-   "currency": "EUR",
-   "sellerName": "Premiumseller",
-   "sellerVotes": 3908,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "Satisfactory",
-  "appId": "526870",
-  "video": "9IB4NBkxgP4",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   25,
-   23,
-   28,
-   2,
-   70
-  ],
-  "g2a": {
-   "slug": "satisfactory-pc-steam-key-global-i10000186204002",
-   "price": 71.94,
-   "currency": "EUR",
-   "sellerName": "Gmcomparecom",
-   "sellerVotes": 3127,
-   "sellerRating": 100
-  }
- },
- {
   "name": "Ori and the Blind Forest: Definitive Edition",
   "appId": "387290",
   "video": "3O2g3Ql3nRU",
@@ -2095,8 +2095,27 @@
    "price": 7.39,
    "currency": "EUR",
    "sellerName": "Globalgamekey",
-   "sellerVotes": 1967,
+   "sellerVotes": 1954,
    "sellerRating": 98
+  }
+ },
+ {
+  "name": "Danganronpa 2: Goodbye Despair",
+  "appId": "413420",
+  "video": "Phsid97EfkE",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25
+  ],
+  "g2a": {
+   "slug": "danganronpa-2-goodbye-despair-steam-gift-global-i10000014269002",
+   "price": 9.06,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
   }
  },
  {
@@ -2117,11 +2136,11 @@
   ],
   "g2a": {
    "slug": "tabletop-simulator-steam-gift-global-i10000004362001",
-   "price": 8.89,
+   "price": 10.39,
    "currency": "EUR",
-   "sellerName": "Smart_games",
-   "sellerVotes": 1038,
-   "sellerRating": 98
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
   }
  },
  {
@@ -2158,30 +2177,11 @@
   ],
   "g2a": {
    "slug": "huniepop-steam-key-global-i10000006382003",
-   "price": 7.45,
+   "price": 7.34,
    "currency": "EUR",
-   "sellerName": "Blokfluit",
-   "sellerVotes": 24389,
-   "sellerRating": 99
-  }
- },
- {
-  "name": "Danganronpa 2: Goodbye Despair",
-  "appId": "413420",
-  "video": "Phsid97EfkE",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25
-  ],
-  "g2a": {
-   "slug": "danganronpa-2-goodbye-despair-steam-gift-global-i10000014269002",
-   "price": 9.06,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
+   "sellerName": "Globalsafecodes",
+   "sellerVotes": 1871,
+   "sellerRating": 100
   }
  },
  {
@@ -2198,12 +2198,26 @@
   ],
   "g2a": {
    "slug": "duck-game-steam-gift-global-i10000001891003",
-   "price": 12,
+   "price": 10.28,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
+ },
+ {
+  "name": "Mindustry",
+  "appId": "1127400",
+  "video": "fTw_p0zzDnw",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   2
+  ],
+  "g2a": false
  },
  {
   "name": "Batman: Arkham Asylum GOTY Edition",
@@ -2221,7 +2235,7 @@
    "price": 2.24,
    "currency": "EUR",
    "sellerName": "_eplay",
-   "sellerVotes": 2246,
+   "sellerVotes": 2247,
    "sellerRating": 100
   }
  },
@@ -2238,24 +2252,45 @@
   ],
   "g2a": {
    "slug": "beat-saber-steam-gift-global-i10000155137002",
-   "price": 29.54,
+   "price": 29.89,
+   "currency": "EUR",
+   "sellerName": "Premiumseller",
+   "sellerVotes": 3982,
+   "sellerRating": 92
+  }
+ },
+ {
+  "name": "Gorogoa",
+  "appId": "557600",
+  "video": "xsOwbfNdc_A",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   4,
+   23
+  ],
+  "g2a": {
+   "slug": "project-gorgon-steam-gift-global-i10000147414002",
+   "price": 41.2,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
  {
-  "name": "Mindustry",
-  "appId": "1127400",
-  "video": "fTw_p0zzDnw",
+  "name": "Monster Girl Island: Prologue",
+  "appId": "943700",
+  "video": "GSFELzYIAY0",
   "categories": [
-   2,
-   1,
-   9
+   2
   ],
   "genres": [
-   2
+   25,
+   37,
+   23
   ],
   "g2a": false
  },
@@ -2275,6 +2310,26 @@
   "g2a": false
  },
  {
+  "name": "American Truck Simulator",
+  "appId": "270880",
+  "video": "UiqM2yyqcOQ",
+  "categories": [
+   2
+  ],
+  "genres": [
+   23,
+   28
+  ],
+  "g2a": {
+   "slug": "american-truck-simulator-steam-key-global-i10000008748004",
+   "price": 6.94,
+   "currency": "EUR",
+   "sellerName": "Gr8keys",
+   "sellerVotes": 3442,
+   "sellerRating": 100
+  }
+ },
+ {
   "name": "Hook",
   "appId": "367580",
   "video": "3o2Ajc1UNw",
@@ -2290,62 +2345,7 @@
    "price": 1.22,
    "currency": "EUR",
    "sellerName": "Just_for_u",
-   "sellerVotes": 1784,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "Gorogoa",
-  "appId": "557600",
-  "video": "xsOwbfNdc_A",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   4,
-   23
-  ],
-  "g2a": {
-   "slug": "project-gorgon-steam-gift-global-i10000147414002",
-   "price": 40.16,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16313,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "Monster Girl Island: Prologue",
-  "appId": "943700",
-  "video": "GSFELzYIAY0",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   37,
-   23
-  ],
-  "g2a": false
- },
- {
-  "name": "Age of Empires II (2013)",
-  "appId": "221380",
-  "video": "OGvgmTDqyRI",
-  "categories": [
-   2,
-   1
-  ],
-  "genres": [
-   2
-  ],
-  "g2a": {
-   "slug": "age-of-empires-ii-hd-steam-key-global-i10000002238008",
-   "price": 20.79,
-   "currency": "EUR",
-   "sellerName": "United_kingdom",
-   "sellerVotes": 42,
+   "sellerVotes": 1830,
    "sellerRating": 100
   }
  },
@@ -2371,22 +2371,22 @@
   }
  },
  {
-  "name": "American Truck Simulator",
-  "appId": "270880",
-  "video": "UiqM2yyqcOQ",
+  "name": "Age of Empires II (2013)",
+  "appId": "221380",
+  "video": "OGvgmTDqyRI",
   "categories": [
-   2
+   2,
+   1
   ],
   "genres": [
-   23,
-   28
+   2
   ],
   "g2a": {
-   "slug": "american-truck-simulator-steam-key-global-i10000008748004",
-   "price": 6.94,
+   "slug": "age-of-empires-ii-hd-steam-key-global-i10000002238008",
+   "price": 20.79,
    "currency": "EUR",
-   "sellerName": "Gr8keys",
-   "sellerVotes": 3492,
+   "sellerName": "United_kingdom",
+   "sellerVotes": 42,
    "sellerRating": 100
   }
  },
@@ -2407,7 +2407,7 @@
    "price": 3.72,
    "currency": "EUR",
    "sellerName": "Games_hub",
-   "sellerVotes": 873,
+   "sellerVotes": 883,
    "sellerRating": 100
   }
  },
@@ -2424,10 +2424,30 @@
   ],
   "g2a": {
    "slug": "return-of-the-obra-dinn-steam-gift-global-i10000174480001",
-   "price": 17.7,
+   "price": 18.05,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "Supreme Commander: Forged Alliance",
+  "appId": "9420",
+  "video": "_tWp4ynONnQ",
+  "categories": [
+   2,
+   1
+  ],
+  "genres": [
+   2
+  ],
+  "g2a": {
+   "slug": "supreme-commander-forged-alliance-steam-gift-global-i10000034147001",
+   "price": 3.41,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -2444,11 +2464,11 @@
   ],
   "g2a": {
    "slug": "batman-arkham-city-goty-edition-steam-key-global-i10000000987005",
-   "price": 3.38,
+   "price": 3.76,
    "currency": "EUR",
-   "sellerName": "Keysell2431",
-   "sellerVotes": 16662,
-   "sellerRating": 97
+   "sellerName": "Outlawgames",
+   "sellerVotes": 24350,
+   "sellerRating": 99
   }
  },
  {
@@ -2466,93 +2486,10 @@
   ],
   "g2a": {
    "slug": "the-binding-of-isaac-steam-gift-global-i10000002702002",
-   "price": 6.08,
+   "price": 6.6,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "Supreme Commander: Forged Alliance",
-  "appId": "9420",
-  "video": "_tWp4ynONnQ",
-  "categories": [
-   2,
-   1
-  ],
-  "genres": [
-   2
-  ],
-  "g2a": {
-   "slug": "supreme-commander-forged-alliance-steam-gift-global-i10000034147001",
-   "price": 13.81,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "BioShock Infinite",
-  "appId": "8870",
-  "video": "HFJ0JTaMxUg",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1
-  ],
-  "g2a": {
-   "slug": "bioshock-infinite-pc-steam-key-global-i10000005277010",
-   "price": 6.59,
-   "currency": "EUR",
-   "sellerName": "Gamingimperium",
-   "sellerVotes": 29785,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "Shovel Knight: Treasure Trove",
-  "appId": "250760",
-  "video": "rEIRQOwWV6w",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   1,
-   25,
-   23
-  ],
-  "g2a": {
-   "slug": "shovel-knight-treasure-trove-steam-key-global-i10000036028002",
-   "price": 17,
-   "currency": "EUR",
-   "sellerName": "Instant_gaming_now",
-   "sellerVotes": 2047,
-   "sellerRating": 99
-  }
- },
- {
-  "name": "Little Witch Nobeta",
-  "appId": "1049890",
-  "video": "kDeJHx0sp04",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   23,
-   70
-  ],
-  "g2a": {
-   "slug": "little-witch-nobeta-pc-steam-gift-global-i10000196274001",
-   "price": 10.53,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16313,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -2573,14 +2510,33 @@
    "price": 9.64,
    "currency": "EUR",
    "sellerName": "Premiumseller",
-   "sellerVotes": 3908,
-   "sellerRating": 93
+   "sellerVotes": 3982,
+   "sellerRating": 92
   }
  },
  {
-  "name": "Crypt of the NecroDancer",
-  "appId": "247080",
-  "video": "Rs4Sc6-PjQI",
+  "name": "BioShock Infinite",
+  "appId": "8870",
+  "video": "HFJ0JTaMxUg",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1
+  ],
+  "g2a": {
+   "slug": "bioshock-infinite-pc-steam-key-global-i10000005277010",
+   "price": 6.68,
+   "currency": "EUR",
+   "sellerName": "Gr8keys",
+   "sellerVotes": 3442,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "Shovel Knight: Treasure Trove",
+  "appId": "250760",
+  "video": "rEIRQOwWV6w",
   "categories": [
    2,
    1,
@@ -2588,36 +2544,16 @@
   ],
   "genres": [
    1,
-   23,
-   3
+   25,
+   23
   ],
   "g2a": {
-   "slug": "crypt-of-the-necrodancer-steam-key-global-i10000004674005",
-   "price": 3.5,
+   "slug": "shovel-knight-treasure-trove-steam-key-global-i10000036028002",
+   "price": 16.99,
    "currency": "EUR",
-   "sellerName": "Instant_gaming_now",
-   "sellerVotes": 2047,
+   "sellerName": "Paradise_of_games",
+   "sellerVotes": 623,
    "sellerRating": 99
-  }
- },
- {
-  "name": "Monster Train",
-  "appId": "1102190",
-  "video": "GVEwoVUf7IY",
-  "categories": [
-   2,
-   1
-  ],
-  "genres": [
-   2
-  ],
-  "g2a": {
-   "slug": "monster-train-pc-steam-key-global-i10000195698006",
-   "price": 20.28,
-   "currency": "EUR",
-   "sellerName": "Neogameland",
-   "sellerVotes": 1780,
-   "sellerRating": 100
   }
  },
  {
@@ -2636,8 +2572,52 @@
    "price": 4.26,
    "currency": "EUR",
    "sellerName": "Instant_gaming_now",
-   "sellerVotes": 2047,
+   "sellerVotes": 2052,
    "sellerRating": 99
+  }
+ },
+ {
+  "name": "Crypt of the NecroDancer",
+  "appId": "247080",
+  "video": "Rs4Sc6-PjQI",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   1,
+   23,
+   3
+  ],
+  "g2a": {
+   "slug": "crypt-of-the-necrodancer-steam-key-global-i10000004674005",
+   "price": 3.47,
+   "currency": "EUR",
+   "sellerName": "We_the_north",
+   "sellerVotes": 1412,
+   "sellerRating": 99
+  }
+ },
+ {
+  "name": "Little Witch Nobeta",
+  "appId": "1049890",
+  "video": "kDeJHx0sp04",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   23,
+   70
+  ],
+  "g2a": {
+   "slug": "little-witch-nobeta-pc-steam-gift-global-i10000196274001",
+   "price": 10.57,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
   }
  },
  {
@@ -2654,10 +2634,93 @@
   ],
   "g2a": {
    "slug": "inside-steam-key-global-i10000019615007",
-   "price": 9.34,
+   "price": 8.34,
    "currency": "EUR",
    "sellerName": "Games_hub",
-   "sellerVotes": 873,
+   "sellerVotes": 883,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "Monster Train",
+  "appId": "1102190",
+  "video": "GVEwoVUf7IY",
+  "categories": [
+   2,
+   1
+  ],
+  "genres": [
+   2
+  ],
+  "g2a": {
+   "slug": "monster-train-pc-steam-gift-global-i10000195698001",
+   "price": 25.53,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "BeamNG.drive",
+  "appId": "284160",
+  "video": "3ukhqZG_XqM",
+  "categories": [
+   2
+  ],
+  "genres": [
+   9,
+   28,
+   70
+  ],
+  "g2a": {
+   "slug": "beamngdrive-steam-gift-global-i10000001157003",
+   "price": 25.51,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "Bloons TD 6",
+  "appId": "960090",
+  "video": "8zG-Zs2J_N0",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   2
+  ],
+  "g2a": {
+   "slug": "bloons-td-6-steam-gift-global-i10000178751001",
+   "price": 8.99,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "S.T.A.L.K.E.R.: Call of Pripyat",
+  "appId": "41700",
+  "video": "ZhujGAcuXRY",
+  "categories": [
+   2,
+   1
+  ],
+  "genres": [
+   1,
+   3
+  ],
+  "g2a": {
+   "slug": "stalker-call-of-pripyat-steam-key-global-i10000016447007",
+   "price": 3.24,
+   "currency": "EUR",
+   "sellerName": "_eplay",
+   "sellerVotes": 2247,
    "sellerRating": 100
   }
  },
@@ -2678,70 +2741,30 @@
    "price": 1.87,
    "currency": "EUR",
    "sellerName": "Gamez_shop",
-   "sellerVotes": 3483,
+   "sellerVotes": 3490,
    "sellerRating": 96
   }
  },
  {
-  "name": "S.T.A.L.K.E.R.: Call of Pripyat",
-  "appId": "41700",
-  "video": "ZhujGAcuXRY",
-  "categories": [
-   2,
-   1
-  ],
-  "genres": [
-   1,
-   3
-  ],
-  "g2a": {
-   "slug": "stalker-call-of-pripyat-steam-key-global-i10000016447007",
-   "price": 3.24,
-   "currency": "EUR",
-   "sellerName": "_eplay",
-   "sellerVotes": 2274,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "BeamNG.drive",
-  "appId": "284160",
-  "video": "3ukhqZG_XqM",
-  "categories": [
-   2
-  ],
-  "genres": [
-   9,
-   28,
-   70
-  ],
-  "g2a": {
-   "slug": "beamngdrive-steam-gift-global-i10000001157003",
-   "price": 24.2,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "Bloons TD 6",
-  "appId": "960090",
-  "video": "8zG-Zs2J_N0",
+  "name": "Clone Drone in the Danger Zone",
+  "appId": "597170",
+  "video": "ZByu_IVa2Vw",
   "categories": [
    2,
    1,
    9
   ],
   "genres": [
-   2
+   1,
+   23,
+   70
   ],
   "g2a": {
-   "slug": "bloons-td-6-steam-gift-global-i10000178751001",
-   "price": 8.97,
+   "slug": "clone-drone-in-the-danger-zone-steam-gift-global-i10000035654001",
+   "price": 14.96,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -2761,6 +2784,26 @@
   "g2a": false
  },
  {
+  "name": "My Friend Pedro",
+  "appId": "557340",
+  "video": "o0YqsAFTJAQ",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   23
+  ],
+  "g2a": {
+   "slug": "my-friend-pedro-steam-key-global-i10000188646001",
+   "price": 5.13,
+   "currency": "EUR",
+   "sellerName": "Golden_games",
+   "sellerVotes": 3970,
+   "sellerRating": 100
+  }
+ },
+ {
   "name": "Everlasting Summer",
   "appId": "331470",
   "video": "33UooHhnk4U",
@@ -2774,49 +2817,6 @@
    23
   ],
   "g2a": false
- },
- {
-  "name": "My Friend Pedro",
-  "appId": "557340",
-  "video": "o0YqsAFTJAQ",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   23
-  ],
-  "g2a": {
-   "slug": "my-friend-pedro-steam-key-global-i10000188646001",
-   "price": 5.81,
-   "currency": "EUR",
-   "sellerName": "Happytime",
-   "sellerVotes": 1436,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "Clone Drone in the Danger Zone",
-  "appId": "597170",
-  "video": "ZByu_IVa2Vw",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   1,
-   23,
-   70
-  ],
-  "g2a": {
-   "slug": "clone-drone-in-the-danger-zone-steam-key-global-i10000035654002",
-   "price": 15.52,
-   "currency": "EUR",
-   "sellerName": "Massivegames",
-   "sellerVotes": 114,
-   "sellerRating": 100
-  }
  },
  {
   "name": "POSTAL 2",
@@ -2835,27 +2835,8 @@
    "price": 4.16,
    "currency": "EUR",
    "sellerName": "Outlawgames",
-   "sellerVotes": 24352,
+   "sellerVotes": 24350,
    "sellerRating": 99
-  }
- },
- {
-  "name": "Ori and the Blind Forest",
-  "appId": "261570",
-  "video": "Wh6gBjfXKxw",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1
-  ],
-  "g2a": {
-   "slug": "ori-and-the-blind-forest-definitive-edition-steam-key-global-i10000015196007",
-   "price": 7.39,
-   "currency": "EUR",
-   "sellerName": "Lord_of_the_games",
-   "sellerVotes": 260,
-   "sellerRating": 100
   }
  },
  {
@@ -2875,8 +2856,27 @@
    "price": 6.9,
    "currency": "EUR",
    "sellerName": "Thanks4buying",
-   "sellerVotes": 235,
+   "sellerVotes": 246,
    "sellerRating": 100
+  }
+ },
+ {
+  "name": "Ori and the Blind Forest",
+  "appId": "261570",
+  "video": "Wh6gBjfXKxw",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1
+  ],
+  "g2a": {
+   "slug": "ori-and-the-blind-forest-definitive-edition-steam-key-global-i10000015196007",
+   "price": 7.39,
+   "currency": "EUR",
+   "sellerName": "Globalgamekey",
+   "sellerVotes": 1954,
+   "sellerRating": 98
   }
  },
  {
@@ -2894,10 +2894,30 @@
   ],
   "g2a": {
    "slug": "black-mesa-steam-gift-global-i10000006953003",
-   "price": 21.57,
+   "price": 21.44,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "Titanfall® 2",
+  "appId": "1237970",
+  "video": "SCenq-HHDMc",
+  "categories": [
+   2,
+   1
+  ],
+  "genres": [
+   1
+  ],
+  "g2a": {
+   "slug": "titanfall-2-ultimate-edition-pc-steam-gift-global-i10000084543008",
+   "price": 35.61,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -2917,7 +2937,7 @@
    "price": 4.49,
    "currency": "EUR",
    "sellerName": "Gmcomparecom",
-   "sellerVotes": 3124,
+   "sellerVotes": 3206,
    "sellerRating": 100
   }
  },
@@ -2937,7 +2957,26 @@
    "price": 2.78,
    "currency": "EUR",
    "sellerName": "Golden_games",
-   "sellerVotes": 3899,
+   "sellerVotes": 3970,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "The Elder Scrolls V: Skyrim",
+  "appId": "72850",
+  "video": "-NhevGw_qBw",
+  "categories": [
+   2
+  ],
+  "genres": [
+   3
+  ],
+  "g2a": {
+   "slug": "the-elder-scrolls-v-skyrim-special-edition-steam-key-global-i10000029090004",
+   "price": 14.9,
+   "currency": "EUR",
+   "sellerName": "Gamingimperium",
+   "sellerVotes": 29949,
    "sellerRating": 100
   }
  },
@@ -2955,28 +2994,9 @@
    "slug": "the-walking-dead-season-two-steam-key-global-i10000006411007",
    "price": 3.11,
    "currency": "EUR",
-   "sellerName": "We_the_north",
-   "sellerVotes": 1414,
+   "sellerName": "Fastshoppingkeys",
+   "sellerVotes": 1330,
    "sellerRating": 99
-  }
- },
- {
-  "name": "The Elder Scrolls V: Skyrim",
-  "appId": "72850",
-  "video": "-NhevGw_qBw",
-  "categories": [
-   2
-  ],
-  "genres": [
-   3
-  ],
-  "g2a": {
-   "slug": "the-elder-scrolls-v-skyrim-special-edition-steam-key-global-i10000029090004",
-   "price": 15.18,
-   "currency": "EUR",
-   "sellerName": "Gamingimperium",
-   "sellerVotes": 29817,
-   "sellerRating": 100
   }
  },
  {
@@ -2996,28 +3016,8 @@
    "price": 2.8,
    "currency": "EUR",
    "sellerName": "Ggamescodes",
-   "sellerVotes": 973,
+   "sellerVotes": 965,
    "sellerRating": 100
-  }
- },
- {
-  "name": "Titanfall® 2",
-  "appId": "1237970",
-  "video": "SCenq-HHDMc",
-  "categories": [
-   2,
-   1
-  ],
-  "genres": [
-   1
-  ],
-  "g2a": {
-   "slug": "titanfall-2-ultimate-edition-pc-steam-gift-global-i10000084543008",
-   "price": 35.71,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16314,
-   "sellerRating": 93
   }
  },
  {
@@ -3034,10 +3034,10 @@
   ],
   "g2a": {
    "slug": "soma-steam-key-global-i10000005706006",
-   "price": 16.12,
+   "price": 16.99,
    "currency": "EUR",
-   "sellerName": "We_the_north",
-   "sellerVotes": 1414,
+   "sellerName": "Neverm1nd",
+   "sellerVotes": 203,
    "sellerRating": 99
   }
  },
@@ -3055,30 +3055,10 @@
   ],
   "g2a": {
    "slug": "left-4-dead-steam-gift-global-i10000001329001",
-   "price": 6.43,
+   "price": 9.34,
    "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "Batman: Arkham City GOTY",
-  "appId": "200260",
-  "video": "1_jZx3iuL14",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   25
-  ],
-  "g2a": {
-   "slug": "batman-arkham-city-goty-edition-steam-key-global-i10000000987005",
-   "price": 3.38,
-   "currency": "EUR",
-   "sellerName": "Keysell2431",
-   "sellerVotes": 16657,
+   "sellerName": "Kortulsgameroom",
+   "sellerVotes": 148,
    "sellerRating": 97
   }
  },
@@ -3097,10 +3077,30 @@
   ],
   "g2a": {
    "slug": "ultimate-chicken-horse-steam-key-global-i10000011794004",
-   "price": 10.72,
+   "price": 11.82,
    "currency": "EUR",
-   "sellerName": "Good_trader",
-   "sellerVotes": 2376,
+   "sellerName": "Kaka8game",
+   "sellerVotes": 89,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "Batman: Arkham City GOTY",
+  "appId": "200260",
+  "video": "1_jZx3iuL14",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25
+  ],
+  "g2a": {
+   "slug": "batman-arkham-city-goty-edition-steam-key-global-i10000000987005",
+   "price": 3.76,
+   "currency": "EUR",
+   "sellerName": "Outlawgames",
+   "sellerVotes": 24350,
    "sellerRating": 99
   }
  },
@@ -3118,33 +3118,12 @@
    3
   ],
   "g2a": {
-   "slug": "dying-light-the-following-enhanced-edition-steam-key-global-i10000008660012",
-   "price": 11.35,
+   "slug": "dying-light-steam-key-global-i10000001162014",
+   "price": 8.72,
    "currency": "EUR",
-   "sellerName": "Kgamestrade",
-   "sellerVotes": 7314,
-   "sellerRating": 97
-  }
- },
- {
-  "name": "Marco & The Galaxy Dragon",
-  "appId": "1202540",
-  "video": "4o9ei7mmk_Y",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   4,
-   28
-  ],
-  "g2a": {
-   "slug": "marco-the-galaxy-dragon-steam-gift-global-i10000193802001",
-   "price": 20.36,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
+   "sellerName": "Outlawgames",
+   "sellerVotes": 24350,
+   "sellerRating": 99
   }
  },
  {
@@ -3164,8 +3143,29 @@
    "price": 20.18,
    "currency": "EUR",
    "sellerName": "Gmcomparecom",
-   "sellerVotes": 3124,
+   "sellerVotes": 3206,
    "sellerRating": 100
+  }
+ },
+ {
+  "name": "Marco & The Galaxy Dragon",
+  "appId": "1202540",
+  "video": "4o9ei7mmk_Y",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   4,
+   28
+  ],
+  "g2a": {
+   "slug": "marco-the-galaxy-dragon-steam-gift-global-i10000193802001",
+   "price": 20.93,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
   }
  },
  {
@@ -3183,10 +3183,10 @@
   ],
   "g2a": {
    "slug": "nuclear-throne-steam-key-global-i10000008621004",
-   "price": 9.55,
+   "price": 10.68,
    "currency": "EUR",
-   "sellerName": "Vg_lab",
-   "sellerVotes": 233,
+   "sellerName": "Thanks4buying",
+   "sellerVotes": 246,
    "sellerRating": 100
   }
  },
@@ -3206,11 +3206,32 @@
   ],
   "g2a": {
    "slug": "hot-dogs-horseshoes-hand-grenades-vr-steam-gift-global-i10000013501001",
-   "price": 23.05,
+   "price": 23.06,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
+  }
+ },
+ {
+  "name": "DOOM",
+  "appId": "379720",
+  "video": "KGIZgPNGifo",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   1
+  ],
+  "g2a": {
+   "slug": "doom-steam-key-global-i10000002155012",
+   "price": 7.99,
+   "currency": "EUR",
+   "sellerName": "Gr8keys",
+   "sellerVotes": 3442,
+   "sellerRating": 100
   }
  },
  {
@@ -3227,11 +3248,11 @@
   ],
   "g2a": {
    "slug": "bloodstained-ritual-of-the-night-steam-key-global-i10000188135001",
-   "price": 22.64,
+   "price": 22.65,
    "currency": "EUR",
-   "sellerName": "Claincir",
-   "sellerVotes": 5478,
-   "sellerRating": 94
+   "sellerName": "Outlawgames",
+   "sellerVotes": 24349,
+   "sellerRating": 99
   }
  },
  {
@@ -3246,27 +3267,6 @@
    23
   ],
   "g2a": false
- },
- {
-  "name": "DOOM",
-  "appId": "379720",
-  "video": "KGIZgPNGifo",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   1
-  ],
-  "g2a": {
-   "slug": "doom-steam-key-global-i10000002155012",
-   "price": 7.39,
-   "currency": "EUR",
-   "sellerName": "Gr8keys",
-   "sellerVotes": 3492,
-   "sellerRating": 100
-  }
  },
  {
   "name": "Bit Blaster XL",
@@ -3285,8 +3285,29 @@
    "price": 2.05,
    "currency": "EUR",
    "sellerName": "Gmcomparecom",
-   "sellerVotes": 3124,
+   "sellerVotes": 3206,
    "sellerRating": 100
+  }
+ },
+ {
+  "name": "Monster Prom 2: Monster Camp",
+  "appId": "1140270",
+  "video": "Y4qDa1ZSwW8",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   23
+  ],
+  "g2a": {
+   "slug": "monster-prom-2-monster-camp-pc-steam-gift-global-i10000219556005",
+   "price": 10.51,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
   }
  },
  {
@@ -3301,12 +3322,12 @@
    23
   ],
   "g2a": {
-   "slug": "fran-bow-steam-key-global-i10000005896007",
-   "price": 17.69,
+   "slug": "fran-bow-steam-gift-global-i10000005896003",
+   "price": 15.49,
    "currency": "EUR",
-   "sellerName": "Outlawgames",
-   "sellerVotes": 24352,
-   "sellerRating": 99
+   "sellerName": "Premiumseller",
+   "sellerVotes": 3982,
+   "sellerRating": 92
   }
  },
  {
@@ -3328,87 +3349,8 @@
    "price": 2.84,
    "currency": "EUR",
    "sellerName": "Gmcomparecom",
-   "sellerVotes": 3127,
+   "sellerVotes": 3206,
    "sellerRating": 100
-  }
- },
- {
-  "name": "Tales of the Black Forest",
-  "appId": "1093910",
-  "video": "sgPCzCHsDzE",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   23,
-   3
-  ],
-  "g2a": false
- },
- {
-  "name": "Streets of Rogue",
-  "appId": "512900",
-  "video": "GeVbYoeyHrg",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   1,
-   25,
-   23,
-   3
-  ],
-  "g2a": {
-   "slug": "streets-of-rogue-steam-key-global-i10000034765004",
-   "price": 3.74,
-   "currency": "EUR",
-   "sellerName": "Mit_games",
-   "sellerVotes": 2895,
-   "sellerRating": 98
-  }
- },
- {
-  "name": "The Talos Principle",
-  "appId": "257510",
-  "video": "ycwzQ-3tVPg",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   25,
-   23
-  ],
-  "g2a": {
-   "slug": "the-talos-principle-steam-key-global-i10000006332007",
-   "price": 5.13,
-   "currency": "EUR",
-   "sellerName": "Teimubig",
-   "sellerVotes": 2201,
-   "sellerRating": 99
-  }
- },
- {
-  "name": "NEKOPARA Vol. 1",
-  "appId": "333600",
-  "video": "dDtpVOMC1rg",
-  "categories": [
-   2
-  ],
-  "genres": [
-   4,
-   23
-  ],
-  "g2a": {
-   "slug": "nekopara-vol-1-steam-gift-global-i10000003662001",
-   "price": 6.46,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
   }
  },
  {
@@ -3422,6 +3364,20 @@
    1,
    37,
    23
+  ],
+  "g2a": false
+ },
+ {
+  "name": "Tales of the Black Forest",
+  "appId": "1093910",
+  "video": "sgPCzCHsDzE",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   23,
+   3
   ],
   "g2a": false
  },
@@ -3440,10 +3396,75 @@
   ],
   "g2a": {
    "slug": "besiege-steam-gift-global-i10000029493001",
-   "price": 15.96,
+   "price": 15.88,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "The Talos Principle",
+  "appId": "257510",
+  "video": "ycwzQ-3tVPg",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25,
+   23
+  ],
+  "g2a": {
+   "slug": "the-talos-principle-steam-key-global-i10000006332007",
+   "price": 6.56,
+   "currency": "EUR",
+   "sellerName": "Outlawgames",
+   "sellerVotes": 24350,
+   "sellerRating": 99
+  }
+ },
+ {
+  "name": "Streets of Rogue",
+  "appId": "512900",
+  "video": "GeVbYoeyHrg",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   1,
+   25,
+   23,
+   3
+  ],
+  "g2a": {
+   "slug": "streets-of-rogue-steam-key-global-i10000034765004",
+   "price": 4.21,
+   "currency": "EUR",
+   "sellerName": "Just_for_u",
+   "sellerVotes": 1830,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "NEKOPARA Vol. 1",
+  "appId": "333600",
+  "video": "dDtpVOMC1rg",
+  "categories": [
+   2
+  ],
+  "genres": [
+   4,
+   23
+  ],
+  "g2a": {
+   "slug": "nekopara-vol-1-steam-gift-global-i10000003662001",
+   "price": 10.41,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -3455,20 +3476,6 @@
    2
   ],
   "genres": [
-   4,
-   23
-  ],
-  "g2a": false
- },
- {
-  "name": "DEEP SPACE WAIFU",
-  "appId": "639790",
-  "video": "mcfGxR3HQZc",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
    4,
    23
   ],
@@ -3489,6 +3496,27 @@
   "g2a": false
  },
  {
+  "name": "Hidden Folks",
+  "appId": "435400",
+  "video": "2G6SPzE37ek",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   4,
+   23
+  ],
+  "g2a": {
+   "slug": "hidden-folks-steam-key-global-i10000033965002",
+   "price": 4.12,
+   "currency": "EUR",
+   "sellerName": "Outlawgames",
+   "sellerVotes": 24350,
+   "sellerRating": 99
+  }
+ },
+ {
   "name": "Super Animal Royale",
   "appId": "843380",
   "video": "ub70tGaGenY",
@@ -3505,33 +3533,12 @@
    70
   ],
   "g2a": {
-   "slug": "super-animal-royale-steam-key-global-i10000178635001",
-   "price": 9.59,
+   "slug": "super-animal-royale-steam-gift-global-i10000178635002",
+   "price": 14.04,
    "currency": "EUR",
-   "sellerName": "G_rush",
-   "sellerVotes": 1600,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "Hidden Folks",
-  "appId": "435400",
-  "video": "2G6SPzE37ek",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   4,
-   23
-  ],
-  "g2a": {
-   "slug": "hidden-folks-steam-key-global-i10000033965002",
-   "price": 2.97,
-   "currency": "EUR",
-   "sellerName": "Outlawgames",
-   "sellerVotes": 24352,
-   "sellerRating": 99
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
   }
  },
  {
@@ -3551,9 +3558,45 @@
    "price": 1,
    "currency": "EUR",
    "sellerName": "Azurestore",
-   "sellerVotes": 1934,
+   "sellerVotes": 1976,
    "sellerRating": 99
   }
+ },
+ {
+  "name": "Bug Fables",
+  "appId": "1082710",
+  "video": "MBJSHwy5pjg",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25,
+   23,
+   3
+  ],
+  "g2a": {
+   "slug": "bug-fables-the-everlasting-sapling-steam-key-global-i10000192600001",
+   "price": 15.52,
+   "currency": "EUR",
+   "sellerName": "Trust_shopkeeper",
+   "sellerVotes": 353,
+   "sellerRating": 97
+  }
+ },
+ {
+  "name": "DEEP SPACE WAIFU",
+  "appId": "639790",
+  "video": "mcfGxR3HQZc",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   4,
+   23
+  ],
+  "g2a": false
  },
  {
   "name": "Ori and the Will of the Wisps",
@@ -3567,31 +3610,10 @@
   ],
   "g2a": {
    "slug": "ori-and-the-will-of-the-wisps-steam-gift-global-i10000192737002",
-   "price": 33.1,
+   "price": 32.82,
    "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 33993,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "Monster Prom 2: Monster Camp",
-  "appId": "1140270",
-  "video": "Y4qDa1ZSwW8",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   23
-  ],
-  "g2a": {
-   "slug": "monster-prom-2-monster-camp-pc-steam-gift-global-i10000219556005",
-   "price": 10.5,
-   "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 34017,
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -3609,12 +3631,12 @@
    2
   ],
   "g2a": {
-   "slug": "game-dev-tycoon-steam-key-global-i10000002106005",
-   "price": 9.68,
+   "slug": "game-dev-tycoon-steam-gift-global-i10000002106002",
+   "price": 8.49,
    "currency": "EUR",
-   "sellerName": "Samfit",
-   "sellerVotes": 1570,
-   "sellerRating": 98
+   "sellerName": "Premiumseller",
+   "sellerVotes": 3982,
+   "sellerRating": 92
   }
  },
  {
@@ -3626,123 +3648,6 @@
   ],
   "genres": [
    25,
-   23
-  ],
-  "g2a": false
- },
- {
-  "name": "Bug Fables",
-  "appId": "1082710",
-  "video": "MBJSHwy5pjg",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   25,
-   23,
-   3
-  ],
-  "g2a": {
-   "slug": "bug-fables-the-everlasting-sapling-steam-key-global-i10000192600001",
-   "price": 19.11,
-   "currency": "EUR",
-   "sellerName": "Trust_shopkeeper",
-   "sellerVotes": 353,
-   "sellerRating": 97
-  }
- },
- {
-  "name": "Kingdom Rush",
-  "appId": "246420",
-  "video": "dZ56Y2FYYU0",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   23,
-   2
-  ],
-  "g2a": {
-   "slug": "kingdom-rush-steam-key-global-i10000042927002",
-   "price": 4.95,
-   "currency": "EUR",
-   "sellerName": "Gks_store",
-   "sellerVotes": 490,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "Trine 2",
-  "appId": "35720",
-  "video": "tIBApCwG2Xs",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   1,
-   25,
-   23
-  ],
-  "g2a": {
-   "slug": "trine-2-complete-story-steam-key-global-i10000004046006",
-   "price": 6.16,
-   "currency": "EUR",
-   "sellerName": "Outlawgames",
-   "sellerVotes": 24352,
-   "sellerRating": 99
-  }
- },
- {
-  "name": "Dust: An Elysian Tail",
-  "appId": "236090",
-  "video": "XsfwAxYcAZw",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   25,
-   23,
-   3
-  ],
-  "g2a": {
-   "slug": "dust-an-elysian-tail-steam-key-global-i10000001464003",
-   "price": 5.95,
-   "currency": "EUR",
-   "sellerName": "Azurestore",
-   "sellerVotes": 1934,
-   "sellerRating": 99
-  }
- },
- {
-  "name": "Princess Remedy in a World of Hurt",
-  "appId": "407900",
-  "video": "EJZL-qjku4A",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   25,
-   23
-  ],
-  "g2a": false
- },
- {
-  "name": "Star Fetchers",
-  "appId": "1178030",
-  "video": "dqmjT2BtEU4",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   25,
-   37,
    23
   ],
   "g2a": false
@@ -3766,6 +3671,101 @@
    "sellerVotes": 3124,
    "sellerRating": 100
   }
+ },
+ {
+  "name": "Trine 2",
+  "appId": "35720",
+  "video": "tIBApCwG2Xs",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   1,
+   25,
+   23
+  ],
+  "g2a": {
+   "slug": "trine-2-complete-story-steam-gift-global-i10000004046001",
+   "price": 3.76,
+   "currency": "EUR",
+   "sellerName": "Megamaniagames",
+   "sellerVotes": 392,
+   "sellerRating": 89
+  }
+ },
+ {
+  "name": "Dust: An Elysian Tail",
+  "appId": "236090",
+  "video": "XsfwAxYcAZw",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25,
+   23,
+   3
+  ],
+  "g2a": {
+   "slug": "dust-an-elysian-tail-steam-key-global-i10000001464003",
+   "price": 5.95,
+   "currency": "EUR",
+   "sellerName": "Azurestore",
+   "sellerVotes": 1976,
+   "sellerRating": 99
+  }
+ },
+ {
+  "name": "Kingdom Rush",
+  "appId": "246420",
+  "video": "dZ56Y2FYYU0",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   23,
+   2
+  ],
+  "g2a": {
+   "slug": "kingdom-rush-steam-key-global-i10000042927002",
+   "price": 4.95,
+   "currency": "EUR",
+   "sellerName": "Gks_store",
+   "sellerVotes": 494,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "Star Fetchers",
+  "appId": "1178030",
+  "video": "dqmjT2BtEU4",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25,
+   37,
+   23
+  ],
+  "g2a": false
+ },
+ {
+  "name": "Princess Remedy in a World of Hurt",
+  "appId": "407900",
+  "video": "EJZL-qjku4A",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   25,
+   23
+  ],
+  "g2a": false
  },
  {
   "name": "Team Fortress 2",
@@ -3795,7 +3795,7 @@
    "price": 3.3,
    "currency": "EUR",
    "sellerName": "Allgameworld",
-   "sellerVotes": 3003,
+   "sellerVotes": 3007,
    "sellerRating": 99
   }
  },
@@ -3809,11 +3809,95 @@
   "genres": [],
   "g2a": {
    "slug": "the-elder-scrolls-iv-oblivion-game-of-the-year-edition-deluxe-steam-key-global-i10000008489003",
-   "price": 4.46,
+   "price": 4.13,
    "currency": "EUR",
    "sellerName": "Outlawgames",
-   "sellerVotes": 24363,
+   "sellerVotes": 24350,
    "sellerRating": 99
+  }
+ },
+ {
+  "name": "shapez.io",
+  "appId": "1318690",
+  "video": "9Wuv3MDV_GM",
+  "categories": [
+   2
+  ],
+  "genres": [
+   4,
+   23,
+   28,
+   2
+  ],
+  "g2a": false
+ },
+ {
+  "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+  "appId": "732690",
+  "video": "_bH_gxJRbIE",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   4
+  ],
+  "g2a": {
+   "slug": "five-nights-at-freddys-vr-help-wanted-steam-gift-global-i10000188153001",
+   "price": 31.21,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "The Supper",
+  "appId": "1171370",
+  "video": "7864JBl-AUg",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   4,
+   37,
+   23
+  ],
+  "g2a": false
+ },
+ {
+  "name": "NEKOPARA Extra",
+  "appId": "899970",
+  "video": "VHHlVfMS1Ig",
+  "categories": [
+   2
+  ],
+  "genres": [
+   4,
+   23
+  ],
+  "g2a": false
+ },
+ {
+  "name": "Orcs Must Die!",
+  "appId": "102600",
+  "video": "cnYkwBDzlDw",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   23,
+   2
+  ],
+  "g2a": {
+   "slug": "orcs-must-die-steam-key-global-i10000026074006",
+   "price": 3.64,
+   "currency": "EUR",
+   "sellerName": "_eplay",
+   "sellerVotes": 2247,
+   "sellerRating": 100
   }
  },
  {
@@ -3833,44 +3917,22 @@
   "g2a": false
  },
  {
-  "name": "Orcs Must Die!",
-  "appId": "102600",
-  "video": "cnYkwBDzlDw",
+  "name": "Desperados III",
+  "appId": "610370",
+  "video": "5OxsI3Fl5xA",
   "categories": [
    2
   ],
   "genres": [
-   1,
-   23,
    2
   ],
   "g2a": {
-   "slug": "orcs-must-die-steam-key-global-i10000026074006",
-   "price": 3.33,
+   "slug": "desperados-iii-steam-key-global-i10000193321002",
+   "price": 21.93,
    "currency": "EUR",
-   "sellerName": "_eplay",
-   "sellerVotes": 2274,
+   "sellerName": "Gamingimperium",
+   "sellerVotes": 29949,
    "sellerRating": 100
-  }
- },
- {
-  "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
-  "appId": "732690",
-  "video": "_bH_gxJRbIE",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   4
-  ],
-  "g2a": {
-   "slug": "five-nights-at-freddys-vr-help-wanted-steam-gift-global-i10000188153001",
-   "price": 30.28,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
   }
  },
  {
@@ -3887,34 +3949,6 @@
   "g2a": false
  },
  {
-  "name": "NEKOPARA Extra",
-  "appId": "899970",
-  "video": "VHHlVfMS1Ig",
-  "categories": [
-   2
-  ],
-  "genres": [
-   4,
-   23
-  ],
-  "g2a": false
- },
- {
-  "name": "The Supper",
-  "appId": "1171370",
-  "video": "7864JBl-AUg",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   4,
-   37,
-   23
-  ],
-  "g2a": false
- },
- {
   "name": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
   "appId": "260230",
   "video": "ziFuaZudRUg",
@@ -3923,34 +3957,6 @@
   ],
   "genres": [
    25
-  ],
-  "g2a": false
- },
- {
-  "name": "missed messages.",
-  "appId": "812810",
-  "video": "4PPQ_MYEEM4",
-  "categories": [
-   2
-  ],
-  "genres": [
-   4,
-   37,
-   23,
-   28
-  ],
-  "g2a": false
- },
- {
-  "name": "Neon Beats",
-  "appId": "1064610",
-  "video": "lOkB2W-er9o",
-  "categories": [
-   2
-  ],
-  "genres": [
-   37,
-   23
   ],
   "g2a": false
  },
@@ -3968,25 +3974,25 @@
   ],
   "g2a": {
    "slug": "stalker-shadow-of-chernobyl-steam-key-global-i10000000870003",
-   "price": 2.15,
+   "price": 2.14,
    "currency": "EUR",
    "sellerName": "_eplay",
-   "sellerVotes": 2274,
+   "sellerVotes": 2247,
    "sellerRating": 100
   }
  },
  {
-  "name": "shapez.io",
-  "appId": "1318690",
-  "video": "9Wuv3MDV_GM",
+  "name": "missed messages.",
+  "appId": "812810",
+  "video": "4PPQ_MYEEM4",
   "categories": [
    2
   ],
   "genres": [
    4,
+   37,
    23,
-   28,
-   2
+   28
   ],
   "g2a": false
  },
@@ -4007,11 +4013,31 @@
   ],
   "g2a": {
    "slug": "the-forest-steam-gift-global-i10000001880002",
-   "price": 17.58,
+   "price": 18.05,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
+  }
+ },
+ {
+  "name": "VVVVVV",
+  "appId": "70300",
+  "video": "zJvwxb7KuGk",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   23
+  ],
+  "g2a": {
+   "slug": "vvvvvv-steam-key-global-i10000000981002",
+   "price": 0.57,
+   "currency": "EUR",
+   "sellerName": "Azurestore",
+   "sellerVotes": 1976,
+   "sellerRating": 99
   }
  },
  {
@@ -4034,26 +4060,6 @@
   }
  },
  {
-  "name": "VVVVVV",
-  "appId": "70300",
-  "video": "zJvwxb7KuGk",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   23
-  ],
-  "g2a": {
-   "slug": "vvvvvv-steam-key-global-i10000000981002",
-   "price": 0.57,
-   "currency": "EUR",
-   "sellerName": "Azurestore",
-   "sellerVotes": 1934,
-   "sellerRating": 99
-  }
- },
- {
   "name": "Zup! X",
   "appId": "508900",
   "video": "-UwrKtVoJIo",
@@ -4065,71 +4071,11 @@
    23
   ],
   "g2a": {
-   "slug": "dragon-ball-xenoverse-2-super-pass-steam-key-global-i10000178766006",
-   "price": 13.61,
+   "slug": "guilty-gear-xrd-rev-2-upgrade-steam-key-global-i10000068919002",
+   "price": 9.46,
    "currency": "EUR",
-   "sellerName": "Gamingimperium",
-   "sellerVotes": 29817,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "Geometry Dash",
-  "appId": "322170",
-  "video": "idFGHgU1yuc",
-  "categories": [
-   2
-  ],
-  "genres": [
-   1,
-   23
-  ],
-  "g2a": {
-   "slug": "geometry-dash-steam-gift-global-i10000018369001",
-   "price": 3.85,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "This War of Mine",
-  "appId": "282070",
-  "video": "BALBUyoTxQM",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   23,
-   28
-  ],
-  "g2a": {
-   "slug": "this-war-of-mine-steam-key-global-i10000000741007",
-   "price": 1.92,
-   "currency": "EUR",
-   "sellerName": "Fun_keys",
-   "sellerVotes": 1254,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "Desperados III",
-  "appId": "610370",
-  "video": "5OxsI3Fl5xA",
-  "categories": [
-   2
-  ],
-  "genres": [
-   2
-  ],
-  "g2a": {
-   "slug": "desperados-iii-steam-key-global-i10000193321002",
-   "price": 20.97,
-   "currency": "EUR",
-   "sellerName": "Bellakey",
-   "sellerVotes": 13049,
+   "sellerName": "Geared",
+   "sellerVotes": 159,
    "sellerRating": 100
   }
  },
@@ -4150,7 +4096,61 @@
    "price": 2.1,
    "currency": "EUR",
    "sellerName": "Happytime",
-   "sellerVotes": 1436,
+   "sellerVotes": 1434,
+   "sellerRating": 100
+  }
+ },
+ {
+  "name": "Geometry Dash",
+  "appId": "322170",
+  "video": "idFGHgU1yuc",
+  "categories": [
+   2
+  ],
+  "genres": [
+   1,
+   23
+  ],
+  "g2a": {
+   "slug": "geometry-dash-steam-gift-global-i10000018369001",
+   "price": 3.86,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "Neon Beats",
+  "appId": "1064610",
+  "video": "lOkB2W-er9o",
+  "categories": [
+   2
+  ],
+  "genres": [
+   37,
+   23
+  ],
+  "g2a": false
+ },
+ {
+  "name": "This War of Mine",
+  "appId": "282070",
+  "video": "BALBUyoTxQM",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   23,
+   28
+  ],
+  "g2a": {
+   "slug": "this-war-of-mine-complete-edition-steam-key-global-i10000000741010",
+   "price": 14.93,
+   "currency": "EUR",
+   "sellerName": "Intergalactic",
+   "sellerVotes": 1132,
    "sellerRating": 100
   }
  },
@@ -4167,12 +4167,12 @@
    23
   ],
   "g2a": {
-   "slug": "defunct-steam-gift-global-i10000009833001",
-   "price": 10.41,
+   "slug": "defunct-steam-key-global-i10000009833002",
+   "price": 1.21,
    "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16313,
-   "sellerRating": 93
+   "sellerName": "Opkeys",
+   "sellerVotes": 953,
+   "sellerRating": 98
   }
  },
  {
@@ -4188,27 +4188,12 @@
   ],
   "g2a": {
    "slug": "medieval-ii-total-war-definitive-edition-steam-key-global-i10000179264003",
-   "price": 13.34,
+   "price": 9.97,
    "currency": "EUR",
    "sellerName": "Gamingimperium",
-   "sellerVotes": 29785,
+   "sellerVotes": 29949,
    "sellerRating": 100
   }
- },
- {
-  "name": "Fox Hime Zero",
-  "appId": "844930",
-  "video": "bmEJl0w88A0",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   4,
-   23,
-   3
-  ],
-  "g2a": false
  },
  {
   "name": "Sekiro™: Shadows Die Twice",
@@ -4223,10 +4208,10 @@
   ],
   "g2a": {
    "slug": "sekiro-shadows-die-twice-steam-gift-global-i10000171455001",
-   "price": 66.93,
+   "price": 66.79,
    "currency": "EUR",
-   "sellerName": "World_of_games",
-   "sellerVotes": 34018,
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
@@ -4247,7 +4232,7 @@
    "price": 8.65,
    "currency": "EUR",
    "sellerName": "Neverm1nd",
-   "sellerVotes": 200,
+   "sellerVotes": 203,
    "sellerRating": 99
   }
  },
@@ -4264,25 +4249,82 @@
   ],
   "g2a": {
    "slug": "primordia-steam-gift-global-i10000000841001",
-   "price": 8.79,
+   "price": 8.78,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
   }
  },
  {
-  "name": "异化之恶〇Abnormal Treatment",
-  "appId": "1122750",
-  "video": "-bUCBanVd44",
+  "name": "Fox Hime Zero",
+  "appId": "844930",
+  "video": "bmEJl0w88A0",
   "categories": [
    2
   ],
   "genres": [
    25,
-   37,
+   4,
    23,
    3
+  ],
+  "g2a": false
+ },
+ {
+  "name": "Trine",
+  "appId": "35700",
+  "video": "2OTJFsI6xyo",
+  "categories": [
+   2,
+   1,
+   9
+  ],
+  "genres": [
+   1,
+   25,
+   23
+  ],
+  "g2a": {
+   "slug": "trine-enchanted-edition-steam-key-global-i10000000159005",
+   "price": 5.32,
+   "currency": "EUR",
+   "sellerName": "Outlawgames",
+   "sellerVotes": 24350,
+   "sellerRating": 99
+  }
+ },
+ {
+  "name": "WORLD OF HORROR",
+  "appId": "913740",
+  "video": "S91JkR_vqQQ",
+  "categories": [
+   2
+  ],
+  "genres": [
+   23,
+   3,
+   70
+  ],
+  "g2a": {
+   "slug": "world-of-horror-steam-gift-global-i10000193523002",
+   "price": 15.7,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "Zup! S",
+  "appId": "617670",
+  "video": "2XW5a9yiqm4",
+  "categories": [
+   2
+  ],
+  "genres": [
+   4,
+   23
   ],
   "g2a": false
  },
@@ -4302,31 +4344,8 @@
    "price": 29.97,
    "currency": "EUR",
    "sellerName": "Legitkeystore",
-   "sellerVotes": 350,
+   "sellerVotes": 362,
    "sellerRating": 100
-  }
- },
- {
-  "name": "Trine",
-  "appId": "35700",
-  "video": "2OTJFsI6xyo",
-  "categories": [
-   2,
-   1,
-   9
-  ],
-  "genres": [
-   1,
-   25,
-   23
-  ],
-  "g2a": {
-   "slug": "trine-enchanted-edition-steam-key-global-i10000000159005",
-   "price": 5.39,
-   "currency": "EUR",
-   "sellerName": "Outlawgames",
-   "sellerVotes": 24352,
-   "sellerRating": 99
   }
  },
  {
@@ -4342,11 +4361,46 @@
   ],
   "g2a": {
    "slug": "recettear-an-item-shops-tale-steam-gift-global-i10000006364001",
-   "price": 20.49,
+   "price": 20.55,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16313,
+   "sellerVotes": 16680,
    "sellerRating": 93
+  }
+ },
+ {
+  "name": "异化之恶〇Abnormal Treatment",
+  "appId": "1122750",
+  "video": "-bUCBanVd44",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   37,
+   23,
+   3
+  ],
+  "g2a": false
+ },
+ {
+  "name": "LYNE",
+  "appId": "266010",
+  "video": "g5J3QFT0d6g",
+  "categories": [
+   2
+  ],
+  "genres": [
+   4,
+   23
+  ],
+  "g2a": {
+   "slug": "lyne-steam-key-global-i10000044249004",
+   "price": 3.29,
+   "currency": "EUR",
+   "sellerName": "Outlawgames",
+   "sellerVotes": 24350,
+   "sellerRating": 99
   }
  },
  {
@@ -4365,28 +4419,8 @@
    "price": 17.48,
    "currency": "EUR",
    "sellerName": "Wild_games",
-   "sellerVotes": 16300,
+   "sellerVotes": 16680,
    "sellerRating": 93
-  }
- },
- {
-  "name": "LYNE",
-  "appId": "266010",
-  "video": "g5J3QFT0d6g",
-  "categories": [
-   2
-  ],
-  "genres": [
-   4,
-   23
-  ],
-  "g2a": {
-   "slug": "lyne-steam-key-global-i10000044249004",
-   "price": 3.29,
-   "currency": "EUR",
-   "sellerName": "Outlawgames",
-   "sellerVotes": 24332,
-   "sellerRating": 99
   }
  },
  {
@@ -4404,8 +4438,8 @@
    "price": 56,
    "currency": "EUR",
    "sellerName": "Smartway",
-   "sellerVotes": 734,
-   "sellerRating": 86
+   "sellerVotes": 739,
+   "sellerRating": 87
   }
  },
  {
@@ -4421,71 +4455,11 @@
   ],
   "g2a": {
    "slug": "lego-star-wars-the-complete-saga-steam-key-global-i10000016546005",
-   "price": 7.17,
+   "price": 7.26,
    "currency": "EUR",
    "sellerName": "Outlawgames",
-   "sellerVotes": 24363,
+   "sellerVotes": 24350,
    "sellerRating": 99
-  }
- },
- {
-  "name": "Day of the Tentacle Remastered",
-  "appId": "388210",
-  "video": "eW283uY3sLI",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25
-  ],
-  "g2a": {
-   "slug": "day-of-the-tentacle-remastered-steam-key-global-i10000012916004",
-   "price": 1.81,
-   "currency": "EUR",
-   "sellerName": "Gks_store",
-   "sellerVotes": 490,
-   "sellerRating": 100
-  }
- },
- {
-  "name": "What Remains of Edith Finch",
-  "appId": "501300",
-  "video": "q-fj8PhdWeI",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   23
-  ],
-  "g2a": {
-   "slug": "what-remains-of-edith-finch-steam-gift-global-i10000036992001",
-   "price": 21.96,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
-  }
- },
- {
-  "name": "WORLD OF HORROR",
-  "appId": "913740",
-  "video": "S91JkR_vqQQ",
-  "categories": [
-   2
-  ],
-  "genres": [
-   23,
-   3,
-   70
-  ],
-  "g2a": {
-   "slug": "world-of-horror-steam-gift-global-i10000193523002",
-   "price": 15.4,
-   "currency": "EUR",
-   "sellerName": "Wild_games",
-   "sellerVotes": 16300,
-   "sellerRating": 93
   }
  },
  {
@@ -4504,17 +4478,43 @@
   "g2a": false
  },
  {
-  "name": "Zup! S",
-  "appId": "617670",
-  "video": "2XW5a9yiqm4",
+  "name": "What Remains of Edith Finch",
+  "appId": "501300",
+  "video": "q-fj8PhdWeI",
   "categories": [
    2
   ],
   "genres": [
-   4,
+   25,
    23
   ],
-  "g2a": false
+  "g2a": {
+   "slug": "what-remains-of-edith-finch-steam-gift-global-i10000036992001",
+   "price": 22.39,
+   "currency": "EUR",
+   "sellerName": "Wild_games",
+   "sellerVotes": 16680,
+   "sellerRating": 93
+  }
+ },
+ {
+  "name": "Day of the Tentacle Remastered",
+  "appId": "388210",
+  "video": "eW283uY3sLI",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25
+  ],
+  "g2a": {
+   "slug": "day-of-the-tentacle-remastered-steam-key-global-i10000012916004",
+   "price": 1.82,
+   "currency": "EUR",
+   "sellerName": "Just_for_u",
+   "sellerVotes": 1830,
+   "sellerRating": 100
+  }
  },
  {
   "name": "Audiosurf",
@@ -4532,27 +4532,7 @@
    "price": 5.98,
    "currency": "EUR",
    "sellerName": "Allgameworld",
-   "sellerVotes": 3003,
-   "sellerRating": 99
-  }
- },
- {
-  "name": "Neighbours from Hell",
-  "appId": "260750",
-  "video": "_40WVkkJxnI",
-  "categories": [
-   2
-  ],
-  "genres": [
-   25,
-   4
-  ],
-  "g2a": {
-   "slug": "neighbours-from-hell-compilation-steam-key-global-i10000043385002",
-   "price": 4,
-   "currency": "EUR",
-   "sellerName": "Allgameworld",
-   "sellerVotes": 3003,
+   "sellerVotes": 3007,
    "sellerRating": 99
   }
  },
@@ -4570,25 +4550,44 @@
   "g2a": false
  },
  {
-  "name": "Dungeon Munchies",
-  "appId": "799640",
-  "video": "3x47RnlHR2M",
+  "name": "Hexcells",
+  "appId": "265890",
+  "video": "JUDFBlbXhQc",
   "categories": [
    2
   ],
   "genres": [
-   1,
-   25,
+   4,
    23,
-   70
+   2
   ],
   "g2a": {
-   "slug": "dungeon-munchies-steam-gift-global-i10000188642002",
-   "price": 10.49,
+   "slug": "hexcells-steam-gift-global-i10000003212001",
+   "price": 11.51,
    "currency": "EUR",
-   "sellerName": "Premiumseller",
-   "sellerVotes": 3908,
-   "sellerRating": 93
+   "sellerName": "Mtc_game",
+   "sellerVotes": 4848,
+   "sellerRating": 85
+  }
+ },
+ {
+  "name": "Neighbours from Hell",
+  "appId": "260750",
+  "video": "_40WVkkJxnI",
+  "categories": [
+   2
+  ],
+  "genres": [
+   25,
+   4
+  ],
+  "g2a": {
+   "slug": "neighbours-from-hell-compilation-steam-key-global-i10000043385002",
+   "price": 2.65,
+   "currency": "EUR",
+   "sellerName": "Allgameworld",
+   "sellerVotes": 3007,
+   "sellerRating": 99
   }
  }
 ]

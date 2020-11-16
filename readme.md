@@ -5,7 +5,39 @@ Run development server with
 npm start
 ```
 
-In `package.json` replace
+## Data
+
+### top-games-steamdb.json
+
+```js
+[
+    {
+    "appId": "620",
+    "name": "Portal 2",
+    "positive": 214848,
+    "negative": 2681
+    }, ...
+]
 ```
-    "build": "parcel build index.html --public-url '/overwhelmingly-positive'"
+
+### steam-games.json
+
+Key: AppId
+Value: Steam Game Data
+
+
+### appid-to-video.json
+
+```js
+{
+  "10": {
+    "id": "bTDJQYV5Q58",
+    "lastUpdated": "2020-11-06T17:59:59.631Z"
+  }, ...
 ```
+
+
+### g2a.json
+
+Key: AppId
+Value: G2A Data

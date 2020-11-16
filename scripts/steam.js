@@ -1,26 +1,15 @@
-/* global require __dirname */
-const fs = require('fs')
+/* global require  module */
 const delay = require('delay')
-const {resolve} = require('path')
-const {steam, getTopRatedGames} = require('./lib')
+const {steam, load, saveToJson} = require('./lib')
 
 async function main() {
-  let games = []
+  const appIdToSteamDetails = load('steam-games')
+  const topGames = load('top-games-steamdb')
 
-  console.log('Get top rated games from steamdb...')
-  try {
-    games = await getTopRatedGames()
-  } catch (e) {
-    console.log('Retrieval of top rated games from steamdb.info failed', e)
-  }
-
-  const gamesWithDetails = []
-
-  console.log(`Retrieved list with ${games.length} games from steamdb\n`)
-
-  for (const [index, game] of games.entries()) {
-    await delay(300)
+  for (const [index, game] of topGames.entries()) {
     const {appId} = game
+
+    if (appIdToSteamDetails[appId]) continue
 
     let response
     try {
@@ -29,6 +18,7 @@ async function main() {
       console.error('Steam app details retrieval failed')
       console.error(e)
     }
+    await delay(400)
 
     const app = response.body[`${appId}`]
 
@@ -36,21 +26,20 @@ async function main() {
 
     if (app?.success) {
       console.log(
-        `${index + 1}/${games.length} from steam: ${gameData.name} (${appId})`
+        `${index + 1}/${topGames.length} from steam: ${
+          gameData.name
+        } (${appId})`
       )
-      gamesWithDetails.push({
-        ...gameData,
-        ...game
-      })
+      appIdToSteamDetails[appId] = gameData
+      saveToJson('steam-games', appIdToSteamDetails)
     } else {
       console.log('Failed', appId, game.name)
     }
   }
-
-  games = gamesWithDetails
-
-  const json = JSON.stringify(games, null, ' ')
-  fs.writeFileSync(resolve(__dirname, '../data/raw-games.json'), json)
 }
 
-main()
+module.exports = main
+
+if (require.main === module) {
+  main()
+}

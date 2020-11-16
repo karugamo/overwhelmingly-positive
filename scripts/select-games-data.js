@@ -1,60 +1,56 @@
-/*global require */
-const fs = require('fs')
-const rawGames = require('../data/raw-games.json')
-const g2a = require('../data/g2a.json')
+/*global require module */
 const _ = require('lodash')
+const {load, saveToJson} = require('./lib')
+const {relevantSteamCategories} = require('./const')
 
-const relevantCategories = [2, 1, 9, 31]
+const appIdToSteam = load('steam-games')
+const appIdToVideo = load('appid-to-video')
+const appIdToG2a = load('g2a')
 
-const selectedGames = rawGames.filter(({type}) => type === 'game')
-console.log('Removed', rawGames.length - selectedGames.length, 'non-games')
+function selectGameData({name, appId}) {
+  const steamGame = appIdToSteam[appId]
 
-console.log('getCategoryIdMap')
-const categories = getCategoryIdMap(selectedGames)
-console.log(categories)
-
-console.log('getGenreIdMap')
-const genres = getGenreIdMap(selectedGames)
-console.log(genres)
-
-const games = selectedGames.map(rawGameToGame)
-
-console.log(createEnum(genres, 'Genre'))
-console.log(createEnum(categories, 'Category'))
-
-const json = JSON.stringify(games, null, ' ')
-fs.writeFileSync('./data/games.json', json)
-
-function rawGameToGame(rawGame) {
   return {
-    name: rawGame.name,
-    appId: rawGame.appId,
-    video: rawGame.video?.id,
+    name,
+    appId,
+    video: appIdToVideo[appId]?.id,
     categories:
-      rawGame.categories
-        .filter(({id}) => relevantCategories.includes(id))
+      steamGame?.categories
+        .filter(({id}) => relevantSteamCategories.includes(id))
         .map(({id}) => id) ?? [],
-    genres: rawGame.genres?.map(({id}) => Number(id)) ?? [],
-    g2a: getG2a(rawGame.appId)
+    genres: steamGame?.genres?.map(({id}) => Number(id)) ?? [],
+    g2a: getG2a(appId)
   }
 }
 
-function createEnum(nameById, enumName) {
-  const camelCased = _.mapValues(nameById, (key) =>
-    _.upperFirst(_.camelCase(key))
+function isGame({appId}) {
+  return appIdToSteam[appId]?.type === 'game'
+}
+
+function main() {
+  const rawGames = load('top-games-steamdb')
+  const selectedGames = rawGames.filter(isGame)
+  const removedGames = rawGames.filter((game) => !isGame(game))
+
+  console.log(
+    'Removed',
+    removedGames.map(({appId, name}) => `${name} (${appId})`)
   )
 
-  return `
-  enum ${enumName} {
-${Object.entries(camelCased)
-  .map(([id, name]) => `    ${name} = ${id},`)
-  .join('\n')} 
-  }
-  `
+  const games = selectedGames.map(selectGameData)
+
+  console.log('Website has', games.length, 'Games')
+  saveToJson('games', games)
+}
+
+module.exports = main
+
+if (require.main === module) {
+  main()
 }
 
 function getG2a(appId) {
-  const listing = g2a[appId]
+  const listing = appIdToG2a[appId]
   if (!listing) return false
 
   const offers = listing.offers
@@ -65,11 +61,6 @@ function getG2a(appId) {
   }
 
   const offer = selectOffer(offers)
-
-  // console.log()
-  // console.log(listing.slug)
-  // console.log(offers.map(debugFormatOffer).join('\n'))
-  // console.log(offer.price.value)
 
   if (!offer) return false
 
@@ -85,16 +76,6 @@ function getG2a(appId) {
 
 function getTotalVotes(offer) {
   return _.sum(Object.values(offer?.customer?.votes))
-}
-
-function debugFormatOffer(offer) {
-  const totalRatings = getTotalVotes(offer)
-
-  const rating = offer.customer.rating
-
-  const adjustedRating = getAdjustedRating(offer)
-
-  return `${offer.price.value} ${totalRatings}  ${rating} ${adjustedRating}`
 }
 
 function selectOffer(offers) {
@@ -124,27 +105,5 @@ function getAdjustedRating(offer) {
   const rating = offer.customer.rating
   return Math.round(
     rating - (rating - 0.5) * Math.pow(4, -Math.log10(totalRatings + 1))
-  )
-}
-
-function getCategoryIdMap(games) {
-  return _.mapValues(
-    _.keyBy(
-      _.flatten(games.map(({categories}) => categories)).filter(({id}) =>
-        relevantCategories.includes(id)
-      ),
-      'id'
-    ),
-    'description'
-  )
-}
-
-function getGenreIdMap(games) {
-  return _.mapValues(
-    _.keyBy(
-      _.flatten(selectedGames.map(({genres}) => genres)).filter((a) => a),
-      'id'
-    ),
-    'description'
   )
 }

@@ -1,20 +1,29 @@
-/* globals require exports */
+/* globals require exports __dirname */
 const fs = require('fs')
 const got = require('got')
 const axios = require('axios')
 const cheerio = require('cheerio')
+const _ = require('lodash')
+const {resolve} = require('path')
+const {relevantSteamCategories} = require('./const')
 
 exports.saveToJson = function saveToJson(name, data) {
   const json = JSON.stringify(data, null, ' ')
-  fs.writeFileSync(`./data/${name}.json`, json)
+  fs.writeFileSync(resolve(__dirname, `../data/${name}.json`), json)
+}
+
+exports.load = function load(name) {
+  return require(`../data/${name}.json`)
 }
 
 exports.steam = got.extend({
   prefixUrl: 'https://store.steampowered.com/api/',
-  retry: 5,
-  calculateDelay: ({attemptCount}) => {
-    const oneMinute = 1000 * 60
-    return oneMinute * attemptCount + Math.random() * 100
+  retry: {
+    limit: 5,
+    calculateDelay: ({attemptCount}) => {
+      const oneMinute = 1000 * 60
+      return oneMinute * attemptCount + Math.random() * 100
+    }
   },
   hooks: {
     beforeRetry: [
@@ -69,4 +78,40 @@ exports.getTopRatedGames = async function getTopRatedGames() {
 
 function parseNumber(text) {
   return Number(text.replace(',', ''))
+}
+
+exports.getCategoryIdMap = function getCategoryIdMap(games) {
+  return _.mapValues(
+    _.keyBy(
+      _.flatten(games.map(({categories}) => categories)).filter(({id}) =>
+        relevantSteamCategories.includes(id)
+      ),
+      'id'
+    ),
+    'description'
+  )
+}
+
+exports.getGenreIdMap = function getGenreIdMap(games) {
+  return _.mapValues(
+    _.keyBy(
+      _.flatten(games.map(({genres}) => genres)).filter((a) => a),
+      'id'
+    ),
+    'description'
+  )
+}
+
+exports.createEnum = function createEnum(nameById, enumName) {
+  const camelCased = _.mapValues(nameById, (key) =>
+    _.upperFirst(_.camelCase(key))
+  )
+
+  return `
+  enum ${enumName} {
+${Object.entries(camelCased)
+  .map(([id, name]) => `    ${name} = ${id},`)
+  .join('\n')} 
+  }
+  `
 }
