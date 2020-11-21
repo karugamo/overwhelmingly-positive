@@ -42,6 +42,7 @@
     "gatsby-plugin-styled-components": "^3.3.14",
     "got": "^11.8.0",
     "lodash": "^4.17.20",
+    "mongodb": "^3.6.3",
     "node-fetch": "^2.6.1",
     "react": "^17.0.1",
     "react-cookie-banner": "^4.1.0",
