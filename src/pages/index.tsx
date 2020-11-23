@@ -27,10 +27,9 @@ export default function App({pageContext: {game}}: AppProps) {
 
   return (
     <Main>
-      <CookieBanner message="We use cookies too analyse the traffic of our website. By continuing to browse the site you're agreeing to our use of cookies." />
       <Head title={getTitle(currentGame)} />
+      <CookieBanner message="We use cookies too analyse the traffic of our website. By continuing to browse the site you're agreeing to our use of cookies." />
       <Logo />
-      {/* <Headline>overwhelmingly positive on steam</Headline> */}
       <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
       <Games>
         {games.length === 0 && <Headline>No games match your filters</Headline>}

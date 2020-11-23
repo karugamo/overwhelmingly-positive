@@ -47,7 +47,7 @@ export default function Logo() {
   )
 }
 
-const Container = styled.div`
+const Container = styled.section`
   margin-top: 20px;
   width: 500px;
 `
