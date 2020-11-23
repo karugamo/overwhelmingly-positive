@@ -169,6 +169,8 @@ const AboutLink = styled.a`
   font-size: 50px;
   text-decoration: none;
   margin: 50px;
+  color: transparent;
+  text-shadow: 0 0 0 #a0d6f6;
 `
 
 const Main = styled.div`
