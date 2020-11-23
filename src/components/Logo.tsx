@@ -50,4 +50,7 @@ export default function Logo() {
 const Container = styled.section`
   margin-top: 20px;
   width: 500px;
+  @media (max-width: 920px) {
+    width: 94%;
+  }
 `
