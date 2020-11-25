@@ -3,7 +3,6 @@ import ReactModal from 'react-modal'
 import styled from 'styled-components'
 import {useLogConversion, ConversionType} from '../lib/tracking'
 import {Game} from '../types'
-import G2AWidget from './G2AWidget'
 
 type GameModalProps = {
   game: Game
@@ -16,7 +15,6 @@ export default function GameModal({game, onClose}: GameModalProps) {
   return (
     <Modal onRequestClose={onClose}>
       {game.video && <YoutubeWidget videoId={game.video} />}
-      <G2AWidget game={game} />
       <SteamWidget appId={game.appId} />
     </Modal>
   )
