@@ -11,6 +11,7 @@ import {categories, genreNames} from '../const'
 import {encodeGame} from '../lib/encode'
 import CookieBanner from 'react-cookie-banner'
 import Logo from '../components/Logo'
+import {shuffle} from 'lodash'
 
 type AppProps = {
   pageContext: {
@@ -30,7 +31,10 @@ export default function App({pageContext: {game}}: AppProps) {
       <Head title={getTitle(currentGame)} />
       <CookieBanner message="We use cookies too analyse the traffic of our website. By continuing to browse the site you're agreeing to our use of cookies." />
       <Logo />
-      <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
+      <OptionsBar>
+        <FilterTags onToggle={onToggleFilter} activeFilters={activeFilters} />
+        <Button onClick={shuffleGames}>Shuffle</Button>
+      </OptionsBar>
       <Games>
         {games.length === 0 && <Headline>No games match your filters</Headline>}
         {games.map((game) => (
@@ -47,6 +51,10 @@ export default function App({pageContext: {game}}: AppProps) {
       <About />
     </Main>
   )
+
+  function shuffleGames() {
+    setGames((games) => shuffle(games))
+  }
 
   function useFilterGames() {
     useEffect(() => {
@@ -120,7 +128,7 @@ const FilterTagsContainer = styled.section`
   display: flex;
   flex-direction: row;
   margin-bottom: 15px;
-  justify-content: center;
+  justify-content: flex-start;
   flex-wrap: wrap;
   max-width: 1100px;
 
@@ -193,6 +201,44 @@ const Games = styled.section`
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+`
+
+const Button = styled.button`
+  font-size: 20px;
+  padding: 12px 40px;
+  margin: 20px;
+  border: 2px solid #9dd5f6;
+  background-color: transparent;
+  color: #9dd5f6;
+  margin: 0;
+  cursor: pointer;
+  border-radius: 7px;
+  box-shadow: 0px 2px white;
+
+  transition: background-color 0.2s, color 0.2s;
+
+  :hover {
+    background-color: #9dd5f6;
+    color: black;
+  }
+
+  :active {
+    transform: translate(0, 2px);
+    box-shadow: 0px 0px white;
+  }
+`
+
+const OptionsBar = styled.section`
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1380px;
+  width: 100%;
+
+  @media (max-width: 1200px) {
+    justify-content: center;
+    margin-bottom: 10px;
+  }
 `
 
 type Filter = {
