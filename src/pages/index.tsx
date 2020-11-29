@@ -4,14 +4,13 @@ import allGames from '../../data/games.json'
 import Head from '../components/Head'
 import GameModal from '../components/GameModal'
 import GameThumbnail from '../components/GameThumbnail'
-import {Category, Game, Genre} from '../types'
-import Tag from '../components/Tag'
-import '../styles/main.css'
-import {categories, genreNames} from '../const'
+import {Game} from '../types'
 import {encodeGame} from '../lib/encode'
 import CookieBanner from 'react-cookie-banner'
 import Logo from '../components/Logo'
 import {shuffle} from 'lodash'
+import FilterTags, {Filter} from '../components/FilterTags'
+import '../styles/main.css'
 
 type AppProps = {
   pageContext: {
@@ -93,86 +92,6 @@ function About() {
   return <AboutLink href="http://karugamo.agency/">🦆</AboutLink>
 }
 
-type FilterTagsProps = {
-  onToggle: (filter: Filter) => void
-  activeFilters: Filter[]
-}
-
-function FilterTags({onToggle, activeFilters}: FilterTagsProps) {
-  const filterTagProps = {
-    onToggle,
-    activeFilters
-  }
-
-  return (
-    <FilterTagsContainer>
-      {Object.keys(genreNames).map((genre) => (
-        <FilterTag
-          key={genre}
-          {...filterTagProps}
-          filter={createGenreFilter(Number(genre))}
-        />
-      ))}
-      {Object.keys(categories).map((category) => (
-        <FilterTag
-          key={category}
-          {...filterTagProps}
-          filter={createCategoryFilter(Number(category))}
-        />
-      ))}
-    </FilterTagsContainer>
-  )
-}
-
-const FilterTagsContainer = styled.section`
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 15px;
-  justify-content: flex-start;
-  flex-wrap: wrap;
-  max-width: 1100px;
-
-  @media (max-width: 1200px) {
-    display: none;
-  }
-`
-
-function createGenreFilter(genre: Genre) {
-  return {
-    name: genreNames[genre],
-    function: (game: Game) => game?.genres?.includes(genre)
-  }
-}
-
-function createCategoryFilter(category: Category) {
-  return {
-    name: categories[category],
-    function: (game: Game) => game?.categories?.includes(category)
-  }
-}
-
-type FilterTagProps = {
-  filter: Filter
-  onToggle: (filter: Filter) => void
-  activeFilters: Filter[]
-}
-
-function FilterTag({filter, activeFilters, onToggle}: FilterTagProps) {
-  const isActive = activeFilters
-    .map((filter) => filter.name)
-    .includes(filter.name)
-
-  return (
-    <StyledTag inverted={isActive} onClick={() => onToggle(filter)}>
-      {filter.name}
-    </StyledTag>
-  )
-}
-
-const StyledTag = styled(Tag)`
-  margin-bottom: 7px;
-`
-
 const AboutLink = styled.a`
   font-size: 50px;
   text-decoration: none;
@@ -240,11 +159,6 @@ const OptionsBar = styled.section`
     margin-bottom: 10px;
   }
 `
-
-type Filter = {
-  name: string
-  function: (game: Game) => boolean
-}
 
 function getTitle(game?: Game) {
   const mainTitle = 'Overwhelmingly Positive Rated Games on Steam'
