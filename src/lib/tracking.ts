@@ -13,8 +13,7 @@ export function logConversion(type: ConversionType) {
 }
 
 export enum ConversionType {
-  ModalOpen = 'AW-480060544/At3LCLS4-ugBEIDJ9OQB',
-  G2AClick = 'AW-480060544/qXQbCJjF2ugBEIDJ9OQB'
+  ModalOpen = 'AW-480060544/At3LCLS4-ugBEIDJ9OQB'
 }
 
 export function trackClick(url: string, type: ConversionType) {

@@ -35,9 +35,3 @@ Value: Steam Game Data
     "lastUpdated": "2020-11-06T17:59:59.631Z"
   }, ...
 ```
-
-
-### g2a.json
-
-Key: AppId
-Value: G2A Data
