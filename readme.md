@@ -5,7 +5,12 @@ Run development server with
 npm start
 ```
 
-## Data
+Pushes to master are automatically deployed to production.
+
+Frontpage `/` renders [src/pages/index.tsx](src/pages/index.tsx) and pages for specific games like
+`/games/portal` uses the same component but with the game modal opened.
+
+## Data Overview
 
 ### top-games-steamdb.json
 
@@ -25,6 +30,13 @@ npm start
 Key: AppId
 Value: Steam Game Data
 
+```
+{
+  "<appid>": {
+    "name": ...
+  }...
+}
+```
 
 ### appid-to-video.json
 
