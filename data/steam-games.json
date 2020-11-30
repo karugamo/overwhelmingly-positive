@@ -44961,6 +44961,433 @@
    "notes": null
   }
  },
+ "601220": {
+  "type": "game",
+  "name": "Zup! F",
+  "steam_appid": 601220,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/601220/extras/zup.png?t=1576072058\" /><br><br>Minimal physical puzzle with explosions. The player's goal to keep the blue ball on the platform for 3 seconds in order to pass the level.<br><br>Zup! F - the <strong>F</strong>inal game of the franchise<br><br>▪ 60 Levels<br>▪ Achievements<br>▪ New cubes<h2 class=\"bb_tag\"><strong>Trading Cards</strong><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/601220/extras/55555.png?t=1576072058\" /><h2 class=\"bb_tag\"><strong>Emoticons</strong><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/601220/extras/66666.png?t=1576072058\" /></h2><h2 class=\"bb_tag\"><strong>Credits</strong></h2>&quot;Zup!&quot; powered by Clickteam Fusion 2.5<br><br>The basis is taken an example of Sergio Andre<br>Music by Ann Sharova</h2>",
+  "about_the_game": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/601220/extras/zup.png?t=1576072058\" /><br><br>Minimal physical puzzle with explosions. The player's goal to keep the blue ball on the platform for 3 seconds in order to pass the level.<br><br>Zup! F - the <strong>F</strong>inal game of the franchise<br><br>▪ 60 Levels<br>▪ Achievements<br>▪ New cubes<h2 class=\"bb_tag\"><strong>Trading Cards</strong><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/601220/extras/55555.png?t=1576072058\" /><h2 class=\"bb_tag\"><strong>Emoticons</strong><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/601220/extras/66666.png?t=1576072058\" /></h2><h2 class=\"bb_tag\"><strong>Credits</strong></h2>&quot;Zup!&quot; powered by Clickteam Fusion 2.5<br><br>The basis is taken an example of Sergio Andre<br>Music by Ann Sharova</h2>",
+  "short_description": "Minimal physical puzzle with explosions",
+  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Vietnamese<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Romanian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>, Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/601220/header.jpg?t=1576072058",
+  "website": null,
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, Vista, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Celeron 1800 MHz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 35 MB available space</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, Vista, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 40 MB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+   "Quiet River"
+  ],
+  "publishers": [
+   "Quiet River"
+  ],
+  "price_overview": {
+   "currency": "EUR",
+   "initial": 79,
+   "final": 59,
+   "discount_percent": 25,
+   "initial_formatted": "0,79€",
+   "final_formatted": "0,59€"
+  },
+  "packages": [
+   157942
+  ],
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Zup! F",
+    "description": "",
+    "selection_text": "Select a purchase option",
+    "save_text": "",
+    "display_type": 0,
+    "is_recurring_subscription": "false",
+    "subs": [
+     {
+      "packageid": 157942,
+      "percent_savings_text": "-25% ",
+      "percent_savings": 0,
+      "option_text": "Zup! F - <span class=\"discount_original_price\">0,79€</span> 0,59€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 59
+     }
+    ]
+   }
+  ],
+  "platforms": {
+   "windows": true,
+   "mac": false,
+   "linux": false
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 22,
+    "description": "Steam Achievements"
+   },
+   {
+    "id": 29,
+    "description": "Steam Trading Cards"
+   }
+  ],
+  "genres": [
+   {
+    "id": "4",
+    "description": "Casual"
+   },
+   {
+    "id": "23",
+    "description": "Indie"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_aaeffcdbdbd05962a7b3968a323678874bb6218e.600x338.jpg?t=1576072058",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_aaeffcdbdbd05962a7b3968a323678874bb6218e.1920x1080.jpg?t=1576072058"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_d2be1ec1db21909598f0e9bb0a64d6110e4b38a4.600x338.jpg?t=1576072058",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_d2be1ec1db21909598f0e9bb0a64d6110e4b38a4.1920x1080.jpg?t=1576072058"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_2081b31103701746d007154283a5c2ce3e9f44f3.600x338.jpg?t=1576072058",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_2081b31103701746d007154283a5c2ce3e9f44f3.1920x1080.jpg?t=1576072058"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_4f41061171192957b946b68823b18abb3273fa16.600x338.jpg?t=1576072058",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_4f41061171192957b946b68823b18abb3273fa16.1920x1080.jpg?t=1576072058"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_1e5531af19fbd6805ff0e01f22a5d0ea3915a1c9.600x338.jpg?t=1576072058",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_1e5531af19fbd6805ff0e01f22a5d0ea3915a1c9.1920x1080.jpg?t=1576072058"
+   },
+   {
+    "id": 5,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_c258404b110b701929bf2b2322adaba4021a650d.600x338.jpg?t=1576072058",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_c258404b110b701929bf2b2322adaba4021a650d.1920x1080.jpg?t=1576072058"
+   },
+   {
+    "id": 6,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_0875a1cdf9a869e84f19e0e346afc27fa347f3f1.600x338.jpg?t=1576072058",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601220/ss_0875a1cdf9a869e84f19e0e346afc27fa347f3f1.1920x1080.jpg?t=1576072058"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256767087,
+    "name": "Zup! F",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256767087/movie.293x165.jpg?t=1573579070",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256767087/movie480.webm?t=1573579070",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256767087/movie_max.webm?t=1573579070"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256767087/movie480.mp4?t=1573579070",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256767087/movie_max.mp4?t=1573579070"
+    },
+    "highlight": true
+   }
+  ],
+  "recommendations": {
+   "total": 3881
+  },
+  "achievements": {
+   "total": 640,
+   "highlighted": [
+    {
+     "name": "A",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601220/dcc9f4ece9f2cc046217f9d2db456769af7edee1.jpg"
+    },
+    {
+     "name": "A",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601220/5b2ead87b912409efe71b3ba868a3435bad0aef2.jpg"
+    },
+    {
+     "name": "A",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601220/f45c40536525f9e026a2b54d7a1f2ebdc61fd3e0.jpg"
+    },
+    {
+     "name": "A",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601220/ef0c4e03d738380bd89cdc1df88fd2872e3e029f.jpg"
+    },
+    {
+     "name": "A",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601220/1362cd3bf895c81c333f4cff3d4c377429d5cadf.jpg"
+    },
+    {
+     "name": "A",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601220/cada04f5b213998c7191c7c7fa0f7b553df80ec8.jpg"
+    },
+    {
+     "name": "A",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601220/a835fe652fa680a8749fe0a00e304f0781e0cb25.jpg"
+    },
+    {
+     "name": "A",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601220/ef0c4e03d738380bd89cdc1df88fd2872e3e029f.jpg"
+    },
+    {
+     "name": "A",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601220/58306ca92062da05dc16fc30b1e0a787275ab5cd.jpg"
+    },
+    {
+     "name": "A",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601220/fc0e36966a0d30022894cf0b00b513681dd6eb26.jpg"
+    }
+   ]
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "11 Dec, 2019"
+  },
+  "support_info": {
+   "url": "https://steamcommunity.com/app/601220/",
+   "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601220/page_bg_generated_v6b.jpg?t=1576072058",
+  "content_descriptors": {
+   "ids": [],
+   "notes": null
+  }
+ },
+ "601840": {
+  "type": "game",
+  "name": "Griftlands",
+  "steam_appid": 601840,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_logo_gif.gif?t=1604604746\" /><br><i>Griftlands</i> is a deck-building rogue-like where you fight and negotiate your way through a broken-down sci-fi world. Every decision is important, be it the jobs you take, the friends you make, or the cards you collect. Death comes quickly, but each play offers new situations and strategies to explore.<br><br>At this stage of development you can play as Sal or Rook, with a third character and campaign in development. Sal is an adventurer out for profit and revenge. Rook is an aging spy working his own agenda. Expect regular updates, including new cards, quests and characters as we work on the game with community feedback!<h2 class=\"bb_tag\">Battle Challenging Bosses</h2>Test your combat decks against powerful foes with unique mechanics and attacks.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_bosses_gif.gif?t=1604604746\" /><h2 class=\"bb_tag\">Build a Team - or Buy One!</h2>Hire mercenaries, find pets, or impose upon your friends to accomplish your goals.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_build-a-team.gif?t=1604604746\" /><h2 class=\"bb_tag\">Master Hundreds of Cards</h2>Each character has unique negotiation and combat decks to draft from. Get powerful item cards from fallen foes, or as rewards.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_card_shuffle.gif?t=1604604746\" /><h2 class=\"bb_tag\">Decisions Matter</h2>Killing foes may incur the wrath of their friends, but sparing them leaves a dangerous piece on the board. Choose wisely, everyone remembers everything you do!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_card_decisions.gif?t=1604604746\" /><h2 class=\"bb_tag\">Welcome to Havaria</h2>Each playable character's story takes place in a unique environment, with different factions and locations to explore and exploit.<h2 class=\"bb_tag\">Explore A Broken-Down Sci-Fi World</h2>The world of Havaria is a harsh place, full of harsher denizens. Explore lush, hand-illustrated environments full of people who want to kill you.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_card_environments.gif?t=1604604746\" /><h2 class=\"bb_tag\">Playing Politics For Keeps</h2>Each character has a factional allegiance and an opinion of you. Play politics between rivals, and try to capture the most powerful social boons. But watch out -- doublecross the wrong person, and you'll be subject to their bane!<h2 class=\"bb_tag\">Outwit or Overpower</h2>Overcome obstacles with the power of your fists - or your words. You'll need to pick your cards and play them right if you're going to survive. Build two decks simultaneously, balancing the tradeoffs of each.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_outwit-overpower.gif?t=1604604746\" /><br><br>Learn from each attempted run through the various stories of the Griftlands. Encounter different combinations of enemies, quests, and events every time you play. Your fate is determined by your choices, and by fate.",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_logo_gif.gif?t=1604604746\" /><br><i>Griftlands</i> is a deck-building rogue-like where you fight and negotiate your way through a broken-down sci-fi world. Every decision is important, be it the jobs you take, the friends you make, or the cards you collect. Death comes quickly, but each play offers new situations and strategies to explore.<br><br>At this stage of development you can play as Sal or Rook, with a third character and campaign in development. Sal is an adventurer out for profit and revenge. Rook is an aging spy working his own agenda. Expect regular updates, including new cards, quests and characters as we work on the game with community feedback!<h2 class=\"bb_tag\">Battle Challenging Bosses</h2>Test your combat decks against powerful foes with unique mechanics and attacks.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_bosses_gif.gif?t=1604604746\" /><h2 class=\"bb_tag\">Build a Team - or Buy One!</h2>Hire mercenaries, find pets, or impose upon your friends to accomplish your goals.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_build-a-team.gif?t=1604604746\" /><h2 class=\"bb_tag\">Master Hundreds of Cards</h2>Each character has unique negotiation and combat decks to draft from. Get powerful item cards from fallen foes, or as rewards.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_card_shuffle.gif?t=1604604746\" /><h2 class=\"bb_tag\">Decisions Matter</h2>Killing foes may incur the wrath of their friends, but sparing them leaves a dangerous piece on the board. Choose wisely, everyone remembers everything you do!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_card_decisions.gif?t=1604604746\" /><h2 class=\"bb_tag\">Welcome to Havaria</h2>Each playable character's story takes place in a unique environment, with different factions and locations to explore and exploit.<h2 class=\"bb_tag\">Explore A Broken-Down Sci-Fi World</h2>The world of Havaria is a harsh place, full of harsher denizens. Explore lush, hand-illustrated environments full of people who want to kill you.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_card_environments.gif?t=1604604746\" /><h2 class=\"bb_tag\">Playing Politics For Keeps</h2>Each character has a factional allegiance and an opinion of you. Play politics between rivals, and try to capture the most powerful social boons. But watch out -- doublecross the wrong person, and you'll be subject to their bane!<h2 class=\"bb_tag\">Outwit or Overpower</h2>Overcome obstacles with the power of your fists - or your words. You'll need to pick your cards and play them right if you're going to survive. Build two decks simultaneously, balancing the tradeoffs of each.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/601840/extras/gl_outwit-overpower.gif?t=1604604746\" /><br><br>Learn from each attempted run through the various stories of the Griftlands. Encounter different combinations of enemies, quests, and events every time you play. Your fate is determined by your choices, and by fate.",
+  "short_description": "Griftlands is a deck-building roguelite where you negotiate, fight, steal or otherwise persuade others to get your way. Every decision is important, be it the jobs you take, the friends you make, or the cards you collect.",
+  "supported_languages": "English, Simplified Chinese, Traditional Chinese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/601840/header_alt_assets_0.jpg?t=1604604746",
+  "website": "http://www.griftlands.com",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 (64 bit)<br></li><li><strong>Processor:</strong> Dual Core 2 GHz (64 bit)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4600 (AMD or NVIDIA equivalent)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 (64 bit)<br></li><li><strong>Processor:</strong> Dual Core 2 GHz (64 bit)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 970 (Dedicated 4GB AMD or NVIDIA equivalent)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+  },
+  "mac_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "developers": [
+   "Klei Entertainment"
+  ],
+  "publishers": [
+   "Klei Entertainment"
+  ],
+  "demos": [
+   {
+    "appid": 1333060,
+    "description": "Free Demo"
+   }
+  ],
+  "price_overview": {
+   "currency": "EUR",
+   "initial": 1679,
+   "final": 1343,
+   "discount_percent": 20,
+   "initial_formatted": "16,79€",
+   "final_formatted": "13,43€"
+  },
+  "packages": [
+   158159
+  ],
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Griftlands",
+    "description": "",
+    "selection_text": "Select a purchase option",
+    "save_text": "",
+    "display_type": 0,
+    "is_recurring_subscription": "false",
+    "subs": [
+     {
+      "packageid": 158159,
+      "percent_savings_text": "-20% ",
+      "percent_savings": 0,
+      "option_text": "Griftlands - <span class=\"discount_original_price\">16,79€</span> 13,43€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1343
+     }
+    ]
+   }
+  ],
+  "platforms": {
+   "windows": true,
+   "mac": false,
+   "linux": false
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 30,
+    "description": "Steam Workshop"
+   },
+   {
+    "id": 18,
+    "description": "Partial Controller Support"
+   },
+   {
+    "id": 23,
+    "description": "Steam Cloud"
+   },
+   {
+    "id": 42,
+    "description": "Remote Play on Tablet"
+   }
+  ],
+  "genres": [
+   {
+    "id": "23",
+    "description": "Indie"
+   },
+   {
+    "id": "70",
+    "description": "Early Access"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_e008b3d7e81277001de6ffec22acf75430d18772.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_e008b3d7e81277001de6ffec22acf75430d18772.1920x1080.jpg?t=1604604746"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_b3eae62fa975c76ddfa187e3c002a005f234b24a.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_b3eae62fa975c76ddfa187e3c002a005f234b24a.1920x1080.jpg?t=1604604746"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_b390cf8fb94adeaa838b4e7321e0ee5351dc2345.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_b390cf8fb94adeaa838b4e7321e0ee5351dc2345.1920x1080.jpg?t=1604604746"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_161eb55f39a59eefcb51a969d2b402bf84e50ce4.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_161eb55f39a59eefcb51a969d2b402bf84e50ce4.1920x1080.jpg?t=1604604746"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_f2b88e55a4eb1d75968e62b9fc739beef9543a4b.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_f2b88e55a4eb1d75968e62b9fc739beef9543a4b.1920x1080.jpg?t=1604604746"
+   },
+   {
+    "id": 5,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_51abc64e2b00d62ecca1f33fdc4f9766b706fe94.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_51abc64e2b00d62ecca1f33fdc4f9766b706fe94.1920x1080.jpg?t=1604604746"
+   },
+   {
+    "id": 6,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_ae36ffa6c195dbf0c5593aeeda46c255422689ce.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_ae36ffa6c195dbf0c5593aeeda46c255422689ce.1920x1080.jpg?t=1604604746"
+   },
+   {
+    "id": 7,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_e6465cadff2a36fa9501a2167f4549fd398f2fce.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_e6465cadff2a36fa9501a2167f4549fd398f2fce.1920x1080.jpg?t=1604604746"
+   },
+   {
+    "id": 8,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_00bd3c2e1421cbb8b5809ca89727aa0c247e81de.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_00bd3c2e1421cbb8b5809ca89727aa0c247e81de.1920x1080.jpg?t=1604604746"
+   },
+   {
+    "id": 9,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_c1bc722a7363bfe75cebc21d82f98c24e8349216.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_c1bc722a7363bfe75cebc21d82f98c24e8349216.1920x1080.jpg?t=1604604746"
+   },
+   {
+    "id": 10,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_ec19881be952ff0c56c897227435cdb03f1496e7.600x338.jpg?t=1604604746",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601840/ss_ec19881be952ff0c56c897227435cdb03f1496e7.1920x1080.jpg?t=1604604746"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256787692,
+    "name": "Griftlands Early Access Gameplay Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256787692/movie.293x165.jpg?t=1591290251",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256787692/movie480_vp9.webm?t=1591290251",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256787692/movie_max_vp9.webm?t=1591290251"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256787692/movie480.mp4?t=1591290251",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256787692/movie_max.mp4?t=1591290251"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256789160,
+    "name": "Griftlands Early Access Cinematic Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256789160/movie.293x165.jpg?t=1592152030",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256789160/movie480_vp9.webm?t=1592152030",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256789160/movie_max_vp9.webm?t=1592152030"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256789160/movie480.mp4?t=1592152030",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256789160/movie_max.mp4?t=1592152030"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256752880,
+    "name": "Announcement Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256752880/movie.293x165.jpg?t=1560189192",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256752880/movie480.webm?t=1560189192",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256752880/movie_max.webm?t=1560189192"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256752880/movie480.mp4?t=1560189192",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256752880/movie_max.mp4?t=1560189192"
+    },
+    "highlight": true
+   }
+  ],
+  "recommendations": {
+   "total": 5910
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "14 Jun, 2020"
+  },
+  "support_info": {
+   "url": "http://support.kleientertainment.com",
+   "email": "livesupport@kleientertainment.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601840/page_bg_generated_v6b.jpg?t=1604604746",
+  "content_descriptors": {
+   "ids": [],
+   "notes": null
+  }
+ },
  "602520": {
   "type": "game",
   "name": "NEKOPARA Vol. 3",
@@ -51477,6 +51904,306 @@
    "notes": null
   }
  },
+ "881100": {
+  "type": "game",
+  "name": "Noita",
+  "steam_appid": 881100,
+  "required_age": 0,
+  "is_free": false,
+  "dlc": [
+   1161410
+  ],
+  "detailed_description": "<strong>Noita</strong> is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself. Explore a variety of environments ranging from coal mines to freezing wastelands while delving deeper in search for unknown mysteries.<br><br><ul class=\"bb_ul\"><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/881100/extras/radioactive-vat.png?t=1604678843\" /><li><strong>Pixel-based physics:</strong> Every pixel in the world is simulated. Burn, explode or melt anything. Swim in the blood of your foes! Enter a simulated world that is more interactive than anything you've seen before.<br><br></li><li><strong>Your own magic:</strong> Create new spells as you delve deeper into the caverns. Use magic to crush your enemies and manipulate the world around you.<br><br></li><li><strong>Procedurally generated world:</strong> Explore a unique world every time you play. Discover new environments as you adventure deeper.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/881100/extras/cover-shooter2.png?t=1604678843\" /><br><br></li><li><strong>Action roguelite:</strong> Death is permanent and always a looming threat. When you die, don’t despair, use what you’ve learned to get further on your next adventure.</li></ul><br><strong>Noita</strong> is being developed by Nolla Games, a company set up by 3 indie developers, all of whom have worked on their own projects in the past.<br><br>The three gents in question are:<br><br><strong>Petri Purho</strong><br>Petri is best known as the creator of <a href=\"https://store.steampowered.com/app/26900/Crayon_Physics_Deluxe/\" target=\"_blank\" rel=\"noreferrer\"  >Crayon Physics Deluxe</a>. In his youth he also made a lot tiny freeware games. He has also made a bunch of board games, but he hasn't told about it to anyone. So please keep it a secret.<br><br><strong>Olli Harjola</strong><br>Olli is known for the award-winning, mind-bending sci-fi puzzler <a href=\"https://store.steampowered.com/app/231160/The_Swapper/\" target=\"_blank\" rel=\"noreferrer\"  >The Swapper</a>. Besides indie games, he also dabbles in music, live visuals and making programming languages.<br><br><strong>Arvi Teikari</strong><br>Arvi is also known as Hempuli. Over the years he has released a lot of tiny experimental games, so many in fact that he is unaware of all of them. One of the games he remembers making is <a href=\"https://store.steampowered.com/app/736260/Baba_Is_You/\" target=\"_blank\" rel=\"noreferrer\"  >Baba Is You</a>.",
+  "about_the_game": "<strong>Noita</strong> is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself. Explore a variety of environments ranging from coal mines to freezing wastelands while delving deeper in search for unknown mysteries.<br><br><ul class=\"bb_ul\"><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/881100/extras/radioactive-vat.png?t=1604678843\" /><li><strong>Pixel-based physics:</strong> Every pixel in the world is simulated. Burn, explode or melt anything. Swim in the blood of your foes! Enter a simulated world that is more interactive than anything you've seen before.<br><br></li><li><strong>Your own magic:</strong> Create new spells as you delve deeper into the caverns. Use magic to crush your enemies and manipulate the world around you.<br><br></li><li><strong>Procedurally generated world:</strong> Explore a unique world every time you play. Discover new environments as you adventure deeper.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/881100/extras/cover-shooter2.png?t=1604678843\" /><br><br></li><li><strong>Action roguelite:</strong> Death is permanent and always a looming threat. When you die, don’t despair, use what you’ve learned to get further on your next adventure.</li></ul><br><strong>Noita</strong> is being developed by Nolla Games, a company set up by 3 indie developers, all of whom have worked on their own projects in the past.<br><br>The three gents in question are:<br><br><strong>Petri Purho</strong><br>Petri is best known as the creator of <a href=\"https://store.steampowered.com/app/26900/Crayon_Physics_Deluxe/\" target=\"_blank\" rel=\"noreferrer\"  >Crayon Physics Deluxe</a>. In his youth he also made a lot tiny freeware games. He has also made a bunch of board games, but he hasn't told about it to anyone. So please keep it a secret.<br><br><strong>Olli Harjola</strong><br>Olli is known for the award-winning, mind-bending sci-fi puzzler <a href=\"https://store.steampowered.com/app/231160/The_Swapper/\" target=\"_blank\" rel=\"noreferrer\"  >The Swapper</a>. Besides indie games, he also dabbles in music, live visuals and making programming languages.<br><br><strong>Arvi Teikari</strong><br>Arvi is also known as Hempuli. Over the years he has released a lot of tiny experimental games, so many in fact that he is unaware of all of them. One of the games he remembers making is <a href=\"https://store.steampowered.com/app/736260/Baba_Is_You/\" target=\"_blank\" rel=\"noreferrer\"  >Baba Is You</a>.",
+  "short_description": "Noita is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself.",
+  "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Italian, Polish",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/881100/header_alt_assets_2.jpg?t=1604678843",
+  "website": "http://noitagame.com",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, 7, 8/8.1, 10<br></li><li><strong>Processor:</strong> Dual Core CPU, Intel i5 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512MB VRAM, OpenGL 3.0 support<br></li><li><strong>Storage:</strong> 1600 MB available space</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, 7, 8/8.1, 10<br></li><li><strong>Processor:</strong> The more cores the better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1024MB VRAM, OpenGL 3.0 support<br></li><li><strong>Storage:</strong> 2500 MB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+   "Nolla Games"
+  ],
+  "publishers": [
+   "Nolla Games"
+  ],
+  "price_overview": {
+   "currency": "EUR",
+   "initial": 1899,
+   "final": 1424,
+   "discount_percent": 25,
+   "initial_formatted": "18,99€",
+   "final_formatted": "14,24€"
+  },
+  "packages": [
+   279818
+  ],
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Noita",
+    "description": "",
+    "selection_text": "Select a purchase option",
+    "save_text": "",
+    "display_type": 0,
+    "is_recurring_subscription": "false",
+    "subs": [
+     {
+      "packageid": 279818,
+      "percent_savings_text": "-25% ",
+      "percent_savings": 0,
+      "option_text": "Noita - <span class=\"discount_original_price\">18,99€</span> 14,24€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1424
+     }
+    ]
+   }
+  ],
+  "platforms": {
+   "windows": true,
+   "mac": false,
+   "linux": false
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 22,
+    "description": "Steam Achievements"
+   },
+   {
+    "id": 30,
+    "description": "Steam Workshop"
+   },
+   {
+    "id": 18,
+    "description": "Partial Controller Support"
+   },
+   {
+    "id": 23,
+    "description": "Steam Cloud"
+   }
+  ],
+  "genres": [
+   {
+    "id": "1",
+    "description": "Action"
+   },
+   {
+    "id": "25",
+    "description": "Adventure"
+   },
+   {
+    "id": "23",
+    "description": "Indie"
+   },
+   {
+    "id": "3",
+    "description": "RPG"
+   },
+   {
+    "id": "28",
+    "description": "Simulation"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_626b401fd6d78ab335ecb8ff1e4b0a8ce7d25f66.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_626b401fd6d78ab335ecb8ff1e4b0a8ce7d25f66.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_96308c4c5951740a0e46e0aa66e67bd04e99286a.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_96308c4c5951740a0e46e0aa66e67bd04e99286a.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_c9c81f5abbc75b9e5408c23d44bfab14e6759cb7.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_c9c81f5abbc75b9e5408c23d44bfab14e6759cb7.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_c65fea857e3a2168c0c103952f0955094aacf329.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_c65fea857e3a2168c0c103952f0955094aacf329.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_56b342c3dbddae9409f6af8582cfa804de3e1229.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_56b342c3dbddae9409f6af8582cfa804de3e1229.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 5,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_a2797d36d19106bde83824e84dfb6694aeed6bba.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_a2797d36d19106bde83824e84dfb6694aeed6bba.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 6,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_d980d141e724c23f4d937790e0f924f05f268edf.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_d980d141e724c23f4d937790e0f924f05f268edf.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 7,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_dc5634f88ad0a679d78837f307eebc409b606a28.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_dc5634f88ad0a679d78837f307eebc409b606a28.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 8,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_c02b4406a18dc2e3fe213a6c1948d975ba191985.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_c02b4406a18dc2e3fe213a6c1948d975ba191985.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 9,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_8caab0d64091e3bae9994aa14466d89914dff455.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_8caab0d64091e3bae9994aa14466d89914dff455.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 10,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_eb8db80705ffffd2d442c2eba518d21b7360df08.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_eb8db80705ffffd2d442c2eba518d21b7360df08.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 11,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_6f520e3688a1c5d28763d534c96d72379c7c407b.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_6f520e3688a1c5d28763d534c96d72379c7c407b.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 12,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_d9a9d57f12f8f7f4780c309c1fcd5ed6c8b3f102.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_d9a9d57f12f8f7f4780c309c1fcd5ed6c8b3f102.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 13,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_434b0355830a7b267a8409d6bbd7dd21c6acf7eb.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_434b0355830a7b267a8409d6bbd7dd21c6acf7eb.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 14,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_1317b5027520feb6ae56606809bfc4c01ba14760.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_1317b5027520feb6ae56606809bfc4c01ba14760.1920x1080.jpg?t=1604678843"
+   },
+   {
+    "id": 15,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_d370ade2a95c503384820b34018e0f16cf19772e.600x338.jpg?t=1604678843",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/881100/ss_d370ade2a95c503384820b34018e0f16cf19772e.1920x1080.jpg?t=1604678843"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256804553,
+    "name": "Noita - 1.0 Launch Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256804553/movie.293x165.jpg?t=1602783173",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256804553/movie480_vp9.webm?t=1602783173",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256804553/movie_max_vp9.webm?t=1602783173"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256804553/movie480.mp4?t=1602783173",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256804553/movie_max.mp4?t=1602783173"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256760563,
+    "name": "Noita - Early Access Launch Date Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256760563/movie.293x165.jpg?t=1567094719",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256760563/movie480.webm?t=1567094719",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256760563/movie_max.webm?t=1567094719"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256760563/movie480.mp4?t=1567094719",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256760563/movie_max.mp4?t=1567094719"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256770609,
+    "name": "Noita - Snowy Update Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256770609/movie.293x165.jpg?t=1576791732",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256770609/movie480.webm?t=1576791732",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256770609/movie_max.webm?t=1576791732"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256770609/movie480.mp4?t=1576791732",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256770609/movie_max.mp4?t=1576791732"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256719186,
+    "name": "Noita - Reveal Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256719186/movie.293x165.jpg?t=1528724714",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256719186/movie480.webm?t=1528724714",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256719186/movie_max.webm?t=1528724714"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256719186/movie480.mp4?t=1528724714",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256719186/movie_max.mp4?t=1528724714"
+    },
+    "highlight": true
+   }
+  ],
+  "recommendations": {
+   "total": 20826
+  },
+  "achievements": {
+   "total": 7,
+   "highlighted": [
+    {
+     "name": "Victory",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/fc6b7e6b49dbb99e862b6c369eb691b29376c65f.jpg"
+    },
+    {
+     "name": "Reached Coal Pits",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/758f9b900906a4dd07fc120aba01daf5e3851045.jpg"
+    },
+    {
+     "name": "Reached Snowy Depths",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/84d2845edbfe01a27b855f235023d7ea5f3e770a.jpg"
+    },
+    {
+     "name": "Reached Hiisi Base",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/c219c3651fcf6dd48c3db6fbbbbd18a39c397697.jpg"
+    },
+    {
+     "name": "Reached Underground Jungle",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/5183ddeee913f877125231433214d75809f2721b.jpg"
+    },
+    {
+     "name": "Reached The Vault",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/7e66ed4b29a19b4fbe2a7ef4f7384aabaad2f57a.jpg"
+    },
+    {
+     "name": "Reached Temple of the Art",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/326dc54c8eb0c61eb48d48bda09bd3fe5c7f3521.jpg"
+    }
+   ]
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "15 Oct, 2020"
+  },
+  "support_info": {
+   "url": "http://noitagame.com",
+   "email": "support@nollagames.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/881100/page_bg_generated_v6b.jpg?t=1604678843",
+  "content_descriptors": {
+   "ids": [],
+   "notes": null
+  }
+ },
  "883710": {
   "type": "game",
   "name": "Resident Evil 2",
@@ -53637,6 +54364,341 @@
    "email": "support@ninjakiwi.com"
   },
   "background": "https://steamcdn-a.akamaihd.net/steam/apps/960090/page_bg_generated_v6b.jpg?t=1593469824",
+  "content_descriptors": {
+   "ids": [],
+   "notes": null
+  }
+ },
+ "969990": {
+  "type": "game",
+  "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+  "steam_appid": 969990,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "dlc": [
+   1263830
+  ],
+  "detailed_description": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/969990/extras/Sponge_Dance.gif?t=1603811631\" /><br><br>Are you ready, kids? The cult classic is back, faithfully remade in spongetastic splendor! Play as SpongeBob, Patrick and Sandy and show the evil Plankton that crime pays even less than Mr. Krabs. Want to save Bikini Bottom from lots of rampant robots with your mighty bubbles? Of course you do! Want to underpants bungee jump? Why wouldn't you! Want to join forces in a brand new multiplayer mode? The battle is on!<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/969990/extras/Patrick.gif?t=1603811631\" /><h2 class=\"bb_tag\">GAME FEATURES</h2><ul class=\"bb_ul\"><li>Play as SpongeBob, Patrick and Sandy and use their unique sets of skills<br></li><li>Thwart Plankton's evil plan to rule Bikini Bottom with his army of wacky robots<br></li><li>Meet countless characters from the beloved series</li></ul><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/969990/extras/RoboPat.gif?t=1603811631\" /><h2 class=\"bb_tag\">REMAKE FEATURES</h2><ul class=\"bb_ul\"><li>Faithful remake of one of the best SpongeBob games ever created<br></li><li>High-end visuals, modern resolutions and carefully polished gameplay<br></li><li>Brand new horde mode multiplayer for up to two players, online and offline<br></li><li>Restored content that was cut from the original game like the Robo Squidward boss fight and more</li></ul><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/969990/extras/SandySlide.gif?t=1603811631\" />",
+  "about_the_game": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/969990/extras/Sponge_Dance.gif?t=1603811631\" /><br><br>Are you ready, kids? The cult classic is back, faithfully remade in spongetastic splendor! Play as SpongeBob, Patrick and Sandy and show the evil Plankton that crime pays even less than Mr. Krabs. Want to save Bikini Bottom from lots of rampant robots with your mighty bubbles? Of course you do! Want to underpants bungee jump? Why wouldn't you! Want to join forces in a brand new multiplayer mode? The battle is on!<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/969990/extras/Patrick.gif?t=1603811631\" /><h2 class=\"bb_tag\">GAME FEATURES</h2><ul class=\"bb_ul\"><li>Play as SpongeBob, Patrick and Sandy and use their unique sets of skills<br></li><li>Thwart Plankton's evil plan to rule Bikini Bottom with his army of wacky robots<br></li><li>Meet countless characters from the beloved series</li></ul><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/969990/extras/RoboPat.gif?t=1603811631\" /><h2 class=\"bb_tag\">REMAKE FEATURES</h2><ul class=\"bb_ul\"><li>Faithful remake of one of the best SpongeBob games ever created<br></li><li>High-end visuals, modern resolutions and carefully polished gameplay<br></li><li>Brand new horde mode multiplayer for up to two players, online and offline<br></li><li>Restored content that was cut from the original game like the Robo Squidward boss fight and more</li></ul><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/969990/extras/SandySlide.gif?t=1603811631\" />",
+  "short_description": "Are you ready, kids? The cult classic is back, faithfully remade in spongetastic splendor! Play as SpongeBob, Patrick and Sandy and show the evil Plankton that crime pays even less than Mr. Krabs.",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil, Japanese<strong>*</strong>, Korean, Polish<strong>*</strong>, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "reviews": "“SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated adds lovely visuals to a classic 3D platformer that has aged better than I thought it would. Excellent controls, imaginative and compelling level design, and plenty of belly laughs make this game worth going back to nearly 20 years later.”<br>8/10 – <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.pcinvasion.com/spongebob-squarepants-battle-for-bikini-bottom-rehydrated-review/\" target=\"_blank\" rel=\"noopener\"  >PC Invasion</a><br><br>“A gorgeous remake of a cherished game adaptation. With tons of unlockables spread across levels with tons of variety, it doesn’t rely on its namesake alone to carry it. While SpongeBob fans will undoubtedly be happy to play through a game that retains the show’s sense of humor and colorful animation, its solid platforming and the freedom it provides players with to explore its diverse levels make it one of the better remakes we’ve seen.”<br>4/5 – <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.gamerevolution.com/review/650591-spongebob-squarepants-battle-for-bikini-bottom-rehydrated-review-ps4-switch-pc-xbox\" target=\"_blank\" rel=\"noopener\"  >Game Revolution</a><br><br>“The &quot;rehydrated&quot; version of Spongebob Squarepants: Battle for Bikini Bottom is an all-round entertainment product for a younger audience, who can take the opportunity to learn about the franchise, or on the other hand consolidate it with an original and fun adventure to play. Also confirmed by my teenage double, who enjoyed playing it from start to finish.”<br>7.8/10 – <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.thegamesmachine.it/spongebob-squarepants-battle-for-bikini-bottom-rehydrated-pc-ps4-xbox-one-switch/spongebob-squarepants-battle-for-bikini-bottom-rehydrated-recensione/\" target=\"_blank\" rel=\"noopener\"  >The Games Machine</a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/969990/header.jpg?t=1603811631",
+  "website": null,
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64bit)<br></li><li><strong>Processor:</strong> AMD / Intel CPU running at 2.8 GHz or higher (AMD Phenom II X4 925 or Intel i3-4130 or newer are recommended)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD/NVIDIA graphic card, with at least 2GB of dedicated VRAM and with at least DirectX 11 and Shader Model 5.1 support: AMD Radeon HD 7870 or NVIDIA GeForce GTX 760 or newer is recommended.<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> Integrated or dedicated DirectX 9 compatible soundcard<br></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system, Windows 7 and 8.1 are supported but some AMD Graphics Cards might show weaker performance on these OS versions.</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64bit)<br></li><li><strong>Processor:</strong> AMD / Intel processor running at 3.5 GHz or higher (AMD FX-6300 series or Intel Core i3-8100 or newer is recommended).<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD/NVIDIA dedicated graphic card, with at least 4GB of dedicated VRAM (or more) and with at least DirectX 11 and Shader Model 5.1 support: NVIDIA GeForce GTX 1050 Ti or AMD Radeon R9<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> Integrated or dedicated DirectX 9 compatible soundcard<br></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system, Windows 7 and 8.1 are supported but some AMD Graphics Cards might show weaker performance on these OS versions.</li></ul>"
+  },
+  "mac_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "legal_notice": "© 2020 Viacom International Inc. All Rights Reserved. Nickelodeon, SpongeBob SquarePants and all related titles, logos and characters are trademarks of Viacom International Inc. Created by Stephen Hillenburg.  © 2019 THQ Nordic AB, Sweden. Published by THQ Nordic GmbH, Austria. Developed by Purple Lamp Studios GmbH, Austria. THQ and THQ Nordic are trademarks of THQ Nordic AB, Sweden. All rights reserved. All other trademarks, logos and copyrights are property of their respective owners.",
+  "developers": [
+   "Purple Lamp Studios"
+  ],
+  "publishers": [
+   "THQ Nordic"
+  ],
+  "price_overview": {
+   "currency": "EUR",
+   "initial": 2999,
+   "final": 1979,
+   "discount_percent": 34,
+   "initial_formatted": "29,99€",
+   "final_formatted": "19,79€"
+  },
+  "packages": [
+   317901
+  ],
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "description": "",
+    "selection_text": "Select a purchase option",
+    "save_text": "",
+    "display_type": 0,
+    "is_recurring_subscription": "false",
+    "subs": [
+     {
+      "packageid": 317901,
+      "percent_savings_text": "-34% ",
+      "percent_savings": 0,
+      "option_text": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated - <span class=\"discount_original_price\">29,99€</span> 19,79€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1979
+     }
+    ]
+   }
+  ],
+  "platforms": {
+   "windows": true,
+   "mac": false,
+   "linux": false
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 1,
+    "description": "Multi-player"
+   },
+   {
+    "id": 9,
+    "description": "Co-op"
+   },
+   {
+    "id": 38,
+    "description": "Online Co-op"
+   },
+   {
+    "id": 39,
+    "description": "Shared/Split Screen Co-op"
+   },
+   {
+    "id": 22,
+    "description": "Steam Achievements"
+   },
+   {
+    "id": 28,
+    "description": "Full controller support"
+   },
+   {
+    "id": 29,
+    "description": "Steam Trading Cards"
+   },
+   {
+    "id": 23,
+    "description": "Steam Cloud"
+   },
+   {
+    "id": 41,
+    "description": "Remote Play on Phone"
+   },
+   {
+    "id": 42,
+    "description": "Remote Play on Tablet"
+   },
+   {
+    "id": 43,
+    "description": "Remote Play on TV"
+   },
+   {
+    "id": 44,
+    "description": "Remote Play Together"
+   }
+  ],
+  "genres": [
+   {
+    "id": "1",
+    "description": "Action"
+   },
+   {
+    "id": "25",
+    "description": "Adventure"
+   },
+   {
+    "id": "4",
+    "description": "Casual"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_7c2e060df8300baacac0d0c1e8b530953e476b3d.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_7c2e060df8300baacac0d0c1e8b530953e476b3d.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_ca18f3fd972845e5a2649392536b89ad18b9ff8f.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_ca18f3fd972845e5a2649392536b89ad18b9ff8f.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_9d0b0290c5dd4fc9f1920767ec1e7bcf445abc57.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_9d0b0290c5dd4fc9f1920767ec1e7bcf445abc57.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_af4373108d60293bdbf88a83880312bdf7fc2ff2.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_af4373108d60293bdbf88a83880312bdf7fc2ff2.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_59327e8619ecbf985a2f7f21fde688398e9291a2.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_59327e8619ecbf985a2f7f21fde688398e9291a2.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 5,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_4e18a7d8ae51c44cf21d11979dbe6de6de876b69.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_4e18a7d8ae51c44cf21d11979dbe6de6de876b69.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 6,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_ed38c5546bdd81028f26ecea662eef919e05c7ae.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_ed38c5546bdd81028f26ecea662eef919e05c7ae.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 7,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_341e6927648ffcb0b103565a42ab90c2d182e2e5.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_341e6927648ffcb0b103565a42ab90c2d182e2e5.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 8,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_53f7746120d2b1bc5779c5759c076672400a657d.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_53f7746120d2b1bc5779c5759c076672400a657d.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 9,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_4b557ce3f3f65de069428e9f4a3d660892455ce3.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_4b557ce3f3f65de069428e9f4a3d660892455ce3.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 10,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_45d83359cafa20c685e5e249c965958180dd3440.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_45d83359cafa20c685e5e249c965958180dd3440.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 11,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_093cb1594cff3c33e023fb424ab9290889b90645.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_093cb1594cff3c33e023fb424ab9290889b90645.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 12,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_66f086bcd2014fea6f11456422d95e1170ee0c39.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_66f086bcd2014fea6f11456422d95e1170ee0c39.1920x1080.jpg?t=1603811631"
+   },
+   {
+    "id": 13,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_ad3e72d02fc4270906e605ad4df02189843a68d2.600x338.jpg?t=1603811631",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/969990/ss_ad3e72d02fc4270906e605ad4df02189843a68d2.1920x1080.jpg?t=1603811631"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256790499,
+    "name": "Release Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256790499/movie.293x165.jpg?t=1592920446",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256790499/movie480_vp9.webm?t=1592920446",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256790499/movie_max_vp9.webm?t=1592920446"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256790499/movie480.mp4?t=1592920446",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256790499/movie_max.mp4?t=1592920446"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256785400,
+    "name": "Boss fight trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256785400/movie.293x165.jpg?t=1589463582",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256785400/movie480_vp9.webm?t=1589463582",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256785400/movie_max_vp9.webm?t=1589463582"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256785400/movie480.mp4?t=1589463582",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256785400/movie_max.mp4?t=1589463582"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256752725,
+    "name": "Teaser Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256752725/movie.293x165.jpg?t=1559824584",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256752725/movie480.webm?t=1559824584",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256752725/movie_max.webm?t=1559824584"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256752725/movie480.mp4?t=1559824584",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256752725/movie_max.mp4?t=1559824584"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256781862,
+    "name": "Preorder Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256781862/movie.293x165.jpg?t=1587419064",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256781862/movie480_vp9.webm?t=1587419064",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256781862/movie_max_vp9.webm?t=1587419064"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256781862/movie480.mp4?t=1587419064",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256781862/movie_max.mp4?t=1587419064"
+    },
+    "highlight": false
+   }
+  ],
+  "recommendations": {
+   "total": 6244
+  },
+  "achievements": {
+   "total": 32,
+   "highlighted": [
+    {
+     "name": "Jellyfish Jam",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969990/7aeff685bb90d621fc46da3344c18bc40aaedd53.jpg"
+    },
+    {
+     "name": "Time For Tutorial",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969990/64000636f1698e22af4aa60bffbf43af8c35e475.jpg"
+    },
+    {
+     "name": "Spatula Seeker",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969990/4289ba72f157a7d7e27c5cb7db800fba4684dc94.jpg"
+    },
+    {
+     "name": "Squirrel Smasher",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969990/5b779656d8c004e029f13c87e78fb56e9e65c46b.jpg"
+    },
+    {
+     "name": "Star Smasher",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969990/fd83872238afa737be4409645625720115a892bd.jpg"
+    },
+    {
+     "name": "Sponge Smasher",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969990/01d9da32b6a0d12dafbbdf68c01919285625c879.jpg"
+    },
+    {
+     "name": "Life's as extreme as you wanna make it!",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969990/e9930dcde35a1c4e60d9a3b9d6156f309fe7fab7.jpg"
+    },
+    {
+     "name": "Hello, Bikini Bottom",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969990/350db866148702a7fe3a339240b974737af04487.jpg"
+    },
+    {
+     "name": "Sock Getter",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969990/60467efbecbb534b611247f2df160dafe792de1e.jpg"
+    },
+    {
+     "name": "Surf's Up!",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/969990/8c7e22f908bc47220369f92b3d54eaf649661c14.jpg"
+    }
+   ]
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "23 Jun, 2020"
+  },
+  "support_info": {
+   "url": "",
+   "email": "support@quanticlab.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/969990/page_bg_generated_v6b.jpg?t=1603811631",
   "content_descriptors": {
    "ids": [],
    "notes": null
@@ -57889,6 +58951,332 @@
    "notes": null
   }
  },
+ "1126320": {
+  "type": "game",
+  "name": "Being a DIK - Season 1",
+  "steam_appid": 1126320,
+  "required_age": 0,
+  "is_free": false,
+  "dlc": [
+   1223490
+  ],
+  "detailed_description": "A young man, from a low-income family, moves away from his widowed father and his summer love to attend college at Burgmeister &amp; Royce. As he is cast into freshman life and persuaded to join the up-and-coming fraternity Delta Iota Kappa, he'll be exposed to a new world filled with conflicts, alcohol, drugs and sex.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1126320/extras/new_store_art.png?t=1595330740\" /><br>Being a DIK is a choice-driven adult Visual Novel (VN).<br>In this game you play as a young male attending college and the choices you make will affect the characters around you and shape your character and adventure.<br>Will you choose to play as a nice, caring and romantic guy or as someone more straightforward and daring?<br>The girls in the game have different values and may or may not be attracted to you based on your choices. Can you resist the temptations along the way to get the girl of your dreams or will you relent and just...experiment? Hey, it's college after all!<br><br>The game is a Visual Novel and it's made more interactive through optional mini-games and free-roam events where you can explore the current environment. You can purchase boosters, cheats and skills to make the mini-games easier to pass and find hidden items that unlock special lewd artwork and more.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1126320/extras/new_store_art2.png?t=1595330740\" /><br>Being a DIK Season  1 includes Episodes 1-4:<br><ul class=\"bb_ul\"><li>Episode 1 - The Initiation<br></li><li>Episode 2 - Maggot Brothers<br></li><li>Episode 3 - 100%<br></li><li>Episode 4 - When worlds collide</li></ul><br>Season 1 is packed with 361 animated scenes and over 8000 images.<br>You can expect an 8-12 hour game that can be replayed numerous times to experience different paths and girls.<br>Being a DIK: Season 2, and future seasons, will be a continuation of the story and released and sold separately as DLC.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1126320/extras/new_store_art3.png?t=1595330740\" />",
+  "about_the_game": "A young man, from a low-income family, moves away from his widowed father and his summer love to attend college at Burgmeister &amp; Royce. As he is cast into freshman life and persuaded to join the up-and-coming fraternity Delta Iota Kappa, he'll be exposed to a new world filled with conflicts, alcohol, drugs and sex.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1126320/extras/new_store_art.png?t=1595330740\" /><br>Being a DIK is a choice-driven adult Visual Novel (VN).<br>In this game you play as a young male attending college and the choices you make will affect the characters around you and shape your character and adventure.<br>Will you choose to play as a nice, caring and romantic guy or as someone more straightforward and daring?<br>The girls in the game have different values and may or may not be attracted to you based on your choices. Can you resist the temptations along the way to get the girl of your dreams or will you relent and just...experiment? Hey, it's college after all!<br><br>The game is a Visual Novel and it's made more interactive through optional mini-games and free-roam events where you can explore the current environment. You can purchase boosters, cheats and skills to make the mini-games easier to pass and find hidden items that unlock special lewd artwork and more.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1126320/extras/new_store_art2.png?t=1595330740\" /><br>Being a DIK Season  1 includes Episodes 1-4:<br><ul class=\"bb_ul\"><li>Episode 1 - The Initiation<br></li><li>Episode 2 - Maggot Brothers<br></li><li>Episode 3 - 100%<br></li><li>Episode 4 - When worlds collide</li></ul><br>Season 1 is packed with 361 animated scenes and over 8000 images.<br>You can expect an 8-12 hour game that can be replayed numerous times to experience different paths and girls.<br>Being a DIK: Season 2, and future seasons, will be a continuation of the story and released and sold separately as DLC.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1126320/extras/new_store_art3.png?t=1595330740\" />",
+  "short_description": "Being a DIK is a choice-driven adult Visual Novel focusing on the fun parts of college life. The game is packed with humor, sex, romance, drama and a rich story. Play as a young male attending college at B&amp;R and guide him through the experience.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/header.jpg?t=1595330740",
+  "website": null,
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher<br></li><li><strong>Processor:</strong> 2.0 GHz Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 or DirectX 9.0c compatible<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+  },
+  "mac_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.6+<br></li><li><strong>Processor:</strong> 2.0 GHz Core 2 Duo (64 bit only)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+  },
+  "linux_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+ or Kernel 3.x+ based distributions<br></li><li><strong>Processor:</strong> 2.0 GHz Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+  },
+  "developers": [
+   "Dr PinkCake"
+  ],
+  "publishers": [
+   "Dr PinkCake"
+  ],
+  "price_overview": {
+   "currency": "EUR",
+   "initial": 1159,
+   "final": 985,
+   "discount_percent": 15,
+   "initial_formatted": "11,59€",
+   "final_formatted": "9,85€"
+  },
+  "packages": [
+   382492
+  ],
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Being a DIK - Season 1",
+    "description": "",
+    "selection_text": "Select a purchase option",
+    "save_text": "",
+    "display_type": 0,
+    "is_recurring_subscription": "false",
+    "subs": [
+     {
+      "packageid": 382492,
+      "percent_savings_text": "-15% ",
+      "percent_savings": 0,
+      "option_text": "Being a DIK - <span class=\"discount_original_price\">11,59€</span> 9,85€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 985
+     }
+    ]
+   }
+  ],
+  "platforms": {
+   "windows": true,
+   "mac": false,
+   "linux": true
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 22,
+    "description": "Steam Achievements"
+   },
+   {
+    "id": 29,
+    "description": "Steam Trading Cards"
+   },
+   {
+    "id": 23,
+    "description": "Steam Cloud"
+   },
+   {
+    "id": 41,
+    "description": "Remote Play on Phone"
+   },
+   {
+    "id": 42,
+    "description": "Remote Play on Tablet"
+   }
+  ],
+  "genres": [
+   {
+    "id": "23",
+    "description": "Indie"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_15ac5673a1126727dda16c39c993feef22998eb6.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_15ac5673a1126727dda16c39c993feef22998eb6.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_d0b89bcdcc86eecbebbb8fbccf4fd23cf0af1dbd.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_d0b89bcdcc86eecbebbb8fbccf4fd23cf0af1dbd.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_1743d88c1c26c7557f054a8d1c5af34399e0d9e5.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_1743d88c1c26c7557f054a8d1c5af34399e0d9e5.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_871646b7baca62e952e756cfdf9215fcf5c77a51.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_871646b7baca62e952e756cfdf9215fcf5c77a51.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_150499799d83092782cd8c74c917fd3627aa270f.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_150499799d83092782cd8c74c917fd3627aa270f.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 5,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_1f089e2c20b2e19fa3bc69432af9b7d8ea4bbea7.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_1f089e2c20b2e19fa3bc69432af9b7d8ea4bbea7.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 6,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_6f7fafa0fb8d6b653bb1157f8bef06874f0d84ac.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_6f7fafa0fb8d6b653bb1157f8bef06874f0d84ac.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 7,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_1f1f74fb12e31151cfc6ea5b1eee734aecb26bf6.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_1f1f74fb12e31151cfc6ea5b1eee734aecb26bf6.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 8,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_e44a8f15080b2cb4b46d5bccc08aa366401f406a.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_e44a8f15080b2cb4b46d5bccc08aa366401f406a.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 9,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_fab96dc7fce777a7238afcaac6722914f35a43ba.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_fab96dc7fce777a7238afcaac6722914f35a43ba.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 10,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_a8a32eb405bccd1f7e28e74a3936a690956e814b.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_a8a32eb405bccd1f7e28e74a3936a690956e814b.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 11,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_fcea936773357bb791604bd82f52838b1cd85c84.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_fcea936773357bb791604bd82f52838b1cd85c84.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 12,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_61ed3ca8b44eab6b3bf09d5a6820bd810ed72571.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_61ed3ca8b44eab6b3bf09d5a6820bd810ed72571.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 13,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_b092799da6454eaf8b08453d83b7332fa27f6146.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_b092799da6454eaf8b08453d83b7332fa27f6146.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 14,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_c069acc1fe577fea36cf32cc127c693d6f2156c3.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_c069acc1fe577fea36cf32cc127c693d6f2156c3.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 15,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_d8c5888c08698e58bcfdee9dab4fd9b3b53f8fe7.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_d8c5888c08698e58bcfdee9dab4fd9b3b53f8fe7.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 16,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_37b5b5f3100387dc31c3fbad07a04dfee23486a7.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_37b5b5f3100387dc31c3fbad07a04dfee23486a7.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 17,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_3f14299d07ca39b59b1cd6a7005bef7ae4d154c6.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_3f14299d07ca39b59b1cd6a7005bef7ae4d154c6.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 18,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_669301971d450bfd1040651d2998a812c6450935.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_669301971d450bfd1040651d2998a812c6450935.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 19,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_4701ce335885737830facb5456386f02b2a021a4.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_4701ce335885737830facb5456386f02b2a021a4.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 20,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_98319f5bc55841d68ee08fadeba42191adca7f9a.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_98319f5bc55841d68ee08fadeba42191adca7f9a.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 21,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_5efd1cbfc526a74e2c49b0b12551d3ae7e404429.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_5efd1cbfc526a74e2c49b0b12551d3ae7e404429.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 22,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_81a930af8c1dacc75f2f240dc092e64c77a38bcd.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_81a930af8c1dacc75f2f240dc092e64c77a38bcd.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 23,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_d26be3ba252919f652ee624b3cbdfa656885e70e.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_d26be3ba252919f652ee624b3cbdfa656885e70e.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 24,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_feee648d2024b362c260a6b672fa2cf2017e22c2.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_feee648d2024b362c260a6b672fa2cf2017e22c2.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 25,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_a7ef0674bfe91976212ecd1259c6c987ef90281c.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_a7ef0674bfe91976212ecd1259c6c987ef90281c.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 26,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_062c6b8aacd183fc3ac1d1a4b9e83a32e23a831b.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_062c6b8aacd183fc3ac1d1a4b9e83a32e23a831b.1920x1080.jpg?t=1595330740"
+   },
+   {
+    "id": 27,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_403fc42d241603260d9a3e78dbe46d7915d721fb.600x338.jpg?t=1595330740",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/ss_403fc42d241603260d9a3e78dbe46d7915d721fb.1920x1080.jpg?t=1595330740"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256763942,
+    "name": "Being a DIK trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256763942/movie.293x165.jpg?t=1571857549",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256763942/movie480.webm?t=1571857549",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256763942/movie_max.webm?t=1571857549"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256763942/movie480.mp4?t=1571857549",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256763942/movie_max.mp4?t=1571857549"
+    },
+    "highlight": true
+   }
+  ],
+  "recommendations": {
+   "total": 2659
+  },
+  "achievements": {
+   "total": 44,
+   "highlighted": [
+    {
+     "name": "The Initiation",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1126320/472e8db05ca4c46387c3821b3de318fa93d8bc33.jpg"
+    },
+    {
+     "name": "Maggot Brothers",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1126320/9cd0a3474534fa0ecdd8357eee9f79a8d2f52b16.jpg"
+    },
+    {
+     "name": "100%",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1126320/7598fbe7a947b1c0f7b8194c38b003396e090927.jpg"
+    },
+    {
+     "name": "When Worlds Collide",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1126320/92adbe8ba3f551ef0443096131ac31d490faaf11.jpg"
+    },
+    {
+     "name": "Magazine collector",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1126320/9497381689d7b41604f3c68e3ce3ed77395059c2.jpg"
+    },
+    {
+     "name": "Been there, done her",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1126320/018d86579984def0aca914290b5282a89d2a79e9.jpg"
+    },
+    {
+     "name": "Teacher's pet",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1126320/bc4c682af748c86ec3d8c9d7cc1231f6eb64bc62.jpg"
+    },
+    {
+     "name": "Jumble master",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1126320/bc4c682af748c86ec3d8c9d7cc1231f6eb64bc62.jpg"
+    },
+    {
+     "name": "Whiz kid",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1126320/2af8cd976f99811379f506c1e7ee7edab2382d56.jpg"
+    },
+    {
+     "name": "Feminist",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1126320/bc4c682af748c86ec3d8c9d7cc1231f6eb64bc62.jpg"
+    }
+   ]
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "13 Feb, 2020"
+  },
+  "support_info": {
+   "url": "https://discord.gg/KyCc5E4",
+   "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1126320/page_bg_generated_v6b.jpg?t=1595330740",
+  "content_descriptors": {
+   "ids": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "notes": "The game graphically depicts sex, usage of drugs and violence. The story is not intended for players being in a dark period of their lives. If you are easily offended or just looking for a fun game only, this game is not for you.\r\n\r\nAll sexual acts in the game are consensual."
+  }
+ },
  "1127400": {
   "type": "game",
   "name": "Mindustry",
@@ -59115,6 +60503,192 @@
    "notes": "Some cartoonish depictions of butts are seen, and coarse language is used throughout the game. Honestly, this is more of an *immature* content description."
   }
  },
+ "1167630": {
+  "type": "game",
+  "name": "Teardown",
+  "steam_appid": 1167630,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "Plan the perfect heist using creative problem solving, brute force, and everything around you. Teardown features a fully destructible and truly interactive environment where player freedom and emergent gameplay are the driving mechanics.<br><br>Tear down walls with explosives or vehicles to create shortcuts no one thought was possible. Stack objects, build structures, or use floating objects to your advantage. Take your time to create the most efficient path through the level and get ready to run.<br><br>The moment you pick up your first target, an alarm goes off, and the heat is on. Run, jump, drive, slingshot, do whatever you need to collect all of the targets, and escape before security arrives.<br><br><strong>Game modes</strong><br><strong>Campaign</strong><br>With your company pressured by increasing debt, you start accepting work from some more or less shady individuals. Soon you are knee-deep in a murky soup of revenge, betrayal, and insurance fraud. Beginning with some more or less legitimate assignments, you soon find yourself stealing cars, demolishing buildings, blowing up safes, and more. Upgrade your expanding arsenal of tools by searching for hidden valuables scattered around the environments.<br><br><strong>Sandbox</strong><br>Play around in the various environments with the tools you have unlocked. In this mode you have unlimited resources and an abundance of vehicles. No pressure, just pleasure.<br><br><strong>Create</strong><br>Build your own environment or modify one of our examples using the free voxel modeling software MagicaVoxel.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>Fully destructible voxel environments<br></li><li>Realistic physical simulation of objects, debris, vehicles, water, fire, and smoke<br></li><li>Ten different tools ranging from sledgehammer, blow torch and fire extinguisher to guns and explosives <br></li><li>A campaign with an escalating storyline and a gallery of interesting characters<br></li><li>Sandbox mode for you to roam around in the various environments</li></ul>",
+  "about_the_game": "Plan the perfect heist using creative problem solving, brute force, and everything around you. Teardown features a fully destructible and truly interactive environment where player freedom and emergent gameplay are the driving mechanics.<br><br>Tear down walls with explosives or vehicles to create shortcuts no one thought was possible. Stack objects, build structures, or use floating objects to your advantage. Take your time to create the most efficient path through the level and get ready to run.<br><br>The moment you pick up your first target, an alarm goes off, and the heat is on. Run, jump, drive, slingshot, do whatever you need to collect all of the targets, and escape before security arrives.<br><br><strong>Game modes</strong><br><strong>Campaign</strong><br>With your company pressured by increasing debt, you start accepting work from some more or less shady individuals. Soon you are knee-deep in a murky soup of revenge, betrayal, and insurance fraud. Beginning with some more or less legitimate assignments, you soon find yourself stealing cars, demolishing buildings, blowing up safes, and more. Upgrade your expanding arsenal of tools by searching for hidden valuables scattered around the environments.<br><br><strong>Sandbox</strong><br>Play around in the various environments with the tools you have unlocked. In this mode you have unlimited resources and an abundance of vehicles. No pressure, just pleasure.<br><br><strong>Create</strong><br>Build your own environment or modify one of our examples using the free voxel modeling software MagicaVoxel.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>Fully destructible voxel environments<br></li><li>Realistic physical simulation of objects, debris, vehicles, water, fire, and smoke<br></li><li>Ten different tools ranging from sledgehammer, blow torch and fire extinguisher to guns and explosives <br></li><li>A campaign with an escalating storyline and a gallery of interesting characters<br></li><li>Sandbox mode for you to roam around in the various environments</li></ul>",
+  "short_description": "Prepare the perfect heist in this simulated and fully destructible voxel world. Tear down walls with vehicles or explosives to create shortcuts. Stack objects to reach higher. Use the environment to your advantage in the most creative way you can think of.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/header.jpg?t=1606352268",
+  "website": "http://teardowngame.com",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Quad Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 or better. 3 Gb VRAM.<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Intel integrated graphics cards not supported.</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1080 or better. 8 Gb VRAM.<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Optimized for NVIDIA graphics cards. Runs on AMD, but slower.</li></ul>"
+  },
+  "mac_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "legal_notice": "Copyright 2020 Tuxedo Labs AB",
+  "developers": [
+   "Tuxedo Labs"
+  ],
+  "publishers": [
+   "Tuxedo Labs"
+  ],
+  "price_overview": {
+   "currency": "EUR",
+   "initial": 1999,
+   "final": 1999,
+   "discount_percent": 0,
+   "initial_formatted": "",
+   "final_formatted": "19,99€"
+  },
+  "packages": [
+   398965
+  ],
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Teardown",
+    "description": "",
+    "selection_text": "Select a purchase option",
+    "save_text": "",
+    "display_type": 0,
+    "is_recurring_subscription": "false",
+    "subs": [
+     {
+      "packageid": 398965,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Teardown - 19,99€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 1999
+     }
+    ]
+   }
+  ],
+  "platforms": {
+   "windows": true,
+   "mac": false,
+   "linux": false
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 42,
+    "description": "Remote Play on Tablet"
+   }
+  ],
+  "genres": [
+   {
+    "id": "1",
+    "description": "Action"
+   },
+   {
+    "id": "23",
+    "description": "Indie"
+   },
+   {
+    "id": "28",
+    "description": "Simulation"
+   },
+   {
+    "id": "2",
+    "description": "Strategy"
+   },
+   {
+    "id": "70",
+    "description": "Early Access"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_0342f0121fc3569fb2f0eef4792f670522d7e588.600x338.jpg?t=1606352268",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_0342f0121fc3569fb2f0eef4792f670522d7e588.1920x1080.jpg?t=1606352268"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_769dbe59dd104d099e752a0d3d6ddb09b14c72b6.600x338.jpg?t=1606352268",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_769dbe59dd104d099e752a0d3d6ddb09b14c72b6.1920x1080.jpg?t=1606352268"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_d633f77b3caafe0277cee6a9608066cc5dc0eca0.600x338.jpg?t=1606352268",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_d633f77b3caafe0277cee6a9608066cc5dc0eca0.1920x1080.jpg?t=1606352268"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_1539f339904fe5f7f000bd7bc9c9a05a4c56fe24.600x338.jpg?t=1606352268",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_1539f339904fe5f7f000bd7bc9c9a05a4c56fe24.1920x1080.jpg?t=1606352268"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_6a693182937ba9e6ac06ba096d2f572d0101a742.600x338.jpg?t=1606352268",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_6a693182937ba9e6ac06ba096d2f572d0101a742.1920x1080.jpg?t=1606352268"
+   },
+   {
+    "id": 5,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_321eb822e3682ba5abb1846a3a0ca02f34996413.600x338.jpg?t=1606352268",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_321eb822e3682ba5abb1846a3a0ca02f34996413.1920x1080.jpg?t=1606352268"
+   },
+   {
+    "id": 6,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_3fae1fe06faa722bd32bc7c144311036f8da3909.600x338.jpg?t=1606352268",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/ss_3fae1fe06faa722bd32bc7c144311036f8da3909.1920x1080.jpg?t=1606352268"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256807314,
+    "name": "Out now",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256807314/movie.293x165.jpg?t=1603972968",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256807314/movie480_vp9.webm?t=1603972968",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256807314/movie_max_vp9.webm?t=1603972968"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256807314/movie480.mp4?t=1603972968",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256807314/movie_max.mp4?t=1603972968"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256798695,
+    "name": "Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256798695/movie.293x165.jpg?t=1598554076",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256798695/movie480_vp9.webm?t=1598554076",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256798695/movie_max_vp9.webm?t=1598554076"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256798695/movie480.mp4?t=1598554076",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256798695/movie_max.mp4?t=1598554076"
+    },
+    "highlight": true
+   }
+  ],
+  "recommendations": {
+   "total": 10121
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "29 Oct, 2020"
+  },
+  "support_info": {
+   "url": "http://teardowngame.com",
+   "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/page_bg_generated_v6b.jpg?t=1606352268",
+  "content_descriptors": {
+   "ids": [],
+   "notes": null
+  }
+ },
  "1170880": {
   "type": "game",
   "name": "Grimm's Hollow",
@@ -60119,6 +61693,316 @@
    "notes": null
   }
  },
+ "1235140": {
+  "type": "game",
+  "name": "Yakuza: Like a Dragon",
+  "steam_appid": 1235140,
+  "required_age": "18",
+  "is_free": false,
+  "controller_support": "full",
+  "dlc": [
+   1289191,
+   1289190,
+   1289234,
+   1253350,
+   1261270
+  ],
+  "detailed_description": "<strong>Yakuza: Like a Dragon’s Day Ichi Edition </strong>includes the Legends Costume Set featuring eight costumes representing fan-favorite figures from the Yakuza series, from Kazuma Kiryu to Daigo Dojima.<br><br><strong>Yakuza: Like a Dragon’s Hero Edition </strong>includes a selection of the game’s DLC, including the Legends Costume Set, Job Set, and Management Mode Set.<br><br><strong>Yakuza: Like a Dragon’s Legendary Hero Edition </strong>includes ALL of the game’s DLC, including the Legends Costume Set from the Day Ichi Edition. This DLC adds a wide variety of in-game bonus content, including the Job Set, which unlocks the ‘Devil Rocker’ and ‘Matriarch’ Jobs, as well as the Management Mode Set, Crafting Set, Karaoke Set, Ultimate Costume Set, and Stat Boost Set.<h2 class=\"bb_tag\"><strong>RISE LIKE A DRAGON  </strong></h2><br><br>Ichiban Kasuga, a low-ranking grunt of a low-ranking yakuza family in Tokyo, faces an 18-year prison sentence after taking the fall for a crime he didn't commit. Never losing faith, he loyally serves his time and returns to society to discover that no one was waiting for him on the outside, and his clan has been destroyed by the man he respected most.<br>Ichiban sets out to discover the truth behind his family's betrayal and take his life back, drawing a ragtag group of society’s outcasts to his side: Adachi, a rogue cop, Nanba, a homeless ex-nurse, and Saeko, a hostess on a mission. Together, they are drawn into a conflict brewing beneath the surface in Yokohama and must rise to become the heroes they never expected to be.<h2 class=\"bb_tag\"><strong>LEVEL UP FROM UNDERDOG TO DRAGON IN DYNAMIC RPG COMBAT</strong></h2><br><br>Experience dynamic RPG combat like none other. Switch between 19 unique Jobs ranging from Bodyguard to Musician, using the battlefield as your weapon. Take up bats, umbrellas, bikes, signs, and everything else at your disposal to clean up the streets!<h2 class=\"bb_tag\"><strong>ENTER THE UNDERWORLD PLAYGROUND</strong></h2><br><br>When you're not busy bashing heads, relax by hitting up the local arcade for some classic SEGA games, compete with locals in a no holds barred go-kart race around Yokohama, complete 50 unique substories, or just take in the scenery of a modern-day Japanese city. There’s always something new around the corner.",
+  "about_the_game": "<strong>Yakuza: Like a Dragon’s Day Ichi Edition </strong>includes the Legends Costume Set featuring eight costumes representing fan-favorite figures from the Yakuza series, from Kazuma Kiryu to Daigo Dojima.<br><br><strong>Yakuza: Like a Dragon’s Hero Edition </strong>includes a selection of the game’s DLC, including the Legends Costume Set, Job Set, and Management Mode Set.<br><br><strong>Yakuza: Like a Dragon’s Legendary Hero Edition </strong>includes ALL of the game’s DLC, including the Legends Costume Set from the Day Ichi Edition. This DLC adds a wide variety of in-game bonus content, including the Job Set, which unlocks the ‘Devil Rocker’ and ‘Matriarch’ Jobs, as well as the Management Mode Set, Crafting Set, Karaoke Set, Ultimate Costume Set, and Stat Boost Set.<h2 class=\"bb_tag\"><strong>RISE LIKE A DRAGON  </strong></h2><br><br>Ichiban Kasuga, a low-ranking grunt of a low-ranking yakuza family in Tokyo, faces an 18-year prison sentence after taking the fall for a crime he didn't commit. Never losing faith, he loyally serves his time and returns to society to discover that no one was waiting for him on the outside, and his clan has been destroyed by the man he respected most.<br>Ichiban sets out to discover the truth behind his family's betrayal and take his life back, drawing a ragtag group of society’s outcasts to his side: Adachi, a rogue cop, Nanba, a homeless ex-nurse, and Saeko, a hostess on a mission. Together, they are drawn into a conflict brewing beneath the surface in Yokohama and must rise to become the heroes they never expected to be.<h2 class=\"bb_tag\"><strong>LEVEL UP FROM UNDERDOG TO DRAGON IN DYNAMIC RPG COMBAT</strong></h2><br><br>Experience dynamic RPG combat like none other. Switch between 19 unique Jobs ranging from Bodyguard to Musician, using the battlefield as your weapon. Take up bats, umbrellas, bikes, signs, and everything else at your disposal to clean up the streets!<h2 class=\"bb_tag\"><strong>ENTER THE UNDERWORLD PLAYGROUND</strong></h2><br><br>When you're not busy bashing heads, relax by hitting up the local arcade for some classic SEGA games, compete with locals in a no holds barred go-kart race around Yokohama, complete 50 unique substories, or just take in the scenery of a modern-day Japanese city. There’s always something new around the corner.",
+  "short_description": "Become Ichiban Kasuga, a low-ranking yakuza grunt left on the brink of death by the man he trusted most. Take up your legendary bat and get ready to crack some underworld skulls in dynamic RPG combat set against the backdrop of modern-day Japan.",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/header.jpg?t=1605264542",
+  "website": "https://likeadragon.sega.com/",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-3470 | AMD FX-8350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 660, 2 GB | AMD Radeon HD 7870, 2 GB<br></li><li><strong>Storage:</strong> 40 GB available space</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7-6700 | AMD Ryzen 5 1400<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 1060, 3 GB | AMD Radeon RX 580, 4 GB<br></li><li><strong>Storage:</strong> 60 GB available space</li></ul>"
+  },
+  "mac_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Additional Notes:</strong> Coming Soon</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Additional Notes:</strong> Coming Soon</li></ul>"
+  },
+  "linux_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Additional Notes:</strong> Coming Soon</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Additional Notes:</strong> Coming Soon</li></ul>"
+  },
+  "legal_notice": "© SEGA. All rights reserved. SEGA is registered in the U.S. Patent and Trademark Office. SEGA, the SEGA logo, YAKUZA and LIKE A DRAGON are either registered trademarks or trademarks of SEGA CORPORATION. All other trademarks, logos and copyrights are property of their respective owners.",
+  "drm_notice": "Denuvo Anti-Tamper",
+  "developers": [
+   "Ryu Ga Gotoku Studio"
+  ],
+  "publishers": [
+   "SEGA"
+  ],
+  "price_overview": {
+   "currency": "EUR",
+   "initial": 5999,
+   "final": 5999,
+   "discount_percent": 0,
+   "initial_formatted": "",
+   "final_formatted": "59,99€"
+  },
+  "packages": [
+   428355,
+   480312,
+   480313
+  ],
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Yakuza: Like a Dragon",
+    "description": "",
+    "selection_text": "Select a purchase option",
+    "save_text": "",
+    "display_type": 0,
+    "is_recurring_subscription": "false",
+    "subs": [
+     {
+      "packageid": 428355,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Yakuza: Like a Dragon Day Ichi Edition - 59,99€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 5999
+     },
+     {
+      "packageid": 480312,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Yakuza: Like a Dragon Hero Edition - 69,99€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 6999
+     },
+     {
+      "packageid": 480313,
+      "percent_savings_text": " ",
+      "percent_savings": 0,
+      "option_text": "Yakuza: Like a Dragon Legendary Hero Edition - 89,99€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 8999
+     }
+    ]
+   }
+  ],
+  "platforms": {
+   "windows": true,
+   "mac": false,
+   "linux": false
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 22,
+    "description": "Steam Achievements"
+   },
+   {
+    "id": 28,
+    "description": "Full controller support"
+   }
+  ],
+  "genres": [
+   {
+    "id": "1",
+    "description": "Action"
+   },
+   {
+    "id": "25",
+    "description": "Adventure"
+   },
+   {
+    "id": "3",
+    "description": "RPG"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_3672df00523861cd37b0f969d80604003ba14fd4.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_3672df00523861cd37b0f969d80604003ba14fd4.1920x1080.jpg?t=1605264542"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_9cecfb713527a480f607bbde54c01763b18bf354.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_9cecfb713527a480f607bbde54c01763b18bf354.1920x1080.jpg?t=1605264542"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_d8bcb8c72368ec09506d3a60d42ff2a1901e39f7.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_d8bcb8c72368ec09506d3a60d42ff2a1901e39f7.1920x1080.jpg?t=1605264542"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_23d607ec8ceaca26edc88b6445d92ddcd111fea4.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_23d607ec8ceaca26edc88b6445d92ddcd111fea4.1920x1080.jpg?t=1605264542"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_66151ac4259635b4f90e7945706498dacf6e98c1.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_66151ac4259635b4f90e7945706498dacf6e98c1.1920x1080.jpg?t=1605264542"
+   },
+   {
+    "id": 5,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_b7336fc083ba36c6073c25659fe23075234b179a.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_b7336fc083ba36c6073c25659fe23075234b179a.1920x1080.jpg?t=1605264542"
+   },
+   {
+    "id": 6,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_8562245f8ca68976ffb5404023d148fb0cbc13e9.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_8562245f8ca68976ffb5404023d148fb0cbc13e9.1920x1080.jpg?t=1605264542"
+   },
+   {
+    "id": 7,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_fe349bb52fa4a8243ba8d9b861bb52c3a4f4b5b0.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_fe349bb52fa4a8243ba8d9b861bb52c3a4f4b5b0.1920x1080.jpg?t=1605264542"
+   },
+   {
+    "id": 8,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_a46dfebb4726aa042c76636131f8bbaa1a079fb9.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_a46dfebb4726aa042c76636131f8bbaa1a079fb9.1920x1080.jpg?t=1605264542"
+   },
+   {
+    "id": 9,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_5a17b24cc9582e458a3db0f5f9ecc3f956ded072.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_5a17b24cc9582e458a3db0f5f9ecc3f956ded072.1920x1080.jpg?t=1605264542"
+   },
+   {
+    "id": 10,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_d3fe630add22247a497f0c2d22e568df66a39f48.600x338.jpg?t=1605264542",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/ss_d3fe630add22247a497f0c2d22e568df66a39f48.1920x1080.jpg?t=1605264542"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256808898,
+    "name": "YLAD_Launch_16x9_UK",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256808898/movie.293x165.jpg?t=1605027719",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256808898/movie480_vp9.webm?t=1605027719",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256808898/movie_max_vp9.webm?t=1605027719"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256808898/movie480.mp4?t=1605027719",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256808898/movie_max.mp4?t=1605027719"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256804769,
+    "name": "Yazawa - Ichi's Quest - UK",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256804769/movie.293x165.jpg?t=1602675057",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256804769/movie480_vp9.webm?t=1602675057",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256804769/movie_max_vp9.webm?t=1602675057"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256804769/movie480.mp4?t=1602675057",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256804769/movie_max.mp4?t=1602675057"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256793638,
+    "name": "YakuzaGameplay_Full_16x9_STEAM_PEGI_Preorder_FINAL",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256793638/movie.293x165.jpg?t=1595433916",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256793638/movie480_vp9.webm?t=1595433916",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256793638/movie_max_vp9.webm?t=1595433916"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256793638/movie480.mp4?t=1595433916",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256793638/movie_max.mp4?t=1595433916"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256784456,
+    "name": "Announce_PEGI",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256784456/movie.293x165.jpg?t=1588868812",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256784456/movie480_vp9.webm?t=1588868812",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256784456/movie_max_vp9.webm?t=1588868812"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256784456/movie480.mp4?t=1588868812",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256784456/movie_max.mp4?t=1588868812"
+    },
+    "highlight": true
+   }
+  ],
+  "recommendations": {
+   "total": 2783
+  },
+  "achievements": {
+   "total": 63,
+   "highlighted": [
+    {
+     "name": "The New Dragon",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1235140/2a976280a73e1083434a6de2b18c3cf7c3ad61f8.jpg"
+    },
+    {
+     "name": "For the Family",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1235140/8d6bb2c561475baef8ef0c415b12c1ea16cf76f4.jpg"
+    },
+    {
+     "name": "Rock Bottom",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1235140/d787706dcad980550c57fbc9380774caffca6276.jpg"
+    },
+    {
+     "name": "Heroes and Villains",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1235140/646eeb59a22badfcde2fafa99dffcffb4ee6c65b.jpg"
+    },
+    {
+     "name": "Soap on a Rope",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1235140/8958219ca8f8c67fd4f364ebd6ad84caf4c664eb.jpg"
+    },
+    {
+     "name": "Smoked",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1235140/19359d24f924e36ce80e352cd026e2679cd1244c.jpg"
+    },
+    {
+     "name": "Ignition",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1235140/2e7581615b037f993feadc0916bda29215d441f5.jpg"
+    },
+    {
+     "name": "Three Spiders",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1235140/0907d031a16f8f31034f77f6e5274de7017ed71c.jpg"
+    },
+    {
+     "name": "The Statesman",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1235140/e03a7926c77fb1c9f6961fa876117a4237c3e455.jpg"
+    },
+    {
+     "name": "Time to Talk",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1235140/d271d145a8ce56a112b8e23dc687313dbe3da827.jpg"
+    }
+   ]
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "10 Nov, 2020"
+  },
+  "support_info": {
+   "url": "https://support.sega.co.uk/hc/en-us",
+   "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1235140/page_bg_generated_v6b.jpg?t=1605264542",
+  "content_descriptors": {
+   "ids": [
+    1,
+    2,
+    5
+   ],
+   "notes": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Blood, Intense Violence,  Partial Nudity, Sexual Themes, Strong Language, and Use of Alcohol."
+  }
+ },
  "1237970": {
   "type": "game",
   "name": "Titanfall® 2",
@@ -60657,6 +62541,169 @@
    "notes": null
   }
  },
+ "1241700": {
+  "type": "game",
+  "name": "There Is No Game : Jam Edition 2015",
+  "steam_appid": 1241700,
+  "required_age": 0,
+  "is_free": true,
+  "detailed_description": "<strong>I told you there is no game!</strong><br>It's not like it’s a Point&amp;Click that won the 2015 Construct Deception Jam, or that millions of people have tried it.<br>Of course not!<br>And if you’ve never heard of it, now’s the perfect time to go for a walk, read a book... or something…<h2 class=\"bb_tag\">WEAK POINTS:</h2><ul class=\"bb_ul\"><li>It's free, which is a problem when you go to ask for a refund.<br></li><li>The voice-over acting is pathetic.<br></li><li>There are only two different endings, which you’ll never even get to because you’re not going to install it.</li></ul><h2 class=\"bb_tag\">HIGHLIGHTS</h2><ul class=\"bb_ul\"><li>Since there's no game, you'll be saving a lot of time. Isn't that great?<br></li><li>It contains a keyboard shortcut that simplifies your progress: ALT+F4</li></ul><br><br><i>If, despite all these warnings, you “had fun,” we strongly advise you not to click on the following image to discover &quot;THERE IS NO GAME: Wrong dimension&quot;.<br><br><a href=\"https://store.steampowered.com/app/1240210\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1241700/extras/Ting_WD_Link.png?t=1594216871\" /></a><br><br>No, really... don't do it.</i><br><br><a href=\"https://store.steampowered.com/app/1240210\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1240210</a>",
+  "about_the_game": "<strong>I told you there is no game!</strong><br>It's not like it’s a Point&amp;Click that won the 2015 Construct Deception Jam, or that millions of people have tried it.<br>Of course not!<br>And if you’ve never heard of it, now’s the perfect time to go for a walk, read a book... or something…<h2 class=\"bb_tag\">WEAK POINTS:</h2><ul class=\"bb_ul\"><li>It's free, which is a problem when you go to ask for a refund.<br></li><li>The voice-over acting is pathetic.<br></li><li>There are only two different endings, which you’ll never even get to because you’re not going to install it.</li></ul><h2 class=\"bb_tag\">HIGHLIGHTS</h2><ul class=\"bb_ul\"><li>Since there's no game, you'll be saving a lot of time. Isn't that great?<br></li><li>It contains a keyboard shortcut that simplifies your progress: ALT+F4</li></ul><br><br><i>If, despite all these warnings, you “had fun,” we strongly advise you not to click on the following image to discover &quot;THERE IS NO GAME: Wrong dimension&quot;.<br><br><a href=\"https://store.steampowered.com/app/1240210\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1241700/extras/Ting_WD_Link.png?t=1594216871\" /></a><br><br>No, really... don't do it.</i><br><br><a href=\"https://store.steampowered.com/app/1240210\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1240210</a>",
+  "short_description": "A little game that’s not a game, winner of an old game jam that nobody’s ever heard of. So DON'T INSTALL IT!",
+  "supported_languages": "English<strong>*</strong>, French<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/header.jpg?t=1594216871",
+  "website": null,
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> Dual Core with SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Built In</li></ul>"
+  },
+  "mac_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X Sierra 10.12+<br></li><li><strong>Processor:</strong> Dual Core with SSE2 instruction set support<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> 1024MB VRAM, Metal/OpenGL 3.2 (Intel HD 4000)<br></li><li><strong>Storage:</strong> 120 MB available space<br></li><li><strong>Sound Card:</strong> Built In</li></ul>"
+  },
+  "linux_requirements": [],
+  "developers": [
+   "Draw Me A Pixel"
+  ],
+  "publishers": [
+   "Draw Me A Pixel"
+  ],
+  "package_groups": [],
+  "platforms": {
+   "windows": true,
+   "mac": true,
+   "linux": false
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 22,
+    "description": "Steam Achievements"
+   }
+  ],
+  "genres": [
+   {
+    "id": "25",
+    "description": "Adventure"
+   },
+   {
+    "id": "4",
+    "description": "Casual"
+   },
+   {
+    "id": "37",
+    "description": "Free to Play"
+   },
+   {
+    "id": "23",
+    "description": "Indie"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/ss_c15cc047de12e6626e7ac63618ea65d284d91146.600x338.jpg?t=1594216871",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/ss_c15cc047de12e6626e7ac63618ea65d284d91146.1920x1080.jpg?t=1594216871"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/ss_cf8056179702fb551fa23a6f89928b623e8c665b.600x338.jpg?t=1594216871",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/ss_cf8056179702fb551fa23a6f89928b623e8c665b.1920x1080.jpg?t=1594216871"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/ss_0d80b8249eb07c61f99421172be5006ef6f5bee9.600x338.jpg?t=1594216871",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/ss_0d80b8249eb07c61f99421172be5006ef6f5bee9.1920x1080.jpg?t=1594216871"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/ss_638dd396f5b8a01a052107cf71087a5f07d2a40d.600x338.jpg?t=1594216871",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/ss_638dd396f5b8a01a052107cf71087a5f07d2a40d.1920x1080.jpg?t=1594216871"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/ss_e1de45aeafede22580f7e8ed8ac0fb7501c554dc.600x338.jpg?t=1594216871",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/ss_e1de45aeafede22580f7e8ed8ac0fb7501c554dc.1920x1080.jpg?t=1594216871"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256774946,
+    "name": "There Is No Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256774946/movie.293x165.jpg?t=1583336337",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256774946/movie480.webm?t=1583336337",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256774946/movie_max.webm?t=1583336337"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256774946/movie480.mp4?t=1583336337",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256774946/movie_max.mp4?t=1583336337"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256776715,
+    "name": "There Is No Gameplay",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256776715/movie.293x165.jpg?t=1583336345",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256776715/movie480.webm?t=1583336345",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256776715/movie_max.webm?t=1583336345"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256776715/movie480.mp4?t=1583336345",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256776715/movie_max.mp4?t=1583336345"
+    },
+    "highlight": true
+   }
+  ],
+  "achievements": {
+   "total": 7,
+   "highlighted": [
+    {
+     "name": "Let's be friends",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1241700/8f57215e53c404b29e0b43abd100a78b7357a374.jpg"
+    },
+    {
+     "name": "Not nice at all",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1241700/8f2d30f3be8e02187f1921a7bce09e21be0ba6f8.jpg"
+    },
+    {
+     "name": "Bad student",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1241700/b1faff5023b7dd2e34026848418c7a605694d5d9.jpg"
+    },
+    {
+     "name": "Sharpshooter",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1241700/d2e8c4304b2a882b14f8be59f1adaeac7482c288.jpg"
+    },
+    {
+     "name": "Breakout master",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1241700/c6d1d534964e94505f14c214f8fc573c436986b5.jpg"
+    },
+    {
+     "name": "Ready for the circus!",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1241700/5d417a1664880111c94098f294e8781467c1a50a.jpg"
+    },
+    {
+     "name": "Animal cruelty",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1241700/af29b7bbb7d16467ca9c4f766d3acdd25df3a218.jpg"
+    }
+   ]
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "18 Mar, 2020"
+  },
+  "support_info": {
+   "url": "",
+   "email": "support@drawmeapixel.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1241700/page_bg_generated_v6b.jpg?t=1594216871",
+  "content_descriptors": {
+   "ids": [],
+   "notes": null
+  }
+ },
  "1281800": {
   "type": "game",
   "name": "Samsara Room",
@@ -61035,6 +63082,249 @@
    "notes": null
   }
  },
+ "1285670": {
+  "type": "game",
+  "name": "Post Void",
+  "steam_appid": 1285670,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1285670/extras/steam_1_out_v2.gif?t=1605654391\" /><br><br>WARNING: This game may potentially trigger seizures for people with photosensitive epilepsy.<h2 class=\"bb_tag\"><strong>POST VOID</strong></h2><i>We move forward_____________<br>_____________We aim to progress.<br><br><strong>(Challenging arcade style first person shooter with one objective: be fast)</strong><br><br>Try not to____________Try to avoid<br>look back____________lingering on<br>too much.____________mistakes.<br><br><strong>(Move forward and keep your idol filled with liquid by getting kills)</strong><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1285670/extras/steam_2_kills_v2.gif?t=1605654391\" /><br><br>______You will make mistakes.______<br><br><strong>(Each run will be a little bit different with procedurally generated levels)</strong><br><br>We measure<br>the past_____________with what<br>_____________________we are left with,<br><br><strong>(Compete on the global high score leader boards)</strong><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1285670/extras/steam_3_kills_v2.gif?t=1605654391\" /><br><br>Each achievement presents a new <br>___ challenge, as the last one<br>_______dwarfs to our ambition.<br><br><strong>(Try to get to the end)</strong></i><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1285670/extras/steam_4_kills_v2.gif?t=1605654391\" />",
+  "about_the_game": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1285670/extras/steam_1_out_v2.gif?t=1605654391\" /><br><br>WARNING: This game may potentially trigger seizures for people with photosensitive epilepsy.<h2 class=\"bb_tag\"><strong>POST VOID</strong></h2><i>We move forward_____________<br>_____________We aim to progress.<br><br><strong>(Challenging arcade style first person shooter with one objective: be fast)</strong><br><br>Try not to____________Try to avoid<br>look back____________lingering on<br>too much.____________mistakes.<br><br><strong>(Move forward and keep your idol filled with liquid by getting kills)</strong><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1285670/extras/steam_2_kills_v2.gif?t=1605654391\" /><br><br>______You will make mistakes.______<br><br><strong>(Each run will be a little bit different with procedurally generated levels)</strong><br><br>We measure<br>the past_____________with what<br>_____________________we are left with,<br><br><strong>(Compete on the global high score leader boards)</strong><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1285670/extras/steam_3_kills_v2.gif?t=1605654391\" /><br><br>Each achievement presents a new <br>___ challenge, as the last one<br>_______dwarfs to our ambition.<br><br><strong>(Try to get to the end)</strong></i><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1285670/extras/steam_4_kills_v2.gif?t=1605654391\" />",
+  "short_description": "Post Void is a hypnotic scramble of early first-person shooter design that values speed above all else. Keep your head full and reach the end; Kill what you can to see it mend; Get the high score or try again.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/header.jpg?t=1605654391",
+  "website": "http://www.whycjwhy.com",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10 x86/x64<br></li><li><strong>Processor:</strong> Intel Core i5-3210M (2 * 2500) or equivalent<br></li><li><strong>Graphics:</strong> Intel HD 4000</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10 x64<br></li><li><strong>Processor:</strong> Intel i7 or equivalent<br></li><li><strong>Graphics:</strong> Intel HD Graphics or AMD (formerly ATI) Radeon HD Graphics (Discrete): Nvidia GeForce GTX 760 (or greater) or AMD Radeon HD 7600 (or greater)</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "legal_notice": "© 2020 YCJY games AB. All rights reserved. YCJY games AB, the YCJY games AB logo, Post Void, and the Post Void logo are trademarks and/or registered trademarks of YCJY games AB",
+  "developers": [
+   "YCJY Games"
+  ],
+  "publishers": [
+   "YCJY Games"
+  ],
+  "price_overview": {
+   "currency": "EUR",
+   "initial": 250,
+   "final": 225,
+   "discount_percent": 10,
+   "initial_formatted": "2,50€",
+   "final_formatted": "2,25€"
+  },
+  "packages": [
+   448176
+  ],
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Post Void",
+    "description": "",
+    "selection_text": "Select a purchase option",
+    "save_text": "",
+    "display_type": 0,
+    "is_recurring_subscription": "false",
+    "subs": [
+     {
+      "packageid": 448176,
+      "percent_savings_text": "-10% ",
+      "percent_savings": 0,
+      "option_text": "Post Void - <span class=\"discount_original_price\">2,50€</span> 2,25€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 225
+     }
+    ]
+   }
+  ],
+  "platforms": {
+   "windows": true,
+   "mac": false,
+   "linux": false
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 22,
+    "description": "Steam Achievements"
+   },
+   {
+    "id": 25,
+    "description": "Steam Leaderboards"
+   }
+  ],
+  "genres": [
+   {
+    "id": "1",
+    "description": "Action"
+   },
+   {
+    "id": "23",
+    "description": "Indie"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_6ef2a022f2f6114e4cfe539ab4a68b555af100e9.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_6ef2a022f2f6114e4cfe539ab4a68b555af100e9.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_d4769e7eb7094ddcfd4935a320051be011215c45.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_d4769e7eb7094ddcfd4935a320051be011215c45.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_c6064ce024655e2b5dd7f72efdb4e7c8ee6cd067.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_c6064ce024655e2b5dd7f72efdb4e7c8ee6cd067.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_84f75b2341e1a25d9bc643f2f179b3e3a0092da9.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_84f75b2341e1a25d9bc643f2f179b3e3a0092da9.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_da642bbaadb4612ab4bbe8221964adc226775823.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_da642bbaadb4612ab4bbe8221964adc226775823.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 5,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_d43aa69aeda2a8bb4ec94efface8e5cedfc5debd.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_d43aa69aeda2a8bb4ec94efface8e5cedfc5debd.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 6,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_3ba27050d4e471aa4852eabaaeec3bdee39a72ce.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_3ba27050d4e471aa4852eabaaeec3bdee39a72ce.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 7,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_a7f45cc483217e69c249b73cec6a65689686bf86.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_a7f45cc483217e69c249b73cec6a65689686bf86.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 8,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_8b4c3e3683bfd2138819a34fe271da71e8803bd6.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_8b4c3e3683bfd2138819a34fe271da71e8803bd6.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 9,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_a7f3c5d21d007d77a29657394c46d8aa601b09ae.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_a7f3c5d21d007d77a29657394c46d8aa601b09ae.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 10,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_3c0fb49ea1ad0bd47bf40fa9b65a166f99763d6c.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_3c0fb49ea1ad0bd47bf40fa9b65a166f99763d6c.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 11,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_b6e316657035efa924b9938a83830bff8237a7c1.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_b6e316657035efa924b9938a83830bff8237a7c1.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 12,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_6b8828abef28b32396836cef35601327ddc912cb.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_6b8828abef28b32396836cef35601327ddc912cb.1920x1080.jpg?t=1605654391"
+   },
+   {
+    "id": 13,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_7a510a4f2cfd0f2dc704a6f44abcdd81cbd8a29e.600x338.jpg?t=1605654391",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/ss_7a510a4f2cfd0f2dc704a6f44abcdd81cbd8a29e.1920x1080.jpg?t=1605654391"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256795515,
+    "name": "Post Void - Official Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256795515/movie.293x165.jpg?t=1596702161",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256795515/movie480_vp9.webm?t=1596702161",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256795515/movie_max_vp9.webm?t=1596702161"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256795515/movie480.mp4?t=1596702161",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256795515/movie_max.mp4?t=1596702161"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256809900,
+    "name": "POST VOID - Uncut Gameplay",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256809900/movie.293x165.jpg?t=1605654379",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256809900/movie480_vp9.webm?t=1605654379",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256809900/movie_max_vp9.webm?t=1605654379"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256809900/movie480.mp4?t=1605654379",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256809900/movie_max.mp4?t=1605654379"
+    },
+    "highlight": true
+   }
+  ],
+  "recommendations": {
+   "total": 2415
+  },
+  "achievements": {
+   "total": 7,
+   "highlighted": [
+    {
+     "name": "Act 1 Completed",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1285670/6026ef47c4994527f3707852b2159ab5063485ef.jpg"
+    },
+    {
+     "name": "Act 2 Completed",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1285670/701ecd5fcd0863732375006415883ab50dc5290e.jpg"
+    },
+    {
+     "name": "Act 3 Completed",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1285670/5675fac292c7d47c2d0f6a506209e3b2b5901d4d.jpg"
+    },
+    {
+     "name": "Reach the Void",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1285670/45e7091577e04dcbd27e601dfc42c73e3a910bf1.jpg"
+    },
+    {
+     "name": "Weapon Master",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1285670/cdfac5e14406fc595500be20428c05417388b25c.jpg"
+    },
+    {
+     "name": "Shut up! Give me more?",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1285670/30ffac659225d6da5f807720d61b9201ddc5f8ab.jpg"
+    },
+    {
+     "name": "VOID",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1285670/77870fe61421a612ab427e00f7e84c8dbb6838de.jpg"
+    }
+   ]
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "6 Aug, 2020"
+  },
+  "support_info": {
+   "url": "",
+   "email": "support@whycjwhy.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1285670/page_bg_generated_v6b.jpg?t=1605654391",
+  "content_descriptors": {
+   "ids": [
+    2,
+    5
+   ],
+   "notes": "Blood and Violence"
+  }
+ },
  "1289310": {
   "type": "game",
   "name": "Helltaker",
@@ -61392,6 +63682,234 @@
    "notes": null
   }
  },
+ "1292940": {
+  "type": "game",
+  "name": "Cube Escape Collection",
+  "steam_appid": 1292940,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "In this classic point-and-click adventure anthology you follow the path of Dale Vandermeer, a homicide detective, as he investigates the death of a woman and finds himself drawn into the mysterious world of Rusty Lake.<br><br>Cube Escape was Rusty Lake's first series of games, introducing the Rusty Lake universe. Heavily inspired by TV series Twin Peaks. All games will be updated, preserved and bundled on Steam for a small price, to survive the end of the Flash Games era. The Cube Escape Collection will contain 9 chapters: Seasons, The Lake, Arles, Harvey's Box, Case 23, The Mill, Birthday, Theatre and The Cave. <br><br>Thanks for your support!<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1292940/extras/Cube_Escape_Collection_banner_gif_5.gif?t=1603198247\" /><br><br><strong>PLEASE NOTE: These games do not contain any new content from their original versions (besides achievements, a new hint system and translations)!</strong>",
+  "about_the_game": "In this classic point-and-click adventure anthology you follow the path of Dale Vandermeer, a homicide detective, as he investigates the death of a woman and finds himself drawn into the mysterious world of Rusty Lake.<br><br>Cube Escape was Rusty Lake's first series of games, introducing the Rusty Lake universe. Heavily inspired by TV series Twin Peaks. All games will be updated, preserved and bundled on Steam for a small price, to survive the end of the Flash Games era. The Cube Escape Collection will contain 9 chapters: Seasons, The Lake, Arles, Harvey's Box, Case 23, The Mill, Birthday, Theatre and The Cave. <br><br>Thanks for your support!<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1292940/extras/Cube_Escape_Collection_banner_gif_5.gif?t=1603198247\" /><br><br><strong>PLEASE NOTE: These games do not contain any new content from their original versions (besides achievements, a new hint system and translations)!</strong>",
+  "short_description": "In this classic point-and-click adventure anthology you follow the path of Dale and Laura and other famous Rusty lake characters such as Mr. Crow and Mr. Owl. The series will be updated, preserved and bundled to survive the end of the Flash Games era.",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Traditional Chinese, Simplified Chinese, Danish, Japanese, Korean, Dutch, Polish, Russian, Czech, Turkish, Vietnamese, Swedish, Portuguese, Spanish - Latin America",
+  "reviews": "“Grab this with both hands. It’s a real treat, and a great introduction to the increasingly peculiar world of Rusty Lake. I don’t think there’s any other developer in the world that’s put this many years into what’s essentially one large project, and it’s paying off. This is a brilliant way to get started.”<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://buried-treasure.org/2020/10/rusty-lakes-cube-escape-collection/\" target=\"_blank\" rel=\"noopener\"  >Buried Treasure</a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/header.jpg?t=1603198247",
+  "website": "http://www.rustylake.com",
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or better<br></li><li><strong>Processor:</strong> 2 GHz Intel i5 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Direct X 9.0c compatible video card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+  },
+  "mac_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Leopard 10.5.8, Snow Leopard 10.6.3, or later<br></li><li><strong>Processor:</strong> 2 GHz Intel i5 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+  },
+  "linux_requirements": [],
+  "developers": [
+   "Rusty Lake"
+  ],
+  "publishers": [
+   "Rusty Lake"
+  ],
+  "price_overview": {
+   "currency": "EUR",
+   "initial": 399,
+   "final": 267,
+   "discount_percent": 33,
+   "initial_formatted": "3,99€",
+   "final_formatted": "2,67€"
+  },
+  "packages": [
+   451050
+  ],
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy Cube Escape Collection",
+    "description": "",
+    "selection_text": "Select a purchase option",
+    "save_text": "",
+    "display_type": 0,
+    "is_recurring_subscription": "false",
+    "subs": [
+     {
+      "packageid": 451050,
+      "percent_savings_text": "-33% ",
+      "percent_savings": 0,
+      "option_text": "Cube Escape Collection - <span class=\"discount_original_price\">3,99€</span> 2,67€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 267
+     }
+    ]
+   }
+  ],
+  "platforms": {
+   "windows": true,
+   "mac": true,
+   "linux": false
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 22,
+    "description": "Steam Achievements"
+   },
+   {
+    "id": 23,
+    "description": "Steam Cloud"
+   }
+  ],
+  "genres": [
+   {
+    "id": "25",
+    "description": "Adventure"
+   },
+   {
+    "id": "23",
+    "description": "Indie"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_9be7081ed27e3dd519d1fd258afa27378489a6c6.600x338.jpg?t=1603198247",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_9be7081ed27e3dd519d1fd258afa27378489a6c6.1920x1080.jpg?t=1603198247"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_40bb3d33d92c5d50459c3f3f6e98795e1f46b49b.600x338.jpg?t=1603198247",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_40bb3d33d92c5d50459c3f3f6e98795e1f46b49b.1920x1080.jpg?t=1603198247"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_b19a3d2fa036ede14e60ee939edb661468cf8eea.600x338.jpg?t=1603198247",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_b19a3d2fa036ede14e60ee939edb661468cf8eea.1920x1080.jpg?t=1603198247"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_6879f728a5d4d452d1c786c5f3c00ca4d1cdcb35.600x338.jpg?t=1603198247",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_6879f728a5d4d452d1c786c5f3c00ca4d1cdcb35.1920x1080.jpg?t=1603198247"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_74092b4bd8729e556beed61d17fa3ec284a0efd1.600x338.jpg?t=1603198247",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_74092b4bd8729e556beed61d17fa3ec284a0efd1.1920x1080.jpg?t=1603198247"
+   },
+   {
+    "id": 5,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_bde00c415a7bd4700f22f8dff9378e47e1164a16.600x338.jpg?t=1603198247",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_bde00c415a7bd4700f22f8dff9378e47e1164a16.1920x1080.jpg?t=1603198247"
+   },
+   {
+    "id": 6,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_b09916891661f785225117bdfa7f2bb65146e40b.600x338.jpg?t=1603198247",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_b09916891661f785225117bdfa7f2bb65146e40b.1920x1080.jpg?t=1603198247"
+   },
+   {
+    "id": 7,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_d35599ff6abb6486eb296269572ff7da5b5968cd.600x338.jpg?t=1603198247",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_d35599ff6abb6486eb296269572ff7da5b5968cd.1920x1080.jpg?t=1603198247"
+   },
+   {
+    "id": 8,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_e3150be4850d16fbc81522e106db8eeeacd5f8ef.600x338.jpg?t=1603198247",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/ss_e3150be4850d16fbc81522e106db8eeeacd5f8ef.1920x1080.jpg?t=1603198247"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256803411,
+    "name": "Official Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256803411/movie.293x165.jpg?t=1601679679",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256803411/movie480_vp9.webm?t=1601679679",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256803411/movie_max_vp9.webm?t=1601679679"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256803411/movie480.mp4?t=1601679679",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256803411/movie_max.mp4?t=1601679679"
+    },
+    "highlight": true
+   },
+   {
+    "id": 256804791,
+    "name": "Release Promo",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256804791/movie.293x165.jpg?t=1602679470",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256804791/movie480_vp9.webm?t=1602679470",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256804791/movie_max_vp9.webm?t=1602679470"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256804791/movie480.mp4?t=1602679470",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256804791/movie_max.mp4?t=1602679470"
+    },
+    "highlight": true
+   }
+  ],
+  "recommendations": {
+   "total": 1267
+  },
+  "achievements": {
+   "total": 72,
+   "highlighted": [
+    {
+     "name": "In bloom",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1292940/c4416a3e9d6d7493ac24f7d888a9bfa174ac9db6.jpg"
+    },
+    {
+     "name": "The lake",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1292940/2d545de15b8d843aafd93fef191089b4ad5f9eab.jpg"
+    },
+    {
+     "name": "Pink blossoms",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1292940/97cc717450757f25cf29d8ad1a668fd40003bb1a.jpg"
+    },
+    {
+     "name": "Blueprint",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1292940/8b7f2ed23378d5908b2d5122b4cb8b4ed0d3a08a.jpg"
+    },
+    {
+     "name": "The woman",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1292940/05a3276c461c4be74057c1eab7729d4965c72fcc.jpg"
+    },
+    {
+     "name": "Harvey",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1292940/bd66896a2b801e977b2815f2d4401063a80d4bf0.jpg"
+    },
+    {
+     "name": "Find me in the past",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1292940/f576611235bb27802c67758d55d194479f713c2b.jpg"
+    },
+    {
+     "name": "Young Laura",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1292940/10cb39444486c35985eb2f57e63935c96066b3f1.jpg"
+    },
+    {
+     "name": "Apple",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1292940/ba644228b527b7b836f5fa3cfaa8437e872faf4f.jpg"
+    },
+    {
+     "name": "Blue gem",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1292940/b6081bce89b7e37b736cc62507f6911a1a44f057.jpg"
+    }
+   ]
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "14 Oct, 2020"
+  },
+  "support_info": {
+   "url": "http://www.rustylake.com/",
+   "email": "http://www.rustylake.com/contact/"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1292940/page_bg_generated_v6b.jpg?t=1603198247",
+  "content_descriptors": {
+   "ids": [],
+   "notes": null
+  }
+ },
  "1318690": {
   "type": "game",
   "name": "shapez.io",
@@ -61605,6 +64123,236 @@
    "email": "support@shapez.io"
   },
   "background": "https://steamcdn-a.akamaihd.net/steam/apps/1318690/page_bg_generated_v6b.jpg?t=1602230830",
+  "content_descriptors": {
+   "ids": [],
+   "notes": null
+  }
+ },
+ "1406990": {
+  "type": "game",
+  "name": "NEKOPARA Vol. 4",
+  "steam_appid": 1406990,
+  "required_age": 0,
+  "is_free": false,
+  "dlc": [
+   1480360
+  ],
+  "detailed_description": "<h2 class=\"bb_tag\">STORY</h2>Despite the popularity of Kashou Minaduki's patisserie, &quot;La Soleil&quot;, his father continues to disapprove of it.<br>Seeing how troubled Kashou was, Shigure offers up a suggestion as a change of pace.<br>A hot springs trip with Chocola, Vanilla and the other catpanions.<br><br>With Azuki and Coconut's encouragement,  Kashou is determined to confront his father while Maple and Cinnamon suggest a trip to France <br>to seek advice from the teacher who taught him his craft.<br>But why is Shigure also tagging along!?<br><br>An encounter with a new catgirl in France...<br><br>This story is a heartwarming cat comedy about the growth Kashou experiences <br>through his catpanions and the bonds with them and his family... with a little ecchi on the side, too.<h2 class=\"bb_tag\">FEATURES</h2><ul class=\"bb_ul\"><li>Beautiful artwork and designs from creator, Sayori<br></li><li>Opening song, &quot;SWEETxSWEET&quot; sung by KOTOKO<br></li><li>Animated characters sprites bring the characters to life<br></li><li>Full Japanese voice acting (except for protagonist)<br></li><li>English, Traditional Chinese, Japanese text options<br></li><li>CG Gallery Mode</li></ul>",
+  "about_the_game": "<h2 class=\"bb_tag\">STORY</h2>Despite the popularity of Kashou Minaduki's patisserie, &quot;La Soleil&quot;, his father continues to disapprove of it.<br>Seeing how troubled Kashou was, Shigure offers up a suggestion as a change of pace.<br>A hot springs trip with Chocola, Vanilla and the other catpanions.<br><br>With Azuki and Coconut's encouragement,  Kashou is determined to confront his father while Maple and Cinnamon suggest a trip to France <br>to seek advice from the teacher who taught him his craft.<br>But why is Shigure also tagging along!?<br><br>An encounter with a new catgirl in France...<br><br>This story is a heartwarming cat comedy about the growth Kashou experiences <br>through his catpanions and the bonds with them and his family... with a little ecchi on the side, too.<h2 class=\"bb_tag\">FEATURES</h2><ul class=\"bb_ul\"><li>Beautiful artwork and designs from creator, Sayori<br></li><li>Opening song, &quot;SWEETxSWEET&quot; sung by KOTOKO<br></li><li>Animated characters sprites bring the characters to life<br></li><li>Full Japanese voice acting (except for protagonist)<br></li><li>English, Traditional Chinese, Japanese text options<br></li><li>CG Gallery Mode</li></ul>",
+  "short_description": "Despite the popularity of, &quot;La Soleil&quot;, Kashou's father continues to disapprove of it. Determined to get his father to approve of him, Kashou journeys to France to seek advice from the teacher who taught him his craft. A new chapter awaits in the next volume of the NEKOPARA series!",
+  "supported_languages": "English, Traditional Chinese, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/header.jpg?t=1606404008",
+  "website": null,
+  "pc_requirements": {
+   "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8 or higher<br></li><li><strong>Processor:</strong> 2.0 GHz and above<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Full HD 1080p 1920x1080 and above, full color support VRAM above 128MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> DirectSound compatible sound card</li></ul>",
+   "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8 or higher<br></li><li><strong>Processor:</strong> 2.66 GHz and above<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Full HD 1080p 1920x1080 and above, full color support VRAM above 256MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> DirectSound compatible sound card</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+   "NEKO WORKs"
+  ],
+  "publishers": [
+   "Sekai Project"
+  ],
+  "price_overview": {
+   "currency": "EUR",
+   "initial": 819,
+   "final": 737,
+   "discount_percent": 10,
+   "initial_formatted": "8,19€",
+   "final_formatted": "7,37€"
+  },
+  "packages": [
+   493784
+  ],
+  "package_groups": [
+   {
+    "name": "default",
+    "title": "Buy NEKOPARA Vol. 4",
+    "description": "",
+    "selection_text": "Select a purchase option",
+    "save_text": "",
+    "display_type": 0,
+    "is_recurring_subscription": "false",
+    "subs": [
+     {
+      "packageid": 493784,
+      "percent_savings_text": "-10% ",
+      "percent_savings": 0,
+      "option_text": "NEKOPARA Vol. 4 - <span class=\"discount_original_price\">8,19€</span> 7,37€",
+      "option_description": "",
+      "can_get_free_license": "0",
+      "is_free_license": false,
+      "price_in_cents_with_discount": 737
+     }
+    ]
+   }
+  ],
+  "platforms": {
+   "windows": true,
+   "mac": false,
+   "linux": false
+  },
+  "categories": [
+   {
+    "id": 2,
+    "description": "Single-player"
+   },
+   {
+    "id": 22,
+    "description": "Steam Achievements"
+   }
+  ],
+  "genres": [
+   {
+    "id": "25",
+    "description": "Adventure"
+   },
+   {
+    "id": "4",
+    "description": "Casual"
+   },
+   {
+    "id": "23",
+    "description": "Indie"
+   }
+  ],
+  "screenshots": [
+   {
+    "id": 0,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_88aaf68fc835dd5eb028c556aea2de4ea561c10d.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_88aaf68fc835dd5eb028c556aea2de4ea561c10d.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 1,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_7a64b7a3906447eb5a76af7ba3eb718c9a5e3d30.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_7a64b7a3906447eb5a76af7ba3eb718c9a5e3d30.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 2,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_6f0248119eec629bea143b1e8111d3aa1264860d.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_6f0248119eec629bea143b1e8111d3aa1264860d.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 3,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_cda9030db2c78590778f86c95ad5c032d28ae458.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_cda9030db2c78590778f86c95ad5c032d28ae458.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 4,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_68d755ea95cbaa4f8c176a4f63d4f02c3689148a.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_68d755ea95cbaa4f8c176a4f63d4f02c3689148a.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 5,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_5c8caeca31431b9b6a53314ce0b93ada975692be.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_5c8caeca31431b9b6a53314ce0b93ada975692be.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 6,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_44f27ba4ca577de0105737927760620c045d1a13.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_44f27ba4ca577de0105737927760620c045d1a13.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 7,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_d2af2d7f2507cbc6cce160977103a008b5092190.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_d2af2d7f2507cbc6cce160977103a008b5092190.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 8,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_4073c0d1a7f5de393fc585fdf309c9576cd68651.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_4073c0d1a7f5de393fc585fdf309c9576cd68651.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 9,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_3b2dd4c265590ef615b168ea3e3f578595867713.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_3b2dd4c265590ef615b168ea3e3f578595867713.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 10,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_d193aa0f3d148422d1560d5100f3bf1ce4b04962.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_d193aa0f3d148422d1560d5100f3bf1ce4b04962.1920x1080.jpg?t=1606404008"
+   },
+   {
+    "id": 11,
+    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_d8d296dae415538fbc6736a213dd9389e252eb35.600x338.jpg?t=1606404008",
+    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/ss_d8d296dae415538fbc6736a213dd9389e252eb35.1920x1080.jpg?t=1606404008"
+   }
+  ],
+  "movies": [
+   {
+    "id": 256799601,
+    "name": "Trailer",
+    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256799601/movie.293x165.jpg?t=1599710381",
+    "webm": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256799601/movie480_vp9.webm?t=1599710381",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256799601/movie_max_vp9.webm?t=1599710381"
+    },
+    "mp4": {
+     "480": "http://steamcdn-a.akamaihd.net/steam/apps/256799601/movie480.mp4?t=1599710381",
+     "max": "http://steamcdn-a.akamaihd.net/steam/apps/256799601/movie_max.mp4?t=1599710381"
+    },
+    "highlight": true
+   }
+  ],
+  "recommendations": {
+   "total": 2631
+  },
+  "achievements": {
+   "total": 19,
+   "highlighted": [
+    {
+     "name": "Happy Birthday!",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1406990/fa6b74b1678aaa205c4f33a902af48e4430433f9.jpg"
+    },
+    {
+     "name": "Hot Spring Joys",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1406990/ab68f2cc2f9f9ff8f706f5a6cfdcd7bef608baea.jpg"
+    },
+    {
+     "name": "Making the Best Cake",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1406990/619fae86c979442b80df49e7250aee64ba3142f7.jpg"
+    },
+    {
+     "name": "Where it All Began",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1406990/16b9b29a84f698e696ae47d8a5f7999c0c50ebd2.jpg"
+    },
+    {
+     "name": "Merry Christmas",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1406990/ea319efd148a9c66c4e9fac446c206edf33ca151.jpg"
+    },
+    {
+     "name": "New Decision",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1406990/9e300e097dc675a960466b9f3d502f706beb8658.jpg"
+    },
+    {
+     "name": "Play it in English!",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1406990/235c8505f0f73fc66a318e3fc9632055f1122017.jpg"
+    },
+    {
+     "name": "Play it in Chinese!",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1406990/0a85d863e38318d0dd08293ad25cc038beab4ed6.jpg"
+    },
+    {
+     "name": "Play it in Japanese!",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1406990/2dd15d31469590c5251cddecbe17fcf0bb17436f.jpg"
+    },
+    {
+     "name": "Begin",
+     "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1406990/39765588c6b54d8e5ed1e1abb350101576dc0866.jpg"
+    }
+   ]
+  },
+  "release_date": {
+   "coming_soon": false,
+   "date": "26 Nov, 2020"
+  },
+  "support_info": {
+   "url": "https://support.sekaiproject.com/",
+   "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1406990/page_bg_generated_v6b.jpg?t=1606404008",
   "content_descriptors": {
    "ids": [],
    "notes": null
