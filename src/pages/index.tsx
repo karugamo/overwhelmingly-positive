@@ -87,7 +87,7 @@ const Main = styled.div`
   align-items: center;
 `
 
-const OptionsBar = styled.section`
+const OptionsBar = styled.section<{test: boolean}>`
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
