@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import {Game} from '../types'
+import Amazon from './Amazon'
 import GameThumbnail from './GameThumbnail'
 
 type GameListProps = {
@@ -12,6 +13,7 @@ export default function GameList({games, onSelectGame}: GameListProps) {
   return (
     <Container>
       {games.length === 0 && <Sorry>No games match your filters</Sorry>}
+      <Amazon />
       {games.map((game) => (
         <GameThumbnail key={game.appId} game={game} onOpenGame={onSelectGame} />
       ))}
