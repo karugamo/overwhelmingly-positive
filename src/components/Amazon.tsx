@@ -4,6 +4,7 @@ import styled from 'styled-components'
 export default function Amazon() {
   return (
     <Container>
+      <AdLabel>Ads</AdLabel>
       <AmazonWidget asin="B07M6RVW79" />
       <AmazonWidget asin="B086PKMZ1Q" />
       <AmazonWidget asin="B07TD94TQF" />
@@ -18,6 +19,19 @@ const Container = styled.div`
   overflow: hidden;
   white-space: nowrap;
   background-color: white;
+  position: relative;
+
+  @media (max-width: 460px) {
+    display: none;
+  }
+`
+
+const AdLabel = styled.div`
+  color: grey;
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  font-size: 12px;
 `
 
 function AmazonWidget({asin}: {asin: string}) {
@@ -33,5 +47,5 @@ function AmazonWidget({asin}: {asin: string}) {
 const WidgetContainer = styled.iframe`
   width: 120px;
   height: 240px;
-  transform: scale(0.78) translateX(-13px) translateY(-17px);
+  transform: scale(0.78) translateX(-13px) translateY(-12px);
 `
