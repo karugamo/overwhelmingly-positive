@@ -69,6 +69,10 @@ export default function Head({title}: HeadProps) {
         async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
       ></script>
+      <script
+        async
+        src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=685271c8-8839-4b09-8db4-0528bfa8ec69"
+      ></script>
     </Helmet>
   )
 }
