@@ -12,7 +12,7 @@ import {shuffle} from 'lodash'
 import FilterTags, {Filter} from '../components/FilterTags'
 import GameList from '../components/GameList'
 import Button from '../components/Button'
-import About from '../components/About'
+import {About} from '@karugamo/components'
 
 type AppProps = {
   pageContext: {
