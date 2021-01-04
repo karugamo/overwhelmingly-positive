@@ -3,6 +3,7 @@ import ReactModal from 'react-modal'
 import styled from 'styled-components'
 import {useLogConversion, ConversionType} from '../lib/tracking'
 import {Game} from '../types'
+import YoutubeWidget from './YoutubeWidget'
 
 type GameModalProps = {
   game: Game
@@ -17,17 +18,6 @@ export default function GameModal({game, onClose}: GameModalProps) {
       {game.video && <YoutubeWidget videoId={game.video} />}
       <SteamWidget appId={game.appId} />
     </Modal>
-  )
-}
-
-function YoutubeWidget({videoId}) {
-  return (
-    <StyledYoutubeWidget
-      src={`https://www.youtube.com/embed/${videoId}?start=120&autoplay=1&mute=1`}
-      frameBorder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowFullScreen
-    ></StyledYoutubeWidget>
   )
 }
 
@@ -47,17 +37,6 @@ const StyledSteamWidget = styled.iframe`
 
   @media (max-width: 920px) {
     width: 100%;
-  }
-`
-
-const StyledYoutubeWidget = styled.iframe`
-  width: 920px;
-  height: 518px;
-  border: 0;
-
-  @media (max-width: 920px) {
-    width: 100%;
-    height: 56.25%;
   }
 `
 
