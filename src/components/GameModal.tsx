@@ -16,29 +16,9 @@ export default function GameModal({game, onClose}: GameModalProps) {
   return (
     <Modal onRequestClose={onClose}>
       {game.video && <YoutubeWidget videoId={game.video} />}
-      <SteamWidget appId={game.appId} />
     </Modal>
   )
 }
-
-function SteamWidget({appId}) {
-  return (
-    <StyledSteamWidget
-      title="Steam store widget"
-      src={`https://store.steampowered.com/widget/${appId}/`}
-    ></StyledSteamWidget>
-  )
-}
-
-const StyledSteamWidget = styled.iframe`
-  width: 920px;
-  height: 200px;
-  border: 0;
-
-  @media (max-width: 920px) {
-    width: 100%;
-  }
-`
 
 function ReactModalWrapper({className, modalClassName, ...props}) {
   return (
