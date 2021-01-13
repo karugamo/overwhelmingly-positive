@@ -1,5 +1,4 @@
 import {chromium} from 'playwright'
-const assert = require('assert')
 import delay from 'delay'
 
 const portalImage = 'img[alt=Portal]'
@@ -38,7 +37,7 @@ it('opens the Portal modal and clicks on the Steam button', async () => {
   let frames = await page.frames()
   const steamWidget = frames.find((f) => f.url() === portalWidgetUrl)
 
-  assert.ok(steamWidget, 'Expected to see steam widget')
+  expect(steamWidget).toBeTruthy()
 
   const steamCta =
     '#widget > .game_purchase_action > .game_purchase_action_bg > .btn_addtocart > .btn_addtocart_content'
@@ -50,8 +49,5 @@ it('opens the Portal modal and clicks on the Steam button', async () => {
     await steamWidget.click(steamCta)
   ])
 
-  assert.strictEqual(
-    await newPage.url(),
-    'https://store.steampowered.com/cart/'
-  )
+  expect(await newPage.url()).toBe('https://store.steampowered.com/cart/')
 })
