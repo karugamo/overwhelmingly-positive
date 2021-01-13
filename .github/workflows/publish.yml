@@ -12,17 +12,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Build
-        uses: actions/setup-node@v1
-        with:
-          node-version: "12.x"
       - run: npm install
-      - run: npm run build
 
-      - name: Serve and Test
-        uses: actions/setup-node@v1
-        with:
-          node-version: "12.x"
+      - run: npm run build
+      
       - run: npm run ci
 
       - name: Deploy to GitHub Pages
