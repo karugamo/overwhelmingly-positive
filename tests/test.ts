@@ -1,8 +1,6 @@
-/* globals require, beforeAll, afterAll, beforeEach, afterEach, it */
-
-const {chromium} = require('playwright')
+import {chromium} from 'playwright'
 const assert = require('assert')
-const delay = require('delay')
+import delay from 'delay'
 
 const portalImage = 'img[alt=Portal]'
 const portalWidgetUrl = 'https://store.steampowered.com/widget/400/'
@@ -38,7 +36,6 @@ it('opens the Portal modal and clicks on the Steam button', async () => {
   await delay(1000)
 
   let frames = await page.frames()
-  console.log(frames.map((f) => f.url()))
   const steamWidget = frames.find((f) => f.url() === portalWidgetUrl)
 
   assert.ok(steamWidget, 'Expected to see steam widget')
