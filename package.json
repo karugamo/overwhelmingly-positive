@@ -10,6 +10,7 @@
     "dev": "gatsby develop",
     "build-serve": "npm run build && npm run serve",
     "e2e": "folio --param browserName=chromium",
+    "ci": "start-server-and-test serve http://localhost:9000 e2e",
     "test": "start-server-and-test build-serve http://localhost:9000 e2e"
   },
   "repository": {
