@@ -1,32 +1,18 @@
-import {chromium} from 'playwright'
+import {BrowserContext, Frame, Page} from 'playwright'
 import delay from 'delay'
 
-const portalImage = 'img[alt=Portal]'
-const portalWidgetUrl = 'https://store.steampowered.com/widget/400/'
-
-let browser
-let page
-let context
-
-beforeAll(async () => {
-  browser = await chromium.launch({headless: true})
-  context = await browser.newContext()
-})
-afterAll(async () => {
-  await browser.close()
-})
-beforeEach(async () => {
-  page = await context.newPage()
+export async function goToHomepage(page: Page) {
   await page.goto('http://localhost:9000')
-})
-afterEach(async () => {
-  await page.close()
-})
+}
 
-it('opens the Portal modal and clicks on the Steam button', async () => {
+export async function clickGamePortalImage(page: Page) {
+  const portalImage = 'img[alt=Portal]'
   await page.waitForSelector(portalImage)
   await page.click(portalImage)
+}
 
+export async function waitForSteamWidget(page: Page) {
+  const portalWidgetUrl = 'https://store.steampowered.com/widget/400/'
   await page.waitForSelector('.Content')
 
   await page.waitForSelector(`iframe[src="${portalWidgetUrl}"]`)
@@ -36,9 +22,13 @@ it('opens the Portal modal and clicks on the Steam button', async () => {
 
   let frames = await page.frames()
   const steamWidget = frames.find((f) => f.url() === portalWidgetUrl)
+  return steamWidget
+}
 
-  expect(steamWidget).toBeTruthy()
-
+export async function clickOnSteamWidgetCTA(
+  context: BrowserContext,
+  steamWidget: Frame
+) {
   const steamCta =
     '#widget > .game_purchase_action > .game_purchase_action_bg > .btn_addtocart > .btn_addtocart_content'
 
@@ -48,6 +38,5 @@ it('opens the Portal modal and clicks on the Steam button', async () => {
     context.waitForEvent('page'),
     await steamWidget.click(steamCta)
   ])
-
-  expect(await newPage.url()).toBe('https://store.steampowered.com/cart/')
-})
+  return newPage
+}
