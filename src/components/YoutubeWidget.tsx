@@ -18,7 +18,7 @@ const StyledYoutubeWidget = styled.iframe`
   border: 0;
 
   @media (max-width: 920px) {
-    width: 100%;
-    height: 56.25%;
+    width: 100vw;
+    height: 56.25vh;
   }
 `
