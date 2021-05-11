@@ -43,7 +43,7 @@
     "gatsby-plugin-sitemap": "^2.6.0",
     "gatsby-plugin-styled-components": "^3.3.14",
     "got": "^11.8.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
     "react": "^17.0.1",
     "react-cookie-banner": "^4.1.0",
