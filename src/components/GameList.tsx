@@ -9,19 +9,11 @@ type GameListProps = {
   onSelectGame: (game: Game) => void
 }
 
-const adPosition = 10
-
 export default function GameList({games, onSelectGame}: GameListProps) {
-  const gamesBeforeAd = games.slice(0, adPosition - 1)
-  const gamesAfterAd = games.slice(adPosition - 1)
   return (
     <Container>
       {games.length === 0 && <Sorry>No games match your filters</Sorry>}
-      {gamesBeforeAd.map((game) => (
-        <GameThumbnail key={game.appId} game={game} onOpenGame={onSelectGame} />
-      ))}
-      {games.length >= adPosition && <Amazon />}
-      {gamesAfterAd.map((game) => (
+      {games.map((game) => (
         <GameThumbnail key={game.appId} game={game} onOpenGame={onSelectGame} />
       ))}
     </Container>
