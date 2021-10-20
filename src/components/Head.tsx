@@ -17,6 +17,7 @@ export default function Head({title}: HeadProps) {
         name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1"
       />
+      <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P5NNGRS"></script>
       <script
         async
         src="https://www.googletagmanager.com/gtag/js?id=G-1R0QR3M2YR"
