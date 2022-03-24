@@ -2,1417 +2,1447 @@
  {
   "appId": "620",
   "name": "Portal 2",
-  "positive": 217552,
-  "negative": 2704
- },
- {
-  "appId": "427520",
-  "name": "Factorio",
-  "positive": 101335,
-  "negative": 1144
+  "positive": 286049,
+  "negative": 3495
  },
  {
   "appId": "1145360",
   "name": "Hades",
-  "positive": 81342,
-  "negative": 881
- },
- {
-  "appId": "292030",
-  "name": "The Witcher 3: Wild Hunt",
-  "positive": 434518,
-  "negative": 8479
- },
- {
-  "appId": "105600",
-  "name": "Terraria",
-  "positive": 622452,
-  "negative": 13437
- },
- {
-  "appId": "546560",
-  "name": "Half-Life: Alyx",
-  "positive": 45796,
-  "negative": 608
- },
- {
-  "appId": "294100",
-  "name": "RimWorld",
-  "positive": 87907,
-  "negative": 1505
- },
- {
-  "appId": "250900",
-  "name": "The Binding of Isaac: Rebirth",
-  "positive": 116868,
-  "negative": 2224
- },
- {
-  "appId": "400",
-  "name": "Portal",
-  "positive": 77633,
-  "negative": 1374
- },
- {
-  "appId": "413150",
-  "name": "Stardew Valley",
-  "positive": 278990,
-  "negative": 6515
- },
- {
-  "appId": "1289310",
-  "name": "Helltaker",
-  "positive": 77512,
-  "negative": 1475
- },
- {
-  "appId": "227300",
-  "name": "Euro Truck Simulator 2",
-  "positive": 355317,
-  "negative": 9214
- },
- {
-  "appId": "1089980",
-  "name": "The Henry Stickmin Collection",
-  "positive": 15822,
-  "negative": 144
- },
- {
-  "appId": "739630",
-  "name": "Phasmophobia",
-  "positive": 154054,
-  "negative": 3699
- },
- {
-  "appId": "48700",
-  "name": "Mount & Blade: Warband",
-  "positive": 117642,
-  "negative": 2778
- },
- {
-  "appId": "646570",
-  "name": "Slay the Spire",
-  "positive": 80026,
-  "negative": 1747
- },
- {
-  "appId": "550",
-  "name": "Left 4 Dead 2",
-  "positive": 419912,
-  "negative": 12142
- },
- {
-  "appId": "10",
-  "name": "Counter-Strike",
-  "positive": 166370,
-  "negative": 4307
- },
- {
-  "appId": "460950",
-  "name": "Katana ZERO",
-  "positive": 28569,
-  "negative": 481
- },
- {
-  "appId": "253230",
-  "name": "A Hat in Time",
-  "positive": 32918,
-  "negative": 619
+  "positive": 181603,
+  "negative": 2484
  },
  {
   "appId": "1118200",
   "name": "People Playground",
-  "positive": 17000,
-  "negative": 235
+  "positive": 101188,
+  "negative": 1131
  },
  {
-  "appId": "508440",
-  "name": "Totally Accurate Battle Simulator",
-  "positive": 44611,
-  "negative": 975
+  "appId": "1794680",
+  "name": "Vampire Survivors",
+  "positive": 65468,
+  "negative": 710
  },
  {
-  "appId": "220",
-  "name": "Half-Life 2",
-  "positive": 108752,
-  "negative": 3081
+  "appId": "105600",
+  "name": "Terraria",
+  "positive": 913033,
+  "negative": 19440
  },
  {
-  "appId": "883710",
-  "name": "Resident Evil 2",
-  "positive": 77153,
-  "negative": 2143
+  "appId": "413150",
+  "name": "Stardew Valley",
+  "positive": 441227,
+  "negative": 8627
  },
  {
-  "appId": "219150",
-  "name": "Hotline Miami",
-  "positive": 56822,
-  "negative": 1534
+  "appId": "400",
+  "name": "Portal",
+  "positive": 103030,
+  "negative": 1643
  },
  {
-  "appId": "213670",
-  "name": "South Park™: The Stick of Truth™",
-  "positive": 42841,
-  "negative": 1084
+  "appId": "294100",
+  "name": "RimWorld",
+  "positive": 125481,
+  "negative": 2170
  },
  {
-  "appId": "4000",
-  "name": "Garry's Mod",
-  "positive": 608414,
-  "negative": 22337
- },
- {
-  "appId": "644560",
-  "name": "Mirror",
-  "positive": 55877,
-  "negative": 1517
- },
- {
-  "appId": "433340",
-  "name": "Slime Rancher",
-  "positive": 51536,
-  "negative": 1393
- },
- {
-  "appId": "238460",
-  "name": "BattleBlock Theater",
-  "positive": 56616,
-  "negative": 1576
- },
- {
-  "appId": "420530",
-  "name": "OneShot",
-  "positive": 17590,
-  "negative": 346
- },
- {
-  "appId": "698780",
-  "name": "Doki Doki Literature Club",
-  "positive": 140307,
-  "negative": 4584
- },
- {
-  "appId": "205100",
-  "name": "Dishonored",
-  "positive": 53290,
-  "negative": 1477
- },
- {
-  "appId": "504230",
-  "name": "Celeste",
-  "positive": 26355,
-  "negative": 607
- },
- {
-  "appId": "264200",
-  "name": "One Finger Death Punch",
-  "positive": 15211,
-  "negative": 286
- },
- {
-  "appId": "1144400",
-  "name": "Senren＊Banka",
-  "positive": 4585,
-  "negative": 29
+  "appId": "546560",
+  "name": "Half-Life: Alyx",
+  "positive": 68141,
+  "negative": 1028
  },
  {
   "appId": "1229490",
   "name": "ULTRAKILL",
-  "positive": 3889,
-  "negative": 17
+  "positive": 21498,
+  "negative": 163
  },
  {
-  "appId": "1291340",
-  "name": "Townscaper",
-  "positive": 6371,
-  "negative": 71
+  "appId": "550",
+  "name": "Left 4 Dead 2",
+  "positive": 585818,
+  "negative": 15444
  },
  {
-  "appId": "447530",
-  "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
-  "positive": 22089,
-  "negative": 511
+  "appId": "227300",
+  "name": "Euro Truck Simulator 2",
+  "positive": 517698,
+  "negative": 13609
  },
  {
-  "appId": "1055540",
-  "name": "A Short Hike",
-  "positive": 5226,
-  "negative": 46
+  "appId": "1289310",
+  "name": "Helltaker",
+  "positive": 101857,
+  "negative": 2053
  },
  {
-  "appId": "367520",
-  "name": "Hollow Knight",
-  "positive": 118386,
-  "negative": 3969
+  "appId": "250900",
+  "name": "The Binding of Isaac: Rebirth",
+  "positive": 188682,
+  "negative": 4376
  },
  {
-  "appId": "250320",
-  "name": "The Wolf Among Us",
-  "positive": 23920,
-  "negative": 574
+  "appId": "1089980",
+  "name": "The Henry Stickmin Collection",
+  "positive": 28428,
+  "negative": 368
  },
  {
-  "appId": "424280",
-  "name": "Iron Snout",
-  "positive": 15632,
-  "negative": 323
+  "appId": "427520",
+  "name": "Factorio",
+  "positive": 138422,
+  "negative": 3066
  },
  {
-  "appId": "736260",
-  "name": "Baba Is You",
-  "positive": 10797,
-  "negative": 187
+  "appId": "646570",
+  "name": "Slay the Spire",
+  "positive": 105188,
+  "negative": 2235
  },
  {
-  "appId": "219740",
-  "name": "Don't Starve",
-  "positive": 80504,
-  "negative": 2634
+  "appId": "508440",
+  "name": "Totally Accurate Battle Simulator",
+  "positive": 81688,
+  "negative": 1669
  },
  {
-  "appId": "252150",
-  "name": "Grimm",
-  "positive": 29432,
-  "negative": 795
+  "appId": "48700",
+  "name": "Mount & Blade: Warband",
+  "positive": 136204,
+  "negative": 3145
  },
  {
-  "appId": "519860",
-  "name": "DUSK",
-  "positive": 10215,
-  "negative": 185
+  "appId": "460950",
+  "name": "Katana ZERO",
+  "positive": 44221,
+  "negative": 775
  },
  {
-  "appId": "322330",
-  "name": "Don't Starve Together",
-  "positive": 215348,
-  "negative": 8163
+  "appId": "1150690",
+  "name": "OMORI",
+  "positive": 35236,
+  "negative": 567
  },
  {
-  "appId": "1240210",
-  "name": "There is no game : Wrong dimension",
-  "positive": 6253,
-  "negative": 83
+  "appId": "10",
+  "name": "Counter-Strike",
+  "positive": 194505,
+  "negative": 4995
  },
  {
-  "appId": "274190",
-  "name": "Broforce",
-  "positive": 38992,
-  "negative": 1161
- },
- {
-  "appId": "1113000",
-  "name": "Persona 4 Golden",
-  "positive": 34983,
-  "negative": 1016
- },
- {
-  "appId": "203160",
-  "name": "Tomb Raider",
-  "positive": 168654,
-  "negative": 6529
- },
- {
-  "appId": "207610",
-  "name": "The Walking Dead",
-  "positive": 50617,
-  "negative": 1657
- },
- {
-  "appId": "288160",
-  "name": "The Room",
-  "positive": 14881,
-  "negative": 356
- },
- {
-  "appId": "588650",
-  "name": "Dead Cells",
-  "positive": 60564,
-  "negative": 2061
- },
- {
-  "appId": "319630",
-  "name": "Life is Strange™",
-  "positive": 138702,
-  "negative": 5311
- },
- {
-  "appId": "391540",
-  "name": "Undertale",
-  "positive": 133213,
-  "negative": 5086
- },
- {
-  "appId": "548430",
-  "name": "Deep Rock Galactic",
-  "positive": 62082,
-  "negative": 2134
- },
- {
-  "appId": "632360",
-  "name": "Risk of Rain 2",
-  "positive": 124181,
-  "negative": 4823
- },
- {
-  "appId": "341800",
-  "name": "Keep Talking and Nobody Explodes",
-  "positive": 8363,
-  "negative": 164
- },
- {
-  "appId": "8930",
-  "name": "Sid Meier's Civilization V",
-  "positive": 162615,
-  "negative": 6530
- },
- {
-  "appId": "945360",
-  "name": "Among Us",
-  "positive": 395119,
-  "negative": 17222
- },
- {
-  "appId": "425580",
-  "name": "The Room Two",
-  "positive": 10510,
-  "negative": 236
- },
- {
-  "appId": "526870",
-  "name": "Satisfactory",
-  "positive": 31743,
-  "negative": 1008
- },
- {
-  "appId": "337340",
-  "name": "Finding Paradise",
-  "positive": 9704,
-  "negative": 211
- },
- {
-  "appId": "531510",
-  "name": "Just Shapes & Beats",
-  "positive": 8429,
-  "negative": 171
- },
- {
-  "appId": "351640",
-  "name": "Eternal Senia",
-  "positive": 10986,
-  "negative": 256
- },
- {
-  "appId": "22380",
-  "name": "Fallout: New Vegas",
-  "positive": 106328,
-  "negative": 4167
- },
- {
-  "appId": "745880",
-  "name": "東方天空璋 ～ Hidden Star in Four Seasons.",
-  "positive": 4323,
-  "negative": 57
- },
- {
-  "appId": "206440",
-  "name": "To the Moon",
-  "positive": 49544,
-  "negative": 1794
- },
- {
-  "appId": "1070710",
-  "name": "Kind Words",
-  "positive": 4820,
-  "negative": 75
- },
- {
-  "appId": "217980",
-  "name": "Dishonored RHCP",
-  "positive": 7931,
-  "negative": 171
- },
- {
-  "appId": "268910",
-  "name": "Cuphead",
-  "positive": 62285,
-  "negative": 2368
- },
- {
-  "appId": "70",
-  "name": "Half-Life",
-  "positive": 51929,
-  "negative": 1915
- },
- {
-  "appId": "239030",
-  "name": "Papers, Please",
-  "positive": 37361,
-  "negative": 1312
- },
- {
-  "appId": "312990",
-  "name": "The Expendabros",
-  "positive": 16209,
-  "negative": 468
- },
- {
-  "appId": "851100",
-  "name": "Touhou Luna Nights",
-  "positive": 8363,
-  "negative": 188
- },
- {
-  "appId": "240",
-  "name": "Counter-Strike: Source",
-  "positive": 109724,
-  "negative": 4518
- },
- {
-  "appId": "435150",
-  "name": "Divinity: Original Sin 2",
-  "positive": 104097,
-  "negative": 4265
- },
- {
-  "appId": "412830",
-  "name": "STEINS;GATE",
-  "positive": 9102,
-  "negative": 216
- },
- {
-  "appId": "457140",
-  "name": "Oxygen Not Included",
-  "positive": 52497,
-  "negative": 1978
- },
- {
-  "appId": "683320",
-  "name": "GRIS",
-  "positive": 33915,
-  "negative": 1189
- },
- {
-  "appId": "221640",
-  "name": "Super Hexagon",
-  "positive": 21425,
-  "negative": 681
- },
- {
-  "appId": "324160",
-  "name": "CLANNAD",
-  "positive": 3979,
-  "negative": 57
- },
- {
-  "appId": "787480",
-  "name": "Phoenix Wright: Ace Attorney Trilogy",
-  "positive": 8208,
-  "negative": 190
- },
- {
-  "appId": "1230140",
-  "name": "ATRI -My Dear Moments-",
-  "positive": 3608,
-  "negative": 47
- },
- {
-  "appId": "1170880",
-  "name": "Grimm's Hollow",
-  "positive": 4704,
-  "negative": 80
- },
- {
-  "appId": "3590",
-  "name": "Plants vs. Zombies: Game of the Year",
-  "positive": 43123,
-  "negative": 1613
- },
- {
-  "appId": "206190",
-  "name": "Gunpoint",
-  "positive": 11239,
-  "negative": 302
- },
- {
-  "appId": "32470",
-  "name": "STAR WARS™ Empire at War: Gold Pack",
-  "positive": 18252,
-  "negative": 572
- },
- {
-  "appId": "432350",
-  "name": "Epic Battle Fantasy 5",
-  "positive": 3144,
-  "negative": 37
- },
- {
-  "appId": "204360",
-  "name": "Castle Crashers",
-  "positive": 68935,
-  "negative": 2833
- },
- {
-  "appId": "1281930",
-  "name": "tModLoader",
-  "positive": 37851,
-  "negative": 1422
- },
- {
-  "appId": "264710",
-  "name": "Subnautica",
-  "positive": 139063,
-  "negative": 6211
- },
- {
-  "appId": "942970",
-  "name": "Unheard",
-  "positive": 18504,
-  "negative": 602
- },
- {
-  "appId": "238320",
-  "name": "Outlast",
-  "positive": 60209,
-  "negative": 2450
- },
- {
-  "appId": "212680",
-  "name": "FTL: Faster Than Light",
-  "positive": 54318,
-  "negative": 2177
- },
- {
-  "appId": "214560",
-  "name": "Mark of the Ninja",
-  "positive": 15094,
-  "negative": 467
- },
- {
-  "appId": "420110",
-  "name": "NEKOPARA Vol. 2",
-  "positive": 10238,
-  "negative": 282
- },
- {
-  "appId": "311690",
-  "name": "Enter the Gungeon",
-  "positive": 51506,
-  "negative": 2086
- },
- {
-  "appId": "413410",
-  "name": "Danganronpa: Trigger Happy Havoc",
-  "positive": 14296,
-  "negative": 451
- },
- {
-  "appId": "55230",
-  "name": "Saints Row: The Third",
-  "positive": 55318,
-  "negative": 2307
- },
- {
-  "appId": "602520",
-  "name": "NEKOPARA Vol. 3",
-  "positive": 9636,
-  "negative": 272
- },
- {
-  "appId": "636480",
-  "name": "Ravenfield",
-  "positive": 28495,
-  "negative": 1074
- },
- {
-  "appId": "413420",
-  "name": "Danganronpa 2: Goodbye Despair",
-  "positive": 11583,
-  "negative": 350
- },
- {
-  "appId": "1237970",
-  "name": "Titanfall® 2",
-  "positive": 36676,
-  "negative": 1461
- },
- {
-  "appId": "387290",
-  "name": "Ori and the Blind Forest: Definitive Edition",
-  "positive": 36913,
-  "negative": 1480
- },
- {
-  "appId": "400910",
-  "name": "Rabi-Ribi",
-  "positive": 8399,
-  "negative": 232
- },
- {
-  "appId": "286160",
-  "name": "Tabletop Simulator",
-  "positive": 33722,
-  "negative": 1336
- },
- {
-  "appId": "312530",
-  "name": "Duck Game",
-  "positive": 25654,
-  "negative": 969
- },
- {
-  "appId": "420",
-  "name": "Half-Life 2: Episode Two",
-  "positive": 21583,
-  "negative": 788
- },
- {
-  "appId": "1102190",
-  "name": "Monster Train",
-  "positive": 10170,
-  "negative": 308
- },
- {
-  "appId": "1127400",
-  "name": "Mindustry",
-  "positive": 5922,
-  "negative": 146
- },
- {
-  "appId": "1406990",
-  "name": "NEKOPARA Vol. 4",
-  "positive": 2535,
-  "negative": 33
- },
- {
-  "appId": "362890",
-  "name": "Black Mesa",
-  "positive": 49438,
-  "negative": 2137
- },
- {
-  "appId": "620980",
-  "name": "Beat Saber",
-  "positive": 41273,
-  "negative": 1739
- },
- {
-  "appId": "339800",
-  "name": "HuniePop",
-  "positive": 22946,
-  "negative": 875
- },
- {
-  "appId": "858210",
-  "name": "Nova Drift",
-  "positive": 2898,
-  "negative": 45
- },
- {
-  "appId": "270880",
-  "name": "American Truck Simulator",
-  "positive": 63215,
-  "negative": 2852
- },
- {
-  "appId": "35140",
-  "name": "Batman: Arkham Asylum GOTY Edition",
-  "positive": 28673,
-  "negative": 1159
- },
- {
-  "appId": "1049890",
-  "name": "Little Witch Nobeta",
-  "positive": 5199,
-  "negative": 127
- },
- {
-  "appId": "557600",
-  "name": "Gorogoa",
-  "positive": 6943,
-  "negative": 194
+  "appId": "433340",
+  "name": "Slime Rancher",
+  "positive": 83809,
+  "negative": 1850
  },
  {
   "appId": "960090",
   "name": "Bloons TD 6",
-  "positive": 39529,
-  "negative": 1700
+  "positive": 169437,
+  "negative": 4323
  },
  {
-  "appId": "992310",
-  "name": "Backbone: Prologue",
-  "positive": 3472,
-  "negative": 67
- },
- {
-  "appId": "601220",
-  "name": "Zup! F",
-  "positive": 3931,
-  "negative": 83
- },
- {
-  "appId": "40970",
-  "name": "Stronghold Crusader HD",
-  "positive": 8503,
-  "negative": 259
- },
- {
-  "appId": "367580",
-  "name": "Hook",
-  "positive": 7583,
-  "negative": 222
- },
- {
-  "appId": "221380",
-  "name": "Age of Empires II (2013)",
-  "positive": 81181,
-  "negative": 3862
- },
- {
-  "appId": "653530",
-  "name": "Return of the Obra Dinn",
-  "positive": 10783,
-  "negative": 356
- },
- {
-  "appId": "943700",
-  "name": "Monster Girl Island: Prologue",
-  "positive": 12236,
-  "negative": 421
- },
- {
-  "appId": "1057090",
-  "name": "Ori and the Will of the Wisps",
-  "positive": 42211,
-  "negative": 1860
- },
- {
-  "appId": "9420",
-  "name": "Supreme Commander: Forged Alliance",
-  "positive": 8066,
-  "negative": 244
- },
- {
-  "appId": "597220",
-  "name": "West of Loathing",
-  "positive": 5249,
-  "negative": 134
- },
- {
-  "appId": "57400",
-  "name": "Batman: Arkham City™",
-  "positive": 1896,
-  "negative": 20
- },
- {
-  "appId": "1318690",
-  "name": "shapez.io",
-  "positive": 3639,
+  "appId": "1055540",
+  "name": "A Short Hike",
+  "positive": 9999,
   "negative": 76
+ },
+ {
+  "appId": "739630",
+  "name": "Phasmophobia",
+  "positive": 398376,
+  "negative": 11884
+ },
+ {
+  "appId": "253230",
+  "name": "A Hat in Time",
+  "positive": 41826,
+  "negative": 828
+ },
+ {
+  "appId": "220",
+  "name": "Half-Life 2",
+  "positive": 137110,
+  "negative": 3612
+ },
+ {
+  "appId": "1366540",
+  "name": "Dyson Sphere Program",
+  "positive": 58952,
+  "negative": 1305
+ },
+ {
+  "appId": "1144400",
+  "name": "Senren＊Banka",
+  "positive": 8465,
+  "negative": 62
+ },
+ {
+  "appId": "367520",
+  "name": "Hollow Knight",
+  "positive": 208083,
+  "negative": 6120
+ },
+ {
+  "appId": "420530",
+  "name": "OneShot",
+  "positive": 26669,
+  "negative": 492
+ },
+ {
+  "appId": "504230",
+  "name": "Celeste",
+  "positive": 49829,
+  "negative": 1140
+ },
+ {
+  "appId": "774181",
+  "name": "Rhythm Doctor",
+  "positive": 14523,
+  "negative": 216
+ },
+ {
+  "appId": "883710",
+  "name": "Resident Evil 2",
+  "positive": 102211,
+  "negative": 2847
+ },
+ {
+  "appId": "4000",
+  "name": "Garry's Mod",
+  "positive": 781373,
+  "negative": 27642
+ },
+ {
+  "appId": "205100",
+  "name": "Dishonored",
+  "positive": 64408,
+  "negative": 1654
+ },
+ {
+  "appId": "1288310",
+  "name": "Firework",
+  "positive": 23786,
+  "negative": 461
+ },
+ {
+  "appId": "1281930",
+  "name": "tModLoader",
+  "positive": 110343,
+  "negative": 3178
+ },
+ {
+  "appId": "219150",
+  "name": "Hotline Miami",
+  "positive": 69972,
+  "negative": 1878
+ },
+ {
+  "appId": "213670",
+  "name": "South Park™: The Stick of Truth™",
+  "positive": 48700,
+  "negative": 1209
+ },
+ {
+  "appId": "526870",
+  "name": "Satisfactory",
+  "positive": 87113,
+  "negative": 2485
+ },
+ {
+  "appId": "588650",
+  "name": "Dead Cells",
+  "positive": 99274,
+  "negative": 2966
+ },
+ {
+  "appId": "1361320",
+  "name": "The Room 4: Old Sins",
+  "positive": 8817,
+  "negative": 108
+ },
+ {
+  "appId": "238460",
+  "name": "BattleBlock Theater",
+  "positive": 62959,
+  "negative": 1775
+ },
+ {
+  "appId": "1454400",
+  "name": "Cookie Clicker",
+  "positive": 29828,
+  "negative": 702
+ },
+ {
+  "appId": "548430",
+  "name": "Deep Rock Galactic",
+  "positive": 122537,
+  "negative": 3889
+ },
+ {
+  "appId": "736260",
+  "name": "Baba Is You",
+  "positive": 15142,
+  "negative": 278
+ },
+ {
+  "appId": "1467450",
+  "name": "The Chronicles Of Myrtana: Archolos",
+  "positive": 8426,
+  "negative": 107
+ },
+ {
+  "appId": "1421250",
+  "name": "Tiny Bunny",
+  "positive": 7677,
+  "negative": 91
+ },
+ {
+  "appId": "1240210",
+  "name": "There Is No Game: Wrong Dimension",
+  "positive": 15307,
+  "negative": 286
+ },
+ {
+  "appId": "447530",
+  "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+  "positive": 27699,
+  "negative": 653
+ },
+ {
+  "appId": "250320",
+  "name": "The Wolf Among Us",
+  "positive": 27167,
+  "negative": 636
+ },
+ {
+  "appId": "264200",
+  "name": "One Finger Death Punch",
+  "positive": 15566,
+  "negative": 303
+ },
+ {
+  "appId": "698780",
+  "name": "Doki Doki Literature Club",
+  "positive": 168693,
+  "negative": 5769
+ },
+ {
+  "appId": "1092790",
+  "name": "Inscryption",
+  "positive": 62309,
+  "negative": 1829
+ },
+ {
+  "appId": "1170880",
+  "name": "Grimm's Hollow",
+  "positive": 9424,
+  "negative": 143
+ },
+ {
+  "appId": "1113000",
+  "name": "Persona 4 Golden",
+  "positive": 52237,
+  "negative": 1509
+ },
+ {
+  "appId": "1129190",
+  "name": "Our Life: Beginnings & Always",
+  "positive": 6249,
+  "negative": 68
+ },
+ {
+  "appId": "1230140",
+  "name": "ATRI -My Dear Moments-",
+  "positive": 7227,
+  "negative": 92
+ },
+ {
+  "appId": "391540",
+  "name": "Undertale",
+  "positive": 169532,
+  "negative": 5935
+ },
+ {
+  "appId": "3590",
+  "name": "Plants vs. Zombies: Game of the Year",
+  "positive": 72942,
+  "negative": 2262
+ },
+ {
+  "appId": "644560",
+  "name": "Mirror",
+  "positive": 81800,
+  "negative": 2618
+ },
+ {
+  "appId": "288160",
+  "name": "The Room",
+  "positive": 19834,
+  "negative": 452
+ },
+ {
+  "appId": "1290000",
+  "name": "PowerWash Simulator",
+  "positive": 17249,
+  "negative": 374
+ },
+ {
+  "appId": "219740",
+  "name": "Don't Starve",
+  "positive": 92055,
+  "negative": 3029
+ },
+ {
+  "appId": "424280",
+  "name": "Iron Snout",
+  "positive": 16318,
+  "negative": 351
+ },
+ {
+  "appId": "632360",
+  "name": "Risk of Rain 2",
+  "positive": 184147,
+  "negative": 6666
  },
  {
   "appId": "284160",
   "name": "BeamNG.drive",
-  "positive": 50720,
-  "negative": 2312
+  "positive": 112146,
+  "negative": 3850
  },
  {
-  "appId": "1285670",
-  "name": "Post Void",
-  "positive": 2452,
-  "negative": 37
+  "appId": "519860",
+  "name": "DUSK",
+  "positive": 14679,
+  "negative": 308
  },
  {
-  "appId": "418240",
-  "name": "Shadow Tactics: Blades of the Shogun",
-  "positive": 20084,
-  "negative": 790
+  "appId": "292030",
+  "name": "The Witcher 3: Wild Hunt",
+  "positive": 599388,
+  "negative": 24293
  },
  {
-  "appId": "41700",
-  "name": "S.T.A.L.K.E.R.: Call of Pripyat",
-  "positive": 15334,
-  "negative": 568
+  "appId": "207610",
+  "name": "The Walking Dead",
+  "positive": 55051,
+  "negative": 1713
  },
  {
-  "appId": "8870",
-  "name": "BioShock Infinite",
-  "positive": 100194,
-  "negative": 4964
+  "appId": "322330",
+  "name": "Don't Starve Together",
+  "positive": 312703,
+  "negative": 12237
  },
  {
-  "appId": "113200",
-  "name": "The Binding of Isaac",
-  "positive": 46447,
-  "negative": 2104
+  "appId": "274190",
+  "name": "Broforce",
+  "positive": 46376,
+  "negative": 1406
  },
  {
-  "appId": "250760",
-  "name": "Shovel Knight: Treasure Trove",
-  "positive": 12355,
-  "negative": 435
+  "appId": "425580",
+  "name": "The Room Two",
+  "positive": 14006,
+  "negative": 303
  },
  {
-  "appId": "1140270",
-  "name": "Monster Prom 2: Monster Camp",
-  "positive": 2179,
-  "negative": 29
+  "appId": "337340",
+  "name": "Finding Paradise",
+  "positive": 13059,
+  "negative": 274
  },
  {
-  "appId": "247080",
-  "name": "Crypt of the NecroDancer",
-  "positive": 18558,
-  "negative": 723
+  "appId": "1584090",
+  "name": "东方夜雀食堂 - Touhou Mystia's Izakaya -",
+  "positive": 6178,
+  "negative": 81
+ },
+ {
+  "appId": "22380",
+  "name": "Fallout: New Vegas",
+  "positive": 147761,
+  "negative": 5431
+ },
+ {
+  "appId": "32470",
+  "name": "STAR WARS™ Empire at War: Gold Pack",
+  "positive": 26276,
+  "negative": 708
+ },
+ {
+  "appId": "1241510",
+  "name": "The Test",
+  "positive": 14460,
+  "negative": 322
+ },
+ {
+  "appId": "1507970",
+  "name": "文字遊戲：第零章",
+  "positive": 3928,
+  "negative": 31
+ },
+ {
+  "appId": "239030",
+  "name": "Papers, Please",
+  "positive": 48239,
+  "negative": 1517
+ },
+ {
+  "appId": "636480",
+  "name": "Ravenfield",
+  "positive": 45401,
+  "negative": 1413
+ },
+ {
+  "appId": "531510",
+  "name": "Just Shapes & Beats",
+  "positive": 13524,
+  "negative": 298
+ },
+ {
+  "appId": "217980",
+  "name": "Dishonored RHCP",
+  "positive": 11891,
+  "negative": 248
+ },
+ {
+  "appId": "264710",
+  "name": "Subnautica",
+  "positive": 182797,
+  "negative": 7007
+ },
+ {
+  "appId": "1593500",
+  "name": "God of War",
+  "positive": 42731,
+  "negative": 1322
+ },
+ {
+  "appId": "252150",
+  "name": "Grimm",
+  "positive": 30733,
+  "negative": 892
+ },
+ {
+  "appId": "787480",
+  "name": "Phoenix Wright: Ace Attorney Trilogy",
+  "positive": 13626,
+  "negative": 312
+ },
+ {
+  "appId": "203160",
+  "name": "Tomb Raider",
+  "positive": 202716,
+  "negative": 8009
+ },
+ {
+  "appId": "1070710",
+  "name": "Kind Words",
+  "positive": 7053,
+  "negative": 118
+ },
+ {
+  "appId": "851100",
+  "name": "Touhou Luna Nights",
+  "positive": 10953,
+  "negative": 238
+ },
+ {
+  "appId": "8930",
+  "name": "Sid Meier's Civilization V",
+  "positive": 176241,
+  "negative": 7072
+ },
+ {
+  "appId": "324160",
+  "name": "CLANNAD",
+  "positive": 5691,
+  "negative": 86
+ },
+ {
+  "appId": "1057090",
+  "name": "Ori and the Will of the Wisps",
+  "positive": 81098,
+  "negative": 2972
+ },
+ {
+  "appId": "70",
+  "name": "Half-Life",
+  "positive": 70064,
+  "negative": 2515
+ },
+ {
+  "appId": "341800",
+  "name": "Keep Talking and Nobody Explodes",
+  "positive": 10416,
+  "negative": 227
+ },
+ {
+  "appId": "268910",
+  "name": "Cuphead",
+  "positive": 90818,
+  "negative": 3396
+ },
+ {
+  "appId": "270880",
+  "name": "American Truck Simulator",
+  "positive": 97861,
+  "negative": 3705
+ },
+ {
+  "appId": "319630",
+  "name": "Life is Strange™",
+  "positive": 150176,
+  "negative": 6010
+ },
+ {
+  "appId": "457140",
+  "name": "Oxygen Not Included",
+  "positive": 78674,
+  "negative": 2912
+ },
+ {
+  "appId": "1455840",
+  "name": "Dorfromantik",
+  "positive": 13101,
+  "negative": 321
+ },
+ {
+  "appId": "240",
+  "name": "Counter-Strike: Source",
+  "positive": 131362,
+  "negative": 5225
+ },
+ {
+  "appId": "683320",
+  "name": "GRIS",
+  "positive": 51023,
+  "negative": 1783
+ },
+ {
+  "appId": "1082430",
+  "name": "Before Your Eyes",
+  "positive": 7125,
+  "negative": 136
+ },
+ {
+  "appId": "432350",
+  "name": "Epic Battle Fantasy 5",
+  "positive": 3971,
+  "negative": 47
+ },
+ {
+  "appId": "1832640",
+  "name": "Mirror 2: Project X",
+  "positive": 28135,
+  "negative": 897
+ },
+ {
+  "appId": "204360",
+  "name": "Castle Crashers",
+  "positive": 86696,
+  "negative": 3378
+ },
+ {
+  "appId": "1093910",
+  "name": "Tales of the Black Forest",
+  "positive": 5435,
+  "negative": 90
+ },
+ {
+  "appId": "435150",
+  "name": "Divinity: Original Sin 2",
+  "positive": 136384,
+  "negative": 5618
+ },
+ {
+  "appId": "420",
+  "name": "Half-Life 2: Episode Two",
+  "positive": 27769,
+  "negative": 894
+ },
+ {
+  "appId": "238320",
+  "name": "Outlast",
+  "positive": 80518,
+  "negative": 3120
+ },
+ {
+  "appId": "206440",
+  "name": "To the Moon",
+  "positive": 58357,
+  "negative": 2159
+ },
+ {
+  "appId": "351640",
+  "name": "Eternal Senia",
+  "positive": 11350,
+  "negative": 281
+ },
+ {
+  "appId": "745880",
+  "name": "東方天空璋 ～ Hidden Star in Four Seasons.",
+  "positive": 4387,
+  "negative": 62
+ },
+ {
+  "appId": "1390350",
+  "name": "Webbed",
+  "positive": 6809,
+  "negative": 135
+ },
+ {
+  "appId": "312990",
+  "name": "The Expendabros",
+  "positive": 16924,
+  "negative": 490
+ },
+ {
+  "appId": "412830",
+  "name": "STEINS;GATE",
+  "positive": 11724,
+  "negative": 301
+ },
+ {
+  "appId": "206190",
+  "name": "Gunpoint",
+  "positive": 11726,
+  "negative": 306
+ },
+ {
+  "appId": "892970",
+  "name": "Valheim",
+  "positive": 321993,
+  "negative": 14752
  },
  {
   "appId": "597170",
   "name": "Clone Drone in the Danger Zone",
-  "positive": 8422,
-  "negative": 266
+  "positive": 16817,
+  "negative": 501
  },
  {
-  "appId": "304430",
-  "name": "INSIDE",
-  "positive": 26428,
-  "negative": 1107
+  "appId": "607080",
+  "name": "Psychonauts 2",
+  "positive": 6533,
+  "negative": 134
  },
  {
-  "appId": "1235140",
-  "name": "Yakuza: Like a Dragon",
-  "positive": 3825,
-  "negative": 86
+  "appId": "40970",
+  "name": "Stronghold Crusader HD",
+  "positive": 12514,
+  "negative": 343
  },
  {
-  "appId": "331470",
-  "name": "Everlasting Summer",
-  "positive": 38998,
-  "negative": 1761
+  "appId": "1291340",
+  "name": "Townscaper",
+  "positive": 15471,
+  "negative": 456
  },
  {
-  "appId": "107100",
-  "name": "Bastion",
-  "positive": 31269,
-  "negative": 1364
+  "appId": "1285670",
+  "name": "Post Void",
+  "positive": 5760,
+  "negative": 111
+ },
+ {
+  "appId": "1426210",
+  "name": "It Takes Two",
+  "positive": 77496,
+  "negative": 3147
+ },
+ {
+  "appId": "311690",
+  "name": "Enter the Gungeon",
+  "positive": 62264,
+  "negative": 2485
+ },
+ {
+  "appId": "221640",
+  "name": "Super Hexagon",
+  "positive": 22314,
+  "negative": 738
+ },
+ {
+  "appId": "1250760",
+  "name": "海沙风云 Far Away",
+  "positive": 3538,
+  "negative": 48
+ },
+ {
+  "appId": "1698960",
+  "name": "Project Kat - Paper Lily Prologue",
+  "positive": 2418,
+  "negative": 19
+ },
+ {
+  "appId": "1530140",
+  "name": "Aventura Copilului Albastru și Urât",
+  "positive": 2037,
+  "negative": 10
+ },
+ {
+  "appId": "617670",
+  "name": "Zup! S",
+  "positive": 9203,
+  "negative": 233
+ },
+ {
+  "appId": "1369320",
+  "name": "Virtual Cottage",
+  "positive": 5592,
+  "negative": 111
+ },
+ {
+  "appId": "312530",
+  "name": "Duck Game",
+  "positive": 31147,
+  "negative": 1127
+ },
+ {
+  "appId": "557600",
+  "name": "Gorogoa",
+  "positive": 10372,
+  "negative": 280
+ },
+ {
+  "appId": "35140",
+  "name": "Batman: Arkham Asylum GOTY Edition",
+  "positive": 39311,
+  "negative": 1501
+ },
+ {
+  "appId": "214560",
+  "name": "Mark of the Ninja",
+  "positive": 15213,
+  "negative": 471
+ },
+ {
+  "appId": "1292940",
+  "name": "Cube Escape Collection",
+  "positive": 3323,
+  "negative": 46
  },
  {
   "appId": "223470",
   "name": "POSTAL 2",
-  "positive": 50134,
-  "negative": 2346
+  "positive": 63980,
+  "negative": 2640
  },
  {
-  "appId": "287980",
-  "name": "Mini Metro",
-  "positive": 9777,
+  "appId": "450540",
+  "name": "Hot Dogs, Horseshoes & Hand Grenades",
+  "positive": 14199,
+  "negative": 435
+ },
+ {
+  "appId": "420110",
+  "name": "NEKOPARA Vol. 2",
+  "positive": 11636,
   "negative": 334
  },
  {
-  "appId": "557340",
-  "name": "My Friend Pedro",
-  "positive": 19449,
-  "negative": 788
+  "appId": "942970",
+  "name": "Unheard",
+  "positive": 23225,
+  "negative": 814
+ },
+ {
+  "appId": "304430",
+  "name": "INSIDE",
+  "positive": 34455,
+  "negative": 1308
+ },
+ {
+  "appId": "1392820",
+  "name": "Milk inside a bag of milk inside a bag of milk",
+  "positive": 9378,
+  "negative": 254
+ },
+ {
+  "appId": "620980",
+  "name": "Beat Saber",
+  "positive": 58640,
+  "negative": 2433
+ },
+ {
+  "appId": "1469280",
+  "name": "SuchArt: Creative Space",
+  "positive": 5216,
+  "negative": 108
+ },
+ {
+  "appId": "1406990",
+  "name": "NEKOPARA Vol. 4",
+  "positive": 6779,
+  "negative": 164
  },
  {
   "appId": "1067310",
   "name": "Gravitas",
-  "positive": 3809,
-  "negative": 88
+  "positive": 5432,
+  "negative": 117
  },
  {
-  "appId": "261570",
-  "name": "Ori and the Blind Forest",
-  "positive": 40996,
-  "negative": 1889
+  "appId": "55230",
+  "name": "Saints Row: The Third",
+  "positive": 62115,
+  "negative": 2630
+ },
+ {
+  "appId": "602520",
+  "name": "NEKOPARA Vol. 3",
+  "positive": 10949,
+  "negative": 322
+ },
+ {
+  "appId": "1428310",
+  "name": "The Test: Final Revelation",
+  "positive": 3443,
+  "negative": 54
+ },
+ {
+  "appId": "212680",
+  "name": "FTL: Faster Than Light",
+  "positive": 60824,
+  "negative": 2573
+ },
+ {
+  "appId": "1277930",
+  "name": "Riddle Joker",
+  "positive": 2563,
+  "negative": 29
+ },
+ {
+  "appId": "413420",
+  "name": "Danganronpa 2: Goodbye Despair",
+  "positive": 18746,
+  "negative": 645
+ },
+ {
+  "appId": "653530",
+  "name": "Return of the Obra Dinn",
+  "positive": 15346,
+  "negative": 503
+ },
+ {
+  "appId": "1255980",
+  "name": "Portal Reloaded",
+  "positive": 13340,
+  "negative": 420
+ },
+ {
+  "appId": "1196590",
+  "name": "Resident Evil Village",
+  "positive": 68909,
+  "negative": 2980
+ },
+ {
+  "appId": "601220",
+  "name": "Zup! F",
+  "positive": 7040,
+  "negative": 177
+ },
+ {
+  "appId": "413410",
+  "name": "Danganronpa: Trigger Happy Havoc",
+  "positive": 21771,
+  "negative": 782
+ },
+ {
+  "appId": "386940",
+  "name": "Ultimate Chicken Horse",
+  "positive": 26116,
+  "negative": 976
+ },
+ {
+  "appId": "500",
+  "name": "Left 4 Dead",
+  "positive": 38398,
+  "negative": 1549
+ },
+ {
+  "appId": "400910",
+  "name": "Rabi-Ribi",
+  "positive": 9597,
+  "negative": 279
+ },
+ {
+  "appId": "362680",
+  "name": "Fran Bow",
+  "positive": 10585,
+  "negative": 319
+ },
+ {
+  "appId": "1806840",
+  "name": "100 hidden frogs",
+  "positive": 2367,
+  "negative": 26
+ },
+ {
+  "appId": "597220",
+  "name": "West of Loathing",
+  "positive": 6843,
+  "negative": 175
+ },
+ {
+  "appId": "221380",
+  "name": "Age of Empires II (2013)",
+  "positive": 89297,
+  "negative": 4075
+ },
+ {
+  "appId": "242760",
+  "name": "The Forest",
+  "positive": 336522,
+  "negative": 17238
+ },
+ {
+  "appId": "239140",
+  "name": "Dying Light",
+  "positive": 304258,
+  "negative": 15497
+ },
+ {
+  "appId": "387290",
+  "name": "Ori and the Blind Forest: Definitive Edition",
+  "positive": 49601,
+  "negative": 2122
+ },
+ {
+  "appId": "418240",
+  "name": "Shadow Tactics: Blades of the Shogun",
+  "positive": 29575,
+  "negative": 1165
+ },
+ {
+  "appId": "339800",
+  "name": "HuniePop",
+  "positive": 27425,
+  "negative": 1067
+ },
+ {
+  "appId": "629730",
+  "name": "Blade & Sorcery",
+  "positive": 27641,
+  "negative": 1082
+ },
+ {
+  "appId": "32440",
+  "name": "LEGO® Star Wars™: The Complete Saga",
+  "positive": 16506,
+  "negative": 582
+ },
+ {
+  "appId": "909080",
+  "name": "Cube Escape: Paradox",
+  "positive": 6308,
+  "negative": 162
+ },
+ {
+  "appId": "1171370",
+  "name": "The Supper",
+  "positive": 2753,
+  "negative": 40
+ },
+ {
+  "appId": "1140270",
+  "name": "Monster Prom 2: Monster Camp",
+  "positive": 4037,
+  "negative": 82
+ },
+ {
+  "appId": "9420",
+  "name": "Supreme Commander: Forged Alliance",
+  "positive": 10051,
+  "negative": 313
+ },
+ {
+  "appId": "1318690",
+  "name": "shapez.io",
+  "positive": 6977,
+  "negative": 190
+ },
+ {
+  "appId": "200260",
+  "name": "Batman: Arkham City GOTY",
+  "positive": 42709,
+  "negative": 1830
+ },
+ {
+  "appId": "331470",
+  "name": "Everlasting Summer",
+  "positive": 52730,
+  "negative": 2332
+ },
+ {
+  "appId": "1388880",
+  "name": "Doki Doki Literature Club Plus!",
+  "positive": 13765,
+  "negative": 473
+ },
+ {
+  "appId": "1102190",
+  "name": "Monster Train",
+  "positive": 14709,
+  "negative": 517
+ },
+ {
+  "appId": "246420",
+  "name": "Kingdom Rush",
+  "positive": 9050,
+  "negative": 277
+ },
+ {
+  "appId": "858210",
+  "name": "Nova Drift",
+  "positive": 6875,
+  "negative": 190
+ },
+ {
+  "appId": "541570",
+  "name": "Sally Face",
+  "positive": 10791,
+  "negative": 350
+ },
+ {
+  "appId": "488860",
+  "name": "MADNESS: Project Nexus",
+  "positive": 8173,
+  "negative": 242
+ },
+ {
+  "appId": "379720",
+  "name": "DOOM",
+  "positive": 155363,
+  "negative": 7783
+ },
+ {
+  "appId": "1202540",
+  "name": "Marco & The Galaxy Dragon",
+  "positive": 3865,
+  "negative": 80
+ },
+ {
+  "appId": "362890",
+  "name": "Black Mesa",
+  "positive": 74993,
+  "negative": 3507
+ },
+ {
+  "appId": "1044620",
+  "name": "Aokana - Four Rhythms Across the Blue",
+  "positive": 2864,
+  "negative": 47
+ },
+ {
+  "appId": "1235140",
+  "name": "Yakuza: Like a Dragon",
+  "positive": 15117,
+  "negative": 551
+ },
+ {
+  "appId": "1388770",
+  "name": "Cruelty Squad",
+  "positive": 6902,
+  "negative": 199
+ },
+ {
+  "appId": "1282200",
+  "name": "The Test: Hypothesis Rising",
+  "positive": 3969,
+  "negative": 87
+ },
+ {
+  "appId": "667970",
+  "name": "VTOL VR",
+  "positive": 5435,
+  "negative": 142
+ },
+ {
+  "appId": "261030",
+  "name": "The Walking Dead: Season Two",
+  "positive": 24539,
+  "negative": 1001
+ },
+ {
+  "appId": "512900",
+  "name": "Streets of Rogue",
+  "positive": 14641,
+  "negative": 535
  },
  {
   "appId": "1281800",
   "name": "Samsara Room",
-  "positive": 4071,
-  "negative": 100
+  "positive": 6322,
+  "negative": 177
  },
  {
-  "appId": "346010",
-  "name": "Besiege",
-  "positive": 37665,
-  "negative": 1734
+  "appId": "367580",
+  "name": "Hook",
+  "positive": 8135,
+  "negative": 252
  },
  {
-  "appId": "511470",
-  "name": "Glass Masquerade",
-  "positive": 4309,
-  "negative": 110
+  "appId": "1126320",
+  "name": "Being a DIK",
+  "positive": 6373,
+  "negative": 180
  },
  {
-  "appId": "558990",
-  "name": "Opus Magnum",
-  "positive": 3481,
+  "appId": "1082710",
+  "name": "Bug Fables: The Everlasting Sapling",
+  "positive": 3158,
+  "negative": 60
+ },
+ {
+  "appId": "871720",
+  "name": "Ultimate Custom Night",
+  "positive": 38439,
+  "negative": 1702
+ },
+ {
+  "appId": "282140",
+  "name": "SOMA",
+  "positive": 29793,
+  "negative": 1268
+ },
+ {
+  "appId": "1122720",
+  "name": "Sayonara Wild Hearts",
+  "positive": 5960,
+  "negative": 165
+ },
+ {
+  "appId": "1708870",
+  "name": "第七号列车 - Train No. 7",
+  "positive": 3993,
+  "negative": 90
+ },
+ {
+  "appId": "1434480",
+  "name": "Maitetsu:Last Run!!",
+  "positive": 1774,
+  "negative": 18
+ },
+ {
+  "appId": "557340",
+  "name": "My Friend Pedro",
+  "positive": 22826,
+  "negative": 933
+ },
+ {
+  "appId": "317400",
+  "name": "Portal Stories: Mel",
+  "positive": 17395,
+  "negative": 673
+ },
+ {
+  "appId": "799640",
+  "name": "Dungeon Munchies",
+  "positive": 3648,
   "negative": 79
  },
  {
   "appId": "72850",
   "name": "The Elder Scrolls V: Skyrim",
-  "positive": 277092,
-  "negative": 15480
- },
- {
-  "appId": "239140",
-  "name": "Dying Light",
-  "positive": 191686,
-  "negative": 10452
- },
- {
-  "appId": "261030",
-  "name": "The Walking Dead: Season Two",
-  "positive": 22724,
-  "negative": 972
- },
- {
-  "appId": "450540",
-  "name": "Hot Dogs, Horseshoes & Hand Grenades",
-  "positive": 8288,
-  "negative": 278
- },
- {
-  "appId": "500",
-  "name": "Left 4 Dead",
-  "positive": 28449,
-  "negative": 1266
- },
- {
-  "appId": "386940",
-  "name": "Ultimate Chicken Horse",
-  "positive": 17310,
-  "negative": 703
- },
- {
-  "appId": "1122720",
-  "name": "Sayonara Wild Hearts",
-  "positive": 3954,
-  "negative": 98
- },
- {
-  "appId": "1250",
-  "name": "Killing Floor",
-  "positive": 57951,
-  "negative": 2847
- },
- {
-  "appId": "282140",
-  "name": "SOMA",
-  "positive": 23687,
-  "negative": 1024
- },
- {
-  "appId": "881100",
-  "name": "Noita",
-  "positive": 21180,
-  "negative": 903
- },
- {
-  "appId": "610370",
-  "name": "Desperados III",
-  "positive": 4920,
-  "negative": 138
- },
- {
-  "appId": "200260",
-  "name": "Batman: Arkham City GOTY",
-  "positive": 33859,
-  "negative": 1568
- },
- {
-  "appId": "909080",
-  "name": "Cube Escape: Paradox",
-  "positive": 4393,
-  "negative": 118
- },
- {
-  "appId": "1202540",
-  "name": "Marco & The Galaxy Dragon",
-  "positive": 2331,
-  "negative": 41
- },
- {
-  "appId": "411960",
-  "name": "TY the Tasmanian Tiger",
-  "positive": 2024,
-  "negative": 31
- },
- {
-  "appId": "1292940",
-  "name": "Cube Escape Collection",
-  "positive": 1291,
-  "negative": 9
- },
- {
-  "appId": "379720",
-  "name": "DOOM",
-  "positive": 126706,
-  "negative": 6833
- },
- {
-  "appId": "692850",
-  "name": "Bloodstained: Ritual of the Night",
-  "positive": 23924,
-  "negative": 1056
- },
- {
-  "appId": "433950",
-  "name": "Bit Blaster XL",
-  "positive": 5705,
-  "negative": 175
- },
- {
-  "appId": "242680",
-  "name": "Nuclear Throne",
-  "positive": 13088,
-  "negative": 516
- },
- {
-  "appId": "732430",
-  "name": "Superflight",
-  "positive": 7945,
-  "negative": 275
- },
- {
-  "appId": "362680",
-  "name": "Fran Bow",
-  "positive": 7283,
-  "negative": 245
- },
- {
-  "appId": "1178030",
-  "name": "Star Fetchers",
-  "positive": 4197,
-  "negative": 113
- },
- {
-  "appId": "871720",
-  "name": "Ultimate Custom Night",
-  "positive": 19218,
-  "negative": 834
- },
- {
-  "appId": "913740",
-  "name": "WORLD OF HORROR",
-  "positive": 3205,
-  "negative": 76
- },
- {
-  "appId": "512900",
-  "name": "Streets of Rogue",
-  "positive": 11820,
-  "negative": 463
- },
- {
-  "appId": "257510",
-  "name": "The Talos Principle",
-  "positive": 21579,
-  "negative": 961
- },
- {
-  "appId": "333600",
-  "name": "NEKOPARA Vol. 1",
-  "positive": 20197,
-  "negative": 893
- },
- {
-  "appId": "317400",
-  "name": "Portal Stories: Mel",
-  "positive": 14053,
-  "negative": 578
- },
- {
-  "appId": "435400",
-  "name": "Hidden Folks",
-  "positive": 6604,
-  "negative": 223
- },
- {
-  "appId": "1093910",
-  "name": "Tales of the Black Forest",
-  "positive": 1733,
-  "negative": 25
- },
- {
-  "appId": "360740",
-  "name": "Downwell",
-  "positive": 5611,
-  "negative": 179
- },
- {
-  "appId": "499440",
-  "name": "klocki",
-  "positive": 4012,
-  "negative": 111
- },
- {
-  "appId": "623080",
-  "name": "planetarian HD",
-  "positive": 1436,
-  "negative": 16
- },
- {
-  "appId": "1082710",
-  "name": "Bug Fables",
-  "positive": 1652,
-  "negative": 23
- },
- {
-  "appId": "639790",
-  "name": "DEEP SPACE WAIFU",
-  "positive": 8111,
-  "negative": 298
- },
- {
-  "appId": "239820",
-  "name": "Game Dev Tycoon",
-  "positive": 32821,
-  "negative": 1603
- },
- {
-  "appId": "1044620",
-  "name": "Aokana - Four Rhythms Across the Blue",
-  "positive": 1690,
-  "negative": 25
- },
- {
-  "appId": "1171370",
-  "name": "The Supper",
-  "positive": 1567,
-  "negative": 21
- },
- {
-  "appId": "246420",
-  "name": "Kingdom Rush",
-  "positive": 6808,
-  "negative": 240
- },
- {
-  "appId": "440",
-  "name": "Team Fortress 2",
-  "positive": 686386,
-  "negative": 43028
- },
- {
-  "appId": "35720",
-  "name": "Trine 2",
-  "positive": 18326,
-  "negative": 826
- },
- {
-  "appId": "407900",
-  "name": "Princess Remedy in a World of Hurt",
-  "positive": 2556,
-  "negative": 57
- },
- {
-  "appId": "22330",
-  "name": "The Elder Scrolls IV: Oblivion ",
-  "positive": 24667,
-  "negative": 1171
- },
- {
-  "appId": "900883",
-  "name": "The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe",
-  "positive": 24667,
-  "negative": 1171
- },
- {
-  "appId": "236090",
-  "name": "Dust: An Elysian Tail",
-  "positive": 15940,
-  "negative": 703
- },
- {
-  "appId": "899970",
-  "name": "NEKOPARA Extra",
-  "positive": 2246,
-  "negative": 47
- },
- {
-  "appId": "242760",
-  "name": "The Forest",
-  "positive": 205499,
-  "negative": 12316
- },
- {
-  "appId": "4500",
-  "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
-  "positive": 18015,
-  "negative": 831
- },
- {
-  "appId": "102600",
-  "name": "Orcs Must Die!",
-  "positive": 6003,
-  "negative": 212
- },
- {
-  "appId": "939400",
-  "name": "LoveChoice 拣爱",
-  "positive": 5578,
-  "negative": 193
- },
- {
-  "appId": "50130",
-  "name": "Mafia II (Classic)",
-  "positive": 42475,
-  "negative": 2237
- },
- {
-  "appId": "812810",
-  "name": "missed messages.",
-  "positive": 9776,
-  "negative": 399
- },
- {
-  "appId": "559210",
-  "name": "Rakuen",
-  "positive": 3739,
-  "negative": 110
- },
- {
-  "appId": "732690",
-  "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
-  "positive": 3567,
-  "negative": 103
- },
- {
-  "appId": "508900",
-  "name": "Zup! X",
-  "positive": 4708,
-  "negative": 154
- },
- {
-  "appId": "260230",
-  "name": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
-  "positive": 17876,
-  "negative": 835
- },
- {
-  "appId": "70300",
-  "name": "VVVVVV",
-  "positive": 7626,
-  "negative": 295
- },
- {
-  "appId": "1064610",
-  "name": "Neon Beats",
-  "positive": 4953,
-  "negative": 167
+  "positive": 292345,
+  "negative": 15928
  },
  {
   "appId": "814380",
   "name": "Sekiro™: Shadows Die Twice",
-  "positive": 105401,
-  "negative": 6123
+  "positive": 166707,
+  "negative": 8733
  },
  {
-  "appId": "601840",
-  "name": "Griftlands",
-  "positive": 6023,
-  "negative": 218
+  "appId": "8870",
+  "name": "BioShock Infinite",
+  "positive": 117377,
+  "negative": 5976
  },
  {
-  "appId": "617670",
-  "name": "Zup! S",
-  "positive": 3786,
-  "negative": 115
+  "appId": "287980",
+  "name": "Mini Metro",
+  "positive": 11912,
+  "negative": 424
  },
  {
-  "appId": "322170",
-  "name": "Geometry Dash",
-  "positive": 95726,
-  "negative": 5545
+  "appId": "250760",
+  "name": "Shovel Knight: Treasure Trove",
+  "positive": 13500,
+  "negative": 498
  },
  {
-  "appId": "282070",
-  "name": "This War of Mine",
-  "positive": 61695,
-  "negative": 3442
+  "appId": "1178030",
+  "name": "Star Fetchers",
+  "positive": 5698,
+  "negative": 159
  },
  {
-  "appId": "4700",
-  "name": "Total War: MEDIEVAL II - Definitive Edition",
-  "positive": 18237,
-  "negative": 867
+  "appId": "247080",
+  "name": "Crypt of the NecroDancer",
+  "positive": 20402,
+  "negative": 831
  },
  {
-  "appId": "406150",
-  "name": "Refunct",
-  "positive": 14701,
-  "negative": 672
+  "appId": "242680",
+  "name": "Nuclear Throne",
+  "positive": 14922,
+  "negative": 568
  },
  {
-  "appId": "32440",
-  "name": "LEGO® Star Wars™: The Complete Saga",
-  "positive": 9649,
-  "negative": 408
- },
- {
-  "appId": "843380",
-  "name": "Super Animal Royale",
-  "positive": 7303,
-  "negative": 287
+  "appId": "610370",
+  "name": "Desperados III",
+  "positive": 9236,
+  "negative": 310
  },
  {
   "appId": "1167630",
   "name": "Teardown",
-  "positive": 9857,
-  "negative": 421
+  "positive": 35394,
+  "negative": 1586
  },
  {
-  "appId": "335670",
-  "name": "LISA",
-  "positive": 9679,
-  "negative": 411
+  "appId": "346010",
+  "name": "Besiege",
+  "positive": 41211,
+  "negative": 1894
  },
  {
-  "appId": "1126320",
-  "name": "Being a DIK",
-  "positive": 2635,
-  "negative": 69
+  "appId": "623080",
+  "name": "planetarian HD",
+  "positive": 1778,
+  "negative": 20
  },
  {
-  "appId": "1122750",
-  "name": "异化之恶〇Abnormal Treatment",
-  "positive": 1722,
-  "negative": 33
+  "appId": "113200",
+  "name": "The Binding of Isaac",
+  "positive": 51023,
+  "negative": 2418
  },
  {
-  "appId": "35700",
-  "name": "Trine",
-  "positive": 11377,
-  "negative": 506
+  "appId": "732690",
+  "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+  "positive": 7696,
+  "negative": 247
  },
  {
-  "appId": "969990",
-  "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
-  "positive": 7302,
-  "negative": 291
+  "appId": "558990",
+  "name": "Opus Magnum",
+  "positive": 4463,
+  "negative": 114
  },
  {
-  "appId": "844930",
-  "name": "Fox Hime Zero",
-  "positive": 2853,
-  "negative": 79
+  "appId": "1127400",
+  "name": "Mindustry",
+  "positive": 10145,
+  "negative": 357
  },
  {
-  "appId": "227000",
-  "name": "Primordia",
-  "positive": 2499,
-  "negative": 64
+  "appId": "57400",
+  "name": "Batman: Arkham City™",
+  "positive": 1950,
+  "negative": 26
  },
  {
-  "appId": "1241700",
-  "name": "There is no game : Jam Edition 2015",
-  "positive": 2371,
-  "negative": 59
+  "appId": "992310",
+  "name": "Backbone: Prologue",
+  "positive": 4023,
+  "negative": 99
  },
  {
-  "appId": "13230",
-  "name": "Unreal Tournament 2004",
-  "positive": 2804,
-  "negative": 78
+  "appId": "511470",
+  "name": "Glass Masquerade",
+  "positive": 5227,
+  "negative": 147
+ },
+ {
+  "appId": "261570",
+  "name": "Ori and the Blind Forest",
+  "positive": 45751,
+  "negative": 2183
+ },
+ {
+  "appId": "881100",
+  "name": "Noita",
+  "positive": 40504,
+  "negative": 1906
+ },
+ {
+  "appId": "107100",
+  "name": "Bastion",
+  "positive": 33179,
+  "negative": 1518
+ },
+ {
+  "appId": "435400",
+  "name": "Hidden Folks",
+  "positive": 7597,
+  "negative": 251
+ },
+ {
+  "appId": "1504500",
+  "name": "OPUS: Echo of Starsong",
+  "positive": 4238,
+  "negative": 110
+ },
+ {
+  "appId": "1268960",
+  "name": "pureya",
+  "positive": 1773,
+  "negative": 22
+ },
+ {
+  "appId": "1830840",
+  "name": "The Planet Crafter: Prologue",
+  "positive": 5749,
+  "negative": 172
+ },
+ {
+  "appId": "943700",
+  "name": "Monster Girl Island: Prologue",
+  "positive": 15015,
+  "negative": 600
+ },
+ {
+  "appId": "4700",
+  "name": "Total War: MEDIEVAL II - Definitive Edition",
+  "positive": 23379,
+  "negative": 1022
+ },
+ {
+  "appId": "22330",
+  "name": "The Elder Scrolls IV: Oblivion ",
+  "positive": 33688,
+  "negative": 1570
+ },
+ {
+  "appId": "900883",
+  "name": "The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe",
+  "positive": 33688,
+  "negative": 1570
+ },
+ {
+  "appId": "732430",
+  "name": "Superflight",
+  "positive": 9409,
+  "negative": 338
+ },
+ {
+  "appId": "360740",
+  "name": "Downwell",
+  "positive": 6633,
+  "negative": 213
+ },
+ {
+  "appId": "2280",
+  "name": "The Ultimate DOOM",
+  "positive": 11294,
+  "negative": 431
  }
 ]
