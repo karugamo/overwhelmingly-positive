@@ -8,20 +8,20 @@
  {
   "appId": "1145360",
   "name": "Hades",
-  "positive": 181748,
+  "positive": 181772,
   "negative": 2489
  },
  {
   "appId": "1118200",
   "name": "People Playground",
-  "positive": 101553,
-  "negative": 1133
+  "positive": 101795,
+  "negative": 1137
  },
  {
   "appId": "1794680",
   "name": "Vampire Survivors",
-  "positive": 66081,
-  "negative": 716
+  "positive": 66551,
+  "negative": 725
  },
  {
   "appId": "105600",
@@ -56,7 +56,7 @@
  {
   "appId": "1229490",
   "name": "ULTRAKILL",
-  "positive": 21544,
+  "positive": 21593,
   "negative": 163
  },
  {
@@ -86,8 +86,8 @@
  {
   "appId": "1089980",
   "name": "The Henry Stickmin Collection",
-  "positive": 28446,
-  "negative": 369
+  "positive": 28467,
+  "negative": 370
  },
  {
   "appId": "427520",
@@ -254,7 +254,7 @@
  {
   "appId": "588650",
   "name": "Dead Cells",
-  "positive": 99382,
+  "positive": 99468,
   "negative": 2968
  },
  {
@@ -320,8 +320,8 @@
  {
   "appId": "1092790",
   "name": "Inscryption",
-  "positive": 62569,
-  "negative": 1833
+  "positive": 62760,
+  "negative": 1835
  },
  {
   "appId": "264200",
@@ -350,7 +350,7 @@
  {
   "appId": "1129190",
   "name": "Our Life: Beginnings & Always",
-  "positive": 6271,
+  "positive": 6278,
   "negative": 69
  },
  {
@@ -440,14 +440,14 @@
  {
   "appId": "322330",
   "name": "Don't Starve Together",
-  "positive": 312921,
-  "negative": 12278
+  "positive": 312991,
+  "negative": 12294
  },
  {
   "appId": "1584090",
   "name": "东方夜雀食堂 - Touhou Mystia's Izakaya -",
-  "positive": 6215,
-  "negative": 81
+  "positive": 6233,
+  "negative": 82
  },
  {
   "appId": "425580",
@@ -512,8 +512,8 @@
  {
   "appId": "264710",
   "name": "Subnautica",
-  "positive": 182904,
-  "negative": 7010
+  "positive": 182969,
+  "negative": 7012
  },
  {
   "appId": "1593500",
@@ -608,8 +608,8 @@
  {
   "appId": "457140",
   "name": "Oxygen Not Included",
-  "positive": 78737,
-  "negative": 2912
+  "positive": 78747,
+  "negative": 2913
  },
  {
   "appId": "240",
@@ -722,8 +722,8 @@
  {
   "appId": "597170",
   "name": "Clone Drone in the Danger Zone",
-  "positive": 16835,
-  "negative": 501
+  "positive": 16868,
+  "negative": 500
  },
  {
   "appId": "607080",
@@ -846,16 +846,16 @@
   "negative": 436
  },
  {
-  "appId": "942970",
-  "name": "Unheard",
-  "positive": 23229,
-  "negative": 814
- },
- {
   "appId": "304430",
   "name": "INSIDE",
   "positive": 34463,
   "negative": 1308
+ },
+ {
+  "appId": "942970",
+  "name": "Unheard",
+  "positive": 23234,
+  "negative": 815
  },
  {
   "appId": "1469280",
@@ -1034,8 +1034,8 @@
  {
   "appId": "32440",
   "name": "LEGO® Star Wars™: The Complete Saga",
-  "positive": 16535,
-  "negative": 583
+  "positive": 16550,
+  "negative": 584
  },
  {
   "appId": "909080",
@@ -1050,9 +1050,15 @@
   "negative": 40
  },
  {
+  "appId": "1388880",
+  "name": "Doki Doki Literature Club Plus!",
+  "positive": 13857,
+  "negative": 473
+ },
+ {
   "appId": "1318690",
   "name": "shapez.io",
-  "positive": 6980,
+  "positive": 6986,
   "negative": 190
  },
  {
@@ -1060,12 +1066,6 @@
   "name": "Batman: Arkham City GOTY",
   "positive": 42766,
   "negative": 1830
- },
- {
-  "appId": "1388880",
-  "name": "Doki Doki Literature Club Plus!",
-  "positive": 13831,
-  "negative": 473
  },
  {
   "appId": "9420",
@@ -1442,7 +1442,7 @@
  {
   "appId": "2280",
   "name": "The Ultimate DOOM",
-  "positive": 11303,
-  "negative": 431
+  "positive": 11306,
+  "negative": 430
  }
 ]
