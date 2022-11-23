@@ -1,0 +1,25 @@
+name: Update Data 🏃
+
+on:
+  schedule:
+    - cron:  '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    name: Update Data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Dependencies
+        run: npm ci
+      - name: Run Update Script
+        run: node ./scripts/update.js
+        env: 
+          YOUTUBE_KEY: ${{ secrets.YOUTUBE_KEY }}
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add data
+          git diff-index --quiet HEAD || git commit -m  "Update data" && git push
