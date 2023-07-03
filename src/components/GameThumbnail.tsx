@@ -34,12 +34,12 @@ export default function GameThumbnail({
         alt={game.name}
         src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${game.appId}/header.jpg`}
       />
-      <Categories showTags={hoveredOver}>
+      <Categories $showTags={hoveredOver}>
         {game.categories.map((id) => (
           <Tag key={id}>{categories[id]}</Tag>
         ))}
       </Categories>
-      <Genres showTags={hoveredOver}>
+      <Genres $showTags={hoveredOver}>
         {(game.genres || []).map((id) => (
           <Tag key={id}>{genreNames[id]}</Tag>
         ))}
@@ -57,7 +57,7 @@ const Image = styled.img`
 `;
 
 type TagsProps = {
-  showTags?: boolean;
+  $showTags?: boolean;
 };
 
 const Tags = styled.div<TagsProps>`

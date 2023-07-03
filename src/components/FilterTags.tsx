@@ -79,7 +79,7 @@ function FilterTag({filter, activeFilters, onToggle}: FilterTagProps) {
     .includes(filter.name)
 
   return (
-    <StyledTag inverted={isActive} onClick={() => onToggle(filter)}>
+    <StyledTag $inverted={isActive} onClick={() => onToggle(filter)}>
       {filter.name}
     </StyledTag>
   )
