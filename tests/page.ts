@@ -1,5 +1,5 @@
 import {BrowserContext, Frame, Page} from 'playwright'
-import delay from 'delay'
+import { delay } from '../scripts/lib'
 
 export async function goToHomepage(page: Page) {
   await page.goto('http://localhost:9000')

@@ -14,7 +14,7 @@ jobs:
       - name: Install Dependencies
         run: npm ci
       - name: Run Update Script
-        run: node ./scripts/update.js
+        run: npm run update-data
         env: 
           YOUTUBE_KEY: ${{ secrets.YOUTUBE_KEY }}
       - name: Commit and Push
