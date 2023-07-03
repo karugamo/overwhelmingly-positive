@@ -64,7 +64,7 @@ const Tags = styled.div<TagsProps>`
   justify-content: center;
   align-items: center;
   position: absolute;
-  display: ${({ showTags }) => (showTags ? "flex" : "none")};
+  display: ${({ $showTags }) => ($showTags ? "flex" : "none")};
 `;
 
 const Genres = styled(Tags)`
@@ -79,7 +79,6 @@ const Categories = styled(Tags)`
 
 const GameContainer = styled.a`
   cursor: pointer;
-  display: block;
   position: relative;
 
   @media (min-width: 460px) {
