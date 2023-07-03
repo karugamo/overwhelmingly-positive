@@ -17,7 +17,7 @@ export default async function getGamesFromSteamDb() {
 
 async function getTopRatedGames() {
   const browser = await chromium.launch({
-    headless: false,
+    headless: true,
   });
   const context = await browser.newContext({ javaScriptEnabled: false });
   const page = await context.newPage();
