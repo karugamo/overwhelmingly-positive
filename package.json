@@ -58,8 +58,6 @@
     "@typescript-eslint/parser": "^5.61.0",
     "eslint": "^8.44.0",
     "folio": "^0.3.18",
-    "parcel-bundler": "^1.12.4",
-    "parcel-plugin-static-files-copy": "^2.6.0",
     "playwright": "^1.35.1",
     "prettier": "^2.8.8",
     "start-server-and-test": "^2.0.0",

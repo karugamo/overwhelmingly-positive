@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 import {Game} from '../types'
-import Amazon from './Amazon'
 import GameThumbnail from './GameThumbnail'
 
 type GameListProps = {

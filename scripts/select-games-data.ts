@@ -31,10 +31,16 @@ export default function selectGamesData() {
 
   console.log(
     "Excluded because they are not Games:",
-    removedGames.map(({ appId, name }) => `${name} (${appId}, ${appIdToSteam[appId]?.type})`)
+    removedGames.map(
+      ({ appId, name }) => `${name} (${appId}, ${appIdToSteam[appId]?.type})`
+    )
   );
 
   const games = selectedGames.map(selectGameData);
+
+  if (games.length < 200) {
+    throw new Error(`Not enough games, only: ${games.length} not updating`);
+  }
 
   console.log("Website has", games.length, "Games");
   saveToJson("games", games);
