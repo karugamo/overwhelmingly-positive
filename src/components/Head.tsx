@@ -1,11 +1,11 @@
-import React from 'react'
-import {Helmet} from 'react-helmet'
+import React from "react";
+import { Helmet } from "react-helmet";
 
 type HeadProps = {
-  title: string
-}
+  title: string;
+};
 
-export default function Head({title}: HeadProps) {
+export default function Head({ title }: HeadProps) {
   return (
     <Helmet>
       <title>{title}</title>
@@ -47,6 +47,11 @@ export default function Head({title}: HeadProps) {
         async
         defer
       ></script>
+      <script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8043698822858640"
+        crossOrigin="anonymous"
+      ></script>
       <link
         rel="apple-touch-icon"
         sizes="180x180"
@@ -65,15 +70,6 @@ export default function Head({title}: HeadProps) {
         href="/favicon-16x16.png"
       />
       <link rel="manifest" href="/site.webmanifest" />
-      <script
-        data-ad-client="ca-pub-3133111331732634"
-        async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-      ></script>
-      <script
-        async
-        src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=685271c8-8839-4b09-8db4-0528bfa8ec69"
-      ></script>
     </Helmet>
-  )
+  );
 }

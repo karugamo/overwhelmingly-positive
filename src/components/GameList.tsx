@@ -1,14 +1,14 @@
-import React from 'react'
-import styled from 'styled-components'
-import {Game} from '../types'
-import GameThumbnail from './GameThumbnail'
+import React from "react";
+import styled from "styled-components";
+import { Game } from "../types";
+import GameThumbnail from "./GameThumbnail";
 
 type GameListProps = {
-  games: Game[]
-  onSelectGame: (game: Game) => void
-}
+  games: Game[];
+  onSelectGame: (game: Game) => void;
+};
 
-export default function GameList({games, onSelectGame}: GameListProps) {
+export default function GameList({ games, onSelectGame }: GameListProps) {
   return (
     <Container>
       {games.length === 0 && <Sorry>No games match your filters</Sorry>}
@@ -16,7 +16,7 @@ export default function GameList({games, onSelectGame}: GameListProps) {
         <GameThumbnail key={game.appId} game={game} onOpenGame={onSelectGame} />
       ))}
     </Container>
-  )
+  );
 }
 
 const Container = styled.section`
@@ -25,7 +25,7 @@ const Container = styled.section`
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-`
+`;
 
 const Sorry = styled.h1`
   color: #dcdcdc;
@@ -33,4 +33,4 @@ const Sorry = styled.h1`
   font-weight: 600;
   text-align: center;
   margin: 10px;
-`
+`;
