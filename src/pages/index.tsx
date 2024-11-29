@@ -13,7 +13,6 @@ import FilterTags, {Filter} from '../components/FilterTags'
 import GameList from '../components/GameList'
 import Button from '../components/Button'
 import {About} from '@karugamo/components'
-import BestBoardGamesLink from '../components/BestBoardGamesLink'
 
 type AppProps = {
   pageContext: {
@@ -41,7 +40,6 @@ export default function App({pageContext: {game}}: AppProps) {
       {currentGame && (
         <GameModal game={currentGame} onClose={handleModalClose} />
       )}
-      <BestBoardGamesLink />
       <About />
     </Main>
   )
